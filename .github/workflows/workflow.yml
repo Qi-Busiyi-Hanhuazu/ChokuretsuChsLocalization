@@ -1,0 +1,16 @@
+name: Build on push
+
+on:
+  push:
+    branches: 
+      - master
+    paths-ignore:
+      - '*.md'
+      - 'assets/'
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+    secrets:
+      ORIGINAL_FILES_URL: ${{ secrets.ORIGINAL_FILES_URL }}

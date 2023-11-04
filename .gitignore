@@ -1,0 +1,14 @@
+.vscode/
+maintenance/
+original_files/
+patched_files/
+temp_files/
+out/
+
+tools
+
+*.bat
+*.exe
+*.inc
+*.nds
+*.zip

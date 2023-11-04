@@ -1,0 +1,78 @@
+name: Build
+
+on:
+  workflow_call:
+    secrets:
+      ORIGINAL_FILES_URL:
+        required: true
+
+concurrency:
+  group: build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+      - uses: actions/checkout@v4
+        with:
+          repository: Xzonn/ChokuretsuTranslationUtility
+          ref: master
+          fetch-depth: 1
+          path: tools
+      - name: Get tools commit id
+        id: get-tools-commit-id
+        run: |
+          Push-Location tools/
+          Write-Output "id=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
+          Pop-Location
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - run: pip install Pillow
+      - name: Cache original files
+        id: cache-original-files
+        uses: actions/cache@v3
+        with:
+          path: original_files/
+          key: original-files-${{ secrets.ORIGINAL_FILES_URL }}
+      - name: Cache tools
+        id: cache-tools
+        uses: actions/cache@v3
+        with:
+          path: tools/HaruhiChokuretsuCLI/bin/Release/
+          key: tools-${{ steps.get-tools-commit-id.outputs.id }}
+      - name: Build patch
+        env:
+          ORIGINAL_FILES_URL: "${{ secrets.ORIGINAL_FILES_URL }}"
+          PYTHONUTF8: 1
+        run: |
+          Try
+          {
+            if (dotnet-script -h) {}
+          }
+          Catch
+          {
+            dotnet tool install -g dotnet-script
+          }
+          ./build.ps1
+      - name: Upload patch
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch
+          path: |
+            out/*
+      - name: GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "patch.zip"
+          name: "《凉宫春日的串联》汉化"
+          body: "[补丁应用工具](https://github.com/Xzonn/NitroPatcher/releases/latest/)"
+          prerelease: true
+          tag: publish
+          token: ${{ secrets.GITHUB_TOKEN }}
