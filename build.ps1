@@ -43,6 +43,11 @@ dotnet-script scripts/edit_banner.csx
 # Edit hardcoded string
 python "scripts/edit_hardcoded_string.py"
 
-# Create xdelta patches, then create patch.zip
+# Create xdelta patches
 dotnet-script scripts/create_xdelta.csx
+
+# Copy md5.txt
+Copy-Item -Path "files/md5.txt" -Destination "out/md5.txt" -Force
+
+# create patch.zip
 Compress-Archive -Path "out/*" -DestinationPath "patch.zip" -Force
