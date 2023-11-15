@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>《凉宫春日的串联》汉化招募</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+      html {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+      }
+
+      body {
+        font-family: "NotoSansSC", sans-serif;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        min-height: 100%;
+        justify-content: center;
+        font-weight: 400;
+        background-image: url("background.webp");
+        background-size: cover;
+        background-position: center center;
+      }
+
+      .poster {
+        background-color: #ffffffd0;
+        width: calc(100% - 20px);
+        max-width: 700px;
+        position: relative;
+        margin: 0 auto;
+        border-radius: 10px;
+        box-shadow: 0 0 5px 5px #ffffffd0;
+        padding: 2rem 0;
+      }
+
+      .poster>div {
+        margin: 2rem 0;
+      }
+
+      .header {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        padding: 0 1rem;
+        align-items: center;
+      }
+
+      .header-image {
+        display: block;
+        width: 10rem;
+        aspect-ratio: 4 / 3;
+        flex: 0 0 10rem;
+      }
+
+      .title {
+        position: relative;
+        flex: 1 0 0;
+      }
+
+      h1 {
+        font-size: 1.8rem;
+        color: #c02020;
+        font-weight: 700;
+      }
+
+      h1.down-1 {
+        -webkit-text-stroke: 0.108rem #ffffff;
+      }
+
+      h1.down-2 {
+        position: absolute;
+        z-index: 80;
+        width: 100%;
+        color: #ffffff;
+        -webkit-text-stroke: 0.432rem #000000;
+        user-select: none;
+      }
+
+      p {
+        line-height: 2;
+      }
+
+      .tagline {
+        font-size: 1.8rem;
+        font-family: "SmileySans", sans-serif;
+        margin: 4rem 0;
+      }
+
+      .tagline-haruhi {
+        color: #f00068;
+      }
+
+      .tagline-kyon {
+        color: #333333;
+      }
+
+      .introduction {
+        position: relative;
+      }
+
+      strong {
+        font-weight: 700;
+      }
+
+      .strong-1 strong {
+        color: #ff0000;
+      }
+
+      .strong-2 strong {
+        color: #f70000;
+      }
+
+      .strong-3 strong {
+        color: #ef0000;
+      }
+
+      .strong-4 strong {
+        color: #e70000;
+      }
+
+      .strong-5 strong {
+        color: #df0000;
+      }
+
+      .strong-6 strong {
+        color: #d70000;
+      }
+
+      .down {
+        position: absolute;
+        z-index: 90;
+        width: 100%;
+        color: #ffffff;
+        -webkit-text-stroke: 0.027rem #ffffff;
+        user-select: none;
+      }
+
+      .up {
+        position: absolute;
+        z-index: 100;
+        width: 100%;
+      }
+
+      .hide {
+        opacity: 0;
+        user-select: none;
+      }
+
+      .qq {
+        font-family: "OpenSans", sans-serif;
+      }
+
+      .kyon {
+        background-image: url("kyon.png");
+        background-position: bottom 0 right 2rem;
+        background-size: 5rem 5rem;
+        background-repeat: no-repeat;
+      }
+
+      @font-face {
+        /* Noto Sans */
+        /* Copyright 2014-2021 Adobe (http://www.adobe.com/) */
+        /* Licensed under the Open Font License */
+        /* https://fonts.google.com/noto/specimen/Noto+Sans+SC/about */
+        font-family: "NotoSansSC";
+        src: url("NotoSansSC-Medium.ttf");
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: "NotoSansSC";
+        src: url("NotoSansSC-Black.ttf");
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      @font-face {
+        /* Open Sans */
+        /* Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans) */
+        /* Licensed under the Open Font License */
+        /* https://fonts.google.com/noto/specimen/Open+Sans/about */
+        font-family: "OpenSans";
+        src: url("OpenSans-Medium.ttf");
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      @font-face {
+        /* Smiley Sans */
+        /* Copyright (c) 2022--2023, atelierAnchor <https://atelier-anchor.com> */
+        /* Licensed under the SIL Open Font License, Version 1.1 */
+        /* https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE */
+        font-family: "SmileySans";
+        src: url("SmileySans-Oblique.ttf");
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="poster">
+      <div class="header">
+        <img class="header-image" src="header.png" alt="凉宫春日的串联" />
+        <div class="title">
+          <h1 class="down-2">《凉宫春日的串联》<br>汉化招募</h1>
+          <h1 class="down down-1">《凉宫春日的串联》<br>汉化招募</h1>
+          <h1 class="up">《凉宫春日的串联》<br>汉化招募</h1>
+          <h1 class="hide">《凉宫春日的串联》<br>汉化招募</h1>
+        </div>
+      </div>
+      <div class="tagline">
+        <div class="down"></div>
+        <div class="up"></div>
+        <div class="hide">
+          <p class="tagline-haruhi">“ＳＯＳ团夏季合宿第二弹！”</p>
+          <p class="tagline-kyon">一切都是从这位春日的一句话开始的——</p>
+        </div>
+      </div>
+      <div class="introduction">
+        <div class="down"></div>
+        <div class="up"></div>
+        <div class="hide">
+          <p class="strong-6">从<strong>本所七大不可思议</strong>到<strong>北高七大不可思议</strong>，</p>
+          <p class="strong-5">寻找不可思议事件的脚步还将继续！</p>
+          <p class="strong-4">无论你是对<strong>凉宫春日系列</strong>感兴趣，</p>
+          <p class="strong-3">还是想检验一下自己的<strong>日语水平</strong>，</p>
+          <p class="strong-2">抑或是对<strong>游戏汉化</strong>感兴趣，</p>
+          <p class="strong-1">都欢迎加入我们的行列，</p>
+          <p class="strong-1">参与到<strong>《凉宫春日的串联》</strong>的汉化工作中来！</p>
+        </div>
+      </div>
+      <div class="introduction kyon">
+        <div class="down"></div>
+        <div class="up"></div>
+        <div class="hide">
+          <p class="strong-3">由于这个游戏文本量较大，大约<strong>80万字</strong>，</p>
+          <p class="strong-4">并且没有官方英文版，</p>
+          <p class="strong-5">因此需要招募大量的<strong>日翻</strong>，</p>
+          <p class="strong-6">欢迎大家<strong>参与、转发</strong>！</p>
+        </div>
+      </div>
+      <div class="introduction">
+        <div class="down"></div>
+        <div class="up"></div>
+        <div class="hide">
+          <p>七不思议汉化组QQ群：<span class="qq">一二三四五六七八九</span></p>
+        </div>
+      </div>
+    </div>
+    <script>
+      window.addEventListener("load", () => {
+        document.body.querySelectorAll(".hide").forEach((element) => {
+          element.parentElement.querySelector(".up").innerHTML = element.innerHTML;
+          element.parentElement.querySelector(".down").innerHTML = element.innerHTML;
+        });
+      });
+
+      let resize = () => {
+        let width = window.innerWidth > 720 ? 720 : window.innerWidth;
+        let fontSize = width * 0.032;
+        document.documentElement.style.fontSize = `${fontSize}px`;
+      };
+      window.addEventListener("resize", resize);
+      resize();
+    </script>
+  </body>
+
+</html>
