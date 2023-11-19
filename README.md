@@ -6,3 +6,6 @@
 
 ## 截图预览
 ![截图](assets/images/screenshot-01.png) ![截图](assets/images/screenshot-02.png) ![截图](assets/images/screenshot-03.png)
+
+## 汉化招募中！
+![宣传海报](assets/images/poster.png)
