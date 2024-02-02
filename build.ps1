@@ -51,3 +51,4 @@ Copy-Item -Path "files/md5.txt" -Destination "out/md5.txt" -Force
 
 # create patch.zip
 Compress-Archive -Path "out/*" -DestinationPath "patch.zip" -Force
+Move-Item -Path "patch.zip" -Destination "patch.xzp" -Force
