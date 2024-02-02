@@ -1,4 +1,4 @@
-$ChokuretsuCli = "tools/HaruhiChokuretsuCLI/bin/Release/net6.0/HaruhiChokuretsuCLI.exe"
+$ChokuretsuCli = "tools/HaruhiChokuretsuCLI/bin/Release/net8.0/HaruhiChokuretsuCLI.exe"
 
 # Download the original files
 if (-not(Test-Path -Path "original_files/arm9.bin" -PathType "Leaf")) {
@@ -10,7 +10,7 @@ if (-not(Test-Path -Path "original_files/arm9.bin" -PathType "Leaf")) {
 if (-not(Test-Path -Path $ChokuretsuCli -PathType "Leaf")) {
   Push-Location "tools/HaruhiChokuretsuCLI"
   dotnet restore
-  dotnet build -c "Release" -f "net6.0"
+  dotnet build -c "Release" -f "net8.0"
   Pop-Location
 }
 

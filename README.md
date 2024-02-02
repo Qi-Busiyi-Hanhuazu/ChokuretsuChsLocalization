@@ -6,7 +6,7 @@
 所用的工具基于 [Haroohie Translation Club](https://haroohie.club/)（凉宫春日游戏英文化计划）的 [开源工具](https://github.com/haroohie-club/ChokuretsuTranslationUtility)，[略有修改](https://github.com/Xzonn/ChokuretsuTranslationUtility)。
 
 ## 使用方式
-请自行获取游戏日文版 ROM，然后下载 [修正补丁](https://github.com/Xzonn/ACTMChsRevise/releases/latest) 和 [补丁应用工具](https://github.com/Xzonn/NitroPatcher/releases/latest/)，按照工具的说明进行操作。
+请自行获取游戏日文版 ROM，然后下载 [修正补丁](https://github.com/Xzonn/ChokuretsuChsLocalization/releases/latest) 和 [补丁应用工具](https://github.com/Xzonn/NitroPatcher/releases/latest/)，按照工具的说明进行操作。
 
 日文版 ROM 校验码（[No-Intro](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=3810)）：
 
