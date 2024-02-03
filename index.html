@@ -29,6 +29,7 @@
         background-image: url("background.webp");
         background-size: cover;
         background-position: center center;
+        background-attachment: fixed;
       }
 
       .poster {
@@ -43,7 +44,7 @@
       }
 
       .poster>div {
-        margin: 2rem 0;
+        margin: 1.8rem 0;
       }
 
       .header {
@@ -166,6 +167,21 @@
         background-repeat: no-repeat;
       }
 
+      a {
+        color: #007fff;
+        text-decoration: none;
+        transition: color 0.2s ease-out;
+      }
+
+      a:hover {
+        color: #004d99;
+      }
+
+      .giscus {
+        padding: 0 1.5rem;
+        box-sizing: border-box;
+      }
+
       @font-face {
         /* Noto Sans */
         /* Copyright 2014-2021 Adobe (http://www.adobe.com/) */
@@ -255,14 +271,16 @@
         <div class="up"></div>
         <div class="hide">
           <p>七不思议汉化组QQ群：<span class="qq">一二三四五六七八九</span></p>
+          <p>汉化预览版（v0.1.0）：<a href="https://github.com/Xzonn/ChokuretsuChsLocalization/releases/v0.1.0">GitHub</a>·<a href="https://pan.baidu.com/s/1igXmGalPqmLTywsJV7BMbA?pwd=ckrt">百度网盘</a>
         </div>
       </div>
+      <script src="https://giscus.xzonn.top/client.js" data-repo="Xzonn/ChokuretsuChsLocalization" data-repo-id="R_kgDOKpP4LA" data-mapping="number" data-term="2" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async></script>
     </div>
     <script>
       window.addEventListener("load", () => {
         document.body.querySelectorAll(".hide").forEach((element) => {
           element.parentElement.querySelector(".up").innerHTML = element.innerHTML;
-          element.parentElement.querySelector(".down").innerHTML = element.innerHTML;
+          element.parentElement.querySelector(".down").innerHTML = element.innerHTML.replace(/<a href="[^"]+">|<\/a>/g, "");
         });
       });
 
