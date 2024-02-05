@@ -26,7 +26,7 @@
         min-height: 100%;
         justify-content: center;
         font-weight: 400;
-        background-image: url("background.webp");
+        background-image: url("assets/images/background.webp");
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
@@ -161,7 +161,7 @@
       }
 
       .kyon {
-        background-image: url("kyon.png");
+        background-image: url("assets/images/kyon.png");
         background-position: bottom 0 right 2rem;
         background-size: 5rem 5rem;
         background-repeat: no-repeat;
@@ -177,6 +177,15 @@
         color: #004d99;
       }
 
+      .screenshots {
+          display: flex;
+          justify-content: space-evenly;
+      }
+
+      .screenshots img {
+          width: 8rem;
+      }
+
       .giscus {
         padding: 0 1.5rem;
         box-sizing: border-box;
@@ -188,14 +197,14 @@
         /* Licensed under the Open Font License */
         /* https://fonts.google.com/noto/specimen/Noto+Sans+SC/about */
         font-family: "NotoSansSC";
-        src: url("NotoSansSC-Medium.ttf");
+        src: url("assets/fonts/NotoSansSC-Medium.ttf");
         font-weight: 400;
         font-style: normal;
       }
 
       @font-face {
         font-family: "NotoSansSC";
-        src: url("NotoSansSC-Black.ttf");
+        src: url("assets/fonts/NotoSansSC-Black.ttf");
         font-weight: 700;
         font-style: normal;
       }
@@ -206,7 +215,7 @@
         /* Licensed under the Open Font License */
         /* https://fonts.google.com/noto/specimen/Open+Sans/about */
         font-family: "OpenSans";
-        src: url("OpenSans-Medium.ttf");
+        src: url("assets/fonts/OpenSans-Medium.ttf");
         font-weight: 400;
         font-style: normal;
       }
@@ -217,7 +226,7 @@
         /* Licensed under the SIL Open Font License, Version 1.1 */
         /* https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE */
         font-family: "SmileySans";
-        src: url("SmileySans-Oblique.ttf");
+        src: url("assets/fonts/SmileySans-Oblique.ttf");
         font-weight: 400;
         font-style: normal;
       }
@@ -227,7 +236,7 @@
   <body>
     <div class="poster">
       <div class="header">
-        <img class="header-image" src="header.png" alt="凉宫春日的串联" />
+        <img class="header-image" src="assets/images/header.png" alt="凉宫春日的串联" />
         <div class="title">
           <h1 class="down-2">《凉宫春日的串联》<br>汉化招募</h1>
           <h1 class="down down-1">《凉宫春日的串联》<br>汉化招募</h1>
@@ -273,6 +282,11 @@
           <p>七不思议汉化组QQ群：<span class="qq">一二三四五六七八九</span></p>
           <p>汉化预览版（v0.1.0）：<a href="https://github.com/Xzonn/ChokuretsuChsLocalization/releases/v0.1.0">GitHub</a>·<a href="https://pan.baidu.com/s/1igXmGalPqmLTywsJV7BMbA?pwd=ckrt">百度网盘</a>
         </div>
+      </div>
+      <div class="screenshots">
+        <figure><img src="assets/images/screenshot-01.png" /></figure>
+        <figure><img src="assets/images/screenshot-02.png" /></figure>
+        <figure><img src="assets/images/screenshot-03.png" /></figure>
       </div>
       <script src="https://giscus.xzonn.top/client.js" data-repo="Xzonn/ChokuretsuChsLocalization" data-repo-id="R_kgDOKpP4LA" data-mapping="number" data-term="2" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async></script>
     </div>
