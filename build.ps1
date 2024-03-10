@@ -34,21 +34,19 @@ python "scripts/create_font.py"
 & "$ChokuretsuCli" json-import -i "original_files/data/dat.bin" -f "texts/zh_Hans/" -c "temp_files/char_map.json" -o "temp_files/dat.bin" -d
 & "$ChokuretsuCli" replace -i "temp_files/dat.bin" -o "temp_files/dat.bin" -r "temp_files/071.bin"
 
-# Import images
-& "$ChokuretsuCli" replace -i "temp_files/grp.bin" -o "temp_files/grp.bin" -r "files/images/"
-
-# Edit banner
-dotnet-script scripts/edit_banner.csx
-
 # Edit hardcoded string
 python "scripts/edit_hardcoded_string.py"
+
+# Import images
+& "$ChokuretsuCli" replace -i "temp_files/grp.bin" -o "temp_files/grp.bin" -r "files/images/"
 
 # Create xdelta patches
 dotnet-script scripts/create_xdelta.csx
 
-# Copy md5.txt
-Copy-Item -Path "files/md5.txt" -Destination "out/md5.txt" -Force
+# Edit banner
+dotnet-script scripts/edit_banner.csx
 
-# create patch.zip
-Compress-Archive -Path "out/*" -DestinationPath "patch.zip" -Force
-Move-Item -Path "patch.zip" -Destination "patch.xzp" -Force
+# Create patch.zip
+Copy-Item -Path "files/md5.txt" -Destination "out/patch/md5.txt" -Force
+Compress-Archive -Path "out/patch/*" -DestinationPath "out/patch.zip" -Force
+Move-Item -Path "out/patch.zip" -Destination "out/patch.xzp" -Force

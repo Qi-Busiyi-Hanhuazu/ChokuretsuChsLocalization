@@ -34,19 +34,20 @@ jobs:
           Push-Location tools/
           Write-Output "id=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
           Pop-Location
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.12"
       - run: pip install Pillow
+      - run: echo "${{ secrets.ORIGINAL_FILES_URL }}" > original_files_url.txt
       - name: Cache original files
         id: cache-original-files
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: original_files/
-          key: original-files-${{ secrets.ORIGINAL_FILES_URL }}
+          key: original-files-${{ hashFiles('original_files_url.txt') }}
       - name: Cache tools
         id: cache-tools
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: tools/HaruhiChokuretsuCLI/bin/Release/
           key: tools-${{ steps.get-tools-commit-id.outputs.id }}
@@ -65,19 +66,21 @@ jobs:
           }
           ./build.ps1
       - name: Upload patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch
           path: |
-            out/*
+            out/patch/*
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "patch.xzp"
+          artifacts: "out/patch.xzp"
           name: "${{ steps.commit.outputs.commit_message }}"
           body: |
-            本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**[原始 ROM](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=3810) 的 md5 校验码为：`6536132efddd337aa5069e627591fee5`。
+            本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**
+            
+            [原始 ROM](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=3810) 的 md5 校验码为：`6536132efddd337aa5069e627591fee5`。
             
             请访问 [此处](https://github.com/Xzonn/NitroPatcher/releases/latest/) 获取补丁应用工具。
           prerelease: true
