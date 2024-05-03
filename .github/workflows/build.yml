@@ -1,13 +1,24 @@
 name: Build
 
 on:
-  workflow_call:
-    secrets:
-      ORIGINAL_FILES_URL:
-        required: true
+  push:
+    branches: 
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+      - 'assets/'
+  pull_request:
+    branches:
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+      - 'images/'
+  workflow_dispatch:
 
 concurrency:
-  group: build
+  group: build-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -15,18 +26,14 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: master
-          fetch-depth: 1
       - name: Commit Information
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
       - uses: actions/checkout@v4
         with:
-          repository: Xzonn/ChokuretsuTranslationUtility
+          repository: Qi-Busiyi-Hanhuazu/ChokuretsuTranslationUtility
           ref: master
-          fetch-depth: 1
           path: tools
       - name: Get tools commit id
         id: get-tools-commit-id
@@ -66,12 +73,14 @@ jobs:
           }
           ./build.ps1
       - name: Upload patch
+        if: ${{ github.event_name != 'push' || github.ref != 'refs/heads/master' }}
         uses: actions/upload-artifact@v4
         with:
           name: patch
           path: |
             out/patch/*
       - name: GitHub Release
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true

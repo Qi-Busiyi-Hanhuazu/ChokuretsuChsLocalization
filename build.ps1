@@ -6,7 +6,7 @@ if (-not(Test-Path -Path "original_files/arm9.bin" -PathType "Leaf")) {
   Expand-Archive -Path "original_files.zip" -DestinationPath "original_files/"
 }
 
-# Build and run the CLI
+# Build the CLI
 if (-not(Test-Path -Path $ChokuretsuCli -PathType "Leaf")) {
   Push-Location "tools/HaruhiChokuretsuCLI"
   dotnet restore
@@ -14,9 +14,13 @@ if (-not(Test-Path -Path $ChokuretsuCli -PathType "Leaf")) {
   Pop-Location
 }
 
-New-Item "temp_files/" -Type "Directory" -Force
+if (Test-Path -Path "temp_files/" -PathType "Container") {
+  Remove-Item -Path "temp_files/" -Recurse -Force
+  New-Item "temp_files/" -Type "Directory" -Force
+}
 if (Test-Path -Path "out/" -PathType "Container") {
   Remove-Item -Path "out/" -Recurse -Force
+  New-Item "temp_files/" -Type "Directory" -Force
 }
 
 # Patch arm9.bin for line height and font size
@@ -40,11 +44,11 @@ python "scripts/edit_hardcoded_string.py"
 # Import images
 & "$ChokuretsuCli" replace -i "temp_files/grp.bin" -o "temp_files/grp.bin" -r "files/images/"
 
-# Create xdelta patches
-dotnet-script scripts/create_xdelta.csx
-
 # Edit banner
 dotnet-script scripts/edit_banner.csx
+
+# Create xdelta patches
+dotnet-script scripts/create_xdelta.csx
 
 # Create patch.zip
 Copy-Item -Path "files/md5.txt" -Destination "out/patch/md5.txt" -Force
