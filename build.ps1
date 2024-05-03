@@ -16,12 +16,12 @@ if (-not(Test-Path -Path $ChokuretsuCli -PathType "Leaf")) {
 
 if (Test-Path -Path "temp_files/" -PathType "Container") {
   Remove-Item -Path "temp_files/" -Recurse -Force
-  New-Item "temp_files/" -Type "Directory" -Force
 }
+New-Item "temp_files/" -Type "Directory" -Force
 if (Test-Path -Path "out/" -PathType "Container") {
   Remove-Item -Path "out/" -Recurse -Force
-  New-Item "temp_files/" -Type "Directory" -Force
 }
+New-Item "out/" -Type "Directory" -Force
 
 # Patch arm9.bin for line height and font size
 dotnet-script scripts/patch_arm9.csx
