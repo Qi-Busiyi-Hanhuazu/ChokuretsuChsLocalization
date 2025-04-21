@@ -1,0 +1,27 @@
+[
+  {
+    "key": "evt_CHS_NAG_14S_0000",
+    "original": "",
+    "translation": "Presenting the fourteenth puzzle."
+  },
+  {
+    "key": "evt_CHS_NAG_14S_0001",
+    "original": "",
+    "translation": "Place the black king where it will be\ncheckmated."
+  },
+  {
+    "key": "evt_CHS_NAG_14S_0002",
+    "original": "",
+    "translation": "Select a square to place the black king in\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_NAG_14S_0003",
+    "original": "",
+    "translation": "Correct.\nPreparing the next one."
+  },
+  {
+    "key": "evt_CHS_NAG_14S_0004",
+    "original": "",
+    "translation": "Incorrect.\nAccepting retries."
+  }
+]

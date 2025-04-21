@@ -1,0 +1,162 @@
+[
+  {
+    "key": "evt_CHS_KOI_04S_0000",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0001",
+    "original": "",
+    "translation": "Let's now explain the special rule of castling."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0002",
+    "original": "",
+    "translation": "Castling uses the king and the rook."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0003",
+    "original": "",
+    "translation": "It's a special movement rule."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0004",
+    "original": "",
+    "translation": "In order to castle, a few conditions must\nhave been met."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0005",
+    "original": "",
+    "translation": "1. The king and the rook must not have moved\nat all."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0006",
+    "original": "",
+    "translation": "Neither the king nor the rook can have moved\nsince the start of the game."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0007",
+    "original": "",
+    "translation": "As long as one of the rooks has not been\nmoved, it can be used for castling."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0008",
+    "original": "",
+    "translation": "2. You must not be in check."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0009",
+    "original": "",
+    "translation": "The king must not be in check."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0010",
+    "original": "",
+    "translation": "In other words, this cannot be used as a\nquick escape from check."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0011",
+    "original": "",
+    "translation": "3. The king's movement range must not be\nunder attack by the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0012",
+    "original": "",
+    "translation": "When castling, the king's movement range\nmust not intersect…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0013",
+    "original": "",
+    "translation": "…with the enemy piece's attack range."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0014",
+    "original": "",
+    "translation": "4. There must not be any pieces between the\nking and the rook."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0015",
+    "original": "",
+    "translation": "There must not be any pieces getting in the\nway between the king and rook…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0016",
+    "original": "",
+    "translation": "…which will be used for castling."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0017",
+    "original": "",
+    "translation": "If those four conditions are met, it is possible\nto castle."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0018",
+    "original": "",
+    "translation": "Castling is a special rule which makes the\nking, which can usually only move one space…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0019",
+    "original": "",
+    "translation": "…move two spaces, and at the same time,\ncauses the rook to move to its side."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0020",
+    "original": "",
+    "translation": "It's a special movement rule."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0021",
+    "original": "",
+    "translation": "Let's put it into practice.\nTake a look at the bottom screen."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0022",
+    "original": "",
+    "translation": "This is castling. It's the only move where you\ncan move two pieces at once."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0023",
+    "original": "",
+    "translation": "You can also castle on the other side."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0024",
+    "original": "",
+    "translation": "The distance the rook moves when castling on\nthe right is slightly different."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0025",
+    "original": "",
+    "translation": "You can remember it as…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0026",
+    "original": "",
+    "translation": "…the king moves two moves, and the rook\nmoves to its side."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0027",
+    "original": "",
+    "translation": "We already explained it when covering the\ncastling conditions…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0028",
+    "original": "",
+    "translation": "…but if the king's movement range is under\nthe enemy pieces' attack…"
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0029",
+    "original": "",
+    "translation": "…you cannot castle."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0030",
+    "original": "",
+    "translation": "Either defend with your ally pieces, or\neliminate the attacking piece before castling."
+  },
+  {
+    "key": "evt_CHS_KOI_04S_0031",
+    "original": "",
+    "translation": "That concludes the explanation on castling."
+  }
+]

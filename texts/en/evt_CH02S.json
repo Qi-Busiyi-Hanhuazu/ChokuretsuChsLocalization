@@ -1,0 +1,457 @@
+[
+  {
+    "key": "evt_CH02S_0000",
+    "original": "",
+    "translation": "Say, Brigade Chief."
+  },
+  {
+    "key": "evt_CH02S_0001",
+    "original": "",
+    "translation": "Huh, it's pretty rare for you to refer to me\nthat way."
+  },
+  {
+    "key": "evt_CH02S_0002",
+    "original": "",
+    "translation": "It's only because the mood is right, and it's\nfitting for what I want to talk about."
+  },
+  {
+    "key": "evt_CH02S_0003",
+    "original": "",
+    "translation": "Well, it's just… There's something I want to\nask you, as the brigade chief."
+  },
+  {
+    "key": "evt_CH02S_0004",
+    "original": "",
+    "translation": "Can't we do this later? We're in the middle of\nsomething here."
+  },
+  {
+    "key": "evt_CH02S_0005",
+    "original": "",
+    "translation": "Come on, don't say that."
+  },
+  {
+    "key": "evt_CH02S_0006",
+    "original": "",
+    "translation": "What I want to ask about is whether anyone\nwill ever inherit the position of brigade chief."
+  },
+  {
+    "key": "evt_CH02S_0007",
+    "original": "",
+    "translation": "There's obviously no way that's ever going to\nhappen."
+  },
+  {
+    "key": "evt_CH02S_0008",
+    "original": "",
+    "translation": "There's only one SOS Brigade Chief! It's simply\nimpossible for it to be anyone but me."
+  },
+  {
+    "key": "evt_CH02S_0009",
+    "original": "",
+    "translation": "That may be true, but…"
+  },
+  {
+    "key": "evt_CH02S_0010",
+    "original": "",
+    "translation": "We submitted this club to the school as a\nstudent association or whatever."
+  },
+  {
+    "key": "evt_CH02S_0011",
+    "original": "",
+    "translation": "Well, not that we were accepted, anyway."
+  },
+  {
+    "key": "evt_CH02S_0012",
+    "original": "",
+    "translation": "And so next year, we might have some new\nstudents join, you know?"
+  },
+  {
+    "key": "evt_CH02S_0013",
+    "original": "",
+    "translation": "Not that I believe in the possibility even one\nbit."
+  },
+  {
+    "key": "evt_CH02S_0014",
+    "original": "",
+    "translation": "What's more—eventually we'll have to\ngraduate and leave it all behind."
+  },
+  {
+    "key": "evt_CH02S_0015",
+    "original": "",
+    "translation": "When that time comes, what do you plan to do\nabout the members who get left behind?"
+  },
+  {
+    "key": "evt_CH02S_0016",
+    "original": "",
+    "translation": "Right… Well by that point, the SOS Brigade will\nhave expanded into a worldwide organization."
+  },
+  {
+    "key": "evt_CH02S_0017",
+    "original": "",
+    "translation": "Huh…?"
+  },
+  {
+    "key": "evt_CH02S_0018",
+    "original": "",
+    "translation": "They could always inherit this place as the\noriginal birthplace of the SOS Brigade."
+  },
+  {
+    "key": "evt_CH02S_0019",
+    "original": "",
+    "translation": "But when the time comes…"
+  },
+  {
+    "key": "evt_CH02S_0020",
+    "original": "",
+    "translation": "…we definitely might need to choose a\nsuccessor."
+  },
+  {
+    "key": "evt_CH02S_0021",
+    "original": "",
+    "translation": "Of course, it would only be proper for the\ninterviews to be conducted by yours truly."
+  },
+  {
+    "key": "evt_CH02S_0022",
+    "original": "",
+    "translation": "We can't afford to accept anyone short of\nthe perfect candidate, you know?"
+  },
+  {
+    "key": "evt_CH02S_0023",
+    "original": "",
+    "translation": "But then again, I'm not sure if someone who\ncan live up to my standards even exists."
+  },
+  {
+    "key": "evt_CH02S_0024",
+    "original": "",
+    "translation": "Ah, is that so?"
+  },
+  {
+    "key": "evt_CH02S_0025",
+    "original": "",
+    "translation": "I wonder if she'll still be dragging me around,\nworking me to death even then."
+  },
+  {
+    "key": "evt_CH02S_0026",
+    "original": "",
+    "translation": "I really don't want to dwell on that thought…"
+  },
+  {
+    "key": "evt_CH02S_0027",
+    "original": "",
+    "translation": "S-Suzumiya!"
+  },
+  {
+    "key": "evt_CH02S_0028",
+    "original": "",
+    "translation": "Hm? What is it, Mikuru?"
+  },
+  {
+    "key": "evt_CH02S_0029",
+    "original": "",
+    "translation": "Umm, the, umm…"
+  },
+  {
+    "key": "evt_CH02S_0030",
+    "original": "",
+    "translation": "Why did you suddenly call out to me?"
+  },
+  {
+    "key": "evt_CH02S_0031",
+    "original": "",
+    "translation": "U-uhh…"
+  },
+  {
+    "key": "evt_CH02S_0032",
+    "original": "",
+    "translation": "Just spit it out! If there's something you\nwant to say, then cut to the chase already!"
+  },
+  {
+    "key": "evt_CH02S_0033",
+    "original": "",
+    "translation": "I-it's just…"
+  },
+  {
+    "key": "evt_CH02S_0034",
+    "original": "",
+    "translation": "Wh-what are the qualifications to become\nbrigade chief?!"
+  },
+  {
+    "key": "evt_CH02S_0035",
+    "original": "",
+    "translation": "…Huh?"
+  },
+  {
+    "key": "evt_CH02S_0036",
+    "original": "",
+    "translation": "Wh-what? Is that maybe a weird thing to\nask?!"
+  },
+  {
+    "key": "evt_CH02S_0037",
+    "original": "",
+    "translation": "Hmmm… So you're looking to become brigade\nchief?"
+  },
+  {
+    "key": "evt_CH02S_0038",
+    "original": "",
+    "translation": "That's a surprisingly bold thing for you to\nsay, Mikuru."
+  },
+  {
+    "key": "evt_CH02S_0039",
+    "original": "",
+    "translation": "Ehh, no, i-it's not like that—"
+  },
+  {
+    "key": "evt_CH02S_0040",
+    "original": "",
+    "translation": "It's fine, I'll tell you."
+  },
+  {
+    "key": "evt_CH02S_0041",
+    "original": "",
+    "translation": "You will…?"
+  },
+  {
+    "key": "evt_CH02S_0042",
+    "original": "",
+    "translation": "In order to become the SOS Brigade's\nillustrious chief, you must…"
+  },
+  {
+    "key": "evt_CH02S_0043",
+    "original": "",
+    "translation": "You must…?"
+  },
+  {
+    "key": "evt_CH02S_0044",
+    "original": "",
+    "translation": "First, you must defeat me!"
+  },
+  {
+    "key": "evt_CH02S_0045",
+    "original": "",
+    "translation": "Eek?! Defeat you?!"
+  },
+  {
+    "key": "evt_CH02S_0046",
+    "original": "",
+    "translation": "Of course!"
+  },
+  {
+    "key": "evt_CH02S_0047",
+    "original": "",
+    "translation": "In ancient Rome, becoming the new emperor\nmeant overthrowing the previous one!"
+  },
+  {
+    "key": "evt_CH02S_0048",
+    "original": "",
+    "translation": "Ehhhh?!"
+  },
+  {
+    "key": "evt_CH02S_0049",
+    "original": "",
+    "translation": "The SOS Brigade works the same way!"
+  },
+  {
+    "key": "evt_CH02S_0050",
+    "original": "",
+    "translation": "Only those whose strength I've tested myself\nare worthy of becoming our next brigade chief."
+  },
+  {
+    "key": "evt_CH02S_0051",
+    "original": "",
+    "translation": "With that said—I'll accept your challenge\nanytime, Mikuru."
+  },
+  {
+    "key": "evt_CH02S_0052",
+    "original": "",
+    "translation": "I-I don't particularly wan—"
+  },
+  {
+    "key": "evt_CH02S_0053",
+    "original": "",
+    "translation": "Oh yeah! Call Koizumi and Yuki over and we'll\nhave a tournament!"
+  },
+  {
+    "key": "evt_CH02S_0054",
+    "original": "",
+    "translation": "Nah, I'm just messing with you."
+  },
+  {
+    "key": "evt_CH02S_0055",
+    "original": "",
+    "translation": "The status of SOS Brigade Chief—it's a\nunique and irreplaceable way of life."
+  },
+  {
+    "key": "evt_CH02S_0056",
+    "original": "",
+    "translation": "Of course. I understand what you mean."
+  },
+  {
+    "key": "evt_CH02S_0057",
+    "original": "",
+    "translation": "What is an SOS Brigade Chief?"
+  },
+  {
+    "key": "evt_CH02S_0058",
+    "original": "",
+    "translation": "That's a strange thing for you to ask, Yuki."
+  },
+  {
+    "key": "evt_CH02S_0059",
+    "original": "",
+    "translation": "The nature of its being is of great interest."
+  },
+  {
+    "key": "evt_CH02S_0060",
+    "original": "",
+    "translation": "Hmm, right. Well, if I were to sum it up…"
+  },
+  {
+    "key": "evt_CH02S_0061",
+    "original": "",
+    "translation": "\nIt's me, Haruhi Suzumiya!"
+  },
+  {
+    "key": "evt_CH02S_0062",
+    "original": "",
+    "translation": "The objective of the SOS Brigade is to liven\nthings up in the world."
+  },
+  {
+    "key": "evt_CH02S_0063",
+    "original": "",
+    "translation": "Why you ask? Because I want to have fun, of\ncourse."
+  },
+  {
+    "key": "evt_CH02S_0064",
+    "original": "",
+    "translation": "Our goal is to gather all the mysteries of the\nworld and bring them to me one after another!"
+  },
+  {
+    "key": "evt_CH02S_0065",
+    "original": "",
+    "translation": "Personally, I think that would make things\nway, way more exciting for everyone."
+  },
+  {
+    "key": "evt_CH02S_0066",
+    "original": "",
+    "translation": "You get me?"
+  },
+  {
+    "key": "evt_CH02S_0067",
+    "original": "",
+    "translation": "I understand the objective."
+  },
+  {
+    "key": "evt_CH02S_0068",
+    "original": "",
+    "translation": "Alright, great. So do your best as a brigade\nmember, okay Yuki?"
+  },
+  {
+    "key": "evt_CH02S_0069",
+    "original": "",
+    "translation": "Understood."
+  },
+  {
+    "key": "evt_CH02S_0070",
+    "original": "",
+    "translation": "I've wanted to ask something for a while."
+  },
+  {
+    "key": "evt_CH02S_0071",
+    "original": "",
+    "translation": "What is it, Koizumi?"
+  },
+  {
+    "key": "evt_CH02S_0072",
+    "original": "",
+    "translation": "Your prospects—or rather—your long-term\nplan for the position of SOS Brigade Chief."
+  },
+  {
+    "key": "evt_CH02S_0073",
+    "original": "",
+    "translation": "Hmm, I see. Certainly you would be curious, as\na brigade member yourself."
+  },
+  {
+    "key": "evt_CH02S_0074",
+    "original": "",
+    "translation": "Yes. Ideally, I'd like to continue my activity\nwithin the SOS Brigade for as long as possible."
+  },
+  {
+    "key": "evt_CH02S_0075",
+    "original": "",
+    "translation": "That's a great attitude to have."
+  },
+  {
+    "key": "evt_CH02S_0076",
+    "original": "",
+    "translation": "If I had to sum it up in just one word…\nMaybe globalization."
+  },
+  {
+    "key": "evt_CH02S_0077",
+    "original": "",
+    "translation": "Globalization… is it?"
+  },
+  {
+    "key": "evt_CH02S_0078",
+    "original": "",
+    "translation": "Yep. Right now, we're still only occupying North\nHigh along with the surrounding area."
+  },
+  {
+    "key": "evt_CH02S_0079",
+    "original": "",
+    "translation": "I'd like to expand our territory bit by bit. We'll\nfirst spread through all of mainland Japan."
+  },
+  {
+    "key": "evt_CH02S_0080",
+    "original": "",
+    "translation": "From that point, I plan to continue spreading\nour activities all around the world."
+  },
+  {
+    "key": "evt_CH02S_0081",
+    "original": "",
+    "translation": "Worldwide expansion… As expected of Miss\nSuzumiya—the greatest visionary of us all!"
+  },
+  {
+    "key": "evt_CH02S_0082",
+    "original": "",
+    "translation": "At the end of the day, simply staying active\ndoesn't mean much."
+  },
+  {
+    "key": "evt_CH02S_0083",
+    "original": "",
+    "translation": "The crucial part is that we're able to verify\nthe hidden mysteries of the world."
+  },
+  {
+    "key": "evt_CH02S_0084",
+    "original": "",
+    "translation": "I—the SOS Brigade Chief—will confirm these\nsecrets with my own eyes."
+  },
+  {
+    "key": "evt_CH02S_0085",
+    "original": "",
+    "translation": "If we can do that much, the world will be way\nmore fun and interesting—I'm sure of it!"
+  },
+  {
+    "key": "evt_CH02S_0086",
+    "original": "",
+    "translation": "I didn't realize you had such magnificent\nplans."
+  },
+  {
+    "key": "evt_CH02S_0087",
+    "original": "",
+    "translation": "With that being said, Koizumi…"
+  },
+  {
+    "key": "evt_CH02S_0088",
+    "original": "",
+    "translation": "I hope you'll continue your outstanding\nservice from here on out!"
+  },
+  {
+    "key": "evt_CH02S_0089",
+    "original": "",
+    "translation": "Indeed. I'm always prepared to give my all."
+  },
+  {
+    "key": "evt_CH02S_0090",
+    "original": "",
+    "translation": "Good answer! That's exactly why you were\nchosen as an SOS Brigade member, after all."
+  }
+]

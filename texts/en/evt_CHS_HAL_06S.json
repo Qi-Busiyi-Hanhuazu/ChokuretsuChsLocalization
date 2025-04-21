@@ -1,0 +1,32 @@
+[
+  {
+    "key": "evt_CHS_HAL_06S_0000",
+    "original": "",
+    "translation": "Let's switch it up a little!"
+  },
+  {
+    "key": "evt_CHS_HAL_06S_0001",
+    "original": "",
+    "translation": "Place this black \"king” where it'll be\n\"checkmated.”"
+  },
+  {
+    "key": "evt_CHS_HAL_06S_0002",
+    "original": "",
+    "translation": "Select a square to place the black king in\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_HAL_06S_0003",
+    "original": "",
+    "translation": "That's correct! Well, with a puzzle this easy\nit's not a surprise at all!"
+  },
+  {
+    "key": "evt_CHS_HAL_06S_0004",
+    "original": "",
+    "translation": "Geez, that's obviously not how you do it!"
+  },
+  {
+    "key": "evt_CHS_HAL_06S_0005",
+    "original": "",
+    "translation": "Maybe you should ask Koizumi to teach you\none more time?"
+  }
+]

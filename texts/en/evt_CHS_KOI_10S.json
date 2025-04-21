@@ -1,0 +1,27 @@
+[
+  {
+    "key": "evt_CHS_KOI_10S_0000",
+    "original": "",
+    "translation": "Let's begin."
+  },
+  {
+    "key": "evt_CHS_KOI_10S_0001",
+    "original": "",
+    "translation": "I've set a time limit this time.\nGive it your calm consideration nonetheless."
+  },
+  {
+    "key": "evt_CHS_KOI_10S_0002",
+    "original": "",
+    "translation": "Checkmate your opponent in two moves within\nthe time limit."
+  },
+  {
+    "key": "evt_CHS_KOI_10S_0003",
+    "original": "",
+    "translation": "That's correct. As expected of you."
+  },
+  {
+    "key": "evt_CHS_KOI_10S_0004",
+    "original": "",
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+  }
+]

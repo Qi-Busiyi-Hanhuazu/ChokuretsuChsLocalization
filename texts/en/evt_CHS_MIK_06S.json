@@ -1,0 +1,147 @@
+[
+  {
+    "key": "evt_CHS_MIK_06S_0001",
+    "original": "",
+    "translation": "Shall we get started then?"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0002",
+    "original": "",
+    "translation": "We'll now explain a discovered attack."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0003",
+    "original": "",
+    "translation": "A discovered attack is a technique where one\npiece is moved…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0004",
+    "original": "",
+    "translation": "…in order to attack a valuable piece with a\npiece hidden behind."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0005",
+    "original": "",
+    "translation": "If this is done to aim for the king…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0006",
+    "original": "",
+    "translation": "…it's called a discovered check."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0007",
+    "original": "",
+    "translation": "It's hard to explain through words, so let's\ntake a look on the bottom screen."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0008",
+    "original": "",
+    "translation": "Can you see how the white rook is in a\nposition to put the king in check…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0009",
+    "original": "",
+    "translation": "…through the bishop?\nIf we now move the bishop…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0010",
+    "original": "",
+    "translation": "…they are automatically put into check."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0011",
+    "original": "",
+    "translation": "The black knight was always protected by\nthe pawn…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0012",
+    "original": "",
+    "translation": "…but since the king is in check, it cannot\ncapture the bishop in return."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0013",
+    "original": "",
+    "translation": "While the king is getting out of check, the\nbishop can take…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0014",
+    "original": "",
+    "translation": "…another pawn."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0015",
+    "original": "",
+    "translation": "You can also use a discovered check to put\nthe king in check with two pieces…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0016",
+    "original": "",
+    "translation": "…at the same time, which is derived from the\ndouble check technique."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0017",
+    "original": "",
+    "translation": "Here's a slightly different situation."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0018",
+    "original": "",
+    "translation": "By putting the king in check with the bishop…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0019",
+    "original": "",
+    "translation": "…both the bishop and the rook are putting\nthe king in check simultaneously."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0020",
+    "original": "",
+    "translation": "This is called a double check."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0021",
+    "original": "",
+    "translation": "In a double check, the opponent's king has no\nchoice…"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0022",
+    "original": "",
+    "translation": "…but to flee."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0023",
+    "original": "",
+    "translation": "This is because you cannot capture two\npieces at the same time."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0024",
+    "original": "",
+    "translation": "Let's have a go at a discovered attack\npuzzle."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0025",
+    "original": "",
+    "translation": "Capture the queen in three moves.\n(Make sure you gain advantage.)"
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0026",
+    "original": "",
+    "translation": "That's correct, Kyon."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0027",
+    "original": "",
+    "translation": "That's a shame, it looks like you messed up.\nTry having another go."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0028",
+    "original": "",
+    "translation": "It looks like you didn't manage to gain\nadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_06S_0029",
+    "original": "",
+    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+  }
+]

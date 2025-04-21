@@ -1,0 +1,62 @@
+[
+  {
+    "key": "evt_TR06S_0000",
+    "original": "",
+    "translation": "[#P04]以上ç解決З—ЯЙュ—Яリкルх\n終了ÖÿÙ"
+  },
+  {
+    "key": "evt_TR06S_0001",
+    "original": "",
+    "translation": "[#P04]本編î解決З—Яë向Ðæ,以降î\n探索З—Я中î行動ùîШンЯх"
+  },
+  {
+    "key": "evt_TR06S_0002",
+    "original": "",
+    "translation": "[#P04]É伝ÇÖÿÙ"
+  },
+  {
+    "key": "evt_TR06S_0003",
+    "original": "",
+    "translation": "[#P041]:\"ЬルШメ—Х—”ëäÃæ"
+  },
+  {
+    "key": "evt_TR06S_0008",
+    "original": "",
+    "translation": "[#P04]探索З—Я中î行動ç\"ЬルШ\nメ—Х—”х増加ÔÛæÉÎè"
+  },
+  {
+    "key": "evt_TR06S_0009",
+    "original": "",
+    "translation": "[#P04]解決З—Яî基本制限時間ë\nボ—СБË追加ÔеÿÙ"
+  },
+  {
+    "key": "evt_TR06S_0010",
+    "original": "",
+    "translation": "[#P04]\"ЬルШメ—Х—”ï新;七不思議\nî怪奇現象ë対Ùд"
+  },
+  {
+    "key": "evt_TR06S_0011",
+    "original": "",
+    "translation": "[#P04]\"涼宮ЬルШî集中度”хéеàÐ\n拡散ÔÛßÊх表ÖæÃÿÙ。"
+  },
+  {
+    "key": "evt_TR06S_0012",
+    "original": "",
+    "translation": "[#P04]メ—Х—Ë減少Ùдüé怪奇現象\në対Ùд興味Ë高Ã状態х表Ö"
+  },
+  {
+    "key": "evt_TR06S_0013",
+    "original": "",
+    "translation": "[#P04]目的地ë早Î移動ÖаÅèÖÿÙ\n(制限時間ボ—СБË減少ÖÿÙ)"
+  },
+  {
+    "key": "evt_TR06S_0014",
+    "original": "",
+    "translation": "[#P04]メ—Х—Ë増加Ùдè,他î情報ë\n興味х奪геæÃд状態х表Ö"
+  },
+  {
+    "key": "evt_TR06S_0015",
+    "original": "",
+    "translation": "[#P04]寄ц道ÖŸÙÎêцÿÙ\n(制限時間ボ—СБË増加ÖÿÙ)"
+  }
+]

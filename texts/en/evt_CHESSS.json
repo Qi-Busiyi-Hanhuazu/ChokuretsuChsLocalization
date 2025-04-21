@@ -1,0 +1,402 @@
+[
+  {
+    "key": "evt_CHESSS_0000",
+    "original": "",
+    "translation": "The rules of chess"
+  },
+  {
+    "key": "evt_CHESSS_0001",
+    "original": "",
+    "translation": "None"
+  },
+  {
+    "key": "evt_CHESSS_0002",
+    "original": "",
+    "translation": "The gist of chess"
+  },
+  {
+    "key": "evt_CHESSS_0003",
+    "original": "",
+    "translation": "Win & lose conditions"
+  },
+  {
+    "key": "evt_CHESSS_0004",
+    "original": "",
+    "translation": "How the pieces move"
+  },
+  {
+    "key": "evt_CHESSS_0005",
+    "original": "",
+    "translation": "Castling"
+  },
+  {
+    "key": "evt_CHESSS_0006",
+    "original": "",
+    "translation": "Promotion"
+  },
+  {
+    "key": "evt_CHESSS_0007",
+    "original": "",
+    "translation": "Chess mode"
+  },
+  {
+    "key": "evt_CHESSS_0008",
+    "original": "",
+    "translation": "Checkmate in one move"
+  },
+  {
+    "key": "evt_CHESSS_0009",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0010",
+    "original": "",
+    "translation": "Checkmate in one move"
+  },
+  {
+    "key": "evt_CHESSS_0011",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0012",
+    "original": "",
+    "translation": "Koizumi fully cleared"
+  },
+  {
+    "key": "evt_CHESSS_0013",
+    "original": "",
+    "translation": "The basics of chess puzzles"
+  },
+  {
+    "key": "evt_CHESSS_0014",
+    "original": "",
+    "translation": "None"
+  },
+  {
+    "key": "evt_CHESSS_0015",
+    "original": "",
+    "translation": "Gaining advantage"
+  },
+  {
+    "key": "evt_CHESSS_0016",
+    "original": "",
+    "translation": "Countering defense"
+  },
+  {
+    "key": "evt_CHESSS_0017",
+    "original": "",
+    "translation": "What is a fork"
+  },
+  {
+    "key": "evt_CHESSS_0018",
+    "original": "",
+    "translation": "What is a pin"
+  },
+  {
+    "key": "evt_CHESSS_0019",
+    "original": "",
+    "translation": "What is a skewer"
+  },
+  {
+    "key": "evt_CHESSS_0020",
+    "original": "",
+    "translation": "Discovered attack"
+  },
+  {
+    "key": "evt_CHESSS_0021",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0022",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0023",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0024",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0025",
+    "original": "",
+    "translation": "Mikuru fully cleared"
+  },
+  {
+    "key": "evt_CHESSS_0026",
+    "original": "",
+    "translation": "Tsuruya's Puzzles (Difficulty: Easy)"
+  },
+  {
+    "key": "evt_CHESSS_0027",
+    "original": "",
+    "translation": "[#P05Clear] 10 of Asahina's puzzles"
+  },
+  {
+    "key": "evt_CHESSS_0028",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0029",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0030",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0031",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0032",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0033",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0034",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0035",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0036",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0037",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0038",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0039",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0040",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0041",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0042",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0043",
+    "original": "",
+    "translation": "Tsuruya fully cleared"
+  },
+  {
+    "key": "evt_CHESSS_0044",
+    "original": "",
+    "translation": "Nagato's Puzzles (Difficulty: Normal)"
+  },
+  {
+    "key": "evt_CHESSS_0045",
+    "original": "",
+    "translation": "[#P05Clear] 10 of Tsuruya's puzzles"
+  },
+  {
+    "key": "evt_CHESSS_0046",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0047",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0048",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0049",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0050",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0051",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0052",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0053",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0054",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0055",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0056",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0057",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0058",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0059",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0060",
+    "original": "",
+    "translation": "Checkmate in four moves"
+  },
+  {
+    "key": "evt_CHESSS_0061",
+    "original": "",
+    "translation": "Nagato fully cleared"
+  },
+  {
+    "key": "evt_CHESSS_0062",
+    "original": "",
+    "translation": "Haruhi's Puzzles (Difficulty: Hard)"
+  },
+  {
+    "key": "evt_CHESSS_0063",
+    "original": "",
+    "translation": "[#P05Clear] 10 of Yuki Nagato's puzzles"
+  },
+  {
+    "key": "evt_CHESSS_0064",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0065",
+    "original": "",
+    "translation": "Checkmate in two moves"
+  },
+  {
+    "key": "evt_CHESSS_0066",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0067",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0068",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0069",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0070",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0071",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0072",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0073",
+    "original": "",
+    "translation": "Checkmate in three moves"
+  },
+  {
+    "key": "evt_CHESSS_0074",
+    "original": "",
+    "translation": "Place the black king"
+  },
+  {
+    "key": "evt_CHESSS_0075",
+    "original": "",
+    "translation": "Checkmate in four moves"
+  },
+  {
+    "key": "evt_CHESSS_0076",
+    "original": "",
+    "translation": "Checkmate in four moves"
+  },
+  {
+    "key": "evt_CHESSS_0077",
+    "original": "",
+    "translation": "Checkmate in four moves"
+  },
+  {
+    "key": "evt_CHESSS_0078",
+    "original": "",
+    "translation": "Checkmate in four moves"
+  },
+  {
+    "key": "evt_CHESSS_0079",
+    "original": "",
+    "translation": "Haruhi fully cleared"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "key": "evt_EV1_013S_0000",
+    "original": "",
+    "translation": "Nagato and I met up with Haruhi in the hallway\nwith all the first-year classrooms."
+  },
+  {
+    "key": "evt_EV1_013S_0001",
+    "original": "",
+    "translation": "Oh, where are Mikuru and Koizumi?"
+  },
+  {
+    "key": "evt_EV1_013S_0002",
+    "original": "",
+    "translation": "I lied, explaining that they'd gone to the\ncomputer society to ask more questions."
+  },
+  {
+    "key": "evt_EV1_013S_0003",
+    "original": "",
+    "translation": "Now then, this long hallway on the main\nbuilding's third floor ends at class 1-9."
+  },
+  {
+    "key": "evt_EV1_013S_0004",
+    "original": "",
+    "translation": "I'm truly grateful. Please let it stay this way."
+  },
+  {
+    "key": "evt_EV1_013S_0005",
+    "original": "",
+    "translation": "Hey, Haruhi, there's no class 1-10 here."
+  },
+  {
+    "key": "evt_EV1_013S_0006",
+    "original": "",
+    "translation": "Obviously, Kyon. It wouldn't be one of the\nseven wonders if it appeared so easily."
+  },
+  {
+    "key": "evt_EV1_013S_0007",
+    "original": "",
+    "translation": "It appeared that easily in front of me, but I\ncould never tell Haruhi that."
+  },
+  {
+    "key": "evt_EV1_013S_0008",
+    "original": "",
+    "translation": "I reckon there's some kind of trigger. I'm\ngonna investigate every nook and cranny!"
+  },
+  {
+    "key": "evt_EV1_013S_0009",
+    "original": "",
+    "translation": "If you see anything unusual, report back to\nyour brigade chief immediately."
+  },
+  {
+    "key": "evt_EV1_013S_0010",
+    "original": "",
+    "translation": " Here I go!"
+  },
+  {
+    "key": "evt_EV1_013S_0011",
+    "original": "",
+    "translation": "Haruhi is alone in her enthusiasm, pacing up\nand down the long hallway."
+  },
+  {
+    "key": "evt_EV1_013S_0012",
+    "original": "",
+    "translation": "Class 7, 8, 9… Hmm… There aren't any signs of\nunnatural phenomena, huh."
+  },
+  {
+    "key": "evt_EV1_013S_0013",
+    "original": "",
+    "translation": "I'm afraid not. Just an ordinary hallway. They\nwere just seeing things after all, right?"
+  },
+  {
+    "key": "evt_EV1_013S_0014",
+    "original": "",
+    "translation": "No, there's something here."
+  },
+  {
+    "key": "evt_EV1_013S_0015",
+    "original": "",
+    "translation": "I'm certain! The \"man-eating classroom” that\nlong has plagued North High, class 1-10!"
+  },
+  {
+    "key": "evt_EV1_013S_0016",
+    "original": "",
+    "translation": "First I've heard of that. Long or not—I only\nheard about it today."
+  },
+  {
+    "key": "evt_EV1_013S_0017",
+    "original": "",
+    "translation": "But maybe it won't appear in front of normal\nhumans. Like, you might need psychic powers."
+  },
+  {
+    "key": "evt_EV1_013S_0018",
+    "original": "",
+    "translation": "If it's espers you need I happen to know one."
+  },
+  {
+    "key": "evt_EV1_013S_0019",
+    "original": "",
+    "translation": "The computer society member who claimed to\nhave seen it probably just made a mistake."
+  },
+  {
+    "key": "evt_EV1_013S_0020",
+    "original": "",
+    "translation": "Listen here, Kyon."
+  },
+  {
+    "key": "evt_EV1_013S_0021",
+    "original": "",
+    "translation": "Aren't you being awfully unimaginative despite\nbeing a member of the SOS Brigade?"
+  },
+  {
+    "key": "evt_EV1_013S_0022",
+    "original": "",
+    "translation": "I believe in it—that even ghosts and\nunnatural phenomena exist!"
+  },
+  {
+    "key": "evt_EV1_013S_0023",
+    "original": "",
+    "translation": "The SOS Brigade was created to search for\nthem."
+  },
+  {
+    "key": "evt_EV1_013S_0024",
+    "original": "",
+    "translation": "Whatever. It's just…"
+  },
+  {
+    "key": "evt_EV1_013S_0025",
+    "original": "",
+    "translation": "To tell you the truth, I've seen things like\nghosts and unnatural phenomena."
+  },
+  {
+    "key": "evt_EV1_013S_0026",
+    "original": "",
+    "translation": "Incidentally, I don't have any psychic powers.\nNo guardian spirit either of course."
+  },
+  {
+    "key": "evt_EV1_013S_0027",
+    "original": "",
+    "translation": "They say when cats or babies are looking\ninto empty space, they're looking at a ghost."
+  },
+  {
+    "key": "evt_EV1_013S_0028",
+    "original": "",
+    "translation": "Oh yeah, Yuki, you also stare at thin air\nsometimes, don't you? Just like a cat."
+  },
+  {
+    "key": "evt_EV1_013S_0029",
+    "original": "",
+    "translation": "I do not see ghosts."
+  },
+  {
+    "key": "evt_EV1_013S_0030",
+    "original": "",
+    "translation": "In Nagato's case, she probably sees\nelectromagnetic radiation or something."
+  },
+  {
+    "key": "evt_EV1_013S_0031",
+    "original": "",
+    "translation": "I feel like out of all of us, Yuki might have the\nbest affinity for sensing the supernatural."
+  },
+  {
+    "key": "evt_EV1_013S_0032",
+    "original": "",
+    "translation": "Don't you think, Kyon?"
+  },
+  {
+    "key": "evt_EV1_013S_0033",
+    "original": "",
+    "translation": "Nagato is… You're right, she does seem quite\ncat-like."
+  },
+  {
+    "key": "evt_EV1_013S_0034",
+    "original": "",
+    "translation": "Right?! That's why I think her sixth sense is\nstrong."
+  },
+  {
+    "key": "evt_EV1_013S_0035",
+    "original": "",
+    "translation": "That's not related to psychic powers though."
+  },
+  {
+    "key": "evt_EV1_013S_0036",
+    "original": "",
+    "translation": "No, it is related. Without a doubt."
+  },
+  {
+    "key": "evt_EV1_013S_0037",
+    "original": "",
+    "translation": "In that case, you're quite dog-like so I guess\nyou can't sense the supernatural at all?"
+  },
+  {
+    "key": "evt_EV1_013S_0038",
+    "original": "",
+    "translation": "You're the one who's like a dog."
+  },
+  {
+    "key": "evt_EV1_013S_0039",
+    "original": "",
+    "translation": "If anything you're a polar bear… or a sea lion\nmaybe."
+  },
+  {
+    "key": "evt_EV1_013S_0040",
+    "original": "",
+    "translation": "As usual she says something awful. Just how\ndo you perceive me?"
+  },
+  {
+    "key": "evt_EV1_013S_0041",
+    "original": "",
+    "translation": "If I were a dog, I'd be a really impressive one."
+  },
+  {
+    "key": "evt_EV1_013S_0042",
+    "original": "",
+    "translation": "The kind that would win the championship in a\ndog contest even."
+  },
+  {
+    "key": "evt_EV1_013S_0043",
+    "original": "",
+    "translation": "You'd never win. You wouldn't listen to your\nowner at all."
+  },
+  {
+    "key": "evt_EV1_013S_0044",
+    "original": "",
+    "translation": "That's right. I don't need an owner—I'm more\nlike a lone wolf."
+  },
+  {
+    "key": "evt_EV1_013S_0045",
+    "original": "",
+    "translation": "…Wolves live in packs. They're not alone."
+  },
+  {
+    "key": "evt_EV1_013S_0046",
+    "original": "",
+    "translation": "Nice comeback, Nagato."
+  },
+  {
+    "key": "evt_EV1_013S_0047",
+    "original": "",
+    "translation": "I see. Then, being the alpha wolf is fine."
+  },
+  {
+    "key": "evt_EV1_013S_0048",
+    "original": "",
+    "translation": "Nagato doesn't seem like a psychic. Isn't she\nmore like an ultra realist?"
+  },
+  {
+    "key": "evt_EV1_013S_0049",
+    "original": "",
+    "translation": "But she totally seems like a cat?"
+  },
+  {
+    "key": "evt_EV1_013S_0050",
+    "original": "",
+    "translation": "I think there's almost certainly a mistake with\na diagram that says cat = spiritual radar."
+  },
+  {
+    "key": "evt_EV1_013S_0051",
+    "original": "",
+    "translation": "Although I do admit she's like one."
+  },
+  {
+    "key": "evt_EV1_013S_0052",
+    "original": "",
+    "translation": "What are the characteristics that make me\nlook like a cat?"
+  },
+  {
+    "key": "evt_EV1_013S_0053",
+    "original": "",
+    "translation": "Listen, Yuki, there are different types.\nThere's cat-like people and dog-like people."
+  },
+  {
+    "key": "evt_EV1_013S_0054",
+    "original": "",
+    "translation": "It's a loose analysis of someone's personality."
+  },
+  {
+    "key": "evt_EV1_013S_0055",
+    "original": "",
+    "translation": "Yuki, let out a little \"meow” sound!"
+  },
+  {
+    "key": "evt_EV1_013S_0056",
+    "original": "",
+    "translation": "Oi, don't mess with Nagato."
+  },
+  {
+    "key": "evt_EV1_013S_0057",
+    "original": "",
+    "translation": "Meow."
+  },
+  {
+    "key": "evt_EV1_013S_0058",
+    "original": "",
+    "translation": "No no no, do it with more emotion."
+  },
+  {
+    "key": "evt_EV1_013S_0059",
+    "original": "",
+    "translation": "Meow."
+  },
+  {
+    "key": "evt_EV1_013S_0060",
+    "original": "",
+    "translation": "Hmm, it's not quite right."
+  },
+  {
+    "key": "evt_EV1_013S_0061",
+    "original": "",
+    "translation": "Haruhi, knock it off."
+  },
+  {
+    "key": "evt_EV1_013S_0062",
+    "original": "",
+    "translation": "Setting that aside, let's use your abilities to\nsearch for the supernatural, Yuki!"
+  },
+  {
+    "key": "evt_EV1_013S_0063",
+    "original": "",
+    "translation": "\"Setting that aside” doesn't work here at all."
+  },
+  {
+    "key": "evt_EV1_013S_0064",
+    "original": "",
+    "translation": "Okay, Yuki, go!"
+  },
+  {
+    "key": "evt_EV1_013S_0066",
+    "original": "",
+    "translation": "Haruhi started dragging Nagato away."
+  },
+  {
+    "key": "evt_EV1_013S_0067",
+    "original": "",
+    "translation": "Do you sense anything suspicious over\nthere?"
+  },
+  {
+    "key": "evt_EV1_013S_0068",
+    "original": "",
+    "translation": "Nothing."
+  },
+  {
+    "key": "evt_EV1_013S_0069",
+    "original": "",
+    "translation": "Then, is there something out of the ordinary\nover here?"
+  },
+  {
+    "key": "evt_EV1_013S_0070",
+    "original": "",
+    "translation": "A presence cannot be confirmed."
+  },
+  {
+    "key": "evt_EV1_013S_0071",
+    "original": "",
+    "translation": "There's gotta be something here!"
+  },
+  {
+    "key": "evt_EV1_013S_0072",
+    "original": "",
+    "translation": "Nothing is detected."
+  },
+  {
+    "key": "evt_EV1_013S_0073",
+    "original": "",
+    "translation": "It's like she's searching for stolen goods with\na police dog, but can't find anything."
+  },
+  {
+    "key": "evt_EV1_013S_0074",
+    "original": "",
+    "translation": "She's not going to tell Haruhi if there is som-\nething, but still—please don't find anything."
+  },
+  {
+    "key": "evt_EV1_013S_0075",
+    "original": "",
+    "translation": "Hey, this hallway, doesn't it look different\nfrom normal?"
+  },
+  {
+    "key": "evt_EV1_013S_0076",
+    "original": "",
+    "translation": "There are no people."
+  },
+  {
+    "key": "evt_EV1_013S_0077",
+    "original": "",
+    "translation": "But it's more gloomy than usual."
+  },
+  {
+    "key": "evt_EV1_013S_0078",
+    "original": "",
+    "translation": "Because it's summer vacation, the lights are\noff."
+  },
+  {
+    "key": "evt_EV1_013S_0079",
+    "original": "",
+    "translation": "Ah! Something just flew past the window just\nnow! A mysterious flying object!"
+  },
+  {
+    "key": "evt_EV1_013S_0080",
+    "original": "",
+    "translation": "A ball."
+  },
+  {
+    "key": "evt_EV1_013S_0081",
+    "original": "",
+    "translation": "Yeah, the baseball club have come to\npractice."
+  },
+  {
+    "key": "evt_EV1_013S_0082",
+    "original": "",
+    "translation": "What was that weird sound? It sounded like a\npoltergeist!"
+  },
+  {
+    "key": "evt_EV1_013S_0083",
+    "original": "",
+    "translation": "The baseball club is just making noise during\npractice."
+  },
+  {
+    "key": "evt_EV1_013S_0084",
+    "original": "",
+    "translation": "It is the sound of a ball coming into contact\nwith a bat, and then into contact with a mitt."
+  },
+  {
+    "key": "evt_EV1_013S_0085",
+    "original": "",
+    "translation": "…There's nothing here. Boring."
+  },
+  {
+    "key": "evt_EV1_013S_0086",
+    "original": "",
+    "translation": "That's why I said the unnatural phenomenon\nwas just a hoax."
+  },
+  {
+    "key": "evt_EV1_013S_0087",
+    "original": "",
+    "translation": "It's just that the conditions haven't been\nsatisfied yet. We need to acquire more info."
+  },
+  {
+    "key": "evt_EV1_013S_0088",
+    "original": "",
+    "translation": "I'm gonna go back for a while and re-examine\nwhat we know."
+  },
+  {
+    "key": "evt_EV1_013S_0089",
+    "original": "",
+    "translation": "Kyon and Yuki, search for leads!"
+  },
+  {
+    "key": "evt_EV1_013S_0090",
+    "original": "",
+    "translation": "Haruhi said over her shoulder while leaving."
+  },
+  {
+    "key": "evt_EV1_013S_0091",
+    "original": "",
+    "translation": "Looks like she got bored. Thank goodness\nnothing happened."
+  },
+  {
+    "key": "evt_EV1_013S_0092",
+    "original": "",
+    "translation": "Hey, Nagato, has anything changed since\nthe data links became unstable?"
+  },
+  {
+    "key": "evt_EV1_013S_0093",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_013S_0094",
+    "original": "",
+    "translation": "Nagato?"
+  },
+  {
+    "key": "evt_EV1_013S_0095",
+    "original": "",
+    "translation": "Nagato's gaze was fixed on a single point."
+  },
+  {
+    "key": "evt_EV1_013S_0096",
+    "original": "",
+    "translation": "As Haruhi said, she certainly seems very\ncat-like, but…"
+  },
+  {
+    "key": "evt_EV1_013S_0097",
+    "original": "",
+    "translation": "It's already ominous when a cat does it, but if\nit's you it makes me even more anxious."
+  },
+  {
+    "key": "evt_EV1_013S_0098",
+    "original": "",
+    "translation": "Nagato, is there something there?"
+  },
+  {
+    "key": "evt_EV1_013S_0099",
+    "original": "",
+    "translation": "I couldn't see anything strange at the point\nshe was staring at."
+  },
+  {
+    "key": "evt_EV1_013S_0100",
+    "original": "",
+    "translation": "Maybe she's receiving scattered radio waves\nto verify the school's condition or something."
+  },
+  {
+    "key": "evt_EV1_013S_0101",
+    "original": "",
+    "translation": "Don't tell me Nagato really was a psychic all\nalong."
+  },
+  {
+    "key": "evt_EV1_013S_0102",
+    "original": "",
+    "translation": "Well, not that her abilities are practically that\ndifferent, I just mean emotionally."
+  },
+  {
+    "key": "evt_EV1_013S_0103",
+    "original": "",
+    "translation": "It is spreading."
+  },
+  {
+    "key": "evt_EV1_013S_0104",
+    "original": "",
+    "translation": "What is?"
+  },
+  {
+    "key": "evt_EV1_013S_0105",
+    "original": "",
+    "translation": "The data links are becoming more unstable\ndue to alternate space developing."
+  },
+  {
+    "key": "evt_EV1_013S_0106",
+    "original": "",
+    "translation": "So you were checking the data links after all."
+  },
+  {
+    "key": "evt_EV1_013S_0107",
+    "original": "",
+    "translation": "But it's spreading, huh. It would be best to\nget Haruhi to leave the school, but…"
+  },
+  {
+    "key": "evt_EV1_013S_0108",
+    "original": "",
+    "translation": "Also, abnormal phenomena are becoming more\nactive due to Haruhi Suzumiya's desire."
+  },
+  {
+    "key": "evt_EV1_013S_0109",
+    "original": "",
+    "translation": "Huh? That would mean—"
+  },
+  {
+    "key": "evt_EV1_013S_0110",
+    "original": "",
+    "translation": "Over there…"
+  },
+  {
+    "key": "evt_EV1_013S_0111",
+    "original": "",
+    "translation": "Nagato pointed outside the window."
+  },
+  {
+    "key": "evt_EV1_013S_0112",
+    "original": "",
+    "translation": "Actually, since I asked, she's probably just\nchecking the whole school, right?"
+  },
+  {
+    "key": "evt_EV1_013S_0113",
+    "original": "",
+    "translation": "Just watching her, it looks like she's receiving\nsome kind of invisible radio waves."
+  },
+  {
+    "key": "evt_EV1_013S_0114",
+    "original": "",
+    "translation": "I'm starting to get worried."
+  },
+  {
+    "key": "evt_EV1_013S_0115",
+    "original": "",
+    "translation": "With Nagato, this isn't any joke or laughing\nmatter—it's reality."
+  },
+  {
+    "key": "evt_EV1_013S_0116",
+    "original": "",
+    "translation": "The data links are becoming more unstable\ndue to alternate space developing."
+  },
+  {
+    "key": "evt_EV1_013S_0117",
+    "original": "",
+    "translation": "I see."
+  },
+  {
+    "key": "evt_EV1_013S_0118",
+    "original": "",
+    "translation": "It didn't seem like there was anything where\nshe was staring. I'm glad I didn't ask."
+  },
+  {
+    "key": "evt_EV1_013S_0119",
+    "original": "",
+    "translation": "Also, abnormal phenomena activity is rising\ndue to Haruhi Suzumiya's desire. For example…"
+  },
+  {
+    "key": "evt_EV1_013S_0120",
+    "original": "",
+    "translation": "Nagato suddenly pointed outside the window."
+  },
+  {
+    "key": "evt_EV1_013S_0121",
+    "original": "",
+    "translation": "Over there."
+  },
+  {
+    "key": "evt_EV1_013S_0122",
+    "original": "",
+    "translation": "There's nothing there?"
+  },
+  {
+    "key": "evt_EV1_013S_0123",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_013S_0124",
+    "original": "",
+    "translation": "Nagato responded to my doubt by looking up\nat me in silence."
+  },
+  {
+    "key": "evt_EV1_013S_0126",
+    "original": "",
+    "translation": "But she turned back and walked away without\noffering any explanation."
+  },
+  {
+    "key": "evt_EV1_013S_0127",
+    "original": "",
+    "translation": "…What did she mean?"
+  },
+  {
+    "key": "evt_EV1_013S_0128",
+    "original": "",
+    "translation": "\"You can't see it?” Was that the kind of\nnuance you were going for?"
+  },
+  {
+    "key": "evt_EV1_013S_0129",
+    "original": "",
+    "translation": "I looked out the window once more to find\nnothing."
+  },
+  {
+    "key": "evt_EV1_013S_0130",
+    "original": "",
+    "translation": "I can't see anything equals there's nothing\nthere!"
+  },
+  {
+    "key": "evt_EV1_013S_0131",
+    "original": "",
+    "translation": "I tried to convince myself of that as I chased\nafter Nagato."
+  },
+  {
+    "key": "evt_EV1_013S_0132",
+    "original": "",
+    "translation": "Did Nagato see something when Haruhi was\ndragging her around to look at places…?"
+  },
+  {
+    "key": "evt_EV1_013S_0133",
+    "original": "",
+    "translation": "I became worried all over again."
+  },
+  {
+    "key": "evt_EV1_013S_0134",
+    "original": "",
+    "translation": "She does seem like a cat."
+  },
+  {
+    "key": "evt_EV1_013S_0135",
+    "original": "",
+    "translation": "I don't think so."
+  },
+  {
+    "key": "evt_EV1_013S_0136",
+    "original": "",
+    "translation": "Ask Nagato"
+  },
+  {
+    "key": "evt_EV1_013S_0137",
+    "original": "",
+    "translation": "Don't ask Nagato"
+  }
+]

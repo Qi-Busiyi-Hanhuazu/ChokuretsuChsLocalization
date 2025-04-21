@@ -1,0 +1,167 @@
+[
+  {
+    "key": "evt_CHS_MIK_02S_0001",
+    "original": "",
+    "translation": "Shall we get started then?"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0002",
+    "original": "",
+    "translation": "We'll now explain breaking down a piece's\ndefense to help you…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0003",
+    "original": "",
+    "translation": "…solve chess puzzles."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0004",
+    "original": "",
+    "translation": "First, let's go through the basic strategy of\ndefending pieces."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0005",
+    "original": "",
+    "translation": "In a board state like the one shown on the\nbottom screen, it's possible to capture the…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0006",
+    "original": "",
+    "translation": "…rook the bishop, but it'll immediately be taken\nby the pawn."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0007",
+    "original": "",
+    "translation": "In this situation, you say the bishop is being\ndefended by the pawn."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0008",
+    "original": "",
+    "translation": "We can't trade the rook and the bishop…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0009",
+    "original": "",
+    "translation": "…as this would be disadvantageous for us."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0010",
+    "original": "",
+    "translation": "Defending your pieces like this so they\ncannot be taken by your opponent…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0011",
+    "original": "",
+    "translation": "…is an important strategy in chess."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0012",
+    "original": "",
+    "translation": "You can consider a chess puzzle a problem of\nhow to break down…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0013",
+    "original": "",
+    "translation": "…the king's defense."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0014",
+    "original": "",
+    "translation": "So then, how could you break down the\nopponent's defense?"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0015",
+    "original": "",
+    "translation": "The answer is to create a situation where\npieces have to move."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0016",
+    "original": "",
+    "translation": "Take a look at this board on the bottom\nscreen, where you must checkmate in two moves."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0017",
+    "original": "",
+    "translation": "If you cheerfully take the black queen with\nthe white queen…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0018",
+    "original": "",
+    "translation": "…the black rook will checkmate you."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0019",
+    "original": "",
+    "translation": "The key in this situation is to make good use\nof the white queen and knight…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0020",
+    "original": "",
+    "translation": "…to force the black rook to move."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0021",
+    "original": "",
+    "translation": "We'll put the queen to use here."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0022",
+    "original": "",
+    "translation": "By putting the black king in check with the\nwhite queen…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0023",
+    "original": "",
+    "translation": "…black has no choice but to take the rook."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0024",
+    "original": "",
+    "translation": "Now you can use the white knight…"
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0025",
+    "original": "",
+    "translation": "…and checkmate the king."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0026",
+    "original": "",
+    "translation": "There's no way of taking the knight or\nescaping with the king."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0027",
+    "original": "",
+    "translation": "It's checkmate."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0028",
+    "original": "",
+    "translation": "As you can see, breaking down the enemy's\ndefense is an important element of the game."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0029",
+    "original": "",
+    "translation": "Let's put it into practice."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0030",
+    "original": "",
+    "translation": "Checkmate your opponent in two moves."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0031",
+    "original": "",
+    "translation": "That's correct, Kyon."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0032",
+    "original": "",
+    "translation": "That concludes our explanation of defending\npieces."
+  },
+  {
+    "key": "evt_CHS_MIK_02S_0033",
+    "original": "",
+    "translation": "That's a shame, it looks like you messed up.\nTry having another go."
+  }
+]

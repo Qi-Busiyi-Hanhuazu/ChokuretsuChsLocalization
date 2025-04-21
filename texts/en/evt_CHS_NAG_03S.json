@@ -1,0 +1,22 @@
+[
+  {
+    "key": "evt_CHS_NAG_03S_0000",
+    "original": "",
+    "translation": "Presenting the third puzzle."
+  },
+  {
+    "key": "evt_CHS_NAG_03S_0001",
+    "original": "",
+    "translation": "Checkmate your opponent in two moves\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_NAG_03S_0002",
+    "original": "",
+    "translation": "Correct.\nPreparing the next one."
+  },
+  {
+    "key": "evt_CHS_NAG_03S_0003",
+    "original": "",
+    "translation": "Incorrect.\nAccepting retries."
+  }
+]

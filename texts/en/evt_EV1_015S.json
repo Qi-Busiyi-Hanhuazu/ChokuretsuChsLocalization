@@ -1,0 +1,917 @@
+[
+  {
+    "key": "evt_EV1_015S_0000",
+    "original": "",
+    "translation": "I left the questioning to Koizumi, and the rest\nof us went with Haruhi."
+  },
+  {
+    "key": "evt_EV1_015S_0001",
+    "original": "",
+    "translation": "Let me guess, you can't sit still, so you're\ngoing to jump straight to the investigation?"
+  },
+  {
+    "key": "evt_EV1_015S_0002",
+    "original": "",
+    "translation": "Of course not. Before you start an\ninvestigation, you have to make preparations."
+  },
+  {
+    "key": "evt_EV1_015S_0003",
+    "original": "",
+    "translation": "That doesn't sound like Haruhi. She'd sooner\nrun into a wall than plan a way around it."
+  },
+  {
+    "key": "evt_EV1_015S_0005",
+    "original": "",
+    "translation": "Umm, what kind of \"preparations” do you\nhave in mind?"
+  },
+  {
+    "key": "evt_EV1_015S_0006",
+    "original": "",
+    "translation": "Naturally, I've already thought out\neverything we need to do."
+  },
+  {
+    "key": "evt_EV1_015S_0007",
+    "original": "",
+    "translation": "For starters—Mikuru, Yuki, and Kyon, wait\nhere."
+  },
+  {
+    "key": "evt_EV1_015S_0008",
+    "original": "",
+    "translation": "I'm going to be back in a bit. Got it?"
+  },
+  {
+    "key": "evt_EV1_015S_0009",
+    "original": "",
+    "translation": "O-okay."
+  },
+  {
+    "key": "evt_EV1_015S_0010",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_015S_0011",
+    "original": "",
+    "translation": "Oi, just where are you planning to go?"
+  },
+  {
+    "key": "evt_EV1_015S_0012",
+    "original": "",
+    "translation": "Surely she doesn't mean to go investigate on\nher own, right?"
+  },
+  {
+    "key": "evt_EV1_015S_0013",
+    "original": "",
+    "translation": "Prep work, just prep work. Now don't make a\nfuss and just stay in this room!"
+  },
+  {
+    "key": "evt_EV1_015S_0014",
+    "original": "",
+    "translation": "I won't let you get away with it if you go\ninvestigate without orders!"
+  },
+  {
+    "key": "evt_EV1_015S_0015",
+    "original": "",
+    "translation": "I get it."
+  },
+  {
+    "key": "evt_EV1_015S_0016",
+    "original": "",
+    "translation": "She stole the words right out of my mouth. Is\nshe even going to come back?"
+  },
+  {
+    "key": "evt_EV1_015S_0018",
+    "original": "",
+    "translation": "Will Suzumiya be okay by herself?"
+  },
+  {
+    "key": "evt_EV1_015S_0019",
+    "original": "",
+    "translation": "Well… I can't really say for sure, but…"
+  },
+  {
+    "key": "evt_EV1_015S_0020",
+    "original": "",
+    "translation": "I get the feeling she'll be fine."
+  },
+  {
+    "key": "evt_EV1_015S_0021",
+    "original": "",
+    "translation": "She's the type to openly declare what she's\ngoing to do, after all."
+  },
+  {
+    "key": "evt_EV1_015S_0022",
+    "original": "",
+    "translation": "I suppose you're right. Then, shall I make\nsome tea while we wait?"
+  },
+  {
+    "key": "evt_EV1_015S_0023",
+    "original": "",
+    "translation": "I'd be very grateful."
+  },
+  {
+    "key": "evt_EV1_015S_0024",
+    "original": "",
+    "translation": "If I get to drink Asahina's brewed nectar, I\ncould wait as long as need be."
+  },
+  {
+    "key": "evt_EV1_015S_0026",
+    "original": "",
+    "translation": "How is it?"
+  },
+  {
+    "key": "evt_EV1_015S_0027",
+    "original": "",
+    "translation": "It's truly delicious. Today's tea is excellent\nyet again."
+  },
+  {
+    "key": "evt_EV1_015S_0028",
+    "original": "",
+    "translation": "Ehe, thank you very much. Please enjoy the\nrest of it."
+  },
+  {
+    "key": "evt_EV1_015S_0029",
+    "original": "",
+    "translation": "Ahh, why of course."
+  },
+  {
+    "key": "evt_EV1_015S_0030",
+    "original": "",
+    "translation": "Even though it's hot tea, it seeps through my\nbody better than cold juice would."
+  },
+  {
+    "key": "evt_EV1_015S_0031",
+    "original": "",
+    "translation": "While I single-mindedly savored the goodness,\nthere was a violent knocking on the door."
+  },
+  {
+    "key": "evt_EV1_015S_0032",
+    "original": "",
+    "translation": "Actually, maybe it was more like kicking?"
+  },
+  {
+    "key": "evt_EV1_015S_0033",
+    "original": "",
+    "translation": "What is it?"
+  },
+  {
+    "key": "evt_EV1_015S_0034",
+    "original": "",
+    "translation": "Kyon!"
+  },
+  {
+    "key": "evt_EV1_015S_0035",
+    "original": "",
+    "translation": "My hands are full, so hurry up and open the\ndoor!"
+  },
+  {
+    "key": "evt_EV1_015S_0036",
+    "original": "",
+    "translation": "You're a genuine idiot."
+  },
+  {
+    "key": "evt_EV1_015S_0037",
+    "original": "",
+    "translation": "When I opened the door, Haruhi fell in with a\nmountain of books."
+  },
+  {
+    "key": "evt_EV1_015S_0038",
+    "original": "",
+    "translation": "That's the first thing you say? Aren't you\ngoing to at least thank me for letting you in?"
+  },
+  {
+    "key": "evt_EV1_015S_0039",
+    "original": "",
+    "translation": "I don't care about that trivial stuff. More\nimportantly, I got hold of some material."
+  },
+  {
+    "key": "evt_EV1_015S_0040",
+    "original": "",
+    "translation": "Material? You mean this mountain of books?"
+  },
+  {
+    "key": "evt_EV1_015S_0041",
+    "original": "",
+    "translation": "Yeah. Recent history of the local area, and\nmaterial related to North High."
+  },
+  {
+    "key": "evt_EV1_015S_0042",
+    "original": "",
+    "translation": "Wha… There's so many. Are we going to search\nthrough these?"
+  },
+  {
+    "key": "evt_EV1_015S_0043",
+    "original": "",
+    "translation": "Of course. Before examining the crime scene,\nyou first need a preliminary investigation."
+  },
+  {
+    "key": "evt_EV1_015S_0044",
+    "original": "",
+    "translation": "Hey now, I don't plan on taking extra history\nclasses during my summer break."
+  },
+  {
+    "key": "evt_EV1_015S_0045",
+    "original": "",
+    "translation": "This is way more fulfilling than supplementary\nclasses."
+  },
+  {
+    "key": "evt_EV1_015S_0046",
+    "original": "",
+    "translation": "You know how legends and folklore usually\nhave their roots in true stories?"
+  },
+  {
+    "key": "evt_EV1_015S_0047",
+    "original": "",
+    "translation": "Do they?"
+  },
+  {
+    "key": "evt_EV1_015S_0048",
+    "original": "",
+    "translation": "They do. That's why when you research ghost\nstories you need to start from the source."
+  },
+  {
+    "key": "evt_EV1_015S_0049",
+    "original": "",
+    "translation": "The history of the area, or strange incidents\ninvolving North High and stuff."
+  },
+  {
+    "key": "evt_EV1_015S_0050",
+    "original": "",
+    "translation": "So we'll divide the work between us and look\nfor clues like that!"
+  },
+  {
+    "key": "evt_EV1_015S_0051",
+    "original": "",
+    "translation": "She started shoving books at all of us with\nsuch forcefulness that no one could object."
+  },
+  {
+    "key": "evt_EV1_015S_0052",
+    "original": "",
+    "translation": "Well, I guess this is leagues better than\nwalking around the school aimlessly."
+  },
+  {
+    "key": "evt_EV1_015S_0053",
+    "original": "",
+    "translation": "And thus, the SOS Brigade began diligently\nreading, as if we'd all become Nagato."
+  },
+  {
+    "key": "evt_EV1_015S_0054",
+    "original": "",
+    "translation": "…Well, that was the intention at least. But\nwhat's with all the noise?"
+  },
+  {
+    "key": "evt_EV1_015S_0055",
+    "original": "",
+    "translation": "What the heck is this?!"
+  },
+  {
+    "key": "evt_EV1_015S_0056",
+    "original": "",
+    "translation": "These boulders look so meaningful, but their\norigin is totally boring!"
+  },
+  {
+    "key": "evt_EV1_015S_0057",
+    "original": "",
+    "translation": "I can't believe it. I wish there were at least a\nbetter reason than that. You know?"
+  },
+  {
+    "key": "evt_EV1_015S_0058",
+    "original": "",
+    "translation": "Eh? Ah, yes. Y-you're right~"
+  },
+  {
+    "key": "evt_EV1_015S_0059",
+    "original": "",
+    "translation": "It seems Haruhi has been completely\nabsorbed by entertainment articles."
+  },
+  {
+    "key": "evt_EV1_015S_0060",
+    "original": "",
+    "translation": "Like, \"Places You Can Find Boulders That\nLook Like Creatures…”"
+  },
+  {
+    "key": "evt_EV1_015S_0061",
+    "original": "",
+    "translation": "Or, \"An Ominous Antique Was Found in\nSomeone's Storehouse,” and stuff like that."
+  },
+  {
+    "key": "evt_EV1_015S_0062",
+    "original": "",
+    "translation": "Simply binging stories that have not the least\nrelation to our case."
+  },
+  {
+    "key": "evt_EV1_015S_0064",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_015S_0065",
+    "original": "",
+    "translation": "Our only hope is Nagato, who alone is ignoring\nHaruhi and calmly reading on."
+  },
+  {
+    "key": "evt_EV1_015S_0066",
+    "original": "",
+    "translation": "Have you found anything relevant, Nagato?"
+  },
+  {
+    "key": "evt_EV1_015S_0067",
+    "original": "",
+    "translation": "… At present, nothing has had significant\ninformation recorded in it."
+  },
+  {
+    "key": "evt_EV1_015S_0068",
+    "original": "",
+    "translation": "Oh, okay…"
+  },
+  {
+    "key": "evt_EV1_015S_0069",
+    "original": "",
+    "translation": "The material is so local to this area that it's\nonly natural."
+  },
+  {
+    "key": "evt_EV1_015S_0070",
+    "original": "",
+    "translation": "We should've assumed there'd be nothing in\nthe first place and saved some time."
+  },
+  {
+    "key": "evt_EV1_015S_0071",
+    "original": "",
+    "translation": "Ahaha—the advertisements in here are a\ngreat read!"
+  },
+  {
+    "key": "evt_EV1_015S_0072",
+    "original": "",
+    "translation": "I thought Haruhi would be in a bad mood if we\ncouldn't find any good info, but…"
+  },
+  {
+    "key": "evt_EV1_015S_0073",
+    "original": "",
+    "translation": "She seems to be surprisingly enjoying herself,\nso no problem here."
+  },
+  {
+    "key": "evt_EV1_015S_0074",
+    "original": "",
+    "translation": "How about you, Kyon? Have you found any\nfunny articles?"
+  },
+  {
+    "key": "evt_EV1_015S_0075",
+    "original": "",
+    "translation": "Make sure to tell me if you find any."
+  },
+  {
+    "key": "evt_EV1_015S_0076",
+    "original": "",
+    "translation": "Funny articles? Since when was that our main\nobjective?"
+  },
+  {
+    "key": "evt_EV1_015S_0077",
+    "original": "",
+    "translation": "How can I pass the time?"
+  },
+  {
+    "key": "evt_EV1_015S_0080",
+    "original": "",
+    "translation": "Asahina, how are you doing?"
+  },
+  {
+    "key": "evt_EV1_015S_0081",
+    "original": "",
+    "translation": "Huh?"
+  },
+  {
+    "key": "evt_EV1_015S_0082",
+    "original": "",
+    "translation": "Gyah?!"
+  },
+  {
+    "key": "evt_EV1_015S_0083",
+    "original": "",
+    "translation": "Asahina turned around in a panic, and her\nhand knocked the teapot."
+  },
+  {
+    "key": "evt_EV1_015S_0084",
+    "original": "",
+    "translation": "The tea spilled everywhere—even one of the\nbooks got wet."
+  },
+  {
+    "key": "evt_EV1_015S_0085",
+    "original": "",
+    "translation": "Are you okay, Asahina?"
+  },
+  {
+    "key": "evt_EV1_015S_0086",
+    "original": "",
+    "translation": "I'm okay, but… I got some of our documents\nwet. What should I do?"
+  },
+  {
+    "key": "evt_EV1_015S_0087",
+    "original": "",
+    "translation": "Part of the paper swelled up, and the letters\nstarted to blur, becoming unreadable."
+  },
+  {
+    "key": "evt_EV1_015S_0088",
+    "original": "",
+    "translation": "Even if you tried to dry it, it would just\nsmudge."
+  },
+  {
+    "key": "evt_EV1_015S_0089",
+    "original": "",
+    "translation": "Errr… Suzumiya… This was important, wasn't\nit?"
+  },
+  {
+    "key": "evt_EV1_015S_0090",
+    "original": "",
+    "translation": "It looked like it had been stored away for\nyears, so it can't have been that important."
+  },
+  {
+    "key": "evt_EV1_015S_0091",
+    "original": "",
+    "translation": "As long as you destroy the evidence, it's all\ngood."
+  },
+  {
+    "key": "evt_EV1_015S_0092",
+    "original": "",
+    "translation": "And just how do you plan on doing that?"
+  },
+  {
+    "key": "evt_EV1_015S_0093",
+    "original": "",
+    "translation": "Burn it, maybe. It's fine though—they had\ntons of extra copies that looked identical."
+  },
+  {
+    "key": "evt_EV1_015S_0094",
+    "original": "",
+    "translation": "Truly the mutterings of a demon. What Haruhi\nsays is true, though."
+  },
+  {
+    "key": "evt_EV1_015S_0095",
+    "original": "",
+    "translation": "I'll get rid of the book."
+  },
+  {
+    "key": "evt_EV1_015S_0096",
+    "original": "",
+    "translation": "A [#P05stained] book[#P01], huh…"
+  },
+  {
+    "key": "evt_EV1_015S_0097",
+    "original": "",
+    "translation": "Rather than recklessly throwing it away, it'd\nbe safer to just keep hold of it for now."
+  },
+  {
+    "key": "evt_EV1_015S_0099",
+    "original": "",
+    "translation": "Sorry, Nagato. You didn't find any funny\narticles, did you?"
+  },
+  {
+    "key": "evt_EV1_015S_0100",
+    "original": "",
+    "translation": "…Funny articles?"
+  },
+  {
+    "key": "evt_EV1_015S_0101",
+    "original": "",
+    "translation": "She looked at me with a curious expression."
+  },
+  {
+    "key": "evt_EV1_015S_0102",
+    "original": "",
+    "translation": "…I just asked for help on reflex, but maybe I\nshould've phrased the question better."
+  },
+  {
+    "key": "evt_EV1_015S_0103",
+    "original": "",
+    "translation": "In other words, stories you read that you\nthought were unique, maybe."
+  },
+  {
+    "key": "evt_EV1_015S_0104",
+    "original": "",
+    "translation": "…This?"
+  },
+  {
+    "key": "evt_EV1_015S_0105",
+    "original": "",
+    "translation": "She slightly tilted her head as she handed\nsomething to me. Th-this is…"
+  },
+  {
+    "key": "evt_EV1_015S_0106",
+    "original": "",
+    "translation": "It was the design document for a uniqueness\naward an old North High student received."
+  },
+  {
+    "key": "evt_EV1_015S_0107",
+    "original": "",
+    "translation": "A very literal interpretation, I guess…"
+  },
+  {
+    "key": "evt_EV1_015S_0108",
+    "original": "",
+    "translation": "…Yes."
+  },
+  {
+    "key": "evt_EV1_015S_0109",
+    "original": "",
+    "translation": "Actually, it's technically not wrong, but it kind\nof misses the point."
+  },
+  {
+    "key": "evt_EV1_015S_0111",
+    "original": "",
+    "translation": "Kyon! Stop relying on Yuki and search for\nyourself!"
+  },
+  {
+    "key": "evt_EV1_015S_0112",
+    "original": "",
+    "translation": "Yes, yes, I'm on it."
+  },
+  {
+    "key": "evt_EV1_015S_0113",
+    "original": "",
+    "translation": "I'll keep a mental note of [#P05Nagato]'s design\ndocument[#P01] now that I've seen it."
+  },
+  {
+    "key": "evt_EV1_015S_0115",
+    "original": "",
+    "translation": "In the end, nothing came of my attempt to get\nhelp. I'll just get back to reading."
+  },
+  {
+    "key": "evt_EV1_015S_0116",
+    "original": "",
+    "translation": "By the way, since when did our objective\nchange to finding funny articles?"
+  },
+  {
+    "key": "evt_EV1_015S_0117",
+    "original": "",
+    "translation": "I wasn't paying any attention, so I didn't\nnotice."
+  },
+  {
+    "key": "evt_EV1_015S_0118",
+    "original": "",
+    "translation": "Both Mikuru and Yuki found absolutely\nhilarious articles!"
+  },
+  {
+    "key": "evt_EV1_015S_0119",
+    "original": "",
+    "translation": "For goodness' sake Kyon, you must be blind."
+  },
+  {
+    "key": "evt_EV1_015S_0120",
+    "original": "",
+    "translation": "What?! Since when did those two find that kind\nof thing?!"
+  },
+  {
+    "key": "evt_EV1_015S_0121",
+    "original": "",
+    "translation": "Neither of them acted like they had when I\njust asked them."
+  },
+  {
+    "key": "evt_EV1_015S_0122",
+    "original": "",
+    "translation": "As punishment for being the only one to not\nfind anything, go buy drinks."
+  },
+  {
+    "key": "evt_EV1_015S_0123",
+    "original": "",
+    "translation": "Enough for everyone here, of course."
+  },
+  {
+    "key": "evt_EV1_015S_0124",
+    "original": "",
+    "translation": "Why does it have to be this way?"
+  },
+  {
+    "key": "evt_EV1_015S_0126",
+    "original": "",
+    "translation": "Umm, if you're thirsty, I can make some more\ntea?"
+  },
+  {
+    "key": "evt_EV1_015S_0127",
+    "original": "",
+    "translation": "I'm fine for now. Besides, it's hot today so it's\nbetter to have juice, right?"
+  },
+  {
+    "key": "evt_EV1_015S_0128",
+    "original": "",
+    "translation": "Eh? U-um, I'm not thirsty yet, so…"
+  },
+  {
+    "key": "evt_EV1_015S_0129",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_015S_0130",
+    "original": "",
+    "translation": "Nagato had the same neutral expression as\nalways."
+  },
+  {
+    "key": "evt_EV1_015S_0131",
+    "original": "",
+    "translation": "We had been reading in this hot room for a\nwhile…"
+  },
+  {
+    "key": "evt_EV1_015S_0132",
+    "original": "",
+    "translation": "Truth be told, I was starting to drip with\nsweat."
+  },
+  {
+    "key": "evt_EV1_015S_0133",
+    "original": "",
+    "translation": "You already treated us to tea earlier. I'd be\nhappy to get some juice for you."
+  },
+  {
+    "key": "evt_EV1_015S_0134",
+    "original": "",
+    "translation": "Right. If it's for Asahina's sake, such trivial\npunishment is nothing."
+  },
+  {
+    "key": "evt_EV1_015S_0135",
+    "original": "",
+    "translation": "Hey, Kyon—you better get it quick!"
+  },
+  {
+    "key": "evt_EV1_015S_0136",
+    "original": "",
+    "translation": "And it better be freezing cold! Hurry up!"
+  },
+  {
+    "key": "evt_EV1_015S_0137",
+    "original": "",
+    "translation": "I'm tempted to just buy ice and throw it at you\ninstead. Good grief."
+  },
+  {
+    "key": "evt_EV1_015S_0140",
+    "original": "",
+    "translation": "Oh my, we meet at such a perfect time."
+  },
+  {
+    "key": "evt_EV1_015S_0141",
+    "original": "",
+    "translation": "I came across Koizumi while out buying juice."
+  },
+  {
+    "key": "evt_EV1_015S_0142",
+    "original": "",
+    "translation": "I'm not buying you anything if you turn up out\nof nowhere as if it were your plan all along."
+  },
+  {
+    "key": "evt_EV1_015S_0143",
+    "original": "",
+    "translation": "I'm fine. More importantly, there's something I\nwant your help with."
+  },
+  {
+    "key": "evt_EV1_015S_0144",
+    "original": "",
+    "translation": "What might that be?"
+  },
+  {
+    "key": "evt_EV1_015S_0145",
+    "original": "",
+    "translation": "I know a way of hindering the investigation,\nbut it's a bit of a bother to do it by myself."
+  },
+  {
+    "key": "evt_EV1_015S_0146",
+    "original": "",
+    "translation": "Got it. If that's what you want, I'll give you a\nhand."
+  },
+  {
+    "key": "evt_EV1_015S_0147",
+    "original": "",
+    "translation": "Then if you'd follow me…"
+  },
+  {
+    "key": "evt_EV1_015S_0149",
+    "original": "",
+    "translation": "So, what are we doing here?"
+  },
+  {
+    "key": "evt_EV1_015S_0150",
+    "original": "",
+    "translation": "Koizumi took me outside class 1-6."
+  },
+  {
+    "key": "evt_EV1_015S_0151",
+    "original": "",
+    "translation": "Would you mind helping me take the plate that\nlabels this classroom?"
+  },
+  {
+    "key": "evt_EV1_015S_0152",
+    "original": "",
+    "translation": "Then we'll put class 7's plate in its place, and\nshift all the class plates across."
+  },
+  {
+    "key": "evt_EV1_015S_0153",
+    "original": "",
+    "translation": "I don't mind, but what's the point in doing all\nthat?"
+  },
+  {
+    "key": "evt_EV1_015S_0154",
+    "original": "",
+    "translation": "It's just an idea to set up a simple little trick."
+  },
+  {
+    "key": "evt_EV1_015S_0155",
+    "original": "",
+    "translation": "Doing so will cause an illusion as you move\nalong the hallway from class 6…"
+  },
+  {
+    "key": "evt_EV1_015S_0156",
+    "original": "",
+    "translation": "The plan is to create another classroom\nadjacent to 1-9."
+  },
+  {
+    "key": "evt_EV1_015S_0157",
+    "original": "",
+    "translation": "I see. So at a glance, it'll probably appear as\nif that one is class 10."
+  },
+  {
+    "key": "evt_EV1_015S_0158",
+    "original": "",
+    "translation": "Instead of a trick, I'd say it's more on the\nlevel of a mischievous child's cheap prank."
+  },
+  {
+    "key": "evt_EV1_015S_0159",
+    "original": "",
+    "translation": "Indeed, but that suits our purpose."
+  },
+  {
+    "key": "evt_EV1_015S_0160",
+    "original": "",
+    "translation": "The computer society members simply\nmisunderstood someone's prank…"
+  },
+  {
+    "key": "evt_EV1_015S_0161",
+    "original": "",
+    "translation": "How does that explanation sound?"
+  },
+  {
+    "key": "evt_EV1_015S_0162",
+    "original": "",
+    "translation": "Not bad, I think."
+  },
+  {
+    "key": "evt_EV1_015S_0163",
+    "original": "",
+    "translation": "It's an elementary trick that you'd see in\nmystery novels."
+  },
+  {
+    "key": "evt_EV1_015S_0164",
+    "original": "",
+    "translation": "I believe it could buy us some time."
+  },
+  {
+    "key": "evt_EV1_015S_0165",
+    "original": "",
+    "translation": "I agree. Let's quickly swap them out while\nHaruhi isn't looking."
+  },
+  {
+    "key": "evt_EV1_015S_0166",
+    "original": "",
+    "translation": "We got straight to preparing Koizumi's trick."
+  },
+  {
+    "key": "evt_EV1_015S_0167",
+    "original": "",
+    "translation": "Okay, the plate is off."
+  },
+  {
+    "key": "evt_EV1_015S_0168",
+    "original": "",
+    "translation": "What? Who would call me at a time like this?\nGah! It's not Haruhi, is it?"
+  },
+  {
+    "key": "evt_EV1_015S_0169",
+    "original": "",
+    "translation": "Don't mind me—please answer. And remember\nto keep the trick a secret."
+  },
+  {
+    "key": "evt_EV1_015S_0170",
+    "original": "",
+    "translation": "…H-hello? What's going on, Haruhi?"
+  },
+  {
+    "key": "evt_EV1_015S_0171",
+    "original": "",
+    "translation": "What's going on? You stole the words from my\nmouth! How far are you going for that juice?"
+  },
+  {
+    "key": "evt_EV1_015S_0172",
+    "original": "",
+    "translation": "Did you forget I told you to be quick about it?"
+  },
+  {
+    "key": "evt_EV1_015S_0173",
+    "original": "",
+    "translation": "You genuine imbecile, Kyon!"
+  },
+  {
+    "key": "evt_EV1_015S_0174",
+    "original": "",
+    "translation": "O-oh yeah, you did say that. My bad."
+  },
+  {
+    "key": "evt_EV1_015S_0175",
+    "original": "",
+    "translation": "Enough with the excuses! Get back here now!\nIn the next three seconds!"
+  },
+  {
+    "key": "evt_EV1_015S_0176",
+    "original": "",
+    "translation": "That's impossible! …Is what I would say had\nshe not disconnected right after telling me."
+  },
+  {
+    "key": "evt_EV1_015S_0177",
+    "original": "",
+    "translation": "It seems that I've asked for help at a busy\ntime. My apologies."
+  },
+  {
+    "key": "evt_EV1_015S_0178",
+    "original": "",
+    "translation": "Not at all—it's my fault for forgetting I was\nin a hurry."
+  },
+  {
+    "key": "evt_EV1_015S_0179",
+    "original": "",
+    "translation": "We haven't done anything but take the plate\ndown."
+  },
+  {
+    "key": "evt_EV1_015S_0180",
+    "original": "",
+    "translation": "From here on, I'll do what I can on my own."
+  },
+  {
+    "key": "evt_EV1_015S_0181",
+    "original": "",
+    "translation": "For now, it's critical to avoid dampening Miss\nSuzumiya's mood too much."
+  },
+  {
+    "key": "evt_EV1_015S_0182",
+    "original": "",
+    "translation": "Yeah, that's right."
+  },
+  {
+    "key": "evt_EV1_015S_0183",
+    "original": "",
+    "translation": "I'd better get back quickly. Though what\nshould I do about the plate we removed?"
+  },
+  {
+    "key": "evt_EV1_015S_0184",
+    "original": "",
+    "translation": "I can't just leave it here, so there's no choice\nbut to take it with me."
+  },
+  {
+    "key": "evt_EV1_015S_0185",
+    "original": "",
+    "translation": "It's quite bulky, but I'll take the [#P05class] 6 plate[#P01]\nwith me inside my blazer."
+  },
+  {
+    "key": "evt_EV1_015S_0186",
+    "original": "",
+    "translation": "There's obviously no way I can take\nsomething like this with me."
+  },
+  {
+    "key": "evt_EV1_015S_0187",
+    "original": "",
+    "translation": "I'll hide it behind something until we can fix it\nlater."
+  },
+  {
+    "key": "evt_EV1_015S_0188",
+    "original": "",
+    "translation": "Hm? There's something else here. An [#P05answer]\nsheet[#P00] for a test?"
+  },
+  {
+    "key": "evt_EV1_015S_0189",
+    "original": "",
+    "translation": "They probably failed and hid it."
+  },
+  {
+    "key": "evt_EV1_015S_0190",
+    "original": "",
+    "translation": "It seems old. Maybe I'll throw it out later…"
+  },
+  {
+    "key": "evt_EV1_015S_0191",
+    "original": "",
+    "translation": "Oops—if I don't get back to the clubroom\nfast, I'll get another call from Haruhi."
+  },
+  {
+    "key": "evt_EV1_015S_0192",
+    "original": "",
+    "translation": "Ask Mikuru for help"
+  },
+  {
+    "key": "evt_EV1_015S_0193",
+    "original": "",
+    "translation": "Ask Nagato for help"
+  },
+  {
+    "key": "evt_EV1_015S_0194",
+    "original": "",
+    "translation": "Carry it with you"
+  },
+  {
+    "key": "evt_EV1_015S_0195",
+    "original": "",
+    "translation": "Hide it around there"
+  }
+]

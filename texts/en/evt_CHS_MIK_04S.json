@@ -1,0 +1,117 @@
+[
+  {
+    "key": "evt_CHS_MIK_04S_0001",
+    "original": "",
+    "translation": "Shall we get started then?"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0002",
+    "original": "",
+    "translation": "Next we'll explain a pin."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0003",
+    "original": "",
+    "translation": "Pins can be performed with pieces that can\nmove in straight lines, such as the queen…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0004",
+    "original": "",
+    "translation": "…bishops, or rooks."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0005",
+    "original": "",
+    "translation": "It specifically indicates a situation where a\nstraight line attack is attacking the…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0006",
+    "original": "",
+    "translation": "…opponent's king, queen, or rook with\nanother of their pieces in between."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0007",
+    "original": "",
+    "translation": "In other words, they can't move the piece in\nthe middle, as if they do…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0008",
+    "original": "",
+    "translation": "…the king, queen, or rook will be captured."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0009",
+    "original": "",
+    "translation": "Let's explain with the bottom screen."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0010",
+    "original": "",
+    "translation": "The white rook is attacking the king with the\nbishop in between…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0011",
+    "original": "",
+    "translation": "…so the bishop cannot move."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0012",
+    "original": "",
+    "translation": "Let's change the board a little."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0013",
+    "original": "",
+    "translation": "The bishop still cannot move, but since there\nis a pawn…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0014",
+    "original": "",
+    "translation": "…it cannot be taken with the rook."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0015",
+    "original": "",
+    "translation": "By also pinning the pawn with the white\nbishop…"
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0016",
+    "original": "",
+    "translation": "…the rook can take the black bishop."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0017",
+    "original": "",
+    "translation": "As such, it's an effective method of\npreventing the enemy from moving pieces."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0018",
+    "original": "",
+    "translation": "Let's put it into practice."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0019",
+    "original": "",
+    "translation": "Capture the bishop in two moves."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0020",
+    "original": "",
+    "translation": "That's correct, Kyon."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0021",
+    "original": "",
+    "translation": "That's a shame, it looks like you messed up.\nTry having another go."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0022",
+    "original": "",
+    "translation": "It looks like you didn't manage to gain\nadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_04S_0023",
+    "original": "",
+    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+  }
+]

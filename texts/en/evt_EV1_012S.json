@@ -1,0 +1,797 @@
+[
+  {
+    "key": "evt_EV1_012S_0000",
+    "original": "",
+    "translation": "Mikuru and Kyon, and also your little sister!"
+  },
+  {
+    "key": "evt_EV1_012S_0001",
+    "original": "",
+    "translation": "They say kids are good at sensing the\nsupernatural, so I definitely want her here!"
+  },
+  {
+    "key": "evt_EV1_012S_0002",
+    "original": "",
+    "translation": "Yeah, I'll do my best!"
+  },
+  {
+    "key": "evt_EV1_012S_0003",
+    "original": "",
+    "translation": "Don't try too hard, little sister. Right now I'm\ndesperate for a cover-up."
+  },
+  {
+    "key": "evt_EV1_012S_0005",
+    "original": "",
+    "translation": "Umm, where should we start the investigation?"
+  },
+  {
+    "key": "evt_EV1_012S_0006",
+    "original": "",
+    "translation": "Hmm, good question… Kyon, where do you think\nis best? Follow your intuition!"
+  },
+  {
+    "key": "evt_EV1_012S_0007",
+    "original": "",
+    "translation": "If you're searching for something spiritual,\nhow about the old building?"
+  },
+  {
+    "key": "evt_EV1_012S_0008",
+    "original": "",
+    "translation": "…I say, trying to steer Haruhi away from the\nbuilding where the 1st-year classrooms are."
+  },
+  {
+    "key": "evt_EV1_012S_0009",
+    "original": "",
+    "translation": "That's stupid. Yuki and Koizumi are already\nover there gathering information."
+  },
+  {
+    "key": "evt_EV1_012S_0010",
+    "original": "",
+    "translation": "But I'm calling it now, the first-year rooms in\nthe main building are totally suspicious!"
+  },
+  {
+    "key": "evt_EV1_012S_0011",
+    "original": "",
+    "translation": "Then don't ask my opinion—I'm pretty sure\ngod would sympathize if I complained about it."
+  },
+  {
+    "key": "evt_EV1_012S_0012",
+    "original": "",
+    "translation": "So, on that note, let's go."
+  },
+  {
+    "key": "evt_EV1_012S_0013",
+    "original": "",
+    "translation": "Unnatural phenomena will be in plain sight, I'm\nsure of it!"
+  },
+  {
+    "key": "evt_EV1_012S_0014",
+    "original": "",
+    "translation": "Eeeeh, in plain sight?"
+  },
+  {
+    "key": "evt_EV1_012S_0015",
+    "original": "",
+    "translation": "Look what you did. Asahina is completely\nfrightened."
+  },
+  {
+    "key": "evt_EV1_012S_0017",
+    "original": "",
+    "translation": "Unnaaatural phenomenaaa, come out heeere!"
+  },
+  {
+    "key": "evt_EV1_012S_0018",
+    "original": "",
+    "translation": "Ahaha! Keep it up, little sister!"
+  },
+  {
+    "key": "evt_EV1_012S_0019",
+    "original": "",
+    "translation": "…Give me a break. No, seriously."
+  },
+  {
+    "key": "evt_EV1_012S_0022",
+    "original": "",
+    "translation": "The main building is huge. It'll be hard to check\nout the whole place, won't it?"
+  },
+  {
+    "key": "evt_EV1_012S_0023",
+    "original": "",
+    "translation": "Little sister, where do you think would be\nsuspicious?"
+  },
+  {
+    "key": "evt_EV1_012S_0024",
+    "original": "",
+    "translation": "Hey, stop treating my little sister as your\nunnatural phenomena radar."
+  },
+  {
+    "key": "evt_EV1_012S_0025",
+    "original": "",
+    "translation": "It's fine isn't it?"
+  },
+  {
+    "key": "evt_EV1_012S_0026",
+    "original": "",
+    "translation": "Hmmm, what about this room?"
+  },
+  {
+    "key": "evt_EV1_012S_0027",
+    "original": "",
+    "translation": "Class 1-6, huh. Six is a nice number—it has\nthat devil number feel."
+  },
+  {
+    "key": "evt_EV1_012S_0028",
+    "original": "",
+    "translation": "Don't get overly obsessed with those\ndelusions—they'll probably become reality."
+  },
+  {
+    "key": "evt_EV1_012S_0030",
+    "original": "",
+    "translation": "It l-looks kinda dark and scary."
+  },
+  {
+    "key": "evt_EV1_012S_0031",
+    "original": "",
+    "translation": "Obviously—the lights aren't on. Let's hurry\nin. Come on, quickly."
+  },
+  {
+    "key": "evt_EV1_012S_0032",
+    "original": "",
+    "translation": "EEEEeeeeh?!"
+  },
+  {
+    "key": "evt_EV1_012S_0033",
+    "original": "",
+    "translation": "I-it's darkk… Suzumiyaaa!"
+  },
+  {
+    "key": "evt_EV1_012S_0034",
+    "original": "",
+    "translation": "The atmosphere is on point. It's a perfect fit\nfor the birthplace of unnatural phenomena."
+  },
+  {
+    "key": "evt_EV1_012S_0036",
+    "original": "",
+    "translation": "Huh? Something's moving?"
+  },
+  {
+    "key": "evt_EV1_012S_0037",
+    "original": "",
+    "translation": "[#SK0Eek]?! Wh-what is it?!"
+  },
+  {
+    "key": "evt_EV1_012S_0038",
+    "original": "",
+    "translation": "When I looked closer, something was gently\nswaying in the faint darkness…"
+  },
+  {
+    "key": "evt_EV1_012S_0039",
+    "original": "",
+    "translation": "Where?!"
+  },
+  {
+    "key": "evt_EV1_012S_0041",
+    "original": "",
+    "translation": "Look, over there. By the window!"
+  },
+  {
+    "key": "evt_EV1_012S_0042",
+    "original": "",
+    "translation": "By the window…?"
+  },
+  {
+    "key": "evt_EV1_012S_0043",
+    "original": "",
+    "translation": "Oh, what? It's just the curtain swaying."
+  },
+  {
+    "key": "evt_EV1_012S_0045",
+    "original": "",
+    "translation": "C-curtain? Is that really it?"
+  },
+  {
+    "key": "evt_EV1_012S_0046",
+    "original": "",
+    "translation": "Asahina didn't even make any effort to look\nat the window, perhaps out of fear."
+  },
+  {
+    "key": "evt_EV1_012S_0047",
+    "original": "",
+    "translation": "She seems to have a hard time with this occult\nstuff."
+  },
+  {
+    "key": "evt_EV1_012S_0048",
+    "original": "",
+    "translation": "Yeah, it's true. Seems like the air through the\nslightly open window is causing them to sway."
+  },
+  {
+    "key": "evt_EV1_012S_0049",
+    "original": "",
+    "translation": "The window… is open?"
+  },
+  {
+    "key": "evt_EV1_012S_0050",
+    "original": "",
+    "translation": "It's the work of a yokai! I'm sure of it! It's\ngot to be one of those window-opening yokai! "
+  },
+  {
+    "key": "evt_EV1_012S_0051",
+    "original": "",
+    "translation": "I've never heard of a window-opening yokai.\nDon't just say whatever pops in your mind."
+  },
+  {
+    "key": "evt_EV1_012S_0052",
+    "original": "",
+    "translation": "Um, I'm not very good with that kind of stuff…\nIt's scary."
+  },
+  {
+    "key": "evt_EV1_012S_0053",
+    "original": "",
+    "translation": "I understand, but please don't worry—it's\nreally just the curtain."
+  },
+  {
+    "key": "evt_EV1_012S_0054",
+    "original": "",
+    "translation": "Thank goodness…"
+  },
+  {
+    "key": "evt_EV1_012S_0055",
+    "original": "",
+    "translation": "Being bad with the occult is very Asahina."
+  },
+  {
+    "key": "evt_EV1_012S_0056",
+    "original": "",
+    "translation": "It is without a doubt just the curtains but…\nthere's still something strange about it."
+  },
+  {
+    "key": "evt_EV1_012S_0057",
+    "original": "",
+    "translation": "Wh-what's strange?!"
+  },
+  {
+    "key": "evt_EV1_012S_0058",
+    "original": "",
+    "translation": "The window is slightly open. That allowed wind\nto blow in and shake the curtains…"
+  },
+  {
+    "key": "evt_EV1_012S_0059",
+    "original": "",
+    "translation": "It's strange that the window for a class no\none uses is open during summer break."
+  },
+  {
+    "key": "evt_EV1_012S_0060",
+    "original": "",
+    "translation": "So it is the work of a ghost, after all!"
+  },
+  {
+    "key": "evt_EV1_012S_0061",
+    "original": "",
+    "translation": "[#SK0Eeeeeeeeehhhhhhh]?!"
+  },
+  {
+    "key": "evt_EV1_012S_0062",
+    "original": "",
+    "translation": "I know she's not being serious, but Asahina\nwas frightened for real."
+  },
+  {
+    "key": "evt_EV1_012S_0063",
+    "original": "",
+    "translation": "Let's reflect on what you've done…"
+  },
+  {
+    "key": "evt_EV1_012S_0064",
+    "original": "",
+    "translation": "Anyways, someone must've just forgotten to\nclose the window before going home."
+  },
+  {
+    "key": "evt_EV1_012S_0065",
+    "original": "",
+    "translation": "Although it's summer vacation, there are still\nvarious club activities and summer classes."
+  },
+  {
+    "key": "evt_EV1_012S_0066",
+    "original": "",
+    "translation": "Ah… of course. That's right."
+  },
+  {
+    "key": "evt_EV1_012S_0067",
+    "original": "",
+    "translation": "Give me a break. It just being the curtain is\nway too disappointing to be fair."
+  },
+  {
+    "key": "evt_EV1_012S_0068",
+    "original": "",
+    "translation": "I had high hopes for it to be a hanged ghost\nor something."
+  },
+  {
+    "key": "evt_EV1_012S_0069",
+    "original": "",
+    "translation": "How could you even imagine something so\nnasty?"
+  },
+  {
+    "key": "evt_EV1_012S_0070",
+    "original": "",
+    "translation": "There's nothing strange about it. People talk\nabout that kind of thing all the time."
+  },
+  {
+    "key": "evt_EV1_012S_0071",
+    "original": "",
+    "translation": "The stress of having gotten bad grades\nleading to hanging yourself in the classroom…"
+  },
+  {
+    "key": "evt_EV1_012S_0072",
+    "original": "",
+    "translation": "They're left with a grudge and unable to rest\nin peace, so they haunt the school!"
+  },
+  {
+    "key": "evt_EV1_012S_0073",
+    "original": "",
+    "translation": "[#SE003][#SK0Suzumiya], please stop it!"
+  },
+  {
+    "key": "evt_EV1_012S_0074",
+    "original": "",
+    "translation": "Haruhi, that's enough. You're scaring\nAsahina."
+  },
+  {
+    "key": "evt_EV1_012S_0075",
+    "original": "",
+    "translation": "It's rumored that nobody who sees their\nfigure returns alive."
+  },
+  {
+    "key": "evt_EV1_012S_0076",
+    "original": "",
+    "translation": "Then how is the rumor spreading? All the\neyewitnesses should be dead."
+  },
+  {
+    "key": "evt_EV1_012S_0077",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_012S_0078",
+    "original": "",
+    "translation": "…That's what makes it unnatural phenomena,\nsurely."
+  },
+  {
+    "key": "evt_EV1_012S_0079",
+    "original": "",
+    "translation": "Once again, saying whatever comes to mind."
+  },
+  {
+    "key": "evt_EV1_012S_0080",
+    "original": "",
+    "translation": "This is no good, there's nothing here but\ndarkness."
+  },
+  {
+    "key": "evt_EV1_012S_0081",
+    "original": "",
+    "translation": "Let's look somewhere else."
+  },
+  {
+    "key": "evt_EV1_012S_0082",
+    "original": "",
+    "translation": "Th-there are other places we're going…?"
+  },
+  {
+    "key": "evt_EV1_012S_0083",
+    "original": "",
+    "translation": "It's only natural. Now then, little sister, tell us\nwhere we're going next."
+  },
+  {
+    "key": "evt_EV1_012S_0085",
+    "original": "",
+    "translation": "Hmm… Let's see…"
+  },
+  {
+    "key": "evt_EV1_012S_0086",
+    "original": "",
+    "translation": "Just say you want to go home."
+  },
+  {
+    "key": "evt_EV1_012S_0087",
+    "original": "",
+    "translation": "But I'm doing just fine?"
+  },
+  {
+    "key": "evt_EV1_012S_0088",
+    "original": "",
+    "translation": "It's a pity you can't pick up on your brother's\ntrue intentions, little sister."
+  },
+  {
+    "key": "evt_EV1_012S_0089",
+    "original": "",
+    "translation": "Ah, right. How about the library?"
+  },
+  {
+    "key": "evt_EV1_012S_0090",
+    "original": "",
+    "translation": "The library, huh… I see. Not a bad idea at all,\nit's right downstairs."
+  },
+  {
+    "key": "evt_EV1_012S_0091",
+    "original": "",
+    "translation": "Alright then, the library it is!"
+  },
+  {
+    "key": "evt_EV1_012S_0092",
+    "original": "",
+    "translation": "You say that… but being the middle of summer\nvacation, it's bound to be locked."
+  },
+  {
+    "key": "evt_EV1_012S_0093",
+    "original": "",
+    "translation": "The staff room is on the same floor isn't it?\nWe can just borrow the key from there."
+  },
+  {
+    "key": "evt_EV1_012S_0094",
+    "original": "",
+    "translation": "…Good grief, I wish you'd put that vitality of\nyours towards something else."
+  },
+  {
+    "key": "evt_EV1_012S_0095",
+    "original": "",
+    "translation": "Maybe on helping me with my summer homework\nor something—there's all sorts of options."
+  },
+  {
+    "key": "evt_EV1_012S_0098",
+    "original": "",
+    "translation": "We borrowed the key to the library exactly as\nHaruhi said, but…"
+  },
+  {
+    "key": "evt_EV1_012S_0099",
+    "original": "",
+    "translation": "Hey, Haruhi."
+  },
+  {
+    "key": "evt_EV1_012S_0100",
+    "original": "",
+    "translation": "What is it?"
+  },
+  {
+    "key": "evt_EV1_012S_0101",
+    "original": "",
+    "translation": "Be honest with me… How did you get the library\nkey?"
+  },
+  {
+    "key": "evt_EV1_012S_0102",
+    "original": "",
+    "translation": "I just told them I was going to borrow it, and\ndid."
+  },
+  {
+    "key": "evt_EV1_012S_0103",
+    "original": "",
+    "translation": "From who?"
+  },
+  {
+    "key": "evt_EV1_012S_0104",
+    "original": "",
+    "translation": "Beats me. No one was there."
+  },
+  {
+    "key": "evt_EV1_012S_0105",
+    "original": "",
+    "translation": "That's not what the general public would call\ngetting permission."
+  },
+  {
+    "key": "evt_EV1_012S_0106",
+    "original": "",
+    "translation": "T-this place is also dark."
+  },
+  {
+    "key": "evt_EV1_012S_0107",
+    "original": "",
+    "translation": "Should we turn on the lights? Where's the\nswitch~?"
+  },
+  {
+    "key": "evt_EV1_012S_0108",
+    "original": "",
+    "translation": "Oh, it's hard to find the switch in here. Where\nwas it again?"
+  },
+  {
+    "key": "evt_EV1_012S_0109",
+    "original": "",
+    "translation": "Kyon…"
+  },
+  {
+    "key": "evt_EV1_012S_0110",
+    "original": "",
+    "translation": "Everything's okay, I'm right here beside you."
+  },
+  {
+    "key": "evt_EV1_012S_0112",
+    "original": "",
+    "translation": "Even so, this darkness is seriously unsettling."
+  },
+  {
+    "key": "evt_EV1_012S_0113",
+    "original": "",
+    "translation": "So this is the creepiness of an empty school\nbuilding huh…"
+  },
+  {
+    "key": "evt_EV1_012S_0114",
+    "original": "",
+    "translation": "[#SK0Kyyaaaa]?!"
+  },
+  {
+    "key": "evt_EV1_012S_0115",
+    "original": "",
+    "translation": "Wh-what's wrong?"
+  },
+  {
+    "key": "evt_EV1_012S_0116",
+    "original": "",
+    "translation": "[#SK0J]-just now, the window was rattling!"
+  },
+  {
+    "key": "evt_EV1_012S_0117",
+    "original": "",
+    "translation": "It's a poltergeist!"
+  },
+  {
+    "key": "evt_EV1_012S_0118",
+    "original": "",
+    "translation": "P-pole ter geist?"
+  },
+  {
+    "key": "evt_EV1_012S_0119",
+    "original": "",
+    "translation": "It was the grudge of an evil spirit that made\nit rattle."
+  },
+  {
+    "key": "evt_EV1_012S_0120",
+    "original": "",
+    "translation": "It's just the wind, you know."
+  },
+  {
+    "key": "evt_EV1_012S_0121",
+    "original": "",
+    "translation": "You have no imagination. That's completely\nunacceptable as a member of our brigade!"
+  },
+  {
+    "key": "evt_EV1_012S_0122",
+    "original": "",
+    "translation": "I-it was the grudge of an evil spirit?"
+  },
+  {
+    "key": "evt_EV1_012S_0123",
+    "original": "",
+    "translation": "I can say with certainty that it's not. I'll\nprove it to you once this summer camp ends."
+  },
+  {
+    "key": "evt_EV1_012S_0124",
+    "original": "",
+    "translation": "O-okayyy…"
+  },
+  {
+    "key": "evt_EV1_012S_0125",
+    "original": "",
+    "translation": "She looks utterly terrified."
+  },
+  {
+    "key": "evt_EV1_012S_0126",
+    "original": "",
+    "translation": "Meanwhile, Haruhi has the nerve to cheerfully\nenjoy her little paranormal search."
+  },
+  {
+    "key": "evt_EV1_012S_0127",
+    "original": "",
+    "translation": "Looks like I should do something about this."
+  },
+  {
+    "key": "evt_EV1_012S_0128",
+    "original": "",
+    "translation": "Hey, Haruhi…"
+  },
+  {
+    "key": "evt_EV1_012S_0129",
+    "original": "",
+    "translation": "If you scare Asahina too much it'll get in the\nway of the investigation."
+  },
+  {
+    "key": "evt_EV1_012S_0130",
+    "original": "",
+    "translation": "I know, but having a scaredy-cat with me\nmakes me want to rise to their expectations."
+  },
+  {
+    "key": "evt_EV1_012S_0131",
+    "original": "",
+    "translation": "I don't think anyone's expecting anything of\nyou…"
+  },
+  {
+    "key": "evt_EV1_012S_0132",
+    "original": "",
+    "translation": "What about you. Isn't there anything you're\nafraid of?"
+  },
+  {
+    "key": "evt_EV1_012S_0133",
+    "original": "",
+    "translation": "Me? Of course there isn't—I'm the SOS\nBrigade Chief, you know?"
+  },
+  {
+    "key": "evt_EV1_012S_0134",
+    "original": "",
+    "translation": "Is there really nothing? You're certain?"
+  },
+  {
+    "key": "evt_EV1_012S_0135",
+    "original": "",
+    "translation": "There's nothing. I can assure you of that."
+  },
+  {
+    "key": "evt_EV1_012S_0136",
+    "original": "",
+    "translation": "…Well, I suppose even when you saw that\nenormous \"Celestial,” you were relatively calm."
+  },
+  {
+    "key": "evt_EV1_012S_0137",
+    "original": "",
+    "translation": "When Koizumi showed me, it kinda spooked me a\nlittle…"
+  },
+  {
+    "key": "evt_EV1_012S_0138",
+    "original": "",
+    "translation": "Asahina, you don't need to be afraid, so feel\nfree to relax."
+  },
+  {
+    "key": "evt_EV1_012S_0139",
+    "original": "",
+    "translation": "I'm here, and Nagato and Koizumi are here at\nschool too."
+  },
+  {
+    "key": "evt_EV1_012S_0140",
+    "original": "",
+    "translation": "With those two around, there's no need to be\nworried about most things. It'll be okay."
+  },
+  {
+    "key": "evt_EV1_012S_0141",
+    "original": "",
+    "translation": "Th-that's right—Nagato is also here, after\nall."
+  },
+  {
+    "key": "evt_EV1_012S_0142",
+    "original": "",
+    "translation": "As expected it seems that Nagato is the most\nreliable of the group."
+  },
+  {
+    "key": "evt_EV1_012S_0143",
+    "original": "",
+    "translation": "I guess it can't be helped."
+  },
+  {
+    "key": "evt_EV1_012S_0146",
+    "original": "",
+    "translation": "Mikuru! Behind you!"
+  },
+  {
+    "key": "evt_EV1_012S_0147",
+    "original": "",
+    "translation": "Eeeeeeeep?!"
+  },
+  {
+    "key": "evt_EV1_012S_0148",
+    "original": "",
+    "translation": "I lied, sorry!"
+  },
+  {
+    "key": "evt_EV1_012S_0149",
+    "original": "",
+    "translation": "Y-y-y-you just tried to scare me again,\nright?"
+  },
+  {
+    "key": "evt_EV1_012S_0150",
+    "original": "",
+    "translation": "—?! Mikuru watch your step!"
+  },
+  {
+    "key": "evt_EV1_012S_0151",
+    "original": "",
+    "translation": "[#SK0Eeeeeeeeeeeek]?!"
+  },
+  {
+    "key": "evt_EV1_012S_0152",
+    "original": "",
+    "translation": "Juuust kidding! It's honestly just because\nyou're so cute, Mikuru."
+  },
+  {
+    "key": "evt_EV1_012S_0153",
+    "original": "",
+    "translation": "[#SK0P]-pleeeease stop it!"
+  },
+  {
+    "key": "evt_EV1_012S_0154",
+    "original": "",
+    "translation": "After all that to calm her down, she's gone\nright back to how she was."
+  },
+  {
+    "key": "evt_EV1_012S_0155",
+    "original": "",
+    "translation": "Good grief…"
+  },
+  {
+    "key": "evt_EV1_012S_0157",
+    "original": "",
+    "translation": "Hmm, it doesn't seem like any of the library\nbooks have a lead about class 1-10."
+  },
+  {
+    "key": "evt_EV1_012S_0158",
+    "original": "",
+    "translation": "It doesn't seem like spirits or any of those\nkinds of phenomena will show up either."
+  },
+  {
+    "key": "evt_EV1_012S_0159",
+    "original": "",
+    "translation": "Sorry bout that, Haru-nyan."
+  },
+  {
+    "key": "evt_EV1_012S_0160",
+    "original": "",
+    "translation": "You didn't do anything wrong. It's the un-\nnatural phenomena's fault for not showing up."
+  },
+  {
+    "key": "evt_EV1_012S_0161",
+    "original": "",
+    "translation": "Right, let's keep exploring a bit longer. It's\nstarted to get a little fun."
+  },
+  {
+    "key": "evt_EV1_012S_0163",
+    "original": "",
+    "translation": "I'm getting sick of it."
+  },
+  {
+    "key": "evt_EV1_012S_0164",
+    "original": "",
+    "translation": "It would at least be good to let Asahina\nreturn to the clubroom."
+  },
+  {
+    "key": "evt_EV1_012S_0165",
+    "original": "",
+    "translation": "Asahina…"
+  },
+  {
+    "key": "evt_EV1_012S_0166",
+    "original": "",
+    "translation": "[#SK0Hyaaaa]?!"
+  },
+  {
+    "key": "evt_EV1_012S_0167",
+    "original": "",
+    "translation": "She's like this just from me calling out to her a\nlittle. She's absolutely terrified."
+  },
+  {
+    "key": "evt_EV1_012S_0168",
+    "original": "",
+    "translation": "You have my sympathy, Asahina…"
+  },
+  {
+    "key": "evt_EV1_012S_0169",
+    "original": "",
+    "translation": "Maybe we should head for the art room next!\nThat place is very suspicious!"
+  },
+  {
+    "key": "evt_EV1_012S_0170",
+    "original": "",
+    "translation": "Hey, give us a break… No seriously."
+  },
+  {
+    "key": "evt_EV1_012S_0171",
+    "original": "",
+    "translation": "Reassure her"
+  },
+  {
+    "key": "evt_EV1_012S_0172",
+    "original": "",
+    "translation": "Scare her a little"
+  },
+  {
+    "key": "evt_EV1_012S_0173",
+    "original": "",
+    "translation": "Calm Haruhi"
+  },
+  {
+    "key": "evt_EV1_012S_0174",
+    "original": "",
+    "translation": "Comfort Mikuru"
+  }
+]

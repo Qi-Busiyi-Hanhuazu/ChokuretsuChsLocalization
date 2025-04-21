@@ -1,0 +1,22 @@
+[
+  {
+    "key": "evt_CHS_KOI_08S_0000",
+    "original": "",
+    "translation": "Let's begin."
+  },
+  {
+    "key": "evt_CHS_KOI_08S_0001",
+    "original": "",
+    "translation": "Place the black king such that it is in\ncheckmate."
+  },
+  {
+    "key": "evt_CHS_KOI_08S_0002",
+    "original": "",
+    "translation": "That's correct. As expected of you."
+  },
+  {
+    "key": "evt_CHS_KOI_08S_0003",
+    "original": "",
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+  }
+]

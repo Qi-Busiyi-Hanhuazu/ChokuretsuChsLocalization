@@ -1,0 +1,862 @@
+[
+  {
+    "key": "evt_SCENARIOS_0000",
+    "original": "",
+    "translation": "Interviewing"
+  },
+  {
+    "key": "evt_SCENARIOS_0001",
+    "original": "",
+    "translation": "Go back to interview the computer\nsociety for more details."
+  },
+  {
+    "key": "evt_SCENARIOS_0002",
+    "original": "",
+    "translation": "Went back to interview the Computer\nResearch Society for more details."
+  },
+  {
+    "key": "evt_SCENARIOS_0004",
+    "original": "",
+    "translation": "Working alone"
+  },
+  {
+    "key": "evt_SCENARIOS_0006",
+    "original": "",
+    "translation": "With Mikuru"
+  },
+  {
+    "key": "evt_SCENARIOS_0008",
+    "original": "",
+    "translation": "With Nagato"
+  },
+  {
+    "key": "evt_SCENARIOS_0010",
+    "original": "",
+    "translation": "Working with Koizumi"
+  },
+  {
+    "key": "evt_SCENARIOS_0012",
+    "original": "",
+    "translation": "A flower in each hand?"
+  },
+  {
+    "key": "evt_SCENARIOS_0014",
+    "original": "",
+    "translation": "Koizumi's plan"
+  },
+  {
+    "key": "evt_SCENARIOS_0016",
+    "original": "",
+    "translation": "The cool two"
+  },
+  {
+    "key": "evt_SCENARIOS_0018",
+    "original": "",
+    "translation": "Everyone to the computer society"
+  },
+  {
+    "key": "evt_SCENARIOS_0019",
+    "original": "",
+    "translation": "Fieldwork"
+  },
+  {
+    "key": "evt_SCENARIOS_0020",
+    "original": "",
+    "translation": "Investigate the main building to find the\nrumored class 1-10."
+  },
+  {
+    "key": "evt_SCENARIOS_0021",
+    "original": "",
+    "translation": "Investigated the scene in the main school\nbuilding to find class 1-10."
+  },
+  {
+    "key": "evt_SCENARIOS_0023",
+    "original": "",
+    "translation": "Alone with Haruhi"
+  },
+  {
+    "key": "evt_SCENARIOS_0025",
+    "original": "",
+    "translation": "Boisterous girls"
+  },
+  {
+    "key": "evt_SCENARIOS_0027",
+    "original": "",
+    "translation": "Haruhi and Nagato"
+  },
+  {
+    "key": "evt_SCENARIOS_0029",
+    "original": "",
+    "translation": "A point of reference"
+  },
+  {
+    "key": "evt_SCENARIOS_0031",
+    "original": "",
+    "translation": "Preliminary investigation"
+  },
+  {
+    "key": "evt_SCENARIOS_0033",
+    "original": "",
+    "translation": "The SOS Brigade activity record"
+  },
+  {
+    "key": "evt_SCENARIOS_0035",
+    "original": "",
+    "translation": "Second raid"
+  },
+  {
+    "key": "evt_SCENARIOS_0037",
+    "original": "",
+    "translation": "Gathering the troops"
+  },
+  {
+    "key": "evt_SCENARIOS_0038",
+    "original": "",
+    "translation": "Stakeout"
+  },
+  {
+    "key": "evt_SCENARIOS_0039",
+    "original": "",
+    "translation": "Keep watch in front of the music room.\n(Assign at least 1 member)"
+  },
+  {
+    "key": "evt_SCENARIOS_0040",
+    "original": "",
+    "translation": "Kept watch outside the music room."
+  },
+  {
+    "key": "evt_SCENARIOS_0042",
+    "original": "",
+    "translation": "Reconfirmation"
+  },
+  {
+    "key": "evt_SCENARIOS_0044",
+    "original": "",
+    "translation": "Consultation"
+  },
+  {
+    "key": "evt_SCENARIOS_0046",
+    "original": "",
+    "translation": "For persuading Haruhi"
+  },
+  {
+    "key": "evt_SCENARIOS_0048",
+    "original": "",
+    "translation": "Koizumi's proposition"
+  },
+  {
+    "key": "evt_SCENARIOS_0050",
+    "original": "",
+    "translation": "An aged timbre"
+  },
+  {
+    "key": "evt_SCENARIOS_0052",
+    "original": "",
+    "translation": "The computer society's secret"
+  },
+  {
+    "key": "evt_SCENARIOS_0054",
+    "original": "",
+    "translation": "Suspicious conduct"
+  },
+  {
+    "key": "evt_SCENARIOS_0056",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0057",
+    "original": "",
+    "translation": "Research"
+  },
+  {
+    "key": "evt_SCENARIOS_0058",
+    "original": "",
+    "translation": "Do research based on the materials\nbrought from the library."
+  },
+  {
+    "key": "evt_SCENARIOS_0059",
+    "original": "",
+    "translation": "Researched with the materials brought\nfrom the library."
+  },
+  {
+    "key": "evt_SCENARIOS_0061",
+    "original": "",
+    "translation": "In the mountain of books"
+  },
+  {
+    "key": "evt_SCENARIOS_0063",
+    "original": "",
+    "translation": "In charge of odd jobs"
+  },
+  {
+    "key": "evt_SCENARIOS_0065",
+    "original": "",
+    "translation": "Reading time"
+  },
+  {
+    "key": "evt_SCENARIOS_0067",
+    "original": "",
+    "translation": "Hierarchy"
+  },
+  {
+    "key": "evt_SCENARIOS_0069",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0071",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0073",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0074",
+    "original": "",
+    "translation": "Key"
+  },
+  {
+    "key": "evt_SCENARIOS_0075",
+    "original": "",
+    "translation": "Go to the staff room to borrow the key to\nthe music room. (Assign at least 1 member)"
+  },
+  {
+    "key": "evt_SCENARIOS_0076",
+    "original": "",
+    "translation": "Went to the staff room and borrowed the key\nto the music room."
+  },
+  {
+    "key": "evt_SCENARIOS_0078",
+    "original": "",
+    "translation": "Kyon's strenuous effort"
+  },
+  {
+    "key": "evt_SCENARIOS_0080",
+    "original": "",
+    "translation": "Mikuru's great work"
+  },
+  {
+    "key": "evt_SCENARIOS_0082",
+    "original": "",
+    "translation": "Before you know it"
+  },
+  {
+    "key": "evt_SCENARIOS_0084",
+    "original": "",
+    "translation": "In anticipation"
+  },
+  {
+    "key": "evt_SCENARIOS_0086",
+    "original": "",
+    "translation": "Poster"
+  },
+  {
+    "key": "evt_SCENARIOS_0088",
+    "original": "",
+    "translation": "Songwriting contest"
+  },
+  {
+    "key": "evt_SCENARIOS_0090",
+    "original": "",
+    "translation": "North High's alumni"
+  },
+  {
+    "key": "evt_SCENARIOS_0092",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0093",
+    "original": "",
+    "translation": "Shopping"
+  },
+  {
+    "key": "evt_SCENARIOS_0094",
+    "original": "",
+    "translation": "Go buy ingredients for the barbecue."
+  },
+  {
+    "key": "evt_SCENARIOS_0095",
+    "original": "",
+    "translation": "Bought ingredients for the barbecue from\nthe shopping district."
+  },
+  {
+    "key": "evt_SCENARIOS_0097",
+    "original": "",
+    "translation": "Kyon and the stray cat"
+  },
+  {
+    "key": "evt_SCENARIOS_0099",
+    "original": "",
+    "translation": "Careless Mikuru"
+  },
+  {
+    "key": "evt_SCENARIOS_0101",
+    "original": "",
+    "translation": "Difficult choice"
+  },
+  {
+    "key": "evt_SCENARIOS_0103",
+    "original": "",
+    "translation": "Lottery ticket?"
+  },
+  {
+    "key": "evt_SCENARIOS_0105",
+    "original": "",
+    "translation": "A flower in each hand, again"
+  },
+  {
+    "key": "evt_SCENARIOS_0107",
+    "original": "",
+    "translation": "Mikuru and the stray cat"
+  },
+  {
+    "key": "evt_SCENARIOS_0109",
+    "original": "",
+    "translation": "The shopkeeper's favor"
+  },
+  {
+    "key": "evt_SCENARIOS_0111",
+    "original": "",
+    "translation": "Buying too much"
+  },
+  {
+    "key": "evt_SCENARIOS_0112",
+    "original": "",
+    "translation": "Tools"
+  },
+  {
+    "key": "evt_SCENARIOS_0113",
+    "original": "",
+    "translation": "Find the right tools for the barbecue."
+  },
+  {
+    "key": "evt_SCENARIOS_0114",
+    "original": "",
+    "translation": "Found a tool to use for the barbecue\ntogether with Haruhi."
+  },
+  {
+    "key": "evt_SCENARIOS_0116",
+    "original": "",
+    "translation": "Haphazard"
+  },
+  {
+    "key": "evt_SCENARIOS_0118",
+    "original": "",
+    "translation": "The maid is a slugger"
+  },
+  {
+    "key": "evt_SCENARIOS_0120",
+    "original": "",
+    "translation": "Wasted effort"
+  },
+  {
+    "key": "evt_SCENARIOS_0122",
+    "original": "",
+    "translation": "A mountain of oversights"
+  },
+  {
+    "key": "evt_SCENARIOS_0124",
+    "original": "",
+    "translation": "Computer society in a bind"
+  },
+  {
+    "key": "evt_SCENARIOS_0126",
+    "original": "",
+    "translation": "Derailment"
+  },
+  {
+    "key": "evt_SCENARIOS_0128",
+    "original": "",
+    "translation": "Handmade"
+  },
+  {
+    "key": "evt_SCENARIOS_0130",
+    "original": "",
+    "translation": "A mountain and a molehill"
+  },
+  {
+    "key": "evt_SCENARIOS_0131",
+    "original": "",
+    "translation": "Cooking prep."
+  },
+  {
+    "key": "evt_SCENARIOS_0132",
+    "original": "",
+    "translation": "Prepare the barbecue ingredients with\nHaruhi."
+  },
+  {
+    "key": "evt_SCENARIOS_0133",
+    "original": "",
+    "translation": "Prepared the barbecue ingredients together\nwith Haruhi."
+  },
+  {
+    "key": "evt_SCENARIOS_0135",
+    "original": "",
+    "translation": "Preparations"
+  },
+  {
+    "key": "evt_SCENARIOS_0137",
+    "original": "",
+    "translation": "Never before seen"
+  },
+  {
+    "key": "evt_SCENARIOS_0139",
+    "original": "",
+    "translation": "Lame story"
+  },
+  {
+    "key": "evt_SCENARIOS_0141",
+    "original": "",
+    "translation": "A huge bother"
+  },
+  {
+    "key": "evt_SCENARIOS_0142",
+    "original": "",
+    "translation": "To school"
+  },
+  {
+    "key": "evt_SCENARIOS_0143",
+    "original": "",
+    "translation": "Go to school with Mikuru to meet Tsuruya."
+  },
+  {
+    "key": "evt_SCENARIOS_0144",
+    "original": "",
+    "translation": "Met up with Tsuruya."
+  },
+  {
+    "key": "evt_SCENARIOS_0146",
+    "original": "",
+    "translation": "Feels like a date"
+  },
+  {
+    "key": "evt_SCENARIOS_0148",
+    "original": "",
+    "translation": "Nagato and a little sister"
+  },
+  {
+    "key": "evt_SCENARIOS_0150",
+    "original": "",
+    "translation": "Mikuru's disaster"
+  },
+  {
+    "key": "evt_SCENARIOS_0152",
+    "original": "",
+    "translation": "State of emergency"
+  },
+  {
+    "key": "evt_SCENARIOS_0153",
+    "original": "",
+    "translation": "Pool"
+  },
+  {
+    "key": "evt_SCENARIOS_0154",
+    "original": "",
+    "translation": "Monitor and investigate the pool for any\nunusual occurrences."
+  },
+  {
+    "key": "evt_SCENARIOS_0155",
+    "original": "",
+    "translation": "Monitored and investigated the pool for any\nunusual occurrences."
+  },
+  {
+    "key": "evt_SCENARIOS_0157",
+    "original": "",
+    "translation": "Poolside"
+  },
+  {
+    "key": "evt_SCENARIOS_0159",
+    "original": "",
+    "translation": "Which one's the moon?"
+  },
+  {
+    "key": "evt_SCENARIOS_0161",
+    "original": "",
+    "translation": "To our intergalactic friends"
+  },
+  {
+    "key": "evt_SCENARIOS_0163",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0164",
+    "original": "",
+    "translation": "To the school"
+  },
+  {
+    "key": "evt_SCENARIOS_0165",
+    "original": "",
+    "translation": "Set up a trap in the school building with\nKoizumi to draw Haruhi away from the pool."
+  },
+  {
+    "key": "evt_SCENARIOS_0166",
+    "original": "",
+    "translation": "Set up a trap in the school building with\nKoizumi to draw Haruhi away from the pool."
+  },
+  {
+    "key": "evt_SCENARIOS_0168",
+    "original": "",
+    "translation": "Group work"
+  },
+  {
+    "key": "evt_SCENARIOS_0170",
+    "original": "",
+    "translation": "That fellow in the science lab"
+  },
+  {
+    "key": "evt_SCENARIOS_0172",
+    "original": "",
+    "translation": "The science of fear"
+  },
+  {
+    "key": "evt_SCENARIOS_0174",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0175",
+    "original": "",
+    "translation": "Shopping"
+  },
+  {
+    "key": "evt_SCENARIOS_0176",
+    "original": "",
+    "translation": "Go shopping for a late-night meal. \n(Assign at least 1 member)"
+  },
+  {
+    "key": "evt_SCENARIOS_0177",
+    "original": "",
+    "translation": "Went shopping for a late-night meal."
+  },
+  {
+    "key": "evt_SCENARIOS_0179",
+    "original": "",
+    "translation": "To the convenience store at night"
+  },
+  {
+    "key": "evt_SCENARIOS_0181",
+    "original": "",
+    "translation": "Mikuru's shopping"
+  },
+  {
+    "key": "evt_SCENARIOS_0183",
+    "original": "",
+    "translation": "What Nagato wants"
+  },
+  {
+    "key": "evt_SCENARIOS_0185",
+    "original": "",
+    "translation": "A shopping bag in each hand"
+  },
+  {
+    "key": "evt_SCENARIOS_0186",
+    "original": "",
+    "translation": "Prevention"
+  },
+  {
+    "key": "evt_SCENARIOS_0187",
+    "original": "",
+    "translation": "Somehow prevent Haruhi from leaving the\nclubroom."
+  },
+  {
+    "key": "evt_SCENARIOS_0188",
+    "original": "",
+    "translation": "Prevented Haruhi from leaving the clubroom."
+  },
+  {
+    "key": "evt_SCENARIOS_0190",
+    "original": "",
+    "translation": "The last stand"
+  },
+  {
+    "key": "evt_SCENARIOS_0192",
+    "original": "",
+    "translation": "Bandage"
+  },
+  {
+    "key": "evt_SCENARIOS_0194",
+    "original": "",
+    "translation": "Nagato's fear?"
+  },
+  {
+    "key": "evt_SCENARIOS_0196",
+    "original": "",
+    "translation": "The rules of the test of courage"
+  },
+  {
+    "key": "evt_SCENARIOS_0198",
+    "original": "",
+    "translation": "The Kingdom of Shadows"
+  },
+  {
+    "key": "evt_SCENARIOS_0200",
+    "original": "",
+    "translation": "I can't accept it"
+  },
+  {
+    "key": "evt_SCENARIOS_0202",
+    "original": "",
+    "translation": "Trying again"
+  },
+  {
+    "key": "evt_SCENARIOS_0204",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0205",
+    "original": "",
+    "translation": "Capture"
+  },
+  {
+    "key": "evt_SCENARIOS_0206",
+    "original": "",
+    "translation": "Capture the members of the computer\nsociety. (Assign at least 1 member)"
+  },
+  {
+    "key": "evt_SCENARIOS_0207",
+    "original": "",
+    "translation": "Captured the computer society members who\nhave been acting strangely."
+  },
+  {
+    "key": "evt_SCENARIOS_0209",
+    "original": "",
+    "translation": "Singing your own praises"
+  },
+  {
+    "key": "evt_SCENARIOS_0211",
+    "original": "",
+    "translation": "Unreliable partner"
+  },
+  {
+    "key": "evt_SCENARIOS_0213",
+    "original": "",
+    "translation": "Reliable partner"
+  },
+  {
+    "key": "evt_SCENARIOS_0215",
+    "original": "",
+    "translation": "Give and take"
+  },
+  {
+    "key": "evt_SCENARIOS_0217",
+    "original": "",
+    "translation": "Both extremes"
+  },
+  {
+    "key": "evt_SCENARIOS_0219",
+    "original": "",
+    "translation": "Big trouble?!"
+  },
+  {
+    "key": "evt_SCENARIOS_0221",
+    "original": "",
+    "translation": "An unexpected reunion"
+  },
+  {
+    "key": "evt_SCENARIOS_0223",
+    "original": "",
+    "translation": "Traces"
+  },
+  {
+    "key": "evt_SCENARIOS_0224",
+    "original": "",
+    "translation": "Pieces"
+  },
+  {
+    "key": "evt_SCENARIOS_0225",
+    "original": "",
+    "translation": "Collect the chess pieces as evidence of\ncompleting the test of courage."
+  },
+  {
+    "key": "evt_SCENARIOS_0226",
+    "original": "",
+    "translation": "Collected the chess pieces as evidence of\ncompleting the test of courage."
+  },
+  {
+    "key": "evt_SCENARIOS_0228",
+    "original": "",
+    "translation": "Extra victims"
+  },
+  {
+    "key": "evt_SCENARIOS_0230",
+    "original": "",
+    "translation": "Stolen goods"
+  },
+  {
+    "key": "evt_SCENARIOS_0232",
+    "original": "",
+    "translation": "A merciless individual"
+  },
+  {
+    "key": "evt_SCENARIOS_0234",
+    "original": "",
+    "translation": "Follow them"
+  },
+  {
+    "key": "evt_SCENARIOS_0236",
+    "original": "",
+    "translation": "Unforeseen"
+  },
+  {
+    "key": "evt_SCENARIOS_0238",
+    "original": "",
+    "translation": "Uneasiness"
+  },
+  {
+    "key": "evt_SCENARIOS_0240",
+    "original": "",
+    "translation": "There's no one here"
+  },
+  {
+    "key": "evt_SCENARIOS_0242",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0243",
+    "original": "",
+    "translation": "Prevention"
+  },
+  {
+    "key": "evt_SCENARIOS_0244",
+    "original": "",
+    "translation": "Hold up Haruhi in the clubroom. \n(Assign at least 1 member)"
+  },
+  {
+    "key": "evt_SCENARIOS_0245",
+    "original": "",
+    "translation": "Held up Haruhi in the clubroom."
+  },
+  {
+    "key": "evt_SCENARIOS_0247",
+    "original": "",
+    "translation": "Game"
+  },
+  {
+    "key": "evt_SCENARIOS_0249",
+    "original": "",
+    "translation": "Miscalculation"
+  },
+  {
+    "key": "evt_SCENARIOS_0251",
+    "original": "",
+    "translation": "Climax"
+  },
+  {
+    "key": "evt_SCENARIOS_0253",
+    "original": "",
+    "translation": "Tournament"
+  },
+  {
+    "key": "evt_SCENARIOS_0254",
+    "original": "",
+    "translation": "Clock rigging"
+  },
+  {
+    "key": "evt_SCENARIOS_0255",
+    "original": "",
+    "translation": "Manipulate the hands on the clock to avoid\nthe time when the strange phenomenon occurs."
+  },
+  {
+    "key": "evt_SCENARIOS_0256",
+    "original": "",
+    "translation": "Manipulated the hands on the clock to avoid\nthe time when the strange phenomenon occurs."
+  },
+  {
+    "key": "evt_SCENARIOS_0258",
+    "original": "",
+    "translation": "Working in solitude"
+  },
+  {
+    "key": "evt_SCENARIOS_0260",
+    "original": "",
+    "translation": "Near miss"
+  },
+  {
+    "key": "evt_SCENARIOS_0262",
+    "original": "",
+    "translation": "A nearby blind spot"
+  },
+  {
+    "key": "evt_SCENARIOS_0264",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0265",
+    "original": "",
+    "translation": "Mirror"
+  },
+  {
+    "key": "evt_SCENARIOS_0266",
+    "original": "",
+    "translation": "Tamper with the mirror so that Haruhi doesn't\nsee."
+  },
+  {
+    "key": "evt_SCENARIOS_0267",
+    "original": "",
+    "translation": "Tampered with the mirror so that Haruhi\ndoesn't see."
+  },
+  {
+    "key": "evt_SCENARIOS_0269",
+    "original": "",
+    "translation": "Straightforward duty"
+  },
+  {
+    "key": "evt_SCENARIOS_0271",
+    "original": "",
+    "translation": "State of emergency"
+  },
+  {
+    "key": "evt_SCENARIOS_0273",
+    "original": "",
+    "translation": "Two options"
+  },
+  {
+    "key": "evt_SCENARIOS_0275",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_SCENARIOS_0276",
+    "original": "",
+    "translation": "Singularity"
+  },
+  {
+    "key": "evt_SCENARIOS_0277",
+    "original": "",
+    "translation": "Set up the chess piece that Nagato will make\ninto a singularity."
+  },
+  {
+    "key": "evt_SCENARIOS_0278",
+    "original": "",
+    "translation": "Singularity (chess piece) placed."
+  },
+  {
+    "key": "evt_SCENARIOS_0280",
+    "original": "",
+    "translation": "Trace the abnormality"
+  },
+  {
+    "key": "evt_SCENARIOS_0282",
+    "original": "",
+    "translation": "All alone"
+  },
+  {
+    "key": "evt_SCENARIOS_0284",
+    "original": "",
+    "translation": "Keeping busy"
+  },
+  {
+    "key": "evt_SCENARIOS_0286",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "key": "evt_CHS_KOI_03S_0000",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0001",
+    "original": "",
+    "translation": "Let's next explain how each piece moves."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0002",
+    "original": "",
+    "translation": "Firstly, these are the basic rules that\ngovern the movement of pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0003",
+    "original": "",
+    "translation": "1. You cannot jump one piece over another."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0004",
+    "original": "",
+    "translation": "Whether an enemy or ally piece, you can't\nmake one piece jump past another."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0005",
+    "original": "",
+    "translation": "2. You cannot move to a tile with an ally piece\nin it."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0006",
+    "original": "",
+    "translation": "You cannot enter a tile with an ally piece on it.\nYou must stop right before their tile."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0007",
+    "original": "",
+    "translation": "3. You can capture the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0008",
+    "original": "",
+    "translation": "You can move to the tile of an enemy piece by\ncapturing the piece."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0009",
+    "original": "",
+    "translation": "You cannot then continue to advance in the\nsame turn. You must stop on the tile."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0010",
+    "original": "",
+    "translation": "Now we understand the basic rules, we'll\nexplain how each piece moves."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0011",
+    "original": "",
+    "translation": "1. The movement of the king."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0012",
+    "original": "",
+    "translation": "The king is the most important piece…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0013",
+    "original": "",
+    "translation": "…but it only moves 1 tile adjacently or\ndiagonally."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0014",
+    "original": "",
+    "translation": "It cannot share a tile with an ally piece, but it\ncan capture the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0015",
+    "original": "",
+    "translation": "It cannot move to tiles under attack by the\nopponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0016",
+    "original": "",
+    "translation": "2. The movement of the queen."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0017",
+    "original": "",
+    "translation": "The queen is the most powerful piece in chess."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0018",
+    "original": "",
+    "translation": "It can move freely in every direction, including\ndiagonals."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0019",
+    "original": "",
+    "translation": "It cannot share a tile with an ally piece, but it\ncan capture the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0020",
+    "original": "",
+    "translation": "3. The movement of the bishop."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0021",
+    "original": "",
+    "translation": "Bishops can move freely in diagonals."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0022",
+    "original": "",
+    "translation": "They're no different to bishops in shogi."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0023",
+    "original": "",
+    "translation": "It cannot share a tile with an ally piece, but it\ncan capture the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0024",
+    "original": "",
+    "translation": "4. The movement of the knight."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0025",
+    "original": "",
+    "translation": "The knights move in a rather complicated way."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0026",
+    "original": "",
+    "translation": "They can move to tiles to the left or right of\na tile two tiles away in any direction."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0027",
+    "original": "",
+    "translation": "It's similar to a shogi knight, but it can make\nthe movement in any direction."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0028",
+    "original": "",
+    "translation": "It's a little complicated, but it's an important\nmovement, so try to remember it."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0029",
+    "original": "",
+    "translation": "There's another special rule to the knight's\nmovement."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0030",
+    "original": "",
+    "translation": "They are the only pieces that can jump past\nother pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0031",
+    "original": "",
+    "translation": "The knights play an important role in putting\npressure on a king…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0032",
+    "original": "",
+    "translation": "…which is hiding in its camp."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0033",
+    "original": "",
+    "translation": "5. The movement of the rook."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0034",
+    "original": "",
+    "translation": "Rooks can move freely forwards, backwards,\nleft, and right."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0035",
+    "original": "",
+    "translation": "They're no different to rooks in shogi."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0036",
+    "original": "",
+    "translation": "It cannot share a tile with an ally piece, but it\ncan capture the opponent's pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0037",
+    "original": "",
+    "translation": "6. The movement of the pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0038",
+    "original": "",
+    "translation": "Pawns can move one space forwards."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0039",
+    "original": "",
+    "translation": "They're no different to pawns in shogi."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0040",
+    "original": "",
+    "translation": "However, pawns are a little bit complicated…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0041",
+    "original": "",
+    "translation": "…and they have a few special rules to them."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0042",
+    "original": "",
+    "translation": "Special rule 1. They can move up to two spaces\nforwards on their first move."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0043",
+    "original": "",
+    "translation": "For each pawn, the first time it makes a move\nin a game…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0044",
+    "original": "",
+    "translation": "…it can move two spaces forwards."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0045",
+    "original": "",
+    "translation": "Special rule 2. Capturing pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0046",
+    "original": "",
+    "translation": "Normal pieces can take pieces that are within\ntheir range of movement…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0047",
+    "original": "",
+    "translation": "…but pawns cannot take pieces that are\ndirectly in front of them."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0048",
+    "original": "",
+    "translation": "In other words, if there is an enemy piece\nblocking a pawn, it cannot move."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0049",
+    "original": "",
+    "translation": "Instead, they can make a special movement\nwhen capturing enemy pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0050",
+    "original": "",
+    "translation": "Pawns can capture pieces diagonally forward\nfrom them."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0051",
+    "original": "",
+    "translation": "The white piece on the bottom screen can\nmove to the highlighted tiles to capture…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0052",
+    "original": "",
+    "translation": "…if there is an enemy on those tiles."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0053",
+    "original": "",
+    "translation": "Pawns can only advance forwards, not\nbackwards."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0054",
+    "original": "",
+    "translation": "Remember that they can only capture enemy\npieces diagonally forward from them."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0055",
+    "original": "",
+    "translation": "Special rule 3. En passant."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0056",
+    "original": "",
+    "translation": "There is a special rule to pawns called \"en\npassant.”"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0057",
+    "original": "",
+    "translation": "Pawns can move up to two spaces forwards\non their first move."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0058",
+    "original": "",
+    "translation": "Only when a pawn has moved two spaces\nforwards…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0059",
+    "original": "",
+    "translation": "…does this special rule apply."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0060",
+    "original": "",
+    "translation": "If you have a pawn on the fifth row…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0061",
+    "original": "",
+    "translation": "…if the opponent's pawn on the adjacent\ncolumn advances two tiles…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0062",
+    "original": "",
+    "translation": "…you can move your pawn diagonally\nforwards to capture the opponent's pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0063",
+    "original": "",
+    "translation": "This is called \"en passant.”"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0064",
+    "original": "",
+    "translation": "En passant is a rule that only occurs\nbetween pawns."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0065",
+    "original": "",
+    "translation": "Also, this rule does not apply if the\nopponent's pawn makes another move…"
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0066",
+    "original": "",
+    "translation": "…after they have advanced two tiles\nforwards."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0067",
+    "original": "",
+    "translation": "This rule only applies directly after the\nopponent makes the move."
+  },
+  {
+    "key": "evt_CHS_KOI_03S_0068",
+    "original": "",
+    "translation": "That concludes the explanation of the pieces'\nmovements."
+  }
+]

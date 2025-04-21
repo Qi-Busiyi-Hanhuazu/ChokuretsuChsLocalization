@@ -1,0 +1,32 @@
+[
+  {
+    "key": "evt_CHS_HAL_13S_0000",
+    "original": "",
+    "translation": "Alright, next puzzle!"
+  },
+  {
+    "key": "evt_CHS_HAL_13S_0001",
+    "original": "",
+    "translation": "This one's easy, so solve it at once!"
+  },
+  {
+    "key": "evt_CHS_HAL_13S_0002",
+    "original": "",
+    "translation": "Checkmate your opponent in four moves\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_HAL_13S_0003",
+    "original": "",
+    "translation": "That's correct! Well, with a puzzle this easy\nit's not a surprise at all!"
+  },
+  {
+    "key": "evt_CHS_HAL_13S_0004",
+    "original": "",
+    "translation": "Geez, that's obviously not how you do it!"
+  },
+  {
+    "key": "evt_CHS_HAL_13S_0005",
+    "original": "",
+    "translation": "Maybe you should ask Koizumi to teach you\none more time?"
+  }
+]

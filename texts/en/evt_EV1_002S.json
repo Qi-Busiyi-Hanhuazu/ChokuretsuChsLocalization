@@ -1,0 +1,792 @@
+[
+  {
+    "key": "evt_EV1_002S_0000",
+    "original": "",
+    "translation": "Come on, everyone—hurry!"
+  },
+  {
+    "key": "evt_EV1_002S_0001",
+    "original": "",
+    "translation": "You too, little sister. Come on!"
+  },
+  {
+    "key": "evt_EV1_002S_0002",
+    "original": "",
+    "translation": "Coming!"
+  },
+  {
+    "key": "evt_EV1_002S_0003",
+    "original": "",
+    "translation": "Haruhi led the way, gushing with motivation\nthat'll only cause trouble for the rest of us."
+  },
+  {
+    "key": "evt_EV1_002S_0004",
+    "original": "",
+    "translation": "Well, that's just the way it always is."
+  },
+  {
+    "key": "evt_EV1_002S_0005",
+    "original": "",
+    "translation": "Even so, ghost stories in midsummer is such a\ncliché it makes me want to cry."
+  },
+  {
+    "key": "evt_EV1_002S_0006",
+    "original": "",
+    "translation": "Well, if we just go along with Haruhi, she'll be\nsatisfied and—"
+  },
+  {
+    "key": "evt_EV1_002S_0007",
+    "original": "",
+    "translation": "No, she's not that straightforward…"
+  },
+  {
+    "key": "evt_EV1_002S_0008",
+    "original": "",
+    "translation": "I just saw something outside the window…"
+  },
+  {
+    "key": "evt_EV1_002S_0009",
+    "original": "",
+    "translation": "Really? What was it?"
+  },
+  {
+    "key": "evt_EV1_002S_0010",
+    "original": "",
+    "translation": "It wasn't a bird or anything. It was definitely\nhuman-sized."
+  },
+  {
+    "key": "evt_EV1_002S_0011",
+    "original": "",
+    "translation": "…Human-sized? That's ridiculous, there's no\nway that could—"
+  },
+  {
+    "key": "evt_EV1_002S_0013",
+    "original": "",
+    "translation": "Whoa…?!"
+  },
+  {
+    "key": "evt_EV1_002S_0014",
+    "original": "",
+    "translation": "H-huh? Kyon, what's going on?"
+  },
+  {
+    "key": "evt_EV1_002S_0015",
+    "original": "",
+    "translation": "I-I'm just seeing things, right…?"
+  },
+  {
+    "key": "evt_EV1_002S_0016",
+    "original": "",
+    "translation": "Is something wrong, Kyon?"
+  },
+  {
+    "key": "evt_EV1_002S_0017",
+    "original": "",
+    "translation": "…Nothing, just my imagination."
+  },
+  {
+    "key": "evt_EV1_002S_0018",
+    "original": "",
+    "translation": "I get it. It's all just an optical illusion."
+  },
+  {
+    "key": "evt_EV1_002S_0019",
+    "original": "",
+    "translation": "My brain secreted a strange substance\nafter hearing Haruhi's ghost story."
+  },
+  {
+    "key": "evt_EV1_002S_0020",
+    "original": "",
+    "translation": "I'm sure that's all it is."
+  },
+  {
+    "key": "evt_EV1_002S_0022",
+    "original": "",
+    "translation": "I've figured out the scientific explanation, so\nlet's go, Asahina."
+  },
+  {
+    "key": "evt_EV1_002S_0023",
+    "original": "",
+    "translation": "Haruhi will get mad if we just sit here\nabsentmindedly."
+  },
+  {
+    "key": "evt_EV1_002S_0024",
+    "original": "",
+    "translation": "That's right…"
+  },
+  {
+    "key": "evt_EV1_002S_0025",
+    "original": "",
+    "translation": "…I'm not sure what's going on, but she\ncertainly gets mad when we're late."
+  },
+  {
+    "key": "evt_EV1_002S_0026",
+    "original": "",
+    "translation": "Asahina had a curious look on her face."
+  },
+  {
+    "key": "evt_EV1_002S_0027",
+    "original": "",
+    "translation": "The moment she heard Haruhi's name, she\ngave a pained smile and agreed."
+  },
+  {
+    "key": "evt_EV1_002S_0029",
+    "original": "",
+    "translation": "Alright, let's quickly catch up—"
+  },
+  {
+    "key": "evt_EV1_002S_0030",
+    "original": "",
+    "translation": "Huh…?!"
+  },
+  {
+    "key": "evt_EV1_002S_0031",
+    "original": "",
+    "translation": "What's happening? I'm dizzy all of a sudden…"
+  },
+  {
+    "key": "evt_EV1_002S_0033",
+    "original": "",
+    "translation": "Huh…"
+  },
+  {
+    "key": "evt_EV1_002S_0034",
+    "original": "",
+    "translation": "It's not too often in life that you doubt your\nown eyes."
+  },
+  {
+    "key": "evt_EV1_002S_0035",
+    "original": "",
+    "translation": "And yet, I've now experienced it twice in just a\nfew minutes."
+  },
+  {
+    "key": "evt_EV1_002S_0036",
+    "original": "",
+    "translation": "…Actually, now isn't the time for detached\ncommentary."
+  },
+  {
+    "key": "evt_EV1_002S_0037",
+    "original": "",
+    "translation": "Is this… the main building?"
+  },
+  {
+    "key": "evt_EV1_002S_0038",
+    "original": "",
+    "translation": "Just a moment ago, I was in the hallway\nleading from the clubroom to the main building."
+  },
+  {
+    "key": "evt_EV1_002S_0039",
+    "original": "",
+    "translation": "But in an instant, I had entered the\nfirst-year hallway."
+  },
+  {
+    "key": "evt_EV1_002S_0040",
+    "original": "",
+    "translation": "And what's more, Asahina, who had been by my\nside, was gone."
+  },
+  {
+    "key": "evt_EV1_002S_0041",
+    "original": "",
+    "translation": "No, maybe it was me who had disappeared?"
+  },
+  {
+    "key": "evt_EV1_002S_0042",
+    "original": "",
+    "translation": "Teleportation? Something else? Why did this\nhappen?"
+  },
+  {
+    "key": "evt_EV1_002S_0043",
+    "original": "",
+    "translation": "…I have no idea."
+  },
+  {
+    "key": "evt_EV1_002S_0044",
+    "original": "",
+    "translation": "Generally, this sort of thing should be left to\nKoizumi."
+  },
+  {
+    "key": "evt_EV1_002S_0045",
+    "original": "",
+    "translation": "I'll just head back to the clubroom building for\nnow."
+  },
+  {
+    "key": "evt_EV1_002S_0046",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_002S_0047",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_002S_0048",
+    "original": "",
+    "translation": "…Wait wait wait wait!"
+  },
+  {
+    "key": "evt_EV1_002S_0049",
+    "original": "",
+    "translation": "There's definitely something strange going on\nhere!"
+  },
+  {
+    "key": "evt_EV1_002S_0050",
+    "original": "",
+    "translation": "No matter how far I walk, the hallway never\nends. I don't believe it!"
+  },
+  {
+    "key": "evt_EV1_002S_0051",
+    "original": "",
+    "translation": "I already had a feeling, but this really\ndoesn't seem to be any ordinary place."
+  },
+  {
+    "key": "evt_EV1_002S_0052",
+    "original": "",
+    "translation": "Oh, right, I'll open the window and go outside…"
+  },
+  {
+    "key": "evt_EV1_002S_0053",
+    "original": "",
+    "translation": "Damn, it won't even budge?"
+  },
+  {
+    "key": "evt_EV1_002S_0054",
+    "original": "",
+    "translation": "…What should I do?"
+  },
+  {
+    "key": "evt_EV1_002S_0055",
+    "original": "",
+    "translation": "If I keep walking, I'm only going to waste my\nenergy."
+  },
+  {
+    "key": "evt_EV1_002S_0056",
+    "original": "",
+    "translation": "So much for my long-awaited summer vacation."
+  },
+  {
+    "key": "evt_EV1_002S_0057",
+    "original": "",
+    "translation": "Why do I have to feel like a hamster spinning\nin a wheel?"
+  },
+  {
+    "key": "evt_EV1_002S_0058",
+    "original": "",
+    "translation": "Why would anyone want to trap me here\nanyway?"
+  },
+  {
+    "key": "evt_EV1_002S_0059",
+    "original": "",
+    "translation": "Not to mention, in such a convoluted way."
+  },
+  {
+    "key": "evt_EV1_002S_0060",
+    "original": "",
+    "translation": "No… wait."
+  },
+  {
+    "key": "evt_EV1_002S_0061",
+    "original": "",
+    "translation": "I don't know the reason or purpose, but there\nis always only one \"cause.”"
+  },
+  {
+    "key": "evt_EV1_002S_0062",
+    "original": "",
+    "translation": "Haruhi Suzumiya."
+  },
+  {
+    "key": "evt_EV1_002S_0063",
+    "original": "",
+    "translation": "If that's the case, then maybe…"
+  },
+  {
+    "key": "evt_EV1_002S_0064",
+    "original": "",
+    "translation": "I saw the classroom door by my side… and…"
+  },
+  {
+    "key": "evt_EV1_002S_0065",
+    "original": "",
+    "translation": "Why do the things we don't want to see show\nup so vividly like this?"
+  },
+  {
+    "key": "evt_EV1_002S_0066",
+    "original": "",
+    "translation": "There it was, the thing we—"
+  },
+  {
+    "key": "evt_EV1_002S_0067",
+    "original": "",
+    "translation": "No, the thing Haruhi's looking for—the door\nto that \"class 1-10” towered before me."
+  },
+  {
+    "key": "evt_EV1_002S_0068",
+    "original": "",
+    "translation": "And, politely, it was ever so slightly ajar."
+  },
+  {
+    "key": "evt_EV1_002S_0069",
+    "original": "",
+    "translation": "What…? Are you… trying to tell me to come in?"
+  },
+  {
+    "key": "evt_EV1_002S_0070",
+    "original": "",
+    "translation": "I would never open such a blatantly\nsuspicious door under normal circumstances."
+  },
+  {
+    "key": "evt_EV1_002S_0071",
+    "original": "",
+    "translation": "However…"
+  },
+  {
+    "key": "evt_EV1_002S_0072",
+    "original": "",
+    "translation": "The hallway goes on forever and the windows\nare stuck as if time has stopped."
+  },
+  {
+    "key": "evt_EV1_002S_0073",
+    "original": "",
+    "translation": "This door is my last hope…"
+  },
+  {
+    "key": "evt_EV1_002S_0074",
+    "original": "",
+    "translation": "Should I try opening it?"
+  },
+  {
+    "key": "evt_EV1_002S_0075",
+    "original": "",
+    "translation": "Is that the only choice I have…?"
+  },
+  {
+    "key": "evt_EV1_002S_0076",
+    "original": "",
+    "translation": "In a situation like this, that's probably just\nthe way it is…"
+  },
+  {
+    "key": "evt_EV1_002S_0077",
+    "original": "",
+    "translation": "When I reached out and put light pressure on\nthe class 1-10 door, it moved easily."
+  },
+  {
+    "key": "evt_EV1_002S_0078",
+    "original": "",
+    "translation": "Ah, is that how it is?"
+  },
+  {
+    "key": "evt_EV1_002S_0079",
+    "original": "",
+    "translation": "Seems like this is the only place I can go."
+  },
+  {
+    "key": "evt_EV1_002S_0080",
+    "original": "",
+    "translation": "Hey Haruhi. This classroom doesn't actually\neat people, right?"
+  },
+  {
+    "key": "evt_EV1_002S_0081",
+    "original": "",
+    "translation": "…What is this place?"
+  },
+  {
+    "key": "evt_EV1_002S_0082",
+    "original": "",
+    "translation": "I thought I'd entered the classroom, but it\nwas a room without windows or anything."
+  },
+  {
+    "key": "evt_EV1_002S_0083",
+    "original": "",
+    "translation": "Wait a second… I've been through this\nbefore…"
+  },
+  {
+    "key": "evt_EV1_002S_0084",
+    "original": "",
+    "translation": "When I turned around, the door I came\nthrough was gone."
+  },
+  {
+    "key": "evt_EV1_002S_0085",
+    "original": "",
+    "translation": "It's just like when I was almost killed in a\nclassroom before."
+  },
+  {
+    "key": "evt_EV1_002S_0086",
+    "original": "",
+    "translation": "But the only thing they have in common is that\nI don't see a way out."
+  },
+  {
+    "key": "evt_EV1_002S_0087",
+    "original": "",
+    "translation": "So far there doesn't seem to be anything\nlife-threatening."
+  },
+  {
+    "key": "evt_EV1_002S_0088",
+    "original": "",
+    "translation": "Instead of a woman with a knife in the room,\nthere was just a single laptop."
+  },
+  {
+    "key": "evt_EV1_002S_0089",
+    "original": "",
+    "translation": "What? Am I supposed to write an auto-biogr-\naphy or a novel? Or is this for communication?"
+  },
+  {
+    "key": "evt_EV1_002S_0090",
+    "original": "",
+    "translation": "At any rate, the only things I saw were a\ndesk, a chair, and the laptop."
+  },
+  {
+    "key": "evt_EV1_002S_0091",
+    "original": "",
+    "translation": "After some hesitation, I reached for the\nlaptop."
+  },
+  {
+    "key": "evt_EV1_002S_0092",
+    "original": "",
+    "translation": "Right then…"
+  },
+  {
+    "key": "evt_EV1_002S_0093",
+    "original": "",
+    "translation": "Don't touch that."
+  },
+  {
+    "key": "evt_EV1_002S_0094",
+    "original": "",
+    "translation": "Huh?!"
+  },
+  {
+    "key": "evt_EV1_002S_0095",
+    "original": "",
+    "translation": "From behind me came the usual emotionless\nvoice."
+  },
+  {
+    "key": "evt_EV1_002S_0096",
+    "original": "",
+    "translation": "But for now it was as if the goddess of\nsalvation had descended."
+  },
+  {
+    "key": "evt_EV1_002S_0098",
+    "original": "",
+    "translation": "Nagato…!"
+  },
+  {
+    "key": "evt_EV1_002S_0099",
+    "original": "",
+    "translation": "Stay away."
+  },
+  {
+    "key": "evt_EV1_002S_0100",
+    "original": "",
+    "translation": "She means from the computer, right? Is it\nreally that dangerous?"
+  },
+  {
+    "key": "evt_EV1_002S_0101",
+    "original": "",
+    "translation": "Nagato, what the hell is going on? Is this\nHaruhi's doing?"
+  },
+  {
+    "key": "evt_EV1_002S_0102",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_002S_0103",
+    "original": "",
+    "translation": "Actually, more importantly…"
+  },
+  {
+    "key": "evt_EV1_002S_0104",
+    "original": "",
+    "translation": "Where the hell is this place? I thought I was\nentering a classroom."
+  },
+  {
+    "key": "evt_EV1_002S_0105",
+    "original": "",
+    "translation": "You did."
+  },
+  {
+    "key": "evt_EV1_002S_0106",
+    "original": "",
+    "translation": "But obviously something strange is going on\nhere."
+  },
+  {
+    "key": "evt_EV1_002S_0107",
+    "original": "",
+    "translation": "This place is out of phase with normal space."
+  },
+  {
+    "key": "evt_EV1_002S_0108",
+    "original": "",
+    "translation": "A parallel world?"
+  },
+  {
+    "key": "evt_EV1_002S_0109",
+    "original": "",
+    "translation": "Not precisely, but there is no problem with you\nconceptualizing it that way."
+  },
+  {
+    "key": "evt_EV1_002S_0110",
+    "original": "",
+    "translation": "Anyway, I've had enough of this gloomy place.\nAny chance we can go back?"
+  },
+  {
+    "key": "evt_EV1_002S_0111",
+    "original": "",
+    "translation": "The connection with the original space is not\nyet completely severed."
+  },
+  {
+    "key": "evt_EV1_002S_0112",
+    "original": "",
+    "translation": "But it's only a matter of time."
+  },
+  {
+    "key": "evt_EV1_002S_0113",
+    "original": "",
+    "translation": "I don't understand at all."
+  },
+  {
+    "key": "evt_EV1_002S_0114",
+    "original": "",
+    "translation": "Well, we can escape from this infinite hell\nthough, right?"
+  },
+  {
+    "key": "evt_EV1_002S_0115",
+    "original": "",
+    "translation": "It's possible."
+  },
+  {
+    "key": "evt_EV1_002S_0116",
+    "original": "",
+    "translation": "Well, you can go ahead and get it over and\ndone with then."
+  },
+  {
+    "key": "evt_EV1_002S_0117",
+    "original": "",
+    "translation": "It is not recommended."
+  },
+  {
+    "key": "evt_EV1_002S_0118",
+    "original": "",
+    "translation": "What's the problem?"
+  },
+  {
+    "key": "evt_EV1_002S_0119",
+    "original": "",
+    "translation": "We can escape from this space, but we should\nnot leave it be."
+  },
+  {
+    "key": "evt_EV1_002S_0120",
+    "original": "",
+    "translation": "This space is expanding and will soon\nencompass the entire school."
+  },
+  {
+    "key": "evt_EV1_002S_0121",
+    "original": "",
+    "translation": "Or even further than that."
+  },
+  {
+    "key": "evt_EV1_002S_0122",
+    "original": "",
+    "translation": "If that happens, the original space will be\neroded and transformed."
+  },
+  {
+    "key": "evt_EV1_002S_0123",
+    "original": "",
+    "translation": "You mean the original world become like this?"
+  },
+  {
+    "key": "evt_EV1_002S_0124",
+    "original": "",
+    "translation": "I don't understand the details, but it'll be a\nbig nuisance to the neighborhood, right?"
+  },
+  {
+    "key": "evt_EV1_002S_0125",
+    "original": "",
+    "translation": "Yes."
+  },
+  {
+    "key": "evt_EV1_002S_0126",
+    "original": "",
+    "translation": "In that case, shouldn't we just destroy this\nmessed-up space?"
+  },
+  {
+    "key": "evt_EV1_002S_0127",
+    "original": "",
+    "translation": "Forcibly eliminating or erasing this space…"
+  },
+  {
+    "key": "evt_EV1_002S_0128",
+    "original": "",
+    "translation": "…may have an impact on the original space."
+  },
+  {
+    "key": "evt_EV1_002S_0129",
+    "original": "",
+    "translation": "An impact? What kind?"
+  },
+  {
+    "key": "evt_EV1_002S_0130",
+    "original": "",
+    "translation": "Details are unknown. However, the extent and\ndegree of the impact can be inferred."
+  },
+  {
+    "key": "evt_EV1_002S_0131",
+    "original": "",
+    "translation": "Wait… Just wait a second, Nagato."
+  },
+  {
+    "key": "evt_EV1_002S_0132",
+    "original": "",
+    "translation": "I wish Koizumi were here to translate this into\nsomething easier to understand."
+  },
+  {
+    "key": "evt_EV1_002S_0133",
+    "original": "",
+    "translation": "But he isn't here now, so this explanation\nmakes no sense to me."
+  },
+  {
+    "key": "evt_EV1_002S_0134",
+    "original": "",
+    "translation": "So, in the end, what's your recommended way\nof dealing with this?"
+  },
+  {
+    "key": "evt_EV1_002S_0135",
+    "original": "",
+    "translation": "Make this space naturally dissolve."
+  },
+  {
+    "key": "evt_EV1_002S_0136",
+    "original": "",
+    "translation": "In order to make the space naturally\ndissolve…"
+  },
+  {
+    "key": "evt_EV1_002S_0137",
+    "original": "",
+    "translation": "…it is necessary to erase the \"singularities”\nthat serve as the space's structural cores."
+  },
+  {
+    "key": "evt_EV1_002S_0138",
+    "original": "",
+    "translation": "You can do that, right?"
+  },
+  {
+    "key": "evt_EV1_002S_0139",
+    "original": "",
+    "translation": "Currently impossible."
+  },
+  {
+    "key": "evt_EV1_002S_0140",
+    "original": "",
+    "translation": "Right now, I am focusing on suppressing its\nexpansion and analyzing its cause."
+  },
+  {
+    "key": "evt_EV1_002S_0141",
+    "original": "",
+    "translation": "Your cooperation is required in order to bring\nabout natural dissolution."
+  },
+  {
+    "key": "evt_EV1_002S_0142",
+    "original": "",
+    "translation": "Sounds like it's pretty serious then, huh…\nAlright, what do you want me to do?"
+  },
+  {
+    "key": "evt_EV1_002S_0143",
+    "original": "",
+    "translation": "[#DP]"
+  },
+  {
+    "key": "evt_EV1_002S_0144",
+    "original": "",
+    "translation": "Having heard my words, Nagato turned and\nheaded to the edge of the former classroom."
+  },
+  {
+    "key": "evt_EV1_002S_0145",
+    "original": "",
+    "translation": "You want me to follow you, right?"
+  },
+  {
+    "key": "evt_EV1_002S_0146",
+    "original": "",
+    "translation": "Nagato stopped in front of the cleaning\nsupplies locker."
+  },
+  {
+    "key": "evt_EV1_002S_0147",
+    "original": "",
+    "translation": "She picked up a mop and muttered something\nquickly."
+  },
+  {
+    "key": "evt_EV1_002S_0148",
+    "original": "",
+    "translation": "Sweep with this."
+  },
+  {
+    "key": "evt_EV1_002S_0149",
+    "original": "",
+    "translation": "I took the mop she handed me without\ncomplaining, but…"
+  },
+  {
+    "key": "evt_EV1_002S_0150",
+    "original": "",
+    "translation": "Where?"
+  },
+  {
+    "key": "evt_EV1_002S_0151",
+    "original": "",
+    "translation": "Where you are standing."
+  },
+  {
+    "key": "evt_EV1_002S_0152",
+    "original": "",
+    "translation": "I guess if you're gonna sweep anything with a\nmop, it'd probably be the floor."
+  },
+  {
+    "key": "evt_EV1_002S_0153",
+    "original": "",
+    "translation": "This isn't just any mop, though.\nIt's been specially modified by Nagato."
+  },
+  {
+    "key": "evt_EV1_002S_0154",
+    "original": "",
+    "translation": "Besides, what else was I going to do? I've\njust got to do as Nagato says."
+  },
+  {
+    "key": "evt_EV1_002S_0155",
+    "original": "",
+    "translation": "[#P04Would] you like to play the tutorial for the\npuzzle phase?"
+  },
+  {
+    "key": "evt_EV1_002S_0156",
+    "original": "",
+    "translation": "And so, I erased the singularity or whatever\nwhile Nagato lectured me."
+  },
+  {
+    "key": "evt_EV1_002S_0157",
+    "original": "",
+    "translation": "However, once I'd erased a few of the\nsingularities, something abnormal happened."
+  },
+  {
+    "key": "evt_EV1_002S_0158",
+    "original": "",
+    "translation": "I felt like my body was being forcefully pulled\nsomewhere."
+  },
+  {
+    "key": "evt_EV1_002S_0159",
+    "original": "",
+    "translation": "The very next moment, I was back in the\noriginal hallway."
+  },
+  {
+    "key": "evt_EV1_002S_0160",
+    "original": "",
+    "translation": "[#P04Now] starting the tutorial for the Puzzle\nPhase."
+  },
+  {
+    "key": "evt_EV1_002S_0161",
+    "original": "",
+    "translation": "Skip tutorial"
+  },
+  {
+    "key": "evt_EV1_002S_0162",
+    "original": "",
+    "translation": "Play tutorial"
+  }
+]

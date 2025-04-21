@@ -1,0 +1,22 @@
+[
+  {
+    "key": "evt_CHS_NAG_13S_0000",
+    "original": "",
+    "translation": "Presenting the thirteenth puzzle."
+  },
+  {
+    "key": "evt_CHS_NAG_13S_0001",
+    "original": "",
+    "translation": "Checkmate your opponent in three moves\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_NAG_13S_0002",
+    "original": "",
+    "translation": "Correct.\nPreparing the next one."
+  },
+  {
+    "key": "evt_CHS_NAG_13S_0003",
+    "original": "",
+    "translation": "Incorrect.\nAccepting retries."
+  }
+]

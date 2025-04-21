@@ -1,0 +1,112 @@
+[
+  {
+    "key": "evt_CHS_KOI_05S_0001",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0002",
+    "original": "",
+    "translation": "We will now explain promotion."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0003",
+    "original": "",
+    "translation": "Promotion is similar to the promotion rule in\nshogi."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0004",
+    "original": "",
+    "translation": "It's a rule that allows the pawn to be\npromoted into a different piece…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0005",
+    "original": "",
+    "translation": "…if it reaches the top or bottom row on the\nboard."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0006",
+    "original": "",
+    "translation": "If a white pawn reaches the eighth row, or\nfor a black pawn, the first row…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0007",
+    "original": "",
+    "translation": "…it can be promoted into any piece other\nthan a king or a pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0008",
+    "original": "",
+    "translation": "From then on, it operates as that piece until\nthe end of the game."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0009",
+    "original": "",
+    "translation": "In general, unless there's a good reason to\ndo otherwise, it's standard to…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0010",
+    "original": "",
+    "translation": "…promote into the strongest piece, the\nqueen, although depending on the situation…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0011",
+    "original": "",
+    "translation": "…it may be more beneficial to promote into the\nknight, the bishop, or the rook."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0012",
+    "original": "",
+    "translation": "Depending on how you promote…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0013",
+    "original": "",
+    "translation": "…you can obtain two or more queens."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0014",
+    "original": "",
+    "translation": "Let's give it a try on the bottom screen."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0015",
+    "original": "",
+    "translation": "Let's begin."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0016",
+    "original": "",
+    "translation": "Checkmate your opponent with one move of\nthe pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0017",
+    "original": "",
+    "translation": "Checkmate your opponent in one move."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0018",
+    "original": "",
+    "translation": "That's correct. As expected of you."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0019",
+    "original": "",
+    "translation": "That concludes the explanation of promotion."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0020",
+    "original": "",
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0021",
+    "original": "",
+    "translation": "When promoting, pay close attention to the\nposition of the black king…"
+  },
+  {
+    "key": "evt_CHS_KOI_05S_0022",
+    "original": "",
+    "translation": "…and choose your promotion carefully."
+  }
+]

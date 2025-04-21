@@ -1,0 +1,222 @@
+[
+  {
+    "key": "evt_TR05S_0000",
+    "original": "",
+    "translation": "The time limit has reached zero. This is \"Time\nOver.”"
+  },
+  {
+    "key": "evt_TR05S_0001",
+    "original": "",
+    "translation": "Normally the menu would appear now, and you\nwould be presented with the options to…"
+  },
+  {
+    "key": "evt_TR05S_0002",
+    "original": "",
+    "translation": "…try again and start the Puzzle Phase over,\nload a save, or return to the title screen."
+  },
+  {
+    "key": "evt_TR05S_0003",
+    "original": "",
+    "translation": "But just this once, you can continue from\nwhere you left off."
+  },
+  {
+    "key": "evt_TR05S_0004",
+    "original": "",
+    "translation": "If this were a Puzzle Phase in the main story,\nthis would be game over instead."
+  },
+  {
+    "key": "evt_TR05S_0005",
+    "original": "",
+    "translation": "So please be careful."
+  },
+  {
+    "key": "evt_TR05S_0006",
+    "original": "",
+    "translation": "You've run out of time this time, but for future\nreference…"
+  },
+  {
+    "key": "evt_TR05S_0007",
+    "original": "",
+    "translation": "…here are some hints to help you achieve\nvictory in the Puzzle Phase."
+  },
+  {
+    "key": "evt_TR05S_0008",
+    "original": "",
+    "translation": "1. Try to keep the Haruhi Meter as far to the\nright as possible."
+  },
+  {
+    "key": "evt_TR05S_0009",
+    "original": "",
+    "translation": "By moving the Haruhi Meter to the right, you\ncan directly increase your bonus time limit."
+  },
+  {
+    "key": "evt_TR05S_0010",
+    "original": "",
+    "translation": "In addition to that…"
+  },
+  {
+    "key": "evt_TR05S_0011",
+    "original": "",
+    "translation": "…it has an effect on the Haruhi Route on the\ntop screen."
+  },
+  {
+    "key": "evt_TR05S_0012",
+    "original": "",
+    "translation": "The higher the Haruhi Meter, the number and\npositioning of event points that allow you…"
+  },
+  {
+    "key": "evt_TR05S_0013",
+    "original": "",
+    "translation": "…to delay Haruhi become more advanta-\ngeous. So be mindful of keeping the…"
+  },
+  {
+    "key": "evt_TR05S_0014",
+    "original": "",
+    "translation": "…Haruhi Meter as far to the right as possible\nin the Investigation Phase."
+  },
+  {
+    "key": "evt_TR05S_0015",
+    "original": "",
+    "translation": "2. Acquire as many Topics as possible."
+  },
+  {
+    "key": "evt_TR05S_0016",
+    "original": "",
+    "translation": "Especially Mikuru Asahina, Yuki Nagato, and\nItsuki Koizumi's Topics, called Character Topics."
+  },
+  {
+    "key": "evt_TR05S_0017",
+    "original": "",
+    "translation": "By collecting these, you can power up the\nplayable character, or, by using them…"
+  },
+  {
+    "key": "evt_TR05S_0018",
+    "original": "",
+    "translation": "…double the Delay effect."
+  },
+  {
+    "key": "evt_TR05S_0019",
+    "original": "",
+    "translation": "When you use a Character Topic to delay, you\nwill lose the effect of their power-up."
+  },
+  {
+    "key": "evt_TR05S_0020",
+    "original": "",
+    "translation": "So while searching, think about whose topic to\nuse in your situation…"
+  },
+  {
+    "key": "evt_TR05S_0021",
+    "original": "",
+    "translation": "…and formulate a strategy. That way you will\nbe able to…"
+  },
+  {
+    "key": "evt_TR05S_0022",
+    "original": "",
+    "translation": "…maximize the use of your Character Topics."
+  },
+  {
+    "key": "evt_TR05S_0023",
+    "original": "",
+    "translation": "3. Try to search as efficiently as possible."
+  },
+  {
+    "key": "evt_TR05S_0024",
+    "original": "",
+    "translation": "Overlapping your searches, or using point\nsearch on every tile…"
+  },
+  {
+    "key": "evt_TR05S_0025",
+    "original": "",
+    "translation": "…will only serve to lose you time."
+  },
+  {
+    "key": "evt_TR05S_0026",
+    "original": "",
+    "translation": "Until you become more experienced, press the\nY button to pause each time you search…"
+  },
+  {
+    "key": "evt_TR05S_0027",
+    "original": "",
+    "translation": "…and review the complete map while you think\nabout the best action to take next."
+  },
+  {
+    "key": "evt_TR05S_0028",
+    "original": "",
+    "translation": "4. Acquire \"Main Topics.”"
+  },
+  {
+    "key": "evt_TR05S_0029",
+    "original": "",
+    "translation": "When an Accident occurs, the time limit is\ndecreased dramatically."
+  },
+  {
+    "key": "evt_TR05S_0030",
+    "original": "",
+    "translation": "If you acquire a Main Topic, you will be able to\navoid that basic penalty."
+  },
+  {
+    "key": "evt_TR05S_0031",
+    "original": "",
+    "translation": "When it comes to distributing your group\nmembers, sending Kyon alone…"
+  },
+  {
+    "key": "evt_TR05S_0032",
+    "original": "",
+    "translation": "…will allow you to acquire all of the Main Topics\nalong that route."
+  },
+  {
+    "key": "evt_TR05S_0033",
+    "original": "",
+    "translation": "It's generally a good idea to check each of\nthe available Main Topics…"
+  },
+  {
+    "key": "evt_TR05S_0034",
+    "original": "",
+    "translation": "…on each route."
+  },
+  {
+    "key": "evt_TR05S_0035",
+    "original": "",
+    "translation": "For those saying \"I can't beat it no matter\nwhat!” or \"I want to progress faster!”…"
+  },
+  {
+    "key": "evt_TR05S_0036",
+    "original": "",
+    "translation": "…select \"Puzzle Phase” from the system\nsettings in the config menu."
+  },
+  {
+    "key": "evt_TR05S_0037",
+    "original": "",
+    "translation": "From there you can turn on \"Topic Stock\nMode.”"
+  },
+  {
+    "key": "evt_TR05S_0038",
+    "original": "",
+    "translation": "In each Puzzle Phase, you'll be able to bring in\nall of the usable topics that…"
+  },
+  {
+    "key": "evt_TR05S_0039",
+    "original": "",
+    "translation": "…you have obtained."
+  },
+  {
+    "key": "evt_TR05S_0040",
+    "original": "",
+    "translation": "If you play the Puzzle Phase a few times and\nsave the data, you will have plenty…"
+  },
+  {
+    "key": "evt_TR05S_0041",
+    "original": "",
+    "translation": "…of topics to bring to use in the Puzzle\nPhase."
+  },
+  {
+    "key": "evt_TR05S_0042",
+    "original": "",
+    "translation": "If you turn \"Topic Stock Mode” on…"
+  },
+  {
+    "key": "evt_TR05S_0043",
+    "original": "",
+    "translation": "…it will have no other effect on the game's\ncontent."
+  }
+]

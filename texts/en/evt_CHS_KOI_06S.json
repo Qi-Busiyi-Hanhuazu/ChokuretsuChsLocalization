@@ -1,0 +1,162 @@
+[
+  {
+    "key": "evt_CHS_KOI_06S_0001",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0002",
+    "original": "",
+    "translation": "Let's explain how to play \"chess mode.”"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0003",
+    "original": "",
+    "translation": "In this mode, your objective is to solve the\nchess puzzles presented by…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0004",
+    "original": "",
+    "translation": "…each of the characters."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0005",
+    "original": "",
+    "translation": "Presenting the puzzles will be the five\ncharacters—Itsuki Koizumi, Mikuru Asahina…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0006",
+    "original": "",
+    "translation": "…Tsuruya, Yuki Nagato, and Haruhi Suzumiya.\nItsuki Koizumi and Mikuru Asahina are…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0007",
+    "original": "",
+    "translation": "…selectable by default, but in order to unlock\nthe other three's puzzles…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0008",
+    "original": "",
+    "translation": "…you must first solve a certain amount of\npuzzles."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0009",
+    "original": "",
+    "translation": "Solving Mikuru Asahina's problems will unlock\nTsuruya's—solving Tsuruya's puzzles…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0010",
+    "original": "",
+    "translation": "…will unlock Yuki Nagato's—solving Yuki\nNagato's puzzles will unlock…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0011",
+    "original": "",
+    "translation": "…Haruhi Suzumiya's."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0012",
+    "original": "",
+    "translation": "If you solve every character's puzzles, you\nwill unlock exclusive event artwork…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0013",
+    "original": "",
+    "translation": "…so please give it your best."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0014",
+    "original": "",
+    "translation": "There are two main types of chess puzzles."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0015",
+    "original": "",
+    "translation": "In one, your objective is to checkmate the\nblack king in the prescribed number of moves."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0016",
+    "original": "",
+    "translation": "Carefully observe the state of the board\nand move the pieces such that you…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0017",
+    "original": "",
+    "translation": "…checkmate in the set number of moves.\nThere are even some puzzles with a time limit."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0018",
+    "original": "",
+    "translation": "In the other, your objective is to place the\nblack king…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0019",
+    "original": "",
+    "translation": "…such that it is in checkmate."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0020",
+    "original": "",
+    "translation": "Carefully observe the state of the board,\nand touch the square that you think will work."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0021",
+    "original": "",
+    "translation": "The black king will be placed in that square,\nand if that causes a checkmate…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0022",
+    "original": "",
+    "translation": "…it will be considered correct, otherwise it will\nbe considered incorrect."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0023",
+    "original": "",
+    "translation": "Some of these puzzles also have a time limit."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0024",
+    "original": "",
+    "translation": "Let's have a go at solving some chess\npuzzles for real."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0025",
+    "original": "",
+    "translation": "I've prepared a simple puzzle, so consider\neverything you've been told…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0026",
+    "original": "",
+    "translation": "…and have a casual go at it."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0027",
+    "original": "",
+    "translation": "Let's begin."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0028",
+    "original": "",
+    "translation": "Checkmate your opponent in one move."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0029",
+    "original": "",
+    "translation": "That's correct. As expected of you."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0030",
+    "original": "",
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0031",
+    "original": "",
+    "translation": "If you forget the rules of chess, you can\ncheck them again by…"
+  },
+  {
+    "key": "evt_CHS_KOI_06S_0032",
+    "original": "",
+    "translation": "…playing the first puzzle once again."
+  }
+]

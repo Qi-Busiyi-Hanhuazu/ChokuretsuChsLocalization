@@ -1,0 +1,5422 @@
+[
+  {
+    "key": "evt_TOPICS_0000",
+    "original": "",
+    "translation": "Memory Card"
+  },
+  {
+    "key": "evt_TOPICS_0001",
+    "original": "",
+    "translation": "Avoids the corresponding Accident.    "
+  },
+  {
+    "key": "evt_TOPICS_0002",
+    "original": "",
+    "translation": "Poster Misprint"
+  },
+  {
+    "key": "evt_TOPICS_0003",
+    "original": "",
+    "translation": "Avoids the corresponding Accident.    "
+  },
+  {
+    "key": "evt_TOPICS_0004",
+    "original": "",
+    "translation": "Class 6 Plate"
+  },
+  {
+    "key": "evt_TOPICS_0005",
+    "original": "",
+    "translation": "Avoids the corresponding Accident.    "
+  },
+  {
+    "key": "evt_TOPICS_0006",
+    "original": "",
+    "translation": "Broken Music Box"
+  },
+  {
+    "key": "evt_TOPICS_0007",
+    "original": "",
+    "translation": "Avoids the corresponding Accident.    "
+  },
+  {
+    "key": "evt_TOPICS_0008",
+    "original": "",
+    "translation": "Mysterious Sheet Music"
+  },
+  {
+    "key": "evt_TOPICS_0009",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0010",
+    "original": "",
+    "translation": "Alumni Register"
+  },
+  {
+    "key": "evt_TOPICS_0011",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0012",
+    "original": "",
+    "translation": "Contest Poster"
+  },
+  {
+    "key": "evt_TOPICS_0013",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0014",
+    "original": "",
+    "translation": "Music Disc"
+  },
+  {
+    "key": "evt_TOPICS_0015",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0016",
+    "original": "",
+    "translation": "Stray Cat"
+  },
+  {
+    "key": "evt_TOPICS_0017",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0018",
+    "original": "",
+    "translation": "CD Player"
+  },
+  {
+    "key": "evt_TOPICS_0019",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0020",
+    "original": "",
+    "translation": "Science Textbook"
+  },
+  {
+    "key": "evt_TOPICS_0021",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0022",
+    "original": "",
+    "translation": "Choir Club"
+  },
+  {
+    "key": "evt_TOPICS_0023",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0024",
+    "original": "",
+    "translation": "Full Moon"
+  },
+  {
+    "key": "evt_TOPICS_0025",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0026",
+    "original": "",
+    "translation": "Flashlight"
+  },
+  {
+    "key": "evt_TOPICS_0027",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0028",
+    "original": "",
+    "translation": "Anatomical Model"
+  },
+  {
+    "key": "evt_TOPICS_0029",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0030",
+    "original": "",
+    "translation": "Fireworks"
+  },
+  {
+    "key": "evt_TOPICS_0031",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0032",
+    "original": "",
+    "translation": "Beach Ball"
+  },
+  {
+    "key": "evt_TOPICS_0033",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0034",
+    "original": "",
+    "translation": "Shadow Puppetry"
+  },
+  {
+    "key": "evt_TOPICS_0035",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0036",
+    "original": "",
+    "translation": "Spirit Photograph"
+  },
+  {
+    "key": "evt_TOPICS_0037",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0038",
+    "original": "",
+    "translation": "Stain on the Wall"
+  },
+  {
+    "key": "evt_TOPICS_0039",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0040",
+    "original": "",
+    "translation": "Photosynthesis"
+  },
+  {
+    "key": "evt_TOPICS_0041",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0042",
+    "original": "",
+    "translation": "Dragging Marks"
+  },
+  {
+    "key": "evt_TOPICS_0043",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0044",
+    "original": "",
+    "translation": "Petals"
+  },
+  {
+    "key": "evt_TOPICS_0045",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0046",
+    "original": "",
+    "translation": "Twins"
+  },
+  {
+    "key": "evt_TOPICS_0047",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0048",
+    "original": "",
+    "translation": "Hastily Scribbled Notes"
+  },
+  {
+    "key": "evt_TOPICS_0049",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0050",
+    "original": "",
+    "translation": "Cell Phone"
+  },
+  {
+    "key": "evt_TOPICS_0051",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0052",
+    "original": "",
+    "translation": "New Ability"
+  },
+  {
+    "key": "evt_TOPICS_0053",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0054",
+    "original": "",
+    "translation": "Curtain"
+  },
+  {
+    "key": "evt_TOPICS_0055",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0056",
+    "original": "",
+    "translation": "Spot"
+  },
+  {
+    "key": "evt_TOPICS_0057",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0058",
+    "original": "",
+    "translation": "Summer Insect"
+  },
+  {
+    "key": "evt_TOPICS_0059",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0060",
+    "original": "",
+    "translation": "Reflection"
+  },
+  {
+    "key": "evt_TOPICS_0061",
+    "original": "",
+    "translation": "Avoids the corresponding accident."
+  },
+  {
+    "key": "evt_TOPICS_0062",
+    "original": "",
+    "translation": "Memory Card"
+  },
+  {
+    "key": "evt_TOPICS_0063",
+    "original": "",
+    "translation": "This is accident 01."
+  },
+  {
+    "key": "evt_TOPICS_0064",
+    "original": "",
+    "translation": "Poster Misprint"
+  },
+  {
+    "key": "evt_TOPICS_0065",
+    "original": "",
+    "translation": "This is accident 02."
+  },
+  {
+    "key": "evt_TOPICS_0066",
+    "original": "",
+    "translation": "Class 6 Plate"
+  },
+  {
+    "key": "evt_TOPICS_0067",
+    "original": "",
+    "translation": "This is accident 03."
+  },
+  {
+    "key": "evt_TOPICS_0068",
+    "original": "",
+    "translation": "Broken Music Box"
+  },
+  {
+    "key": "evt_TOPICS_0069",
+    "original": "",
+    "translation": "This is accident 04."
+  },
+  {
+    "key": "evt_TOPICS_0070",
+    "original": "",
+    "translation": "Mysterious Sheet Music"
+  },
+  {
+    "key": "evt_TOPICS_0071",
+    "original": "",
+    "translation": "This is accident 05."
+  },
+  {
+    "key": "evt_TOPICS_0072",
+    "original": "",
+    "translation": "Alumni Register"
+  },
+  {
+    "key": "evt_TOPICS_0073",
+    "original": "",
+    "translation": "This is accident 06."
+  },
+  {
+    "key": "evt_TOPICS_0074",
+    "original": "",
+    "translation": "Contest Poster"
+  },
+  {
+    "key": "evt_TOPICS_0075",
+    "original": "",
+    "translation": "This is accident 07."
+  },
+  {
+    "key": "evt_TOPICS_0076",
+    "original": "",
+    "translation": "Music Disc"
+  },
+  {
+    "key": "evt_TOPICS_0077",
+    "original": "",
+    "translation": "This is accident 08."
+  },
+  {
+    "key": "evt_TOPICS_0078",
+    "original": "",
+    "translation": "Stray Cat"
+  },
+  {
+    "key": "evt_TOPICS_0079",
+    "original": "",
+    "translation": "This is accident 09."
+  },
+  {
+    "key": "evt_TOPICS_0080",
+    "original": "",
+    "translation": "CD Player"
+  },
+  {
+    "key": "evt_TOPICS_0081",
+    "original": "",
+    "translation": "This is accident 10."
+  },
+  {
+    "key": "evt_TOPICS_0082",
+    "original": "",
+    "translation": "Science Textbook"
+  },
+  {
+    "key": "evt_TOPICS_0083",
+    "original": "",
+    "translation": "This is accident 11."
+  },
+  {
+    "key": "evt_TOPICS_0084",
+    "original": "",
+    "translation": "Choir Club"
+  },
+  {
+    "key": "evt_TOPICS_0085",
+    "original": "",
+    "translation": "This is accident 12."
+  },
+  {
+    "key": "evt_TOPICS_0086",
+    "original": "",
+    "translation": "Full Moon"
+  },
+  {
+    "key": "evt_TOPICS_0087",
+    "original": "",
+    "translation": "This is accident 13."
+  },
+  {
+    "key": "evt_TOPICS_0088",
+    "original": "",
+    "translation": "Flashlight"
+  },
+  {
+    "key": "evt_TOPICS_0089",
+    "original": "",
+    "translation": "This is accident 14."
+  },
+  {
+    "key": "evt_TOPICS_0090",
+    "original": "",
+    "translation": "Anatomical Model"
+  },
+  {
+    "key": "evt_TOPICS_0091",
+    "original": "",
+    "translation": "This is accident 15."
+  },
+  {
+    "key": "evt_TOPICS_0092",
+    "original": "",
+    "translation": "Fireworks"
+  },
+  {
+    "key": "evt_TOPICS_0093",
+    "original": "",
+    "translation": "This is accident 16."
+  },
+  {
+    "key": "evt_TOPICS_0094",
+    "original": "",
+    "translation": "Beach Ball"
+  },
+  {
+    "key": "evt_TOPICS_0095",
+    "original": "",
+    "translation": "This is accident 17."
+  },
+  {
+    "key": "evt_TOPICS_0096",
+    "original": "",
+    "translation": "Shadow Puppetry"
+  },
+  {
+    "key": "evt_TOPICS_0097",
+    "original": "",
+    "translation": "This is accident 18."
+  },
+  {
+    "key": "evt_TOPICS_0098",
+    "original": "",
+    "translation": "Spirit Photograph"
+  },
+  {
+    "key": "evt_TOPICS_0099",
+    "original": "",
+    "translation": "This is accident 19."
+  },
+  {
+    "key": "evt_TOPICS_0100",
+    "original": "",
+    "translation": "Stain on the Wall"
+  },
+  {
+    "key": "evt_TOPICS_0101",
+    "original": "",
+    "translation": "This is accident 20."
+  },
+  {
+    "key": "evt_TOPICS_0102",
+    "original": "",
+    "translation": "Photosynthesis"
+  },
+  {
+    "key": "evt_TOPICS_0103",
+    "original": "",
+    "translation": "This is accident 21."
+  },
+  {
+    "key": "evt_TOPICS_0104",
+    "original": "",
+    "translation": "Dragging Marks"
+  },
+  {
+    "key": "evt_TOPICS_0105",
+    "original": "",
+    "translation": "This is accident 22."
+  },
+  {
+    "key": "evt_TOPICS_0106",
+    "original": "",
+    "translation": "Petals"
+  },
+  {
+    "key": "evt_TOPICS_0107",
+    "original": "",
+    "translation": "This is accident 23."
+  },
+  {
+    "key": "evt_TOPICS_0108",
+    "original": "",
+    "translation": "Twins"
+  },
+  {
+    "key": "evt_TOPICS_0109",
+    "original": "",
+    "translation": "This is accident 24."
+  },
+  {
+    "key": "evt_TOPICS_0110",
+    "original": "",
+    "translation": "Hastily Scribbled Notes"
+  },
+  {
+    "key": "evt_TOPICS_0111",
+    "original": "",
+    "translation": "This is accident 25."
+  },
+  {
+    "key": "evt_TOPICS_0112",
+    "original": "",
+    "translation": "Cell Phone"
+  },
+  {
+    "key": "evt_TOPICS_0113",
+    "original": "",
+    "translation": "This is accident 26."
+  },
+  {
+    "key": "evt_TOPICS_0114",
+    "original": "",
+    "translation": "New Ability"
+  },
+  {
+    "key": "evt_TOPICS_0115",
+    "original": "",
+    "translation": "This is accident 27."
+  },
+  {
+    "key": "evt_TOPICS_0116",
+    "original": "",
+    "translation": "Curtain"
+  },
+  {
+    "key": "evt_TOPICS_0117",
+    "original": "",
+    "translation": "This is accident 28."
+  },
+  {
+    "key": "evt_TOPICS_0118",
+    "original": "",
+    "translation": "Spot"
+  },
+  {
+    "key": "evt_TOPICS_0119",
+    "original": "",
+    "translation": "This is accident 29."
+  },
+  {
+    "key": "evt_TOPICS_0120",
+    "original": "",
+    "translation": "Main 30"
+  },
+  {
+    "key": "evt_TOPICS_0121",
+    "original": "",
+    "translation": "This is accident 30."
+  },
+  {
+    "key": "evt_TOPICS_0122",
+    "original": "",
+    "translation": "Summer Insect"
+  },
+  {
+    "key": "evt_TOPICS_0123",
+    "original": "",
+    "translation": "This is accident 33."
+  },
+  {
+    "key": "evt_TOPICS_0124",
+    "original": "",
+    "translation": "Reflection"
+  },
+  {
+    "key": "evt_TOPICS_0125",
+    "original": "",
+    "translation": "This is accident 34."
+  },
+  {
+    "key": "evt_TOPICS_0126",
+    "original": "",
+    "translation": "Haruhi and Kyon"
+  },
+  {
+    "key": "evt_TOPICS_0127",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0128",
+    "original": "",
+    "translation": "SOS Brigade Chief"
+  },
+  {
+    "key": "evt_TOPICS_0129",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0130",
+    "original": "",
+    "translation": "Alpha Wolf"
+  },
+  {
+    "key": "evt_TOPICS_0131",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0132",
+    "original": "",
+    "translation": "Brigade Chief Tyranny?!"
+  },
+  {
+    "key": "evt_TOPICS_0133",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0134",
+    "original": "",
+    "translation": "The Scientific Approach"
+  },
+  {
+    "key": "evt_TOPICS_0135",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0136",
+    "original": "",
+    "translation": "The Ultimate Brigade Chief"
+  },
+  {
+    "key": "evt_TOPICS_0137",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0138",
+    "original": "",
+    "translation": "Gentle Miss Brigade Chief"
+  },
+  {
+    "key": "evt_TOPICS_0139",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0140",
+    "original": "",
+    "translation": "The SOS Brigade's Summer"
+  },
+  {
+    "key": "evt_TOPICS_0141",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0142",
+    "original": "",
+    "translation": "Haruhi's Pace"
+  },
+  {
+    "key": "evt_TOPICS_0143",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0144",
+    "original": "",
+    "translation": "Optimistic Haruhi"
+  },
+  {
+    "key": "evt_TOPICS_0145",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0146",
+    "original": "",
+    "translation": "Kyon's Standpoint"
+  },
+  {
+    "key": "evt_TOPICS_0147",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0148",
+    "original": "",
+    "translation": "Tranquilizer"
+  },
+  {
+    "key": "evt_TOPICS_0149",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0150",
+    "original": "",
+    "translation": "Kyon's Treat"
+  },
+  {
+    "key": "evt_TOPICS_0151",
+    "original": "",
+    "translation": "Avoid an Accident or cause a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0152",
+    "original": "",
+    "translation": "Mikuru's Tea"
+  },
+  {
+    "key": "evt_TOPICS_0153",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0154",
+    "original": "",
+    "translation": "Mikuru and the Club President"
+  },
+  {
+    "key": "evt_TOPICS_0155",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0156",
+    "original": "",
+    "translation": "The Computer Club's Goddess"
+  },
+  {
+    "key": "evt_TOPICS_0157",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0158",
+    "original": "",
+    "translation": "Mikuru the Popular Favorite"
+  },
+  {
+    "key": "evt_TOPICS_0159",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0160",
+    "original": "",
+    "translation": "Mikuru's Weak Point"
+  },
+  {
+    "key": "evt_TOPICS_0161",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0162",
+    "original": "",
+    "translation": "Mikuru and the Computer Club"
+  },
+  {
+    "key": "evt_TOPICS_0163",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0164",
+    "original": "",
+    "translation": "Mikuru's Drawing"
+  },
+  {
+    "key": "evt_TOPICS_0165",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0166",
+    "original": "",
+    "translation": "Mikuru's Scary Story"
+  },
+  {
+    "key": "evt_TOPICS_0167",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0168",
+    "original": "",
+    "translation": "Mikuru and the Occult"
+  },
+  {
+    "key": "evt_TOPICS_0169",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0170",
+    "original": "",
+    "translation": "Mikuru and Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0171",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0172",
+    "original": "",
+    "translation": "Stained Book"
+  },
+  {
+    "key": "evt_TOPICS_0173",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0174",
+    "original": "",
+    "translation": "Plain Handkerchief"
+  },
+  {
+    "key": "evt_TOPICS_0175",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0176",
+    "original": "",
+    "translation": "Mikuru's Tears"
+  },
+  {
+    "key": "evt_TOPICS_0177",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0178",
+    "original": "",
+    "translation": "Mikuru's Cowardice"
+  },
+  {
+    "key": "evt_TOPICS_0179",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0180",
+    "original": "",
+    "translation": "Help From Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0181",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0182",
+    "original": "",
+    "translation": "Mikuru's Treats"
+  },
+  {
+    "key": "evt_TOPICS_0183",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0184",
+    "original": "",
+    "translation": "Mikuru's Trust I"
+  },
+  {
+    "key": "evt_TOPICS_0185",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0186",
+    "original": "",
+    "translation": "Forgetful Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0187",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0188",
+    "original": "",
+    "translation": "Mikuru the Klutz"
+  },
+  {
+    "key": "evt_TOPICS_0189",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0190",
+    "original": "",
+    "translation": "Passion for Serving Tea"
+  },
+  {
+    "key": "evt_TOPICS_0191",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0192",
+    "original": "",
+    "translation": "Mikuru and Tea Candies"
+  },
+  {
+    "key": "evt_TOPICS_0193",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0194",
+    "original": "",
+    "translation": "Mikuru's Flower"
+  },
+  {
+    "key": "evt_TOPICS_0195",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0196",
+    "original": "",
+    "translation": "Accidental Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0197",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0198",
+    "original": "",
+    "translation": "Mikuru's Recipe"
+  },
+  {
+    "key": "evt_TOPICS_0199",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0200",
+    "original": "",
+    "translation": "Mikuru's Calculator"
+  },
+  {
+    "key": "evt_TOPICS_0201",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0202",
+    "original": "",
+    "translation": "Mikuru's Efforts"
+  },
+  {
+    "key": "evt_TOPICS_0203",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0204",
+    "original": "",
+    "translation": "A Flower in Each Hand"
+  },
+  {
+    "key": "evt_TOPICS_0205",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0206",
+    "original": "",
+    "translation": "Mikuru and the Banana"
+  },
+  {
+    "key": "evt_TOPICS_0207",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0208",
+    "original": "",
+    "translation": "Dieting"
+  },
+  {
+    "key": "evt_TOPICS_0209",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0210",
+    "original": "",
+    "translation": "Mikuru Feels Regretful"
+  },
+  {
+    "key": "evt_TOPICS_0211",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0212",
+    "original": "",
+    "translation": "Kind to the Elderly"
+  },
+  {
+    "key": "evt_TOPICS_0213",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0214",
+    "original": "",
+    "translation": "Pom-Poms"
+  },
+  {
+    "key": "evt_TOPICS_0215",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0216",
+    "original": "",
+    "translation": "Mikuru's Hands"
+  },
+  {
+    "key": "evt_TOPICS_0217",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0218",
+    "original": "",
+    "translation": "Mikuru's Towel"
+  },
+  {
+    "key": "evt_TOPICS_0219",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0220",
+    "original": "",
+    "translation": "Staff Room Happenings"
+  },
+  {
+    "key": "evt_TOPICS_0221",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0222",
+    "original": "",
+    "translation": "President's Intense Stare"
+  },
+  {
+    "key": "evt_TOPICS_0223",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0224",
+    "original": "",
+    "translation": "Mikuru's Job"
+  },
+  {
+    "key": "evt_TOPICS_0225",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0226",
+    "original": "",
+    "translation": "Permission to Borrow"
+  },
+  {
+    "key": "evt_TOPICS_0227",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0228",
+    "original": "",
+    "translation": "Fight with your Body"
+  },
+  {
+    "key": "evt_TOPICS_0229",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0230",
+    "original": "",
+    "translation": "Mikuru's Shield"
+  },
+  {
+    "key": "evt_TOPICS_0231",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0232",
+    "original": "",
+    "translation": "Seeing Things"
+  },
+  {
+    "key": "evt_TOPICS_0233",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0234",
+    "original": "",
+    "translation": "In the Mood for a Date"
+  },
+  {
+    "key": "evt_TOPICS_0235",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0236",
+    "original": "",
+    "translation": "Ice Cream Date"
+  },
+  {
+    "key": "evt_TOPICS_0237",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0238",
+    "original": "",
+    "translation": "Tripping on a Stone"
+  },
+  {
+    "key": "evt_TOPICS_0239",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0240",
+    "original": "",
+    "translation": "Mikuru's Trust II"
+  },
+  {
+    "key": "evt_TOPICS_0241",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0242",
+    "original": "",
+    "translation": "Plastic Bottle"
+  },
+  {
+    "key": "evt_TOPICS_0243",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0244",
+    "original": "",
+    "translation": "Maids are Culture"
+  },
+  {
+    "key": "evt_TOPICS_0245",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0246",
+    "original": "",
+    "translation": "Mikuru's Gratitude"
+  },
+  {
+    "key": "evt_TOPICS_0247",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0248",
+    "original": "",
+    "translation": "Mikuru's Panic"
+  },
+  {
+    "key": "evt_TOPICS_0249",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0250",
+    "original": "",
+    "translation": "Mikuru's Warmth"
+  },
+  {
+    "key": "evt_TOPICS_0251",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0252",
+    "original": "",
+    "translation": "Mikuru's Drink"
+  },
+  {
+    "key": "evt_TOPICS_0253",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0254",
+    "original": "",
+    "translation": "Toy Phone"
+  },
+  {
+    "key": "evt_TOPICS_0255",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0256",
+    "original": "",
+    "translation": "Mikuru's Story"
+  },
+  {
+    "key": "evt_TOPICS_0257",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0258",
+    "original": "",
+    "translation": "Orange Juice"
+  },
+  {
+    "key": "evt_TOPICS_0259",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0260",
+    "original": "",
+    "translation": "Mikuru's Value"
+  },
+  {
+    "key": "evt_TOPICS_0261",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0262",
+    "original": "",
+    "translation": "Mikuru Invincibility Scheme"
+  },
+  {
+    "key": "evt_TOPICS_0263",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0264",
+    "original": "",
+    "translation": "Gentle Consideration"
+  },
+  {
+    "key": "evt_TOPICS_0265",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0266",
+    "original": "",
+    "translation": "Classified Information"
+  },
+  {
+    "key": "evt_TOPICS_0267",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0268",
+    "original": "",
+    "translation": "Mikuru's Respect"
+  },
+  {
+    "key": "evt_TOPICS_0269",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0270",
+    "original": "",
+    "translation": "Mikuru's Trembling"
+  },
+  {
+    "key": "evt_TOPICS_0271",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0272",
+    "original": "",
+    "translation": "Mikuru's Pen"
+  },
+  {
+    "key": "evt_TOPICS_0273",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0274",
+    "original": "",
+    "translation": "Mikuru's Motivation"
+  },
+  {
+    "key": "evt_TOPICS_0275",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0276",
+    "original": "",
+    "translation": "Mikuru's Support"
+  },
+  {
+    "key": "evt_TOPICS_0277",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0278",
+    "original": "",
+    "translation": "Mikuru's Delight"
+  },
+  {
+    "key": "evt_TOPICS_0279",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0280",
+    "original": "",
+    "translation": "Teary-Eyed Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0281",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0282",
+    "original": "",
+    "translation": "Mikuru's Dim Wit"
+  },
+  {
+    "key": "evt_TOPICS_0283",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0284",
+    "original": "",
+    "translation": "Soft Hands"
+  },
+  {
+    "key": "evt_TOPICS_0285",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0286",
+    "original": "",
+    "translation": "Haruhi's Sympathizer"
+  },
+  {
+    "key": "evt_TOPICS_0287",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0288",
+    "original": "",
+    "translation": "Mikuru's Kindness"
+  },
+  {
+    "key": "evt_TOPICS_0289",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0290",
+    "original": "",
+    "translation": "Old Brooch"
+  },
+  {
+    "key": "evt_TOPICS_0291",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0292",
+    "original": "",
+    "translation": "Nice Assist"
+  },
+  {
+    "key": "evt_TOPICS_0293",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0294",
+    "original": "",
+    "translation": "Mikuru's Bodyguard"
+  },
+  {
+    "key": "evt_TOPICS_0295",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0296",
+    "original": "",
+    "translation": "Mikuru the Worrywart"
+  },
+  {
+    "key": "evt_TOPICS_0297",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0298",
+    "original": "",
+    "translation": "Mikuru's Feelings"
+  },
+  {
+    "key": "evt_TOPICS_0299",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0300",
+    "original": "",
+    "translation": "Serious Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0301",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0302",
+    "original": "",
+    "translation": "The Benefits of Tea"
+  },
+  {
+    "key": "evt_TOPICS_0303",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0304",
+    "original": "",
+    "translation": "Request"
+  },
+  {
+    "key": "evt_TOPICS_0305",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0306",
+    "original": "",
+    "translation": "Loss of Self-Confidence"
+  },
+  {
+    "key": "evt_TOPICS_0307",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0308",
+    "original": "",
+    "translation": "Working Together with Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0309",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0310",
+    "original": "",
+    "translation": "Wink"
+  },
+  {
+    "key": "evt_TOPICS_0311",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0312",
+    "original": "",
+    "translation": "Lucky Girl"
+  },
+  {
+    "key": "evt_TOPICS_0313",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0314",
+    "original": "",
+    "translation": "Positive"
+  },
+  {
+    "key": "evt_TOPICS_0315",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0316",
+    "original": "",
+    "translation": "Nice Mikuru"
+  },
+  {
+    "key": "evt_TOPICS_0317",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0318",
+    "original": "",
+    "translation": "Mikuru the Phantom Thief?"
+  },
+  {
+    "key": "evt_TOPICS_0319",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0320",
+    "original": "",
+    "translation": "Mikuru's Competitive Spirit"
+  },
+  {
+    "key": "evt_TOPICS_0321",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0322",
+    "original": "",
+    "translation": "Mikuru's Courage"
+  },
+  {
+    "key": "evt_TOPICS_0323",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Move speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0324",
+    "original": "",
+    "translation": "Nagato's Book Search"
+  },
+  {
+    "key": "evt_TOPICS_0325",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0326",
+    "original": "",
+    "translation": "Nagato's Affiliation"
+  },
+  {
+    "key": "evt_TOPICS_0327",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0328",
+    "original": "",
+    "translation": "Nagato's Interest"
+  },
+  {
+    "key": "evt_TOPICS_0329",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0330",
+    "original": "",
+    "translation": "Nagato's Composure"
+  },
+  {
+    "key": "evt_TOPICS_0331",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0332",
+    "original": "",
+    "translation": "Nagato and the PC"
+  },
+  {
+    "key": "evt_TOPICS_0333",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0334",
+    "original": "",
+    "translation": "Nagato's Silence"
+  },
+  {
+    "key": "evt_TOPICS_0335",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0336",
+    "original": "",
+    "translation": "Tough Girl Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0337",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0338",
+    "original": "",
+    "translation": "Nagato's Souvenir"
+  },
+  {
+    "key": "evt_TOPICS_0339",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0340",
+    "original": "",
+    "translation": "Na-cat-o"
+  },
+  {
+    "key": "evt_TOPICS_0341",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0342",
+    "original": "",
+    "translation": "Nagato's 6th Sense"
+  },
+  {
+    "key": "evt_TOPICS_0343",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0344",
+    "original": "",
+    "translation": "Nagato's Design Document"
+  },
+  {
+    "key": "evt_TOPICS_0345",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0346",
+    "original": "",
+    "translation": "Nagato's Apology"
+  },
+  {
+    "key": "evt_TOPICS_0347",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0348",
+    "original": "",
+    "translation": "Nagato's Book"
+  },
+  {
+    "key": "evt_TOPICS_0349",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0350",
+    "original": "",
+    "translation": "Nagato's Stance"
+  },
+  {
+    "key": "evt_TOPICS_0351",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0352",
+    "original": "",
+    "translation": "Nagato's Cooperation"
+  },
+  {
+    "key": "evt_TOPICS_0353",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0354",
+    "original": "",
+    "translation": "Nagato's Complaint"
+  },
+  {
+    "key": "evt_TOPICS_0355",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0356",
+    "original": "",
+    "translation": "Super Speed-Reader Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0357",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0358",
+    "original": "",
+    "translation": "Nagato's Probability Note"
+  },
+  {
+    "key": "evt_TOPICS_0359",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0360",
+    "original": "",
+    "translation": "Nagato's Hint I"
+  },
+  {
+    "key": "evt_TOPICS_0361",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0362",
+    "original": "",
+    "translation": "Nagato the Skilled"
+  },
+  {
+    "key": "evt_TOPICS_0363",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0364",
+    "original": "",
+    "translation": "Sit."
+  },
+  {
+    "key": "evt_TOPICS_0365",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0366",
+    "original": "",
+    "translation": "Nagato's Pressed Flower"
+  },
+  {
+    "key": "evt_TOPICS_0367",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0368",
+    "original": "",
+    "translation": "Nagato's Bluntness"
+  },
+  {
+    "key": "evt_TOPICS_0369",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0370",
+    "original": "",
+    "translation": "Trust in Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0371",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0372",
+    "original": "",
+    "translation": "Curry Bread"
+  },
+  {
+    "key": "evt_TOPICS_0373",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0374",
+    "original": "",
+    "translation": "Nagato's Banana"
+  },
+  {
+    "key": "evt_TOPICS_0375",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0376",
+    "original": "",
+    "translation": "Nagato and Meat"
+  },
+  {
+    "key": "evt_TOPICS_0377",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0378",
+    "original": "",
+    "translation": "Marshmallow"
+  },
+  {
+    "key": "evt_TOPICS_0379",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0380",
+    "original": "",
+    "translation": "Muryo Taisu"
+  },
+  {
+    "key": "evt_TOPICS_0381",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0382",
+    "original": "",
+    "translation": "Nagato's Sigh"
+  },
+  {
+    "key": "evt_TOPICS_0383",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0384",
+    "original": "",
+    "translation": "Nagato's Wisdom"
+  },
+  {
+    "key": "evt_TOPICS_0385",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0386",
+    "original": "",
+    "translation": "Nagato and Curry"
+  },
+  {
+    "key": "evt_TOPICS_0387",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0388",
+    "original": "",
+    "translation": "Walking Encyclopedia"
+  },
+  {
+    "key": "evt_TOPICS_0389",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0390",
+    "original": "",
+    "translation": "Nagato and Puzzles"
+  },
+  {
+    "key": "evt_TOPICS_0391",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0392",
+    "original": "",
+    "translation": "Coordinates"
+  },
+  {
+    "key": "evt_TOPICS_0393",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0394",
+    "original": "",
+    "translation": "Identifying Trouble"
+  },
+  {
+    "key": "evt_TOPICS_0395",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0396",
+    "original": "",
+    "translation": "Tin Soldiers"
+  },
+  {
+    "key": "evt_TOPICS_0397",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0398",
+    "original": "",
+    "translation": "Nagato's Hint II"
+  },
+  {
+    "key": "evt_TOPICS_0399",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0400",
+    "original": "",
+    "translation": "Information Warfare"
+  },
+  {
+    "key": "evt_TOPICS_0401",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0402",
+    "original": "",
+    "translation": "Out of Touch"
+  },
+  {
+    "key": "evt_TOPICS_0403",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0404",
+    "original": "",
+    "translation": "Skewer of Ultimate Misfortune"
+  },
+  {
+    "key": "evt_TOPICS_0405",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0406",
+    "original": "",
+    "translation": "Bowl"
+  },
+  {
+    "key": "evt_TOPICS_0407",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0408",
+    "original": "",
+    "translation": "Shaved Ice Date"
+  },
+  {
+    "key": "evt_TOPICS_0409",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0410",
+    "original": "",
+    "translation": "Insert Advertisement"
+  },
+  {
+    "key": "evt_TOPICS_0411",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0412",
+    "original": "",
+    "translation": "Nagato's Slide Rule"
+  },
+  {
+    "key": "evt_TOPICS_0413",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0414",
+    "original": "",
+    "translation": "Nagato's Amulet"
+  },
+  {
+    "key": "evt_TOPICS_0415",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0416",
+    "original": "",
+    "translation": "Unable to Respond"
+  },
+  {
+    "key": "evt_TOPICS_0417",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0418",
+    "original": "",
+    "translation": "Capable Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0419",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0420",
+    "original": "",
+    "translation": "Cicada Shell"
+  },
+  {
+    "key": "evt_TOPICS_0421",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0422",
+    "original": "",
+    "translation": "Chocolate"
+  },
+  {
+    "key": "evt_TOPICS_0423",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0424",
+    "original": "",
+    "translation": "Subculture Magazine"
+  },
+  {
+    "key": "evt_TOPICS_0425",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0426",
+    "original": "",
+    "translation": "Mineral Water"
+  },
+  {
+    "key": "evt_TOPICS_0427",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0428",
+    "original": "",
+    "translation": "Nagato's Consent"
+  },
+  {
+    "key": "evt_TOPICS_0429",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0430",
+    "original": "",
+    "translation": "Nagato's Handheld Mirror"
+  },
+  {
+    "key": "evt_TOPICS_0431",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0432",
+    "original": "",
+    "translation": "Nagato's Backup"
+  },
+  {
+    "key": "evt_TOPICS_0433",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0434",
+    "original": "",
+    "translation": "Nagato's Appraisal"
+  },
+  {
+    "key": "evt_TOPICS_0435",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0436",
+    "original": "",
+    "translation": "Nagato's Glasses"
+  },
+  {
+    "key": "evt_TOPICS_0437",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0438",
+    "original": "",
+    "translation": "Nagato's Curry"
+  },
+  {
+    "key": "evt_TOPICS_0439",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0440",
+    "original": "",
+    "translation": "Nagato's Reaction"
+  },
+  {
+    "key": "evt_TOPICS_0441",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0442",
+    "original": "",
+    "translation": "Charm"
+  },
+  {
+    "key": "evt_TOPICS_0443",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0444",
+    "original": "",
+    "translation": "Nagato's Seal of Approval"
+  },
+  {
+    "key": "evt_TOPICS_0445",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0446",
+    "original": "",
+    "translation": "Evidence?"
+  },
+  {
+    "key": "evt_TOPICS_0447",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0448",
+    "original": "",
+    "translation": "Dose of Motivation"
+  },
+  {
+    "key": "evt_TOPICS_0449",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0450",
+    "original": "",
+    "translation": "Nagato's Triumphant Look"
+  },
+  {
+    "key": "evt_TOPICS_0451",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0452",
+    "original": "",
+    "translation": "Nagato's Estimation"
+  },
+  {
+    "key": "evt_TOPICS_0453",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0454",
+    "original": "",
+    "translation": "Nagato's Hand"
+  },
+  {
+    "key": "evt_TOPICS_0455",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0456",
+    "original": "",
+    "translation": "Nagato's Restraint"
+  },
+  {
+    "key": "evt_TOPICS_0457",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0458",
+    "original": "",
+    "translation": "Mysterious Mineral"
+  },
+  {
+    "key": "evt_TOPICS_0459",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0460",
+    "original": "",
+    "translation": "Instant Shutdown"
+  },
+  {
+    "key": "evt_TOPICS_0461",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0462",
+    "original": "",
+    "translation": "Chance of Success"
+  },
+  {
+    "key": "evt_TOPICS_0463",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0464",
+    "original": "",
+    "translation": "Happiness"
+  },
+  {
+    "key": "evt_TOPICS_0465",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0466",
+    "original": "",
+    "translation": "Countermeasure"
+  },
+  {
+    "key": "evt_TOPICS_0467",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0468",
+    "original": "",
+    "translation": "Foresight"
+  },
+  {
+    "key": "evt_TOPICS_0469",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0470",
+    "original": "",
+    "translation": "Rendezvous with Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0471",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0472",
+    "original": "",
+    "translation": "Two Nagatos"
+  },
+  {
+    "key": "evt_TOPICS_0473",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0474",
+    "original": "",
+    "translation": "Incredibly Chivalrous Nagato"
+  },
+  {
+    "key": "evt_TOPICS_0475",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0476",
+    "original": "",
+    "translation": "Careful Explanation"
+  },
+  {
+    "key": "evt_TOPICS_0477",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0478",
+    "original": "",
+    "translation": "Neo Chess"
+  },
+  {
+    "key": "evt_TOPICS_0479",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Search speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0480",
+    "original": "",
+    "translation": "Koizumi's Flattery"
+  },
+  {
+    "key": "evt_TOPICS_0481",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0482",
+    "original": "",
+    "translation": "A Clever Person"
+  },
+  {
+    "key": "evt_TOPICS_0483",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0484",
+    "original": "",
+    "translation": "Interesting Game"
+  },
+  {
+    "key": "evt_TOPICS_0485",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0486",
+    "original": "",
+    "translation": "Koizumi and the Computer"
+  },
+  {
+    "key": "evt_TOPICS_0487",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0488",
+    "original": "",
+    "translation": "Koizumi and the Game"
+  },
+  {
+    "key": "evt_TOPICS_0489",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0490",
+    "original": "",
+    "translation": "Koizumi's Inquiry"
+  },
+  {
+    "key": "evt_TOPICS_0491",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0492",
+    "original": "",
+    "translation": "Something Unusual"
+  },
+  {
+    "key": "evt_TOPICS_0493",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0494",
+    "original": "",
+    "translation": "Koizumi's Hypothesis"
+  },
+  {
+    "key": "evt_TOPICS_0495",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0496",
+    "original": "",
+    "translation": "A Ghost's True Form"
+  },
+  {
+    "key": "evt_TOPICS_0497",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0498",
+    "original": "",
+    "translation": "Superb Deputy Brigade Chief"
+  },
+  {
+    "key": "evt_TOPICS_0499",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0500",
+    "original": "",
+    "translation": "Prudent Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0501",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0502",
+    "original": "",
+    "translation": "Koizumi's Apology"
+  },
+  {
+    "key": "evt_TOPICS_0503",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0504",
+    "original": "",
+    "translation": "ESP"
+  },
+  {
+    "key": "evt_TOPICS_0505",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0506",
+    "original": "",
+    "translation": "Koizumi the Nitpicker"
+  },
+  {
+    "key": "evt_TOPICS_0507",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0508",
+    "original": "",
+    "translation": "The Koizumi Smile"
+  },
+  {
+    "key": "evt_TOPICS_0509",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0510",
+    "original": "",
+    "translation": "Koizumi the Self-Assured"
+  },
+  {
+    "key": "evt_TOPICS_0511",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0512",
+    "original": "",
+    "translation": "Koizumi's Cell Phone"
+  },
+  {
+    "key": "evt_TOPICS_0513",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0514",
+    "original": "",
+    "translation": "Koizumi's Candy"
+  },
+  {
+    "key": "evt_TOPICS_0515",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0516",
+    "original": "",
+    "translation": "Koizumi's Report"
+  },
+  {
+    "key": "evt_TOPICS_0517",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0518",
+    "original": "",
+    "translation": "Koizumi the Prize Pupil"
+  },
+  {
+    "key": "evt_TOPICS_0519",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0520",
+    "original": "",
+    "translation": "Koizumi's New Power?"
+  },
+  {
+    "key": "evt_TOPICS_0521",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0522",
+    "original": "",
+    "translation": "Koizumi's Haruhi Theory"
+  },
+  {
+    "key": "evt_TOPICS_0523",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0524",
+    "original": "",
+    "translation": "Koizumi's Advice"
+  },
+  {
+    "key": "evt_TOPICS_0525",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0526",
+    "original": "",
+    "translation": "Koizumi's True Feelings"
+  },
+  {
+    "key": "evt_TOPICS_0527",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0528",
+    "original": "",
+    "translation": "Machiavellian Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0529",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0530",
+    "original": "",
+    "translation": "Lottery Ticket"
+  },
+  {
+    "key": "evt_TOPICS_0531",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0532",
+    "original": "",
+    "translation": "Koizumi's Calling"
+  },
+  {
+    "key": "evt_TOPICS_0533",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0534",
+    "original": "",
+    "translation": "Tendency to Lecture"
+  },
+  {
+    "key": "evt_TOPICS_0535",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0536",
+    "original": "",
+    "translation": "Cheat Sheet"
+  },
+  {
+    "key": "evt_TOPICS_0537",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0538",
+    "original": "",
+    "translation": "Koizumi's Bitter Smile"
+  },
+  {
+    "key": "evt_TOPICS_0539",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0540",
+    "original": "",
+    "translation": "Madam and Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0541",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0542",
+    "original": "",
+    "translation": "Koizumi's Gaze"
+  },
+  {
+    "key": "evt_TOPICS_0543",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0544",
+    "original": "",
+    "translation": "Koizumi's Dowsing Rod"
+  },
+  {
+    "key": "evt_TOPICS_0545",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0546",
+    "original": "",
+    "translation": "Koizumi's Matches"
+  },
+  {
+    "key": "evt_TOPICS_0547",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0548",
+    "original": "",
+    "translation": "Cowardly Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0549",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0550",
+    "original": "",
+    "translation": "Half-Baked Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0551",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0552",
+    "original": "",
+    "translation": "\"Agency” Non-Involvement"
+  },
+  {
+    "key": "evt_TOPICS_0553",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0554",
+    "original": "",
+    "translation": "Koizumi's Hint"
+  },
+  {
+    "key": "evt_TOPICS_0555",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0556",
+    "original": "",
+    "translation": "The Ends Justify the Means"
+  },
+  {
+    "key": "evt_TOPICS_0557",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0558",
+    "original": "",
+    "translation": "A Short Rest"
+  },
+  {
+    "key": "evt_TOPICS_0559",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0560",
+    "original": "",
+    "translation": "Koizumi's Warning"
+  },
+  {
+    "key": "evt_TOPICS_0561",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0562",
+    "original": "",
+    "translation": "Shower"
+  },
+  {
+    "key": "evt_TOPICS_0563",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0564",
+    "original": "",
+    "translation": "Koizumi's Trust"
+  },
+  {
+    "key": "evt_TOPICS_0565",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0566",
+    "original": "",
+    "translation": "Summer Schedule"
+  },
+  {
+    "key": "evt_TOPICS_0567",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0568",
+    "original": "",
+    "translation": "Skilled Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0569",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0570",
+    "original": "",
+    "translation": "Koizumi's Goddess?"
+  },
+  {
+    "key": "evt_TOPICS_0571",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0572",
+    "original": "",
+    "translation": "Look of Envy"
+  },
+  {
+    "key": "evt_TOPICS_0573",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0574",
+    "original": "",
+    "translation": "Koizumi's Heinous Act"
+  },
+  {
+    "key": "evt_TOPICS_0575",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0576",
+    "original": "",
+    "translation": "Koizumi's Sarcasm"
+  },
+  {
+    "key": "evt_TOPICS_0577",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0578",
+    "original": "",
+    "translation": "Wealth of Knowledge"
+  },
+  {
+    "key": "evt_TOPICS_0579",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0580",
+    "original": "",
+    "translation": "Capable Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0581",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0582",
+    "original": "",
+    "translation": "Tabletop Games"
+  },
+  {
+    "key": "evt_TOPICS_0583",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0584",
+    "original": "",
+    "translation": "Koizumi's Conversation Skills"
+  },
+  {
+    "key": "evt_TOPICS_0585",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0586",
+    "original": "",
+    "translation": "Koizumi's \"It's up to You!”"
+  },
+  {
+    "key": "evt_TOPICS_0587",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0588",
+    "original": "",
+    "translation": "Harsh Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0589",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0590",
+    "original": "",
+    "translation": "Embarrassing Photo"
+  },
+  {
+    "key": "evt_TOPICS_0591",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0592",
+    "original": "",
+    "translation": "Koizumi's Hypothesis"
+  },
+  {
+    "key": "evt_TOPICS_0593",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0594",
+    "original": "",
+    "translation": "Koizumi's Gutsiness"
+  },
+  {
+    "key": "evt_TOPICS_0595",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0596",
+    "original": "",
+    "translation": "Koizumi's Nod"
+  },
+  {
+    "key": "evt_TOPICS_0597",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0598",
+    "original": "",
+    "translation": "Icy Stare"
+  },
+  {
+    "key": "evt_TOPICS_0599",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0600",
+    "original": "",
+    "translation": "Medicinal Herb"
+  },
+  {
+    "key": "evt_TOPICS_0601",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0602",
+    "original": "",
+    "translation": "Encouragement"
+  },
+  {
+    "key": "evt_TOPICS_0603",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0604",
+    "original": "",
+    "translation": "Koizumi's Gratitude"
+  },
+  {
+    "key": "evt_TOPICS_0605",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0606",
+    "original": "",
+    "translation": "Realism"
+  },
+  {
+    "key": "evt_TOPICS_0607",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0608",
+    "original": "",
+    "translation": "Bad at Games"
+  },
+  {
+    "key": "evt_TOPICS_0609",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0610",
+    "original": "",
+    "translation": "Taniguchi on the Roof"
+  },
+  {
+    "key": "evt_TOPICS_0611",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0612",
+    "original": "",
+    "translation": "Koizumi's Pride"
+  },
+  {
+    "key": "evt_TOPICS_0613",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0614",
+    "original": "",
+    "translation": "Trust in Koizumi"
+  },
+  {
+    "key": "evt_TOPICS_0615",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0616",
+    "original": "",
+    "translation": "Preaching to Deaf Ears"
+  },
+  {
+    "key": "evt_TOPICS_0617",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0618",
+    "original": "",
+    "translation": "Shoulder Massage"
+  },
+  {
+    "key": "evt_TOPICS_0619",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0620",
+    "original": "",
+    "translation": "Visualization"
+  },
+  {
+    "key": "evt_TOPICS_0621",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0622",
+    "original": "",
+    "translation": "Koizumi, the Main Act"
+  },
+  {
+    "key": "evt_TOPICS_0623",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0624",
+    "original": "",
+    "translation": "A Tide-Turning Move"
+  },
+  {
+    "key": "evt_TOPICS_0625",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0626",
+    "original": "",
+    "translation": "Tournament Bracket"
+  },
+  {
+    "key": "evt_TOPICS_0627",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0628",
+    "original": "",
+    "translation": "Koizumi's Silver Tongue"
+  },
+  {
+    "key": "evt_TOPICS_0629",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0630",
+    "original": "",
+    "translation": "Koizumi's Friend"
+  },
+  {
+    "key": "evt_TOPICS_0631",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0632",
+    "original": "",
+    "translation": "Camaraderie"
+  },
+  {
+    "key": "evt_TOPICS_0633",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0634",
+    "original": "",
+    "translation": "Koizumi's Own Way"
+  },
+  {
+    "key": "evt_TOPICS_0635",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0636",
+    "original": "",
+    "translation": "Koizumi's Keen Eyes"
+  },
+  {
+    "key": "evt_TOPICS_0637",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0638",
+    "original": "",
+    "translation": "Koizumi's Encouragement"
+  },
+  {
+    "key": "evt_TOPICS_0639",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0640",
+    "original": "",
+    "translation": "Koizumi's Self-Confidence"
+  },
+  {
+    "key": "evt_TOPICS_0641",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0642",
+    "original": "",
+    "translation": "Simple Deduction"
+  },
+  {
+    "key": "evt_TOPICS_0643",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0644",
+    "original": "",
+    "translation": "Koizumi's Property"
+  },
+  {
+    "key": "evt_TOPICS_0645",
+    "original": "",
+    "translation": "Use: Cause delay, Hold: Erase speed up.    "
+  },
+  {
+    "key": "evt_TOPICS_0646",
+    "original": "",
+    "translation": "Disappointment"
+  },
+  {
+    "key": "evt_TOPICS_0647",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0648",
+    "original": "",
+    "translation": "Japan, the Nation of Games"
+  },
+  {
+    "key": "evt_TOPICS_0649",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0650",
+    "original": "",
+    "translation": "Mascot"
+  },
+  {
+    "key": "evt_TOPICS_0651",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0652",
+    "original": "",
+    "translation": "Respect"
+  },
+  {
+    "key": "evt_TOPICS_0653",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0654",
+    "original": "",
+    "translation": "The Clubroom PC"
+  },
+  {
+    "key": "evt_TOPICS_0655",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0656",
+    "original": "",
+    "translation": "Literary Club"
+  },
+  {
+    "key": "evt_TOPICS_0657",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0658",
+    "original": "",
+    "translation": "Eye Strain"
+  },
+  {
+    "key": "evt_TOPICS_0659",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0660",
+    "original": "",
+    "translation": "PC Game"
+  },
+  {
+    "key": "evt_TOPICS_0661",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0662",
+    "original": "",
+    "translation": "Board Game"
+  },
+  {
+    "key": "evt_TOPICS_0663",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0664",
+    "original": "",
+    "translation": "Warm Mood"
+  },
+  {
+    "key": "evt_TOPICS_0665",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0666",
+    "original": "",
+    "translation": "Sympathy"
+  },
+  {
+    "key": "evt_TOPICS_0667",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0668",
+    "original": "",
+    "translation": "Flattery"
+  },
+  {
+    "key": "evt_TOPICS_0669",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0670",
+    "original": "",
+    "translation": "H2O"
+  },
+  {
+    "key": "evt_TOPICS_0671",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0672",
+    "original": "",
+    "translation": "Calm and Quick"
+  },
+  {
+    "key": "evt_TOPICS_0673",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0674",
+    "original": "",
+    "translation": "Darkest Under the Lamp Post"
+  },
+  {
+    "key": "evt_TOPICS_0675",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0676",
+    "original": "",
+    "translation": "Group Action"
+  },
+  {
+    "key": "evt_TOPICS_0677",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0678",
+    "original": "",
+    "translation": "SOS Brigade Homepage"
+  },
+  {
+    "key": "evt_TOPICS_0679",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0680",
+    "original": "",
+    "translation": "Breakthrough"
+  },
+  {
+    "key": "evt_TOPICS_0681",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0682",
+    "original": "",
+    "translation": "Important Things"
+  },
+  {
+    "key": "evt_TOPICS_0683",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0684",
+    "original": "",
+    "translation": "Concern"
+  },
+  {
+    "key": "evt_TOPICS_0685",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0686",
+    "original": "",
+    "translation": "Final Wish"
+  },
+  {
+    "key": "evt_TOPICS_0687",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0688",
+    "original": "",
+    "translation": "Work Delay"
+  },
+  {
+    "key": "evt_TOPICS_0689",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0690",
+    "original": "",
+    "translation": "A Small Kindness"
+  },
+  {
+    "key": "evt_TOPICS_0691",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0692",
+    "original": "",
+    "translation": "Electric Sheep"
+  },
+  {
+    "key": "evt_TOPICS_0693",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0694",
+    "original": "",
+    "translation": "Time for \"Something”"
+  },
+  {
+    "key": "evt_TOPICS_0695",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0696",
+    "original": "",
+    "translation": "Club President's Anxiety"
+  },
+  {
+    "key": "evt_TOPICS_0697",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0698",
+    "original": "",
+    "translation": "Omitted Letter Misprint"
+  },
+  {
+    "key": "evt_TOPICS_0699",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0700",
+    "original": "",
+    "translation": "Treatment"
+  },
+  {
+    "key": "evt_TOPICS_0701",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0702",
+    "original": "",
+    "translation": "Going in Circles"
+  },
+  {
+    "key": "evt_TOPICS_0703",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0704",
+    "original": "",
+    "translation": "Feigning Ignorance"
+  },
+  {
+    "key": "evt_TOPICS_0705",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0706",
+    "original": "",
+    "translation": "Useful Information"
+  },
+  {
+    "key": "evt_TOPICS_0707",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0708",
+    "original": "",
+    "translation": "Open Window"
+  },
+  {
+    "key": "evt_TOPICS_0709",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0710",
+    "original": "",
+    "translation": "Scary Object"
+  },
+  {
+    "key": "evt_TOPICS_0711",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0712",
+    "original": "",
+    "translation": "Ignorance is Bliss"
+  },
+  {
+    "key": "evt_TOPICS_0713",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0714",
+    "original": "",
+    "translation": "Mysterious Radio Waves"
+  },
+  {
+    "key": "evt_TOPICS_0715",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0716",
+    "original": "",
+    "translation": "The Power of Imagination"
+  },
+  {
+    "key": "evt_TOPICS_0717",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0718",
+    "original": "",
+    "translation": "Nail Dirt"
+  },
+  {
+    "key": "evt_TOPICS_0719",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0720",
+    "original": "",
+    "translation": "Answer Sheet"
+  },
+  {
+    "key": "evt_TOPICS_0721",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0722",
+    "original": "",
+    "translation": "Extra History Lesson"
+  },
+  {
+    "key": "evt_TOPICS_0723",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0724",
+    "original": "",
+    "translation": "Demonic Whispering"
+  },
+  {
+    "key": "evt_TOPICS_0725",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0726",
+    "original": "",
+    "translation": "Very Fast"
+  },
+  {
+    "key": "evt_TOPICS_0727",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0728",
+    "original": "",
+    "translation": "Band-Aid"
+  },
+  {
+    "key": "evt_TOPICS_0729",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0730",
+    "original": "",
+    "translation": "Heroine"
+  },
+  {
+    "key": "evt_TOPICS_0731",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0732",
+    "original": "",
+    "translation": "SOS Brigade Activity Log"
+  },
+  {
+    "key": "evt_TOPICS_0733",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0734",
+    "original": "",
+    "translation": "Angel Descent"
+  },
+  {
+    "key": "evt_TOPICS_0735",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0736",
+    "original": "",
+    "translation": "Distance Between Buildings"
+  },
+  {
+    "key": "evt_TOPICS_0737",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0738",
+    "original": "",
+    "translation": "Strategic Retreat"
+  },
+  {
+    "key": "evt_TOPICS_0739",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0740",
+    "original": "",
+    "translation": "Empty Shell"
+  },
+  {
+    "key": "evt_TOPICS_0741",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0742",
+    "original": "",
+    "translation": "Pitiable Computer Society"
+  },
+  {
+    "key": "evt_TOPICS_0743",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0744",
+    "original": "",
+    "translation": "A Profoundly Wonderful Story"
+  },
+  {
+    "key": "evt_TOPICS_0745",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0746",
+    "original": "",
+    "translation": "A Matter of Time"
+  },
+  {
+    "key": "evt_TOPICS_0747",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0748",
+    "original": "",
+    "translation": "Boy's Team"
+  },
+  {
+    "key": "evt_TOPICS_0749",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0750",
+    "original": "",
+    "translation": "Falling on Your Backside"
+  },
+  {
+    "key": "evt_TOPICS_0751",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0752",
+    "original": "",
+    "translation": "Intricate Workmanship"
+  },
+  {
+    "key": "evt_TOPICS_0753",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0754",
+    "original": "",
+    "translation": "Acceptance is Also Important"
+  },
+  {
+    "key": "evt_TOPICS_0755",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0756",
+    "original": "",
+    "translation": "Futuristic Ghost Stories"
+  },
+  {
+    "key": "evt_TOPICS_0757",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0758",
+    "original": "",
+    "translation": "Overthinking"
+  },
+  {
+    "key": "evt_TOPICS_0759",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0760",
+    "original": "",
+    "translation": "The Cursed Music Room"
+  },
+  {
+    "key": "evt_TOPICS_0761",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0762",
+    "original": "",
+    "translation": "Sci-Fi Novel"
+  },
+  {
+    "key": "evt_TOPICS_0763",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0764",
+    "original": "",
+    "translation": "Doing it Yourself"
+  },
+  {
+    "key": "evt_TOPICS_0765",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0766",
+    "original": "",
+    "translation": "Treated to Juice"
+  },
+  {
+    "key": "evt_TOPICS_0767",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0768",
+    "original": "",
+    "translation": "Silent Observer"
+  },
+  {
+    "key": "evt_TOPICS_0769",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0770",
+    "original": "",
+    "translation": "The Fate of the World"
+  },
+  {
+    "key": "evt_TOPICS_0771",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0772",
+    "original": "",
+    "translation": "Annoying Situation"
+  },
+  {
+    "key": "evt_TOPICS_0773",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0774",
+    "original": "",
+    "translation": "Danger: Do Not Touch"
+  },
+  {
+    "key": "evt_TOPICS_0775",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0776",
+    "original": "",
+    "translation": "The Truth of the Matter"
+  },
+  {
+    "key": "evt_TOPICS_0777",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0778",
+    "original": "",
+    "translation": "Closing Ceremony"
+  },
+  {
+    "key": "evt_TOPICS_0779",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0780",
+    "original": "",
+    "translation": "President's Wish"
+  },
+  {
+    "key": "evt_TOPICS_0781",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0782",
+    "original": "",
+    "translation": "Inexplicable Conduct"
+  },
+  {
+    "key": "evt_TOPICS_0783",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0784",
+    "original": "",
+    "translation": "Computer Club & Sheet Music"
+  },
+  {
+    "key": "evt_TOPICS_0785",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0786",
+    "original": "",
+    "translation": "Suspicious Data"
+  },
+  {
+    "key": "evt_TOPICS_0787",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0788",
+    "original": "",
+    "translation": "Insufficient Data"
+  },
+  {
+    "key": "evt_TOPICS_0789",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0790",
+    "original": "",
+    "translation": "President's Orders"
+  },
+  {
+    "key": "evt_TOPICS_0791",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0792",
+    "original": "",
+    "translation": "Plasma"
+  },
+  {
+    "key": "evt_TOPICS_0793",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0794",
+    "original": "",
+    "translation": "Pouting"
+  },
+  {
+    "key": "evt_TOPICS_0795",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0796",
+    "original": "",
+    "translation": "Haruhi the Unwavering"
+  },
+  {
+    "key": "evt_TOPICS_0797",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0798",
+    "original": "",
+    "translation": "Speed-Reading Nagato-Style"
+  },
+  {
+    "key": "evt_TOPICS_0799",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0800",
+    "original": "",
+    "translation": "Haruhi's Theory"
+  },
+  {
+    "key": "evt_TOPICS_0801",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0802",
+    "original": "",
+    "translation": "Budget Application Form"
+  },
+  {
+    "key": "evt_TOPICS_0803",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0804",
+    "original": "",
+    "translation": "Supplementary Class Schedule"
+  },
+  {
+    "key": "evt_TOPICS_0805",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0806",
+    "original": "",
+    "translation": "Physical Examination Notice"
+  },
+  {
+    "key": "evt_TOPICS_0807",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0808",
+    "original": "",
+    "translation": "Literary Club Band"
+  },
+  {
+    "key": "evt_TOPICS_0809",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0810",
+    "original": "",
+    "translation": "Something That Passed By"
+  },
+  {
+    "key": "evt_TOPICS_0811",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0812",
+    "original": "",
+    "translation": "Speak of the Devil…"
+  },
+  {
+    "key": "evt_TOPICS_0813",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0814",
+    "original": "",
+    "translation": "Day of Deadline"
+  },
+  {
+    "key": "evt_TOPICS_0815",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0816",
+    "original": "",
+    "translation": "Beautiful Flower"
+  },
+  {
+    "key": "evt_TOPICS_0817",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0818",
+    "original": "",
+    "translation": "Roadside Flower"
+  },
+  {
+    "key": "evt_TOPICS_0819",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0820",
+    "original": "",
+    "translation": "Bluebird of Happiness"
+  },
+  {
+    "key": "evt_TOPICS_0821",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0822",
+    "original": "",
+    "translation": "A Minor Coincidence"
+  },
+  {
+    "key": "evt_TOPICS_0823",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0824",
+    "original": "",
+    "translation": "Deadline"
+  },
+  {
+    "key": "evt_TOPICS_0825",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0826",
+    "original": "",
+    "translation": "An Award of Some Sort"
+  },
+  {
+    "key": "evt_TOPICS_0827",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0828",
+    "original": "",
+    "translation": "Chatting Over Tea"
+  },
+  {
+    "key": "evt_TOPICS_0829",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0830",
+    "original": "",
+    "translation": "Premature Jab"
+  },
+  {
+    "key": "evt_TOPICS_0831",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0832",
+    "original": "",
+    "translation": "Club Member's Gratitude"
+  },
+  {
+    "key": "evt_TOPICS_0833",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0834",
+    "original": "",
+    "translation": "Attack of the Club Member"
+  },
+  {
+    "key": "evt_TOPICS_0835",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0836",
+    "original": "",
+    "translation": "Something Summery"
+  },
+  {
+    "key": "evt_TOPICS_0837",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0838",
+    "original": "",
+    "translation": "Cheap Sympathy"
+  },
+  {
+    "key": "evt_TOPICS_0839",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0840",
+    "original": "",
+    "translation": "Mikuru's Quip"
+  },
+  {
+    "key": "evt_TOPICS_0841",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0842",
+    "original": "",
+    "translation": "Expensive Receipt"
+  },
+  {
+    "key": "evt_TOPICS_0843",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0844",
+    "original": "",
+    "translation": "Bell"
+  },
+  {
+    "key": "evt_TOPICS_0845",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0846",
+    "original": "",
+    "translation": "Outrageous Ingredients"
+  },
+  {
+    "key": "evt_TOPICS_0847",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0848",
+    "original": "",
+    "translation": "Book Barbecue"
+  },
+  {
+    "key": "evt_TOPICS_0849",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0850",
+    "original": "",
+    "translation": "Feelings of Guilt"
+  },
+  {
+    "key": "evt_TOPICS_0851",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0852",
+    "original": "",
+    "translation": "Watermelon Seeds"
+  },
+  {
+    "key": "evt_TOPICS_0853",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0854",
+    "original": "",
+    "translation": "Dried Banana"
+  },
+  {
+    "key": "evt_TOPICS_0855",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0856",
+    "original": "",
+    "translation": "Mysterious Ofuda"
+  },
+  {
+    "key": "evt_TOPICS_0857",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0858",
+    "original": "",
+    "translation": "Junk"
+  },
+  {
+    "key": "evt_TOPICS_0859",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0860",
+    "original": "",
+    "translation": "Mysterious Mechanism"
+  },
+  {
+    "key": "evt_TOPICS_0861",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0862",
+    "original": "",
+    "translation": "Fruit King"
+  },
+  {
+    "key": "evt_TOPICS_0863",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0864",
+    "original": "",
+    "translation": "Moon Viewing Banquet"
+  },
+  {
+    "key": "evt_TOPICS_0865",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0866",
+    "original": "",
+    "translation": "Summer Breeze CD"
+  },
+  {
+    "key": "evt_TOPICS_0867",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0868",
+    "original": "",
+    "translation": "Seven-Spotted Ladybug"
+  },
+  {
+    "key": "evt_TOPICS_0869",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0870",
+    "original": "",
+    "translation": "Meter-Long Iron Skewer"
+  },
+  {
+    "key": "evt_TOPICS_0871",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0872",
+    "original": "",
+    "translation": "Artificial Feeding"
+  },
+  {
+    "key": "evt_TOPICS_0873",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0874",
+    "original": "",
+    "translation": "Junk Storage"
+  },
+  {
+    "key": "evt_TOPICS_0875",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0876",
+    "original": "",
+    "translation": "Kyon's Deduction"
+  },
+  {
+    "key": "evt_TOPICS_0877",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0878",
+    "original": "",
+    "translation": "Little Sister's Helping Hand"
+  },
+  {
+    "key": "evt_TOPICS_0879",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_0880",
+    "original": "",
+    "translation": "Lucky Item"
+  },
+  {
+    "key": "evt_TOPICS_0881",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0882",
+    "original": "",
+    "translation": "In the Palm of Your Hand"
+  },
+  {
+    "key": "evt_TOPICS_0883",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0884",
+    "original": "",
+    "translation": "Medal of Honor"
+  },
+  {
+    "key": "evt_TOPICS_0885",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0886",
+    "original": "",
+    "translation": "Target"
+  },
+  {
+    "key": "evt_TOPICS_0887",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0888",
+    "original": "",
+    "translation": "Poltergeist"
+  },
+  {
+    "key": "evt_TOPICS_0889",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0890",
+    "original": "",
+    "translation": "Mosquito Coil"
+  },
+  {
+    "key": "evt_TOPICS_0891",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0892",
+    "original": "",
+    "translation": "Running Away"
+  },
+  {
+    "key": "evt_TOPICS_0893",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0894",
+    "original": "",
+    "translation": "Ray Gun"
+  },
+  {
+    "key": "evt_TOPICS_0895",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0896",
+    "original": "",
+    "translation": "Pocket Paperback"
+  },
+  {
+    "key": "evt_TOPICS_0897",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0898",
+    "original": "",
+    "translation": "Seal of Approval"
+  },
+  {
+    "key": "evt_TOPICS_0899",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0900",
+    "original": "",
+    "translation": "Sometime"
+  },
+  {
+    "key": "evt_TOPICS_0901",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0902",
+    "original": "",
+    "translation": "Ghost"
+  },
+  {
+    "key": "evt_TOPICS_0903",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0904",
+    "original": "",
+    "translation": "Enthusiasm"
+  },
+  {
+    "key": "evt_TOPICS_0905",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0906",
+    "original": "",
+    "translation": "Secondary Disaster"
+  },
+  {
+    "key": "evt_TOPICS_0907",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0908",
+    "original": "",
+    "translation": "Resonance"
+  },
+  {
+    "key": "evt_TOPICS_0909",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0910",
+    "original": "",
+    "translation": "Chlorine"
+  },
+  {
+    "key": "evt_TOPICS_0911",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0912",
+    "original": "",
+    "translation": "Spirit of Service"
+  },
+  {
+    "key": "evt_TOPICS_0913",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0914",
+    "original": "",
+    "translation": "Surprisingly Good Person"
+  },
+  {
+    "key": "evt_TOPICS_0915",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0916",
+    "original": "",
+    "translation": "Ventra Badge"
+  },
+  {
+    "key": "evt_TOPICS_0917",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0918",
+    "original": "",
+    "translation": "Marble"
+  },
+  {
+    "key": "evt_TOPICS_0919",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0920",
+    "original": "",
+    "translation": "Ordinary"
+  },
+  {
+    "key": "evt_TOPICS_0921",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0922",
+    "original": "",
+    "translation": "Being Diplomatic"
+  },
+  {
+    "key": "evt_TOPICS_0923",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0924",
+    "original": "",
+    "translation": "Good Fortune"
+  },
+  {
+    "key": "evt_TOPICS_0925",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0926",
+    "original": "",
+    "translation": "Emergency"
+  },
+  {
+    "key": "evt_TOPICS_0927",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0928",
+    "original": "",
+    "translation": "Air Freshener"
+  },
+  {
+    "key": "evt_TOPICS_0929",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0930",
+    "original": "",
+    "translation": "Fluorescent Panel"
+  },
+  {
+    "key": "evt_TOPICS_0931",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0932",
+    "original": "",
+    "translation": "Wet Cloth"
+  },
+  {
+    "key": "evt_TOPICS_0933",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0934",
+    "original": "",
+    "translation": "Bucket Sound"
+  },
+  {
+    "key": "evt_TOPICS_0935",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0936",
+    "original": "",
+    "translation": "Weekly Magazine"
+  },
+  {
+    "key": "evt_TOPICS_0937",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0938",
+    "original": "",
+    "translation": "Baseball Equipment"
+  },
+  {
+    "key": "evt_TOPICS_0939",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0940",
+    "original": "",
+    "translation": "Warabimochi"
+  },
+  {
+    "key": "evt_TOPICS_0941",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0942",
+    "original": "",
+    "translation": "Glowstick"
+  },
+  {
+    "key": "evt_TOPICS_0943",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0944",
+    "original": "",
+    "translation": "Manga Magazine"
+  },
+  {
+    "key": "evt_TOPICS_0945",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0946",
+    "original": "",
+    "translation": "Astrology Book"
+  },
+  {
+    "key": "evt_TOPICS_0947",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0948",
+    "original": "",
+    "translation": "Object of Interest"
+  },
+  {
+    "key": "evt_TOPICS_0949",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0950",
+    "original": "",
+    "translation": "Budget Constraints"
+  },
+  {
+    "key": "evt_TOPICS_0951",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0952",
+    "original": "",
+    "translation": "Tabletop Game"
+  },
+  {
+    "key": "evt_TOPICS_0953",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0954",
+    "original": "",
+    "translation": "Standoff Surrender"
+  },
+  {
+    "key": "evt_TOPICS_0955",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0956",
+    "original": "",
+    "translation": "Clubroom Furnishing"
+  },
+  {
+    "key": "evt_TOPICS_0957",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0958",
+    "original": "",
+    "translation": "Shopping Squad"
+  },
+  {
+    "key": "evt_TOPICS_0959",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0960",
+    "original": "",
+    "translation": "Adenosine Receptors"
+  },
+  {
+    "key": "evt_TOPICS_0961",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0962",
+    "original": "",
+    "translation": "Unwarranted Grudge"
+  },
+  {
+    "key": "evt_TOPICS_0963",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0964",
+    "original": "",
+    "translation": "Deliberate"
+  },
+  {
+    "key": "evt_TOPICS_0965",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0966",
+    "original": "",
+    "translation": "The Idol of North High"
+  },
+  {
+    "key": "evt_TOPICS_0967",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0968",
+    "original": "",
+    "translation": "Yellow Card"
+  },
+  {
+    "key": "evt_TOPICS_0969",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0970",
+    "original": "",
+    "translation": "Talking Privately"
+  },
+  {
+    "key": "evt_TOPICS_0971",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0972",
+    "original": "",
+    "translation": "The Next Test of Courage"
+  },
+  {
+    "key": "evt_TOPICS_0973",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0974",
+    "original": "",
+    "translation": "Time Limit"
+  },
+  {
+    "key": "evt_TOPICS_0975",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0976",
+    "original": "",
+    "translation": "Scarab Beetle"
+  },
+  {
+    "key": "evt_TOPICS_0977",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0978",
+    "original": "",
+    "translation": "Knees"
+  },
+  {
+    "key": "evt_TOPICS_0979",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0980",
+    "original": "",
+    "translation": "Unfortunate Circumstance"
+  },
+  {
+    "key": "evt_TOPICS_0981",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0982",
+    "original": "",
+    "translation": "Break Time"
+  },
+  {
+    "key": "evt_TOPICS_0983",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0984",
+    "original": "",
+    "translation": "Eloquence"
+  },
+  {
+    "key": "evt_TOPICS_0985",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0986",
+    "original": "",
+    "translation": "Coward"
+  },
+  {
+    "key": "evt_TOPICS_0987",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0988",
+    "original": "",
+    "translation": "Fun Test of Courage"
+  },
+  {
+    "key": "evt_TOPICS_0989",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0990",
+    "original": "",
+    "translation": "Drone Beetle"
+  },
+  {
+    "key": "evt_TOPICS_0991",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0992",
+    "original": "",
+    "translation": "Hallway Echo"
+  },
+  {
+    "key": "evt_TOPICS_0993",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0994",
+    "original": "",
+    "translation": "Ghost?"
+  },
+  {
+    "key": "evt_TOPICS_0995",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0996",
+    "original": "",
+    "translation": "Sunflower Seeds"
+  },
+  {
+    "key": "evt_TOPICS_0997",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_0998",
+    "original": "",
+    "translation": "Retribution"
+  },
+  {
+    "key": "evt_TOPICS_0999",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1000",
+    "original": "",
+    "translation": "Ordinary Human"
+  },
+  {
+    "key": "evt_TOPICS_1001",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1002",
+    "original": "",
+    "translation": "Computer Society Romanticism"
+  },
+  {
+    "key": "evt_TOPICS_1003",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1004",
+    "original": "",
+    "translation": "Trembling with Fear"
+  },
+  {
+    "key": "evt_TOPICS_1005",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1006",
+    "original": "",
+    "translation": "Flower Seed"
+  },
+  {
+    "key": "evt_TOPICS_1007",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1008",
+    "original": "",
+    "translation": "Parasitism"
+  },
+  {
+    "key": "evt_TOPICS_1009",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1010",
+    "original": "",
+    "translation": "Indoor Shoes"
+  },
+  {
+    "key": "evt_TOPICS_1011",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1012",
+    "original": "",
+    "translation": "Notebook Paper Scrap"
+  },
+  {
+    "key": "evt_TOPICS_1013",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1014",
+    "original": "",
+    "translation": "Apology"
+  },
+  {
+    "key": "evt_TOPICS_1015",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1016",
+    "original": "",
+    "translation": "Punishment"
+  },
+  {
+    "key": "evt_TOPICS_1017",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1018",
+    "original": "",
+    "translation": "Intuition"
+  },
+  {
+    "key": "evt_TOPICS_1019",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1020",
+    "original": "",
+    "translation": "Photo of Taniguchi"
+  },
+  {
+    "key": "evt_TOPICS_1021",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1022",
+    "original": "",
+    "translation": "Personal Relationship"
+  },
+  {
+    "key": "evt_TOPICS_1023",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1024",
+    "original": "",
+    "translation": "Hose"
+  },
+  {
+    "key": "evt_TOPICS_1025",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1026",
+    "original": "",
+    "translation": "The Taste of Victory"
+  },
+  {
+    "key": "evt_TOPICS_1027",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1028",
+    "original": "",
+    "translation": "Handmade Pieces"
+  },
+  {
+    "key": "evt_TOPICS_1029",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1030",
+    "original": "",
+    "translation": "Reliable Friend"
+  },
+  {
+    "key": "evt_TOPICS_1031",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1032",
+    "original": "",
+    "translation": "Special Chess Training"
+  },
+  {
+    "key": "evt_TOPICS_1033",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1034",
+    "original": "",
+    "translation": "Kyon Goes First"
+  },
+  {
+    "key": "evt_TOPICS_1035",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1036",
+    "original": "",
+    "translation": "Three Heads Are Better Than One"
+  },
+  {
+    "key": "evt_TOPICS_1037",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1038",
+    "original": "",
+    "translation": "One-to-One"
+  },
+  {
+    "key": "evt_TOPICS_1039",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1040",
+    "original": "",
+    "translation": "SOS Brigade Chess Champion"
+  },
+  {
+    "key": "evt_TOPICS_1041",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1042",
+    "original": "",
+    "translation": "Kyon's Doubt"
+  },
+  {
+    "key": "evt_TOPICS_1043",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1044",
+    "original": "",
+    "translation": "Chewing Gum Strip"
+  },
+  {
+    "key": "evt_TOPICS_1045",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1046",
+    "original": "",
+    "translation": "Useless"
+  },
+  {
+    "key": "evt_TOPICS_1047",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1048",
+    "original": "",
+    "translation": "Indecipherable"
+  },
+  {
+    "key": "evt_TOPICS_1049",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1050",
+    "original": "",
+    "translation": "Mystery Address"
+  },
+  {
+    "key": "evt_TOPICS_1051",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1052",
+    "original": "",
+    "translation": "Impromptu Decision"
+  },
+  {
+    "key": "evt_TOPICS_1053",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1054",
+    "original": "",
+    "translation": "Numb Legs"
+  },
+  {
+    "key": "evt_TOPICS_1055",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1056",
+    "original": "",
+    "translation": "Tarpaulin"
+  },
+  {
+    "key": "evt_TOPICS_1057",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1058",
+    "original": "",
+    "translation": "Bold Opinion"
+  },
+  {
+    "key": "evt_TOPICS_1059",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1060",
+    "original": "",
+    "translation": "Girls' Accessories"
+  },
+  {
+    "key": "evt_TOPICS_1061",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1062",
+    "original": "",
+    "translation": "Stray Bullet"
+  },
+  {
+    "key": "evt_TOPICS_1063",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1064",
+    "original": "",
+    "translation": "Standing Firm"
+  },
+  {
+    "key": "evt_TOPICS_1065",
+    "original": "",
+    "translation": "Causes a delay.        "
+  },
+  {
+    "key": "evt_TOPICS_1066",
+    "original": "",
+    "translation": "Misguided Ideas"
+  },
+  {
+    "key": "evt_TOPICS_1067",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1068",
+    "original": "",
+    "translation": "Give Up"
+  },
+  {
+    "key": "evt_TOPICS_1069",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1070",
+    "original": "",
+    "translation": "Consideration"
+  },
+  {
+    "key": "evt_TOPICS_1071",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1072",
+    "original": "",
+    "translation": "Safety First"
+  },
+  {
+    "key": "evt_TOPICS_1073",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1074",
+    "original": "",
+    "translation": "Piercing Scream"
+  },
+  {
+    "key": "evt_TOPICS_1075",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1076",
+    "original": "",
+    "translation": "Withered Silver Grass"
+  },
+  {
+    "key": "evt_TOPICS_1077",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1078",
+    "original": "",
+    "translation": "Making it Consistent"
+  },
+  {
+    "key": "evt_TOPICS_1079",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1080",
+    "original": "",
+    "translation": "Substitute"
+  },
+  {
+    "key": "evt_TOPICS_1081",
+    "original": "",
+    "translation": "Causes a delay.    "
+  },
+  {
+    "key": "evt_TOPICS_1082",
+    "original": "",
+    "translation": "A place that doesn't exist"
+  },
+  {
+    "key": "evt_TOPICS_1083",
+    "original": "",
+    "translation": "Causes a delay.    "
+  }
+]

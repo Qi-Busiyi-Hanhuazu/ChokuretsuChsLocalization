@@ -1,0 +1,982 @@
+[
+  {
+    "key": "evt_EV1_005S_0000",
+    "original": "",
+    "translation": "So that's what we went with. I decided to take\nNagato with me to the computer society…"
+  },
+  {
+    "key": "evt_EV1_005S_0001",
+    "original": "",
+    "translation": "Hey, Nagato. Can I ask you something?"
+  },
+  {
+    "key": "evt_EV1_005S_0002",
+    "original": "",
+    "translation": "What?"
+  },
+  {
+    "key": "evt_EV1_005S_0003",
+    "original": "",
+    "translation": "You know how we just entered class 1-10 a\nmoment ago?"
+  },
+  {
+    "key": "evt_EV1_005S_0004",
+    "original": "",
+    "translation": "Did you see what happened before that? A\nsilhouette was floating outside the window…"
+  },
+  {
+    "key": "evt_EV1_005S_0005",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0006",
+    "original": "",
+    "translation": "Well, I know what I'm saying is strange. At any\nrate, it was on the second floor."
+  },
+  {
+    "key": "evt_EV1_005S_0007",
+    "original": "",
+    "translation": "Maybe I'm just seeing things. I dismissed it at\nfirst, but there was also that classroom."
+  },
+  {
+    "key": "evt_EV1_005S_0008",
+    "original": "",
+    "translation": "If Haruhi said, \"I wish for that!” even a\nghost parade could manifest into reality."
+  },
+  {
+    "key": "evt_EV1_005S_0009",
+    "original": "",
+    "translation": "Was that also Haruhi's doing?"
+  },
+  {
+    "key": "evt_EV1_005S_0010",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0011",
+    "original": "",
+    "translation": "Are you listening, Nagato?"
+  },
+  {
+    "key": "evt_EV1_005S_0012",
+    "original": "",
+    "translation": "I'm listening."
+  },
+  {
+    "key": "evt_EV1_005S_0013",
+    "original": "",
+    "translation": "If that's the case, why don't you give me a\nreply or two?"
+  },
+  {
+    "key": "evt_EV1_005S_0014",
+    "original": "",
+    "translation": "At this rate, whether we can get anything\nout of those guys gives me endless anxiety."
+  },
+  {
+    "key": "evt_EV1_005S_0015",
+    "original": "",
+    "translation": "If you're wondering if Nagato is well suited to\nwitness investigation, the answer is NO."
+  },
+  {
+    "key": "evt_EV1_005S_0016",
+    "original": "",
+    "translation": "…I'll just end up suffering, after all. That's\nwhat always happens…"
+  },
+  {
+    "key": "evt_EV1_005S_0017",
+    "original": "",
+    "translation": "Since I joined the Haruhi faction, I feel as\nthough I've grown mentally."
+  },
+  {
+    "key": "evt_EV1_005S_0018",
+    "original": "",
+    "translation": "Although I'm not entirely happy about that…"
+  },
+  {
+    "key": "evt_EV1_005S_0019",
+    "original": "",
+    "translation": "Which reminds me, Nagato, have you been\ngetting value out of that PC in the clubroom?"
+  },
+  {
+    "key": "evt_EV1_005S_0020",
+    "original": "",
+    "translation": "…"
+  },
+  {
+    "key": "evt_EV1_005S_0021",
+    "original": "",
+    "translation": "Nagato silently gave a slight tilt of the head."
+  },
+  {
+    "key": "evt_EV1_005S_0022",
+    "original": "",
+    "translation": "I just felt like the so-called \"personal\ncomputer” would be a good fit for Nagato."
+  },
+  {
+    "key": "evt_EV1_005S_0023",
+    "original": "",
+    "translation": "You see, there's lots of things it can be used\nfor."
+  },
+  {
+    "key": "evt_EV1_005S_0024",
+    "original": "",
+    "translation": "For example, you can search through the\nlibrary's collection of books or something."
+  },
+  {
+    "key": "evt_EV1_005S_0025",
+    "original": "",
+    "translation": "No need."
+  },
+  {
+    "key": "evt_EV1_005S_0026",
+    "original": "",
+    "translation": "I know of all of the books in the library."
+  },
+  {
+    "key": "evt_EV1_005S_0027",
+    "original": "",
+    "translation": "…Then, if I were to ask you if they had a\nspecific book, could you answer?"
+  },
+  {
+    "key": "evt_EV1_005S_0028",
+    "original": "",
+    "translation": "Possibly."
+  },
+  {
+    "key": "evt_EV1_005S_0029",
+    "original": "",
+    "translation": "In that case, it's pointless to look it up on a\nPC, huh…"
+  },
+  {
+    "key": "evt_EV1_005S_0030",
+    "original": "",
+    "translation": "Don't tell me this person has already read\nthrough the library's entire catalog…?"
+  },
+  {
+    "key": "evt_EV1_005S_0031",
+    "original": "",
+    "translation": "No, it's nothing, forget about it."
+  },
+  {
+    "key": "evt_EV1_005S_0032",
+    "original": "",
+    "translation": "I see."
+  },
+  {
+    "key": "evt_EV1_005S_0033",
+    "original": "",
+    "translation": "Come to think of it, Nagato might have\nsomething even more impressive than a PC."
+  },
+  {
+    "key": "evt_EV1_005S_0034",
+    "original": "",
+    "translation": "But if that's the case, then our PC is nothing\nmore than a waste of space, isn't it?"
+  },
+  {
+    "key": "evt_EV1_005S_0036",
+    "original": "",
+    "translation": "It probably goes without saying, but the room\nwas riddled with computers."
+  },
+  {
+    "key": "evt_EV1_005S_0037",
+    "original": "",
+    "translation": "The thought arises every time I come here,\nbut this place reeks of brand-new electronics."
+  },
+  {
+    "key": "evt_EV1_005S_0038",
+    "original": "",
+    "translation": "It gave off a similar impression to the\nelectronics section at a mass retailer."
+  },
+  {
+    "key": "evt_EV1_005S_0039",
+    "original": "",
+    "translation": "Then, the computer society members…"
+  },
+  {
+    "key": "evt_EV1_005S_0040",
+    "original": "",
+    "translation": "…were directly facing their monitors and fully\nabsorbed in striking their keyboards."
+  },
+  {
+    "key": "evt_EV1_005S_0041",
+    "original": "",
+    "translation": "It seems like they're in the middle of something\nimportant, so I'll wait a bit."
+  },
+  {
+    "key": "evt_EV1_005S_0042",
+    "original": "",
+    "translation": "How are they able to gather so many people\nduring summer vacation?"
+  },
+  {
+    "key": "evt_EV1_005S_0043",
+    "original": "",
+    "translation": "But then again, I'm in no position to comment\non other people's business."
+  },
+  {
+    "key": "evt_EV1_005S_0044",
+    "original": "",
+    "translation": "Much to my dismay, the SOS Brigade is also\nwrapped up in its infamous club activities."
+  },
+  {
+    "key": "evt_EV1_005S_0045",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0046",
+    "original": "",
+    "translation": "I'm guessing that Nagato's silence isn't\nbecause she's calculating the right timing."
+  },
+  {
+    "key": "evt_EV1_005S_0047",
+    "original": "",
+    "translation": "Looks like I'll have to make the first move\nafter all."
+  },
+  {
+    "key": "evt_EV1_005S_0049",
+    "original": "",
+    "translation": "Huh? You guys are back again? What the hell\nis it this time?!"
+  },
+  {
+    "key": "evt_EV1_005S_0050",
+    "original": "",
+    "translation": "Thankfully, the other party called out to me\nfirst."
+  },
+  {
+    "key": "evt_EV1_005S_0051",
+    "original": "",
+    "translation": "As you can see, we're busy! If you've come to\ndisturb us, get out!"
+  },
+  {
+    "key": "evt_EV1_005S_0052",
+    "original": "",
+    "translation": "I didn't expect a warm welcome, but I didn't\nanticipate such a cold-hearted one either."
+  },
+  {
+    "key": "evt_EV1_005S_0053",
+    "original": "",
+    "translation": "We're not here to disturb you. We wanted to\nhear the story from before in more detail…"
+  },
+  {
+    "key": "evt_EV1_005S_0054",
+    "original": "",
+    "translation": "Story from before? Ahh… that ghost story,\nhuh?"
+  },
+  {
+    "key": "evt_EV1_005S_0055",
+    "original": "",
+    "translation": "…We already told your club president, right?"
+  },
+  {
+    "key": "evt_EV1_005S_0056",
+    "original": "",
+    "translation": "If you mean Haruhi, she's off doing something\non her own."
+  },
+  {
+    "key": "evt_EV1_005S_0057",
+    "original": "",
+    "translation": "I'd like to add that he can relax, but that\nwould be awkward. I'll just keep that to myself."
+  },
+  {
+    "key": "evt_EV1_005S_0058",
+    "original": "",
+    "translation": "I see… Then I guess it's fine."
+  },
+  {
+    "key": "evt_EV1_005S_0059",
+    "original": "",
+    "translation": " Actually,\nno, it's not fine. I really am busy right now."
+  },
+  {
+    "key": "evt_EV1_005S_0060",
+    "original": "",
+    "translation": "It only needs to take a second."
+  },
+  {
+    "key": "evt_EV1_005S_0061",
+    "original": "",
+    "translation": "You could just say it was a mere misjudgment,\nor misunderstanding, or something."
+  },
+  {
+    "key": "evt_EV1_005S_0062",
+    "original": "",
+    "translation": "I just want to go over the eyewitness\ntestimonies again."
+  },
+  {
+    "key": "evt_EV1_005S_0063",
+    "original": "",
+    "translation": "Wow… You guys sure have it rough, having to\nwork under her. Sounds troublesome."
+  },
+  {
+    "key": "evt_EV1_005S_0064",
+    "original": "",
+    "translation": "Of all things, he started sympathizing with me."
+  },
+  {
+    "key": "evt_EV1_005S_0065",
+    "original": "",
+    "translation": "Though at times I've certainly wished that\nthere was someone who understood."
+  },
+  {
+    "key": "evt_EV1_005S_0066",
+    "original": "",
+    "translation": "And yet, now that it's actually happened, why\ndoes it feel so uncomfortable?"
+  },
+  {
+    "key": "evt_EV1_005S_0067",
+    "original": "",
+    "translation": "And you there… You were in the literary club,\nweren't you? Poor thing."
+  },
+  {
+    "key": "evt_EV1_005S_0068",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0069",
+    "original": "",
+    "translation": "Come to think of it, Nagato was in the literary\nclub, and our clubroom was theirs."
+  },
+  {
+    "key": "evt_EV1_005S_0070",
+    "original": "",
+    "translation": "To be honest, it should've stayed that way…\nProbably."
+  },
+  {
+    "key": "evt_EV1_005S_0071",
+    "original": "",
+    "translation": "Nagato, you're still technically in the literary\nclub, aren't you?"
+  },
+  {
+    "key": "evt_EV1_005S_0072",
+    "original": "",
+    "translation": "I am."
+  },
+  {
+    "key": "evt_EV1_005S_0073",
+    "original": "",
+    "translation": "Even now, the clubroom is also more or less\nunder the literary club's ownership."
+  },
+  {
+    "key": "evt_EV1_005S_0074",
+    "original": "",
+    "translation": "Yes."
+  },
+  {
+    "key": "evt_EV1_005S_0075",
+    "original": "",
+    "translation": "In other words, you've completely rented out\nthe room, Haruhi."
+  },
+  {
+    "key": "evt_EV1_005S_0076",
+    "original": "",
+    "translation": "Actually, it benefits no one to call it\n\"renting.”"
+  },
+  {
+    "key": "evt_EV1_005S_0077",
+    "original": "",
+    "translation": "\"Give an inch, and they'll take a mile” is a\nmore appropriate term for this situation."
+  },
+  {
+    "key": "evt_EV1_005S_0078",
+    "original": "",
+    "translation": "Haruhi has the nerve to just take the whole\nmile from the very start."
+  },
+  {
+    "key": "evt_EV1_005S_0079",
+    "original": "",
+    "translation": "Right now, Nagato is a member of the SOS\nBrigade, and that's good enough for me."
+  },
+  {
+    "key": "evt_EV1_005S_0080",
+    "original": "",
+    "translation": "Though, the literary club, huh… if I'm not\nmistaken, Nagato was the only member."
+  },
+  {
+    "key": "evt_EV1_005S_0081",
+    "original": "",
+    "translation": "I haven't seen anything in the clubroom that\nsuggests they assigned any club activities."
+  },
+  {
+    "key": "evt_EV1_005S_0082",
+    "original": "",
+    "translation": "I'm surprised the club hasn't been shut down.\nIt's still going, even in such a state."
+  },
+  {
+    "key": "evt_EV1_005S_0083",
+    "original": "",
+    "translation": "I sympathize with your situation, but how\nmany times do I have to tell you that we're—"
+  },
+  {
+    "key": "evt_EV1_005S_0085",
+    "original": "",
+    "translation": "B-big trouble! Presideeent!"
+  },
+  {
+    "key": "evt_EV1_005S_0086",
+    "original": "",
+    "translation": "The server is… Our data storage is…!"
+  },
+  {
+    "key": "evt_EV1_005S_0087",
+    "original": "",
+    "translation": "Wh-what is it?! What's going on?"
+  },
+  {
+    "key": "evt_EV1_005S_0088",
+    "original": "",
+    "translation": "We've got big trouble! It won't boot up\nanymore! It's not responding!"
+  },
+  {
+    "key": "evt_EV1_005S_0089",
+    "original": "",
+    "translation": "What the hell…?! Reboot it again!"
+  },
+  {
+    "key": "evt_EV1_005S_0091",
+    "original": "",
+    "translation": "No matter how many times I try, it doesn't\nseem to work… It might be the hardware…"
+  },
+  {
+    "key": "evt_EV1_005S_0092",
+    "original": "",
+    "translation": "What about the backups?! All the data was\ncopied, as it should've been, right?!"
+  },
+  {
+    "key": "evt_EV1_005S_0094",
+    "original": "",
+    "translation": "That's… Not yet… I was just about to, but it\ncompletely stopped working…"
+  },
+  {
+    "key": "evt_EV1_005S_0095",
+    "original": "",
+    "translation": "That sure was noisy. Seems like a pretty\ndreadful situation is transpiring."
+  },
+  {
+    "key": "evt_EV1_005S_0096",
+    "original": "",
+    "translation": "Unbelievable… To think you were just about\nto…"
+  },
+  {
+    "key": "evt_EV1_005S_0097",
+    "original": "",
+    "translation": "The president had an expression of despair\nresembling Munch's masterpiece, \"The Scream.”"
+  },
+  {
+    "key": "evt_EV1_005S_0098",
+    "original": "",
+    "translation": "Looks like there's something wrong with your\ncomputer…"
+  },
+  {
+    "key": "evt_EV1_005S_0099",
+    "original": "",
+    "translation": "All our hard work… Our entire summer of toil is\ncompletely wasted…"
+  },
+  {
+    "key": "evt_EV1_005S_0100",
+    "original": "",
+    "translation": "Ohh, even though we made this much…"
+  },
+  {
+    "key": "evt_EV1_005S_0101",
+    "original": "",
+    "translation": "President, everyone… I'm sorry. If only I had\nbacked it up sooner…"
+  },
+  {
+    "key": "evt_EV1_005S_0103",
+    "original": "",
+    "translation": "The air is heavy like a funeral wake. It might\nbe too late to hear the story now."
+  },
+  {
+    "key": "evt_EV1_005S_0104",
+    "original": "",
+    "translation": "Wait, hold on…?"
+  },
+  {
+    "key": "evt_EV1_005S_0105",
+    "original": "",
+    "translation": "Maybe I can use this situation to get them to\nlower their guard a little."
+  },
+  {
+    "key": "evt_EV1_005S_0106",
+    "original": "",
+    "translation": "Nagato, can't you do something about this?"
+  },
+  {
+    "key": "evt_EV1_005S_0107",
+    "original": "",
+    "translation": "Do what?"
+  },
+  {
+    "key": "evt_EV1_005S_0108",
+    "original": "",
+    "translation": "It seems like these guys have a problem.\nWhat's happening here? Can you fix it?"
+  },
+  {
+    "key": "evt_EV1_005S_0109",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0110",
+    "original": "",
+    "translation": "Nagato stared blankly at the broken\ncomputer before eventually…"
+  },
+  {
+    "key": "evt_EV1_005S_0111",
+    "original": "",
+    "translation": "It is possible."
+  },
+  {
+    "key": "evt_EV1_005S_0112",
+    "original": "",
+    "translation": "Could I ask you to help? I don't particularly\nhave a reason to do them any favors, but…"
+  },
+  {
+    "key": "evt_EV1_005S_0113",
+    "original": "",
+    "translation": "It might put them in a bit of a better mood."
+  },
+  {
+    "key": "evt_EV1_005S_0114",
+    "original": "",
+    "translation": "Understood."
+  },
+  {
+    "key": "evt_EV1_005S_0117",
+    "original": "",
+    "translation": "Ah… Mr. President. The truth is, Nagato here\nis very knowledgeable about computers."
+  },
+  {
+    "key": "evt_EV1_005S_0118",
+    "original": "",
+    "translation": "She might be able to fix it."
+  },
+  {
+    "key": "evt_EV1_005S_0119",
+    "original": "",
+    "translation": "You really mean it?! You can actually do\nthat?!"
+  },
+  {
+    "key": "evt_EV1_005S_0120",
+    "original": "",
+    "translation": "Nagato, please fix it."
+  },
+  {
+    "key": "evt_EV1_005S_0121",
+    "original": "",
+    "translation": "Commencing repairs."
+  },
+  {
+    "key": "evt_EV1_005S_0122",
+    "original": "",
+    "translation": "Nagato stood in front of the broken PC… And\nsuddenly plugged it into the wall outlet."
+  },
+  {
+    "key": "evt_EV1_005S_0123",
+    "original": "",
+    "translation": "Wha…?!"
+  },
+  {
+    "key": "evt_EV1_005S_0124",
+    "original": "",
+    "translation": "Finished."
+  },
+  {
+    "key": "evt_EV1_005S_0125",
+    "original": "",
+    "translation": "Wha?! P-p-p-president!"
+  },
+  {
+    "key": "evt_EV1_005S_0126",
+    "original": "",
+    "translation": "What is it this time…? What else could possibly\nhave gone wrong…?"
+  },
+  {
+    "key": "evt_EV1_005S_0128",
+    "original": "",
+    "translation": "I-it booted up! The server suddenly\nrestarted…!"
+  },
+  {
+    "key": "evt_EV1_005S_0129",
+    "original": "",
+    "translation": "R-really?! How's the data?!"
+  },
+  {
+    "key": "evt_EV1_005S_0130",
+    "original": "",
+    "translation": "Give me a second… It's okay, it's all still there!"
+  },
+  {
+    "key": "evt_EV1_005S_0131",
+    "original": "",
+    "translation": "It is recommended to make a backup\nimmediately."
+  },
+  {
+    "key": "evt_EV1_005S_0132",
+    "original": "",
+    "translation": "Make a backup right away! And then, run a\nvirus scan too!"
+  },
+  {
+    "key": "evt_EV1_005S_0133",
+    "original": "",
+    "translation": "Ahh, thank goodness… For a moment there I\ndidn't know what was going to happen…"
+  },
+  {
+    "key": "evt_EV1_005S_0134",
+    "original": "",
+    "translation": "The president was trembling with emotion as if\nto say, \"Thank you, God!”"
+  },
+  {
+    "key": "evt_EV1_005S_0135",
+    "original": "",
+    "translation": "It seems your machine troubles blew over\nwithout a hitch. Very good, very good."
+  },
+  {
+    "key": "evt_EV1_005S_0136",
+    "original": "",
+    "translation": "Ahh… You two just witnessed something\noutrageous. I'm sure it was surprising."
+  },
+  {
+    "key": "evt_EV1_005S_0137",
+    "original": "",
+    "translation": "My heart nearly stopped… Anyways, I'm\nrelieved. Good grief."
+  },
+  {
+    "key": "evt_EV1_005S_0138",
+    "original": "",
+    "translation": "But how exactly were you able to fix it?"
+  },
+  {
+    "key": "evt_EV1_005S_0139",
+    "original": "",
+    "translation": "It seemed like you repaired it in no time."
+  },
+  {
+    "key": "evt_EV1_005S_0140",
+    "original": "",
+    "translation": "I don't honestly need to inform him that it was\njust unplugged from the outlet, do I?"
+  },
+  {
+    "key": "evt_EV1_005S_0141",
+    "original": "",
+    "translation": "I'll do what I can here to preserve his sense\nof gratitude."
+  },
+  {
+    "key": "evt_EV1_005S_0142",
+    "original": "",
+    "translation": "Well, it seems like that was very important\ndata."
+  },
+  {
+    "key": "evt_EV1_005S_0143",
+    "original": "",
+    "translation": "Are you making a program or something?"
+  },
+  {
+    "key": "evt_EV1_005S_0144",
+    "original": "",
+    "translation": "…So, I asked something unrelated."
+  },
+  {
+    "key": "evt_EV1_005S_0145",
+    "original": "",
+    "translation": "Oh? Are you interested?"
+  },
+  {
+    "key": "evt_EV1_005S_0146",
+    "original": "",
+    "translation": "It's just as you say! We're working on some-\nthing that will make computer society history."
+  },
+  {
+    "key": "evt_EV1_005S_0147",
+    "original": "",
+    "translation": "Well you see, we're making what you would\nrefer to as a \"game program.”"
+  },
+  {
+    "key": "evt_EV1_005S_0148",
+    "original": "",
+    "translation": "Well, it's really just extremely back-breaking\nwork. It's an immense task."
+  },
+  {
+    "key": "evt_EV1_005S_0149",
+    "original": "",
+    "translation": "What happened to their wariness towards us?\nThe president seems to be in a good mood."
+  },
+  {
+    "key": "evt_EV1_005S_0150",
+    "original": "",
+    "translation": "We even had quite an argument over choosing\na programming language."
+  },
+  {
+    "key": "evt_EV1_005S_0151",
+    "original": "",
+    "translation": "Though, I'm glad we decided to go\nobject-oriented, because of those specs."
+  },
+  {
+    "key": "evt_EV1_005S_0152",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0153",
+    "original": "",
+    "translation": "See, there's only so much you're able to do\nwith a standard library, right?"
+  },
+  {
+    "key": "evt_EV1_005S_0154",
+    "original": "",
+    "translation": "On top of that, the GUI was a huge issue, and\nthe screen design problem too…"
+  },
+  {
+    "key": "evt_EV1_005S_0155",
+    "original": "",
+    "translation": "Jargon started flying out all over the place. I\ndon't understand any of this at all."
+  },
+  {
+    "key": "evt_EV1_005S_0156",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0157",
+    "original": "",
+    "translation": "But unlike me, Nagato was listening quietly. I\nwonder if she understands it?"
+  },
+  {
+    "key": "evt_EV1_005S_0158",
+    "original": "",
+    "translation": "In addition, we've finished writing most of the\nsource code."
+  },
+  {
+    "key": "evt_EV1_005S_0159",
+    "original": "",
+    "translation": "My, how fascinating. As one would expect of\nthe experts at the computer society."
+  },
+  {
+    "key": "evt_EV1_005S_0160",
+    "original": "",
+    "translation": "Y-you think so? I wouldn't take it that far.\nAhahaha…"
+  },
+  {
+    "key": "evt_EV1_005S_0161",
+    "original": "",
+    "translation": "On the dawn of it's completion, you guys'—"
+  },
+  {
+    "key": "evt_EV1_005S_0162",
+    "original": "",
+    "translation": "…Ah, that's right."
+  },
+  {
+    "key": "evt_EV1_005S_0163",
+    "original": "",
+    "translation": "Suddenly, the president covered his mouth.\nWhat is it, all of a sudden?"
+  },
+  {
+    "key": "evt_EV1_005S_0164",
+    "original": "",
+    "translation": "…Weren't you two also members of that SOS\ngroup, now that I think about it?"
+  },
+  {
+    "key": "evt_EV1_005S_0165",
+    "original": "",
+    "translation": "Unfortunately, I cant deny that."
+  },
+  {
+    "key": "evt_EV1_005S_0166",
+    "original": "",
+    "translation": "Never mind, please forget about it."
+  },
+  {
+    "key": "evt_EV1_005S_0167",
+    "original": "",
+    "translation": "From the beginning, this was a topic that I\ncouldn't follow, so I won't pursue it any further."
+  },
+  {
+    "key": "evt_EV1_005S_0168",
+    "original": "",
+    "translation": "…Information gathering."
+  },
+  {
+    "key": "evt_EV1_005S_0169",
+    "original": "",
+    "translation": "That's right, we want to hear the story\nconcerning the classroom from before."
+  },
+  {
+    "key": "evt_EV1_005S_0170",
+    "original": "",
+    "translation": "Ah, class 1-10 ghost stories and the like. I\nthink we already said everything last time."
+  },
+  {
+    "key": "evt_EV1_005S_0171",
+    "original": "",
+    "translation": "Is there anything you forgot to mention?\nEven if just a minor detail…?"
+  },
+  {
+    "key": "evt_EV1_005S_0172",
+    "original": "",
+    "translation": "Hey, is there anything you forgot to bring up\nabout the class 1-10 thing?"
+  },
+  {
+    "key": "evt_EV1_005S_0173",
+    "original": "",
+    "translation": "The president called out to Club Member A who\nwas working in front of the server."
+  },
+  {
+    "key": "evt_EV1_005S_0174",
+    "original": "",
+    "translation": "Umm…"
+  },
+  {
+    "key": "evt_EV1_005S_0175",
+    "original": "",
+    "translation": "Forgive me, but I can't seem to remember. I do\nfeel like there was something though."
+  },
+  {
+    "key": "evt_EV1_005S_0176",
+    "original": "",
+    "translation": "But, is it really that important?"
+  },
+  {
+    "key": "evt_EV1_005S_0177",
+    "original": "",
+    "translation": "A global crisis is taking place! Or at least\nthat's what I'd like to say…"
+  },
+  {
+    "key": "evt_EV1_005S_0179",
+    "original": "",
+    "translation": "The backup and virus scan are complete~"
+  },
+  {
+    "key": "evt_EV1_005S_0180",
+    "original": "",
+    "translation": "Alright, we're back in business."
+  },
+  {
+    "key": "evt_EV1_005S_0181",
+    "original": "",
+    "translation": "You guys… I'm sorry but, if you don't mind…"
+  },
+  {
+    "key": "evt_EV1_005S_0182",
+    "original": "",
+    "translation": "It doesn't seem like I'll be able to get anything\nmore out of them. Are we out of time…?"
+  },
+  {
+    "key": "evt_EV1_005S_0183",
+    "original": "",
+    "translation": "Sorry for bothering you at such a busy time."
+  },
+  {
+    "key": "evt_EV1_005S_0184",
+    "original": "",
+    "translation": "Nagato, let's pull out now."
+  },
+  {
+    "key": "evt_EV1_005S_0185",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_005S_0186",
+    "original": "",
+    "translation": "I might have been imagining it, but for just a\nmoment, Nagato's face seemed disappointed."
+  },
+  {
+    "key": "evt_EV1_005S_0187",
+    "original": "",
+    "translation": "Nagato… Did she want to stay here a bit\nlonger and keep listening? Well, I never."
+  },
+  {
+    "key": "evt_EV1_005S_0188",
+    "original": "",
+    "translation": "Nagato, do you want to stay and talk a bit\nmore?"
+  },
+  {
+    "key": "evt_EV1_005S_0189",
+    "original": "",
+    "translation": "Why?"
+  },
+  {
+    "key": "evt_EV1_005S_0190",
+    "original": "",
+    "translation": "Well… I can't really justify why, but…"
+  },
+  {
+    "key": "evt_EV1_005S_0191",
+    "original": "",
+    "translation": "I thought you might be interested in listening\nto the president more, or in the club equipment."
+  },
+  {
+    "key": "evt_EV1_005S_0192",
+    "original": "",
+    "translation": "Just a little."
+  },
+  {
+    "key": "evt_EV1_005S_0193",
+    "original": "",
+    "translation": "However, it is fine."
+  },
+  {
+    "key": "evt_EV1_005S_0194",
+    "original": "",
+    "translation": "Really…? Alright then, if you say so."
+  },
+  {
+    "key": "evt_EV1_005S_0195",
+    "original": "",
+    "translation": "I wonder how the computer society's\nequipment and program look in Nagato's eyes."
+  },
+  {
+    "key": "evt_EV1_005S_0196",
+    "original": "",
+    "translation": "Either way, I didn't expect that listening to\nthem talk would end up becoming such a clamor."
+  },
+  {
+    "key": "evt_EV1_005S_0197",
+    "original": "",
+    "translation": "This summer camp just started, so I'm worried\nabout what the future holds…"
+  },
+  {
+    "key": "evt_EV1_005S_0198",
+    "original": "",
+    "translation": "In the end, it seems I couldn't get any new\ninfo at all. Good grief…"
+  },
+  {
+    "key": "evt_EV1_005S_0199",
+    "original": "",
+    "translation": "Well then, I'm not sure what to do from here."
+  },
+  {
+    "key": "evt_EV1_005S_0200",
+    "original": "",
+    "translation": "Talk to her some more"
+  },
+  {
+    "key": "evt_EV1_005S_0201",
+    "original": "",
+    "translation": "Don't talk to her any more"
+  },
+  {
+    "key": "evt_EV1_005S_0202",
+    "original": "",
+    "translation": "Get confirmation from Nagato"
+  },
+  {
+    "key": "evt_EV1_005S_0203",
+    "original": "",
+    "translation": "Don't ask for details"
+  },
+  {
+    "key": "evt_EV1_005S_0204",
+    "original": "",
+    "translation": "Do you want to stay a bit longer?"
+  },
+  {
+    "key": "evt_EV1_005S_0205",
+    "original": "",
+    "translation": "It's probably just my imagination."
+  }
+]

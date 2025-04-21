@@ -1,0 +1,222 @@
+[
+  {
+    "key": "evt_TR01S_0000",
+    "original": "",
+    "translation": "[#P04Now] starting the Puzzle Phase tutorial."
+  },
+  {
+    "key": "evt_TR01S_0001",
+    "original": "",
+    "translation": "[#P04In] the Puzzle Phase, you will navigate\nalternate space with an SOS Brigade member."
+  },
+  {
+    "key": "evt_TR01S_0002",
+    "original": "",
+    "translation": "[#P04The] objective is to cause the alternate\nspace to naturally dissolve…"
+  },
+  {
+    "key": "evt_TR01S_0003",
+    "original": "",
+    "translation": "[#P04]…before Haruhi Suzumiya arrives."
+  },
+  {
+    "key": "evt_TR01S_0004",
+    "original": "",
+    "translation": "[#P04In] order to do that, you must find the hidden\n\"singularities” on the map…"
+  },
+  {
+    "key": "evt_TR01S_0005",
+    "original": "",
+    "translation": "[#P04]…and then materialize and erase them."
+  },
+  {
+    "key": "evt_TR01S_0006",
+    "original": "",
+    "translation": "[#P04On] the bottom left of the screen, \"Left”\ncounts the remaining number of singularities."
+  },
+  {
+    "key": "evt_TR01S_0007",
+    "original": "",
+    "translation": "[#P04Next] to it is the \"Goal” number, which counts…"
+  },
+  {
+    "key": "evt_TR01S_0008",
+    "original": "",
+    "translation": "[#P04]…the minimum number of singularities you must\nerase to clear the stage."
+  },
+  {
+    "key": "evt_TR01S_0009",
+    "original": "",
+    "translation": "[#P04In] order to clear the Puzzle Phase, you must…"
+  },
+  {
+    "key": "evt_TR01S_0010",
+    "original": "",
+    "translation": "[#P04]…either erase all of the singularities, or\nachieve the goal before \"Time Over” occurs."
+  },
+  {
+    "key": "evt_TR01S_0011",
+    "original": "",
+    "translation": "[#P04If] you are unable to find and erase the goal\nnumber of singularities…"
+  },
+  {
+    "key": "evt_TR01S_0012",
+    "original": "",
+    "translation": "[#P04]…before the time limit shown on the top screen\nruns out…"
+  },
+  {
+    "key": "evt_TR01S_0013",
+    "original": "",
+    "translation": "[#P04]…it will result in Game Over."
+  },
+  {
+    "key": "evt_TR01S_0014",
+    "original": "",
+    "translation": "[#P04In] alternate space, you are able to do the\nfollowing actions with your Brigade member."
+  },
+  {
+    "key": "evt_TR01S_0015",
+    "original": "",
+    "translation": "[#P041]. \"Movement”"
+  },
+  {
+    "key": "evt_TR01S_0016",
+    "original": "",
+    "translation": "[#P04Touch] a location and they will move there."
+  },
+  {
+    "key": "evt_TR01S_0017",
+    "original": "",
+    "translation": "[#P042]. \"Area Search”"
+  },
+  {
+    "key": "evt_TR01S_0018",
+    "original": "",
+    "translation": "When the search icon on the upper left of the\nscreen is off, tap at your member's feet."
+  },
+  {
+    "key": "evt_TR01S_0019",
+    "original": "",
+    "translation": "Doing so will select the center tile and the\neight surrounding tiles (nine tiles total)…"
+  },
+  {
+    "key": "evt_TR01S_0020",
+    "original": "",
+    "translation": "…and perform an area search."
+  },
+  {
+    "key": "evt_TR01S_0021",
+    "original": "",
+    "translation": "Depending on the area searched, you may be\nable to find hidden singularities."
+  },
+  {
+    "key": "evt_TR01S_0022",
+    "original": "",
+    "translation": "However, you will not be able to materialize\nsingularities with an area search."
+  },
+  {
+    "key": "evt_TR01S_0023",
+    "original": "",
+    "translation": "Once you've inferred the position of a hidden\nsingularity by the markers near your feet…"
+  },
+  {
+    "key": "evt_TR01S_0024",
+    "original": "",
+    "translation": "…please materialize the singularity by using\nthe \"Point Search” action."
+  },
+  {
+    "key": "evt_TR01S_0025",
+    "original": "",
+    "translation": "[#P043]. \"Point Search”"
+  },
+  {
+    "key": "evt_TR01S_0026",
+    "original": "",
+    "translation": "When you touch the \"Search Icon” at the\nupper left of the screen…"
+  },
+  {
+    "key": "evt_TR01S_0027",
+    "original": "",
+    "translation": "…an icon indicating point search mode will\nappear over the member's head."
+  },
+  {
+    "key": "evt_TR01S_0028",
+    "original": "",
+    "translation": "If you touch a specific tile while in this mode,\nthe brigade member will move…"
+  },
+  {
+    "key": "evt_TR01S_0029",
+    "original": "",
+    "translation": "…to the adjacent tile, and perform a point\nsearch."
+  },
+  {
+    "key": "evt_TR01S_0030",
+    "original": "",
+    "translation": "If you search a point that contains a hidden\nsingularity…"
+  },
+  {
+    "key": "evt_TR01S_0031",
+    "original": "",
+    "translation": "…this will force it to materialize."
+  },
+  {
+    "key": "evt_TR01S_0032",
+    "original": "",
+    "translation": "You can only use point search to search one\ntile at a time…"
+  },
+  {
+    "key": "evt_TR01S_0033",
+    "original": "",
+    "translation": "…but this serves as the basic action to\nmaterialize a singularity."
+  },
+  {
+    "key": "evt_TR01S_0034",
+    "original": "",
+    "translation": "If you want to perform the area search\naction again, turn off the search icon."
+  },
+  {
+    "key": "evt_TR01S_0035",
+    "original": "",
+    "translation": "Please be careful to not confuse these two\nmodes."
+  },
+  {
+    "key": "evt_TR01S_0036",
+    "original": "",
+    "translation": "When you search, the marks near your feet\nindicate the odds of a singularity existing."
+  },
+  {
+    "key": "evt_TR01S_0037",
+    "original": "",
+    "translation": "The \"!” mark on a tile indicates that a\nsingularity exists on one of…"
+  },
+  {
+    "key": "evt_TR01S_0038",
+    "original": "",
+    "translation": "…the surrounding nine tiles that includes the\ntile itself."
+  },
+  {
+    "key": "evt_TR01S_0039",
+    "original": "",
+    "translation": "The number of \"!” marks will increase\naccording to how many singularities…"
+  },
+  {
+    "key": "evt_TR01S_0040",
+    "original": "",
+    "translation": "…exist in the tiles surrounding it."
+  },
+  {
+    "key": "evt_TR01S_0041",
+    "original": "",
+    "translation": "Once a singularity has materialized, rub it\nwith your stylus to erase it."
+  },
+  {
+    "key": "evt_TR01S_0042",
+    "original": "",
+    "translation": "If you rub an area slightly wider than it\nappears, you can erase it more efficiently."
+  },
+  {
+    "key": "evt_TR01S_0043",
+    "original": "",
+    "translation": "As a final reminder, please be mindful of the\ntime limit when finding and erasing singularities."
+  }
+]

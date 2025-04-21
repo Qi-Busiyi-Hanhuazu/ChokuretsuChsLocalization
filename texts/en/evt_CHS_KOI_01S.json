@@ -1,0 +1,117 @@
+[
+  {
+    "key": "evt_CHS_KOI_01S_0000",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0001",
+    "original": "",
+    "translation": "In this mode, your objective is to solve the\nchess puzzles…"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0002",
+    "original": "",
+    "translation": "…which each of the characters present to\nyou."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0003",
+    "original": "",
+    "translation": "Before you get into the chess puzzles, we'll\nfirst go through a step-by-step explanation…"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0004",
+    "original": "",
+    "translation": "…to help you learn the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0005",
+    "original": "",
+    "translation": "Let's start with an overview of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0006",
+    "original": "",
+    "translation": "Chess is played on a board split into an 8x8\ngrid, as shown on the bottom screen."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0007",
+    "original": "",
+    "translation": "There are two opposing players."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0008",
+    "original": "",
+    "translation": "The players are divided into white (first to\nmove) and black, and take turns moving pieces."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0009",
+    "original": "",
+    "translation": "The first player to checkmate the opponent's\nking is the winner."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0010",
+    "original": "",
+    "translation": "Each player has 16 pieces, of which there are\n6 types. The game starts with them lined up."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0011",
+    "original": "",
+    "translation": "The six piece types are—Kings"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0012",
+    "original": "",
+    "translation": "Queens"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0013",
+    "original": "",
+    "translation": "Bishops"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0014",
+    "original": "",
+    "translation": "Knights"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0015",
+    "original": "",
+    "translation": "Rooks"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0016",
+    "original": "",
+    "translation": "Pawns"
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0017",
+    "original": "",
+    "translation": "Those six piece types line up as shown on the\nbottom screen."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0018",
+    "original": "",
+    "translation": "Make sure that the king and queen are\nfacing each other."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0019",
+    "original": "",
+    "translation": "The placement of the pieces is not point\nsymmetric."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0020",
+    "original": "",
+    "translation": "White makes the first move, and the players\nwill take turns making moves from there on."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0021",
+    "original": "",
+    "translation": "The white queen has put the black king in\ncheckmate."
+  },
+  {
+    "key": "evt_CHS_KOI_01S_0022",
+    "original": "",
+    "translation": "That concludes the overview of chess."
+  }
+]

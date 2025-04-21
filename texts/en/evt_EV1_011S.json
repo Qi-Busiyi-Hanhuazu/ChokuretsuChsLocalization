@@ -1,0 +1,772 @@
+[
+  {
+    "key": "evt_EV1_011S_0000",
+    "original": "",
+    "translation": "I headed to the building where the first-year\nclassrooms are, trying to find Haruhi…"
+  },
+  {
+    "key": "evt_EV1_011S_0001",
+    "original": "",
+    "translation": "…and was soon able to find her wandering the\nhallways."
+  },
+  {
+    "key": "evt_EV1_011S_0003",
+    "original": "",
+    "translation": "Oi, Haruhi, wait up! Hey!"
+  },
+  {
+    "key": "evt_EV1_011S_0004",
+    "original": "",
+    "translation": "What now?! …Hey, what are you doing by\nyourself? Where are Mikuru, Yuki, and Koizumi?"
+  },
+  {
+    "key": "evt_EV1_011S_0005",
+    "original": "",
+    "translation": "They went to talk to the computer society\nmore, saying something was bothering them."
+  },
+  {
+    "key": "evt_EV1_011S_0006",
+    "original": "",
+    "translation": "Hmm. Well, splitting into two groups might not\nbe such a bad idea."
+  },
+  {
+    "key": "evt_EV1_011S_0007",
+    "original": "",
+    "translation": "Back to you, where in the world do you think\nyou're going?!"
+  },
+  {
+    "key": "evt_EV1_011S_0008",
+    "original": "",
+    "translation": "Where? The scene of the man-eating\nclassroom incident, obviously."
+  },
+  {
+    "key": "evt_EV1_011S_0009",
+    "original": "",
+    "translation": "Don't you know the expression \"scene of the\ncrime, 100 times?”"
+  },
+  {
+    "key": "evt_EV1_011S_0010",
+    "original": "",
+    "translation": "They definitely say cracking a case requires\nfrequently returning to the crime scene, but…"
+  },
+  {
+    "key": "evt_EV1_011S_0011",
+    "original": "",
+    "translation": "This isn't some police drama. Where even is the\ncrime scene, anyway?"
+  },
+  {
+    "key": "evt_EV1_011S_0012",
+    "original": "",
+    "translation": "Well that's obviously… obviously… "
+  },
+  {
+    "key": "evt_EV1_011S_0013",
+    "original": "",
+    "translation": "Well that's what we're looking for, obviously!"
+  },
+  {
+    "key": "evt_EV1_011S_0014",
+    "original": "",
+    "translation": "…See what I mean? You can't just run around\nwilly-nilly."
+  },
+  {
+    "key": "evt_EV1_011S_0015",
+    "original": "",
+    "translation": "You don't have any idea where you're going,\ndo you?"
+  },
+  {
+    "key": "evt_EV1_011S_0016",
+    "original": "",
+    "translation": "Well, how about you then?"
+  },
+  {
+    "key": "evt_EV1_011S_0017",
+    "original": "",
+    "translation": "I don't know either."
+  },
+  {
+    "key": "evt_EV1_011S_0018",
+    "original": "",
+    "translation": "Are you kidding me? Don't say something so\nself-important when you have no idea either."
+  },
+  {
+    "key": "evt_EV1_011S_0019",
+    "original": "",
+    "translation": "But unlike you, I have enough sense to think\nabout where I'm going before running there."
+  },
+  {
+    "key": "evt_EV1_011S_0020",
+    "original": "",
+    "translation": "That kind of thing's a waste of time."
+  },
+  {
+    "key": "evt_EV1_011S_0021",
+    "original": "",
+    "translation": "It's way more efficient to think about it while\nyou're running there!"
+  },
+  {
+    "key": "evt_EV1_011S_0022",
+    "original": "",
+    "translation": "Oh right… She's that kind of person."
+  },
+  {
+    "key": "evt_EV1_011S_0023",
+    "original": "",
+    "translation": "Whatever! You know what—just hurry up and\nget over here, Kyon!"
+  },
+  {
+    "key": "evt_EV1_011S_0024",
+    "original": "",
+    "translation": "At some point I must've run out of energy, but\nHaruhi walked up to me and grabbed my arm."
+  },
+  {
+    "key": "evt_EV1_011S_0025",
+    "original": "",
+    "translation": "I staggered along while being forcefully\ndragged by Haruhi."
+  },
+  {
+    "key": "evt_EV1_011S_0026",
+    "original": "",
+    "translation": "L-like I said, where are we even going?!"
+  },
+  {
+    "key": "evt_EV1_011S_0027",
+    "original": "",
+    "translation": "I told you!"
+  },
+  {
+    "key": "evt_EV1_011S_0028",
+    "original": "",
+    "translation": "We'll think about it while we run!"
+  },
+  {
+    "key": "evt_EV1_011S_0029",
+    "original": "",
+    "translation": "Geez, we can't find it anywhere! Where's the\nman-eating classroom?!"
+  },
+  {
+    "key": "evt_EV1_011S_0030",
+    "original": "",
+    "translation": "You know there's no way we're going to find it\nthat easily, right?"
+  },
+  {
+    "key": "evt_EV1_011S_0031",
+    "original": "",
+    "translation": "Even that computer society could find it."
+  },
+  {
+    "key": "evt_EV1_011S_0032",
+    "original": "",
+    "translation": "So there's no way I'm not going to find it."
+  },
+  {
+    "key": "evt_EV1_011S_0033",
+    "original": "",
+    "translation": "She doesn't seem to doubt the existence of\nthe man-eating classroom in the slightest."
+  },
+  {
+    "key": "evt_EV1_011S_0034",
+    "original": "",
+    "translation": "If I'm not mistaken, Koizumi said something\nlike…"
+  },
+  {
+    "key": "evt_EV1_011S_0035",
+    "original": "",
+    "translation": "The more Haruhi believes in mysterious rumors,\nthe more they slowly become reality."
+  },
+  {
+    "key": "evt_EV1_011S_0036",
+    "original": "",
+    "translation": "It's even possible that that alternate space\nI saw could end up multiplying in droves."
+  },
+  {
+    "key": "evt_EV1_011S_0037",
+    "original": "",
+    "translation": "I want to avoid such a situation."
+  },
+  {
+    "key": "evt_EV1_011S_0038",
+    "original": "",
+    "translation": "I want to, but… how am I supposed to stop\nHaruhi's momentum?"
+  },
+  {
+    "key": "evt_EV1_011S_0039",
+    "original": "",
+    "translation": "Haruhi, listen up."
+  },
+  {
+    "key": "evt_EV1_011S_0040",
+    "original": "",
+    "translation": "…What is it?"
+  },
+  {
+    "key": "evt_EV1_011S_0041",
+    "original": "",
+    "translation": "Look, if we just run around blindly, we won't\nfind anything."
+  },
+  {
+    "key": "evt_EV1_011S_0042",
+    "original": "",
+    "translation": "Let's think of a plan."
+  },
+  {
+    "key": "evt_EV1_011S_0043",
+    "original": "",
+    "translation": "A plan… Are you saying you have something in\nmind?"
+  },
+  {
+    "key": "evt_EV1_011S_0044",
+    "original": "",
+    "translation": "Nope."
+  },
+  {
+    "key": "evt_EV1_011S_0045",
+    "original": "",
+    "translation": "Then that's completely out of the question."
+  },
+  {
+    "key": "evt_EV1_011S_0046",
+    "original": "",
+    "translation": "Calm down. It's true that we may not have a\nplan yet, but I know what we're missing."
+  },
+  {
+    "key": "evt_EV1_011S_0047",
+    "original": "",
+    "translation": "Missing…? What is it?"
+  },
+  {
+    "key": "evt_EV1_011S_0048",
+    "original": "",
+    "translation": "Information. We're overwhelmingly lacking in\ninformation."
+  },
+  {
+    "key": "evt_EV1_011S_0049",
+    "original": "",
+    "translation": "…We need to gather more intelligence?"
+  },
+  {
+    "key": "evt_EV1_011S_0050",
+    "original": "",
+    "translation": "That's right."
+  },
+  {
+    "key": "evt_EV1_011S_0051",
+    "original": "",
+    "translation": "Where can we find more?"
+  },
+  {
+    "key": "evt_EV1_011S_0052",
+    "original": "",
+    "translation": "We found those ghost stories in the old liter-\nature club's journals that Nagato brought."
+  },
+  {
+    "key": "evt_EV1_011S_0053",
+    "original": "",
+    "translation": "And the other brigade members have gone to\ninterrogate the computer society witnesses."
+  },
+  {
+    "key": "evt_EV1_011S_0054",
+    "original": "",
+    "translation": "Th-that's true, but…"
+  },
+  {
+    "key": "evt_EV1_011S_0055",
+    "original": "",
+    "translation": "Then I think our only option is to do some field\nwork. Understood? Then let's go!"
+  },
+  {
+    "key": "evt_EV1_011S_0056",
+    "original": "",
+    "translation": "This is exactly why we were talking about\nwhere we should go, wasn't it?!"
+  },
+  {
+    "key": "evt_EV1_011S_0057",
+    "original": "",
+    "translation": "I don't like this—we're just going in circles."
+  },
+  {
+    "key": "evt_EV1_011S_0058",
+    "original": "",
+    "translation": "I sighed while concealing my growing\nimpatience."
+  },
+  {
+    "key": "evt_EV1_011S_0059",
+    "original": "",
+    "translation": "Say, Haruhi…"
+  },
+  {
+    "key": "evt_EV1_011S_0060",
+    "original": "",
+    "translation": "…What? Why the soft voice all of a sudden?"
+  },
+  {
+    "key": "evt_EV1_011S_0061",
+    "original": "",
+    "translation": "I'm just saying, maybe we could be a little more\ncalm."
+  },
+  {
+    "key": "evt_EV1_011S_0062",
+    "original": "",
+    "translation": "What will we do if the man-eating classroom\nescapes while we're being all calm?"
+  },
+  {
+    "key": "evt_EV1_011S_0063",
+    "original": "",
+    "translation": "As if the classroom is going to run away."
+  },
+  {
+    "key": "evt_EV1_011S_0064",
+    "original": "",
+    "translation": "Remember when we walked around town looking\nfor mysteries, a while back?"
+  },
+  {
+    "key": "evt_EV1_011S_0065",
+    "original": "",
+    "translation": "We weren't able to get the others, it was just\nyou and me walking all over town, that time…"
+  },
+  {
+    "key": "evt_EV1_011S_0066",
+    "original": "",
+    "translation": "…I guess that happened, but what of it?"
+  },
+  {
+    "key": "evt_EV1_011S_0067",
+    "original": "",
+    "translation": "I think just comfortably strolling around the\nschool like that would be nice."
+  },
+  {
+    "key": "evt_EV1_011S_0068",
+    "original": "",
+    "translation": "Like that time when we were just walking\naround lazily."
+  },
+  {
+    "key": "evt_EV1_011S_0069",
+    "original": "",
+    "translation": "When you're impatient, you can't see what's\nright in front of you."
+  },
+  {
+    "key": "evt_EV1_011S_0070",
+    "original": "",
+    "translation": "We ought to slow down the pace."
+  },
+  {
+    "key": "evt_EV1_011S_0071",
+    "original": "",
+    "translation": "Mmm…"
+  },
+  {
+    "key": "evt_EV1_011S_0072",
+    "original": "",
+    "translation": "Well… I understand what you're saying a little\nbit."
+  },
+  {
+    "key": "evt_EV1_011S_0073",
+    "original": "",
+    "translation": "We don't know where unnatural phenomena\nmay be lurking, so to not overlook anything—"
+  },
+  {
+    "key": "evt_EV1_011S_0074",
+    "original": "",
+    "translation": "You're saying we should look thoroughly as we\nwalk, right?"
+  },
+  {
+    "key": "evt_EV1_011S_0075",
+    "original": "",
+    "translation": "W-well, if that's how you understand it, then\nthat's fine as well."
+  },
+  {
+    "key": "evt_EV1_011S_0076",
+    "original": "",
+    "translation": "With Haruhi interpreting it in her own way, I\ninternally shrugged. Good grief."
+  },
+  {
+    "key": "evt_EV1_011S_0077",
+    "original": "",
+    "translation": "Now all that's left is to pray nothing happens."
+  },
+  {
+    "key": "evt_EV1_011S_0078",
+    "original": "",
+    "translation": "Hey, Kyon, I had an idea while we were talking."
+  },
+  {
+    "key": "evt_EV1_011S_0079",
+    "original": "",
+    "translation": "An idea?"
+  },
+  {
+    "key": "evt_EV1_011S_0080",
+    "original": "",
+    "translation": "The man-eating classroom showed up in \"The\nClassroom that Shouldn't Exist: Class 1-10.”"
+  },
+  {
+    "key": "evt_EV1_011S_0081",
+    "original": "",
+    "translation": "If that's the case, we should head to the\nfloor that has class 9!"
+  },
+  {
+    "key": "evt_EV1_011S_0082",
+    "original": "",
+    "translation": "When you think about it, if it were near our\nclassroom we would've already seen it!"
+  },
+  {
+    "key": "evt_EV1_011S_0083",
+    "original": "",
+    "translation": "Ah, hey! Wait up, over there is—"
+  },
+  {
+    "key": "evt_EV1_011S_0084",
+    "original": "",
+    "translation": "In the end, Haruhi kept walking without an\nattempt to listen to what I had to say."
+  },
+  {
+    "key": "evt_EV1_011S_0085",
+    "original": "",
+    "translation": "The fact you stopped running—is that the\nsole piece of my advice you accepted?"
+  },
+  {
+    "key": "evt_EV1_011S_0086",
+    "original": "",
+    "translation": "Right here! This is the crime scene, without a\ndoubt!"
+  },
+  {
+    "key": "evt_EV1_011S_0087",
+    "original": "",
+    "translation": "No doubt, huh… On what grounds can you say\nthat so confidently?"
+  },
+  {
+    "key": "evt_EV1_011S_0088",
+    "original": "",
+    "translation": "There is no basis! But, my intuition is telling me\nthis is the spot."
+  },
+  {
+    "key": "evt_EV1_011S_0089",
+    "original": "",
+    "translation": "That's some awfully convenient intuition you\nhave there."
+  },
+  {
+    "key": "evt_EV1_011S_0090",
+    "original": "",
+    "translation": "Alright, Kyon, let's count all of the doors from\nhere."
+  },
+  {
+    "key": "evt_EV1_011S_0091",
+    "original": "",
+    "translation": "…Count the doors?"
+  },
+  {
+    "key": "evt_EV1_011S_0092",
+    "original": "",
+    "translation": "That's right. I was thinking that all these\nclassroom doors look the same, right?"
+  },
+  {
+    "key": "evt_EV1_011S_0093",
+    "original": "",
+    "translation": "So if one were added, you wouldn't immediately\nnotice, right?"
+  },
+  {
+    "key": "evt_EV1_011S_0094",
+    "original": "",
+    "translation": "Well… maybe, but…"
+  },
+  {
+    "key": "evt_EV1_011S_0095",
+    "original": "",
+    "translation": "This hallway is completely featureless, so it\ncertainly all looks the same to me."
+  },
+  {
+    "key": "evt_EV1_011S_0096",
+    "original": "",
+    "translation": "So, like I said, count the number of doors…"
+  },
+  {
+    "key": "evt_EV1_011S_0097",
+    "original": "",
+    "translation": "Here's door 1-6 to 1-9, since there're two\ndoors per classroom…"
+  },
+  {
+    "key": "evt_EV1_011S_0098",
+    "original": "",
+    "translation": "If what should be the eighth door is the ninth\nor tenth, then that's bingo."
+  },
+  {
+    "key": "evt_EV1_011S_0099",
+    "original": "",
+    "translation": "That would prove that the man-eating\nclassroom is somewhere in this hallway."
+  },
+  {
+    "key": "evt_EV1_011S_0100",
+    "original": "",
+    "translation": "It's definitely a childish investigation, but I\ncan't fault the method."
+  },
+  {
+    "key": "evt_EV1_011S_0101",
+    "original": "",
+    "translation": "Kyon, you stand watch here."
+  },
+  {
+    "key": "evt_EV1_011S_0102",
+    "original": "",
+    "translation": "If I get trapped in the man-eating classroom,\nyou're in charge of rescuing me."
+  },
+  {
+    "key": "evt_EV1_011S_0103",
+    "original": "",
+    "translation": "…Yeah, yeah."
+  },
+  {
+    "key": "evt_EV1_011S_0104",
+    "original": "",
+    "translation": "I'm sorry, but that's a job too big for my\nhands… says the guy that experienced it."
+  },
+  {
+    "key": "evt_EV1_011S_0105",
+    "original": "",
+    "translation": "If by some chance we fall into such a\nsituation, I'll have to call Nagato."
+  },
+  {
+    "key": "evt_EV1_011S_0106",
+    "original": "",
+    "translation": "Okay, here I go… one!"
+  },
+  {
+    "key": "evt_EV1_011S_0107",
+    "original": "",
+    "translation": "She opened the door energetically, slammed it\nshut, and ran on to the next door."
+  },
+  {
+    "key": "evt_EV1_011S_0108",
+    "original": "",
+    "translation": "Can't we make good use of all of that energy\nfor something…"
+  },
+  {
+    "key": "evt_EV1_011S_0109",
+    "original": "",
+    "translation": "For example, spinning a hamster wheel to\ngenerate electricity or something."
+  },
+  {
+    "key": "evt_EV1_011S_0110",
+    "original": "",
+    "translation": "Or you could pull a bicycle or something ar-\nound here and use the rotation of the tires…"
+  },
+  {
+    "key": "evt_EV1_011S_0111",
+    "original": "",
+    "translation": "…Huh? I suddenly saw something out of the\ncorner of my eye."
+  },
+  {
+    "key": "evt_EV1_011S_0112",
+    "original": "",
+    "translation": "The classroom label…"
+  },
+  {
+    "key": "evt_EV1_011S_0113",
+    "original": "",
+    "translation": "The label right above me read \"1-6.”"
+  },
+  {
+    "key": "evt_EV1_011S_0114",
+    "original": "",
+    "translation": "I see, if I tamper with it…"
+  },
+  {
+    "key": "evt_EV1_011S_0115",
+    "original": "",
+    "translation": "If I remove this \"1-6” label, that should do\nthe trick right?"
+  },
+  {
+    "key": "evt_EV1_011S_0116",
+    "original": "",
+    "translation": "I'll go down and shift \"1-7” through \"1-9” in\norder."
+  },
+  {
+    "key": "evt_EV1_011S_0117",
+    "original": "",
+    "translation": "No, I don't actually have to shift everything.\nIf there's just a hint it's been shifted…"
+  },
+  {
+    "key": "evt_EV1_011S_0118",
+    "original": "",
+    "translation": "In that case, it would look like class 1-10 was\njust someone's prank…"
+  },
+  {
+    "key": "evt_EV1_011S_0119",
+    "original": "",
+    "translation": "That is how it would look, right?"
+  },
+  {
+    "key": "evt_EV1_011S_0120",
+    "original": "",
+    "translation": "I don't know the likelihood, but that method\nmight work. It's worth a shot."
+  },
+  {
+    "key": "evt_EV1_011S_0121",
+    "original": "",
+    "translation": "O—kay… Right, I've got it off. Now to just…"
+  },
+  {
+    "key": "evt_EV1_011S_0122",
+    "original": "",
+    "translation": "Kyonnn! It seems there are only 8 doors\nafter all!"
+  },
+  {
+    "key": "evt_EV1_011S_0123",
+    "original": "",
+    "translation": "Wha!"
+  },
+  {
+    "key": "evt_EV1_011S_0124",
+    "original": "",
+    "translation": "That was close. It doesn't seem like she saw\nme removing the plates…"
+  },
+  {
+    "key": "evt_EV1_011S_0125",
+    "original": "",
+    "translation": "Haruhi finished counting all the doors in the\nblink of an eye."
+  },
+  {
+    "key": "evt_EV1_011S_0126",
+    "original": "",
+    "translation": "That's weird—I thought for sure this was the\nplace…"
+  },
+  {
+    "key": "evt_EV1_011S_0127",
+    "original": "",
+    "translation": "Haruhi was standing at the end of the\nhallway with her head tilted."
+  },
+  {
+    "key": "evt_EV1_011S_0128",
+    "original": "",
+    "translation": "But at this rate, it's going to be difficult to\nshift labels 7 through 9."
+  },
+  {
+    "key": "evt_EV1_011S_0129",
+    "original": "",
+    "translation": "What should I do with the class six label in my\nhands…?"
+  },
+  {
+    "key": "evt_EV1_011S_0130",
+    "original": "",
+    "translation": "If Haruhi found out, who knows what she might\nsay."
+  },
+  {
+    "key": "evt_EV1_011S_0131",
+    "original": "",
+    "translation": "For now, I'll put it back where it belongs."
+  },
+  {
+    "key": "evt_EV1_011S_0132",
+    "original": "",
+    "translation": "There we… go."
+  },
+  {
+    "key": "evt_EV1_011S_0133",
+    "original": "",
+    "translation": "Kyon? Did something happen?"
+  },
+  {
+    "key": "evt_EV1_011S_0134",
+    "original": "",
+    "translation": "No. I took a close look at this area, but\ncouldn't find anything odd."
+  },
+  {
+    "key": "evt_EV1_011S_0135",
+    "original": "",
+    "translation": "Alright… Even though I really thought it would\nbe here."
+  },
+  {
+    "key": "evt_EV1_011S_0136",
+    "original": "",
+    "translation": "Haruhi slumped her shoulders dejectedly."
+  },
+  {
+    "key": "evt_EV1_011S_0137",
+    "original": "",
+    "translation": "Who knows when this could come in handy\nlater… I'll hold on to it."
+  },
+  {
+    "key": "evt_EV1_011S_0138",
+    "original": "",
+    "translation": "I slid the class six label into my pocket."
+  },
+  {
+    "key": "evt_EV1_011S_0139",
+    "original": "",
+    "translation": "What's wrong?"
+  },
+  {
+    "key": "evt_EV1_011S_0140",
+    "original": "",
+    "translation": "Oh, nothing."
+  },
+  {
+    "key": "evt_EV1_011S_0141",
+    "original": "",
+    "translation": "Looks like she didn't notice me putting it in my\npocket."
+  },
+  {
+    "key": "evt_EV1_011S_0142",
+    "original": "",
+    "translation": "After all, if she saw that, it would all be for\nnothing."
+  },
+  {
+    "key": "evt_EV1_011S_0143",
+    "original": "",
+    "translation": "But hey, that was a real shame."
+  },
+  {
+    "key": "evt_EV1_011S_0144",
+    "original": "",
+    "translation": "No kidding. I really thought it was here."
+  },
+  {
+    "key": "evt_EV1_011S_0145",
+    "original": "",
+    "translation": "I wonder if our other task force found\nanything?"
+  },
+  {
+    "key": "evt_EV1_011S_0146",
+    "original": "",
+    "translation": "Should we meet up and pool our info?"
+  },
+  {
+    "key": "evt_EV1_011S_0147",
+    "original": "",
+    "translation": "Yeah, let's do that."
+  },
+  {
+    "key": "evt_EV1_011S_0148",
+    "original": "",
+    "translation": "Haruhi took out her cell phone and started\ncalling someone."
+  },
+  {
+    "key": "evt_EV1_011S_0149",
+    "original": "",
+    "translation": "Ah, Koizumi? You've done enough over there.\nCome join us over here."
+  },
+  {
+    "key": "evt_EV1_011S_0150",
+    "original": "",
+    "translation": "Now then, I wonder if they found out anything\nuseful."
+  },
+  {
+    "key": "evt_EV1_011S_0151",
+    "original": "",
+    "translation": "Say we need more information"
+  },
+  {
+    "key": "evt_EV1_011S_0152",
+    "original": "",
+    "translation": "Reminisce on the past"
+  },
+  {
+    "key": "evt_EV1_011S_0153",
+    "original": "",
+    "translation": "What else can I do? I'll put it back."
+  },
+  {
+    "key": "evt_EV1_011S_0154",
+    "original": "",
+    "translation": "Hide it in your pocket"
+  }
+]

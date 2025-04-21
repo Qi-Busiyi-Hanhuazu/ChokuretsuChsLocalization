@@ -1,0 +1,197 @@
+[
+  {
+    "key": "evt_CHS_MIK_01S_0001",
+    "original": "",
+    "translation": "Shall we get started then?"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0002",
+    "original": "",
+    "translation": "Here we will explain basic chess techniques as\nyou solve…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0003",
+    "original": "",
+    "translation": "…a chess puzzle."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0004",
+    "original": "",
+    "translation": "For basic rules and explanations of chess,\nplease refer to Itsuki Koizumi's puzzle."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0005",
+    "original": "",
+    "translation": "From now on, we will assume you understand…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0006",
+    "original": "",
+    "translation": "…how each of the pieces move."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0007",
+    "original": "",
+    "translation": "Before we start learning techniques, we'll\nfirst explain \"gaining advantage.”"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0008",
+    "original": "",
+    "translation": "There are six types of chess piece in total,\nand they each move and attack differently."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0009",
+    "original": "",
+    "translation": "Although in either case you're only losing one\npiece, there's a big difference in…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0010",
+    "original": "",
+    "translation": "…losing a pawn compared to losing a queen."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0011",
+    "original": "",
+    "translation": "In chess, each piece is assigned a strength\nvalue."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0012",
+    "original": "",
+    "translation": "By totaling up the strength values of all the\npieces in play, you can get a broad idea…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0013",
+    "original": "",
+    "translation": "…of which player has the advantage or\ndisadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0014",
+    "original": "",
+    "translation": "In other words, if when taking or losing a\npiece the total value of your pieces…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0015",
+    "original": "",
+    "translation": "…overtakes your opponent's, you can assume\nthat you have the advantage."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0016",
+    "original": "",
+    "translation": "It's important to plan your strategies such\nthat you lose as few points as possible…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0017",
+    "original": "",
+    "translation": "…and take as many points from your\nopponent as possible."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0018",
+    "original": "",
+    "translation": "However, victory in chess is not about taking\nas many of your opponent's pieces…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0019",
+    "original": "",
+    "translation": "…as possible, it's about checkmating your\nopponent, so don't concern yourself with it…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0020",
+    "original": "",
+    "translation": "…too much, or you'll have the rug pulled out\nfrom under your feet."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0021",
+    "original": "",
+    "translation": "Even if a pawn takes your queen, as long as\nyou can checkmate your opponent…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0022",
+    "original": "",
+    "translation": "…that's all that matters to win!"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0023",
+    "original": "",
+    "translation": "Take a look at the strength points of each\npiece."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0025",
+    "original": "",
+    "translation": "As you can see from the diagram, the king is\nvalued as infinite, as it cannot be taken."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0026",
+    "original": "",
+    "translation": "The value goes down from the queen, to the\nrook, to the bishop and the knight…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0027",
+    "original": "",
+    "translation": "…and then to the pawn."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0028",
+    "original": "",
+    "translation": "Let's take a look at an example on the\nbottom screen."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0029",
+    "original": "",
+    "translation": "If a knight is taken with a queen, and then\nthe knight is taken in return…"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0030",
+    "original": "",
+    "translation": "…the opponent loses 9 points of strength,\nwhile you lose 3 points."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0031",
+    "original": "",
+    "translation": "This means that in total, you gain a 6 point\nadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0032",
+    "original": "",
+    "translation": "Have a go for yourself.\nCarefully consider the values of the pieces"
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0033",
+    "original": "",
+    "translation": "Try to gain the most advantage over your\nopponent."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0034",
+    "original": "",
+    "translation": "That's correct, Kyon."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0035",
+    "original": "",
+    "translation": "In the case of trading pieces, try to lose as\nlittle advantage as possible."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0036",
+    "original": "",
+    "translation": "That concludes the explanation of gaining\nadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0037",
+    "original": "",
+    "translation": "That's a shame, it looks like you messed up.\nTry having another go."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0038",
+    "original": "",
+    "translation": "Try to think about how you could take the\npiece with the most points."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0039",
+    "original": "",
+    "translation": "It looks like you didn't manage to gain\nadvantage."
+  },
+  {
+    "key": "evt_CHS_MIK_01S_0040",
+    "original": "",
+    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+  }
+]

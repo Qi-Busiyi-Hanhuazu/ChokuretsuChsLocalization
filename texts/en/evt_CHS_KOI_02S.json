@@ -1,0 +1,197 @@
+[
+  {
+    "key": "evt_CHS_KOI_02S_0000",
+    "original": "",
+    "translation": "Let me now explain the rules of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0001",
+    "original": "",
+    "translation": "We will now explain the winning and losing\nconditions of chess."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0002",
+    "original": "",
+    "translation": "There are two winning conditions in chess."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0003",
+    "original": "",
+    "translation": "The first is to \"checkmate” the opponent's\nking."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0004",
+    "original": "",
+    "translation": "Alternatively, the opponent might concede\nthe victory."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0005",
+    "original": "",
+    "translation": "The same applies vice versa for the losing\nconditions."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0006",
+    "original": "",
+    "translation": "The first is being checkmated."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0007",
+    "original": "",
+    "translation": "Alternatively, you can concede the victory\nyourself."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0008",
+    "original": "",
+    "translation": "A \"checkmate” happens when the king is in\n\"check”…"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0009",
+    "original": "",
+    "translation": "(The king is within movement range of the\nopponent's pieces. The same as in shogi.)"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0010",
+    "original": "",
+    "translation": "…and has no way of getting out of check."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0011",
+    "original": "",
+    "translation": "It is also possible to draw in chess."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0012",
+    "original": "",
+    "translation": "There are four potential conditions for a\ndraw."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0013",
+    "original": "",
+    "translation": "1. Reaching a \"stalemate.”"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0014",
+    "original": "",
+    "translation": "2. The repetition of the same board state\nthree times."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0015",
+    "original": "",
+    "translation": "3. If no pawn moves, or no pieces are taken\nfor 50 moves."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0016",
+    "original": "",
+    "translation": "4. Agreeing to draw."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0017",
+    "original": "",
+    "translation": "The forth case often happens when the\nplayers run out of pieces to checkmate with…"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0018",
+    "original": "",
+    "translation": "…or if the players decide that the match\nwon't come to a conclusion."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0019",
+    "original": "",
+    "translation": "A \"stalemate” occurs under the following\nconditions."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0020",
+    "original": "",
+    "translation": "The opponent's king is not in check."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0021",
+    "original": "",
+    "translation": "The opponent has no pieces that can move."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0022",
+    "original": "",
+    "translation": "When the above conditions are met, it is\njudged as a \"stalemate”…"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0023",
+    "original": "",
+    "translation": "…and the game ends in a draw."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0024",
+    "original": "",
+    "translation": "There is an example of a \"stalemate” in the\nbottom screen."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0025",
+    "original": "",
+    "translation": "Black has no pieces that can move."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0026",
+    "original": "",
+    "translation": "The queen is covering all of the king's moves."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0027",
+    "original": "",
+    "translation": "Also, their pawn is blocked by the white pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0028",
+    "original": "",
+    "translation": "However, black's king is not in \"check.”"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0029",
+    "original": "",
+    "translation": "This state is considered a \"stalemate” and\nresults in a draw."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0030",
+    "original": "",
+    "translation": "I changed the state of the board slightly."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0031",
+    "original": "",
+    "translation": "In this state, the black pawn can move."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0032",
+    "original": "",
+    "translation": "In this case, there is no \"stalemate”…"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0033",
+    "original": "",
+    "translation": "…and black must advance their pawn."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0034",
+    "original": "",
+    "translation": "That's \"checkmate.”"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0035",
+    "original": "",
+    "translation": "In this way, even if you have no chance of\nwinning…"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0036",
+    "original": "",
+    "translation": "…you can still draw by bringing it to a\n\"stalemate.”"
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0037",
+    "original": "",
+    "translation": "Even if you can sense a victory, you have to\nstay focused as you corner your opponent."
+  },
+  {
+    "key": "evt_CHS_KOI_02S_0038",
+    "original": "",
+    "translation": "That concludes the explanation of the\nwinning and losing conditions."
+  }
+]

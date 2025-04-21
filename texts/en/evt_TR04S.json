@@ -1,0 +1,242 @@
+[
+  {
+    "key": "evt_TR04S_0000",
+    "original": "",
+    "translation": "[#P04Accident] Occurred!"
+  },
+  {
+    "key": "evt_TR04S_0001",
+    "original": "",
+    "translation": "An \"Accident” is a compulsory penalty event."
+  },
+  {
+    "key": "evt_TR04S_0002",
+    "original": "",
+    "translation": "They occur when Haruhi Suzumiya arrives at\na red accident point…"
+  },
+  {
+    "key": "evt_TR04S_0003",
+    "original": "",
+    "translation": "…on the Haruhi Route on the top screen."
+  },
+  {
+    "key": "evt_TR04S_0004",
+    "original": "",
+    "translation": "When an Accident occurs, the time limit will be\ndecreased substantially."
+  },
+  {
+    "key": "evt_TR04S_0005",
+    "original": "",
+    "translation": "There are two ways to avoid Accidents."
+  },
+  {
+    "key": "evt_TR04S_0006",
+    "original": "",
+    "translation": "[#P041]. Acquire the corresponding \"Main Topic.”"
+  },
+  {
+    "key": "evt_TR04S_0007",
+    "original": "",
+    "translation": "[#P04]\"Topic” is a general term for a keyword or\nitem that serves to distract Haruhi…"
+  },
+  {
+    "key": "evt_TR04S_0008",
+    "original": "",
+    "translation": "[#P04]…or temporarily hinder her progression."
+  },
+  {
+    "key": "evt_TR04S_0009",
+    "original": "",
+    "translation": "[#P04You] can obtain them in events that occur\nduring the story, depending on your…"
+  },
+  {
+    "key": "evt_TR04S_0010",
+    "original": "",
+    "translation": "[#P04]…Brigade member allotment. By allotting your\nBrigade members in different ways, you will…"
+  },
+  {
+    "key": "evt_TR04S_0011",
+    "original": "",
+    "translation": "[#P04]…have the opportunity to acquire various\ndiffering topics."
+  },
+  {
+    "key": "evt_TR04S_0012",
+    "original": "",
+    "translation": "[#P04There] are four types of Topics."
+  },
+  {
+    "key": "evt_TR04S_0013",
+    "original": "",
+    "translation": "[#P04]\"Main Topics” concern the story—"
+  },
+  {
+    "key": "evt_TR04S_0014",
+    "original": "",
+    "translation": "[#P04]\"Haruhi Topics” concern the individual\ncharacteristics of Haruhi Suzumiya—"
+  },
+  {
+    "key": "evt_TR04S_0015",
+    "original": "",
+    "translation": "[#P04]\"Character Topics” concern the individual\ncharacteristics of the SOS Brigade members—"
+  },
+  {
+    "key": "evt_TR04S_0016",
+    "original": "",
+    "translation": "[#P04And] \"Sub-Topics” are snippets of casual\nconversations. That concludes the four types."
+  },
+  {
+    "key": "evt_TR04S_0017",
+    "original": "",
+    "translation": "[#P04Among] these, acquiring the Main Topic…"
+  },
+  {
+    "key": "evt_TR04S_0018",
+    "original": "",
+    "translation": "[#P04]…will allow you to automatically evade the\ncorresponding Accident."
+  },
+  {
+    "key": "evt_TR04S_0019",
+    "original": "",
+    "translation": "[#P042]. Using a Haruhi Topic."
+  },
+  {
+    "key": "evt_TR04S_0020",
+    "original": "",
+    "translation": "[#P04Depending] on Kyon's actions in the scene\nfollowing group member selection…"
+  },
+  {
+    "key": "evt_TR04S_0021",
+    "original": "",
+    "translation": "[#P04]…you may acquire a Haruhi Topic. In that\ncase…"
+  },
+  {
+    "key": "evt_TR04S_0022",
+    "original": "",
+    "translation": "[#P04]…you can use it on an Accident that would\nnormally be unstoppable without a Main Topic…"
+  },
+  {
+    "key": "evt_TR04S_0023",
+    "original": "",
+    "translation": "[#P04]…and forcibly evade it."
+  },
+  {
+    "key": "evt_TR04S_0024",
+    "original": "",
+    "translation": "[#P04However], Haruhi Topics are more difficult to\nobtain than the other Topics…"
+  },
+  {
+    "key": "evt_TR04S_0025",
+    "original": "",
+    "translation": "[#P04]…so please think carefully before using them."
+  },
+  {
+    "key": "evt_TR04S_0026",
+    "original": "",
+    "translation": "[#P04To] compensate, the only Topics that will carry\nover between episodes…"
+  },
+  {
+    "key": "evt_TR04S_0027",
+    "original": "",
+    "translation": "[#P04]…are Haruhi Topics."
+  },
+  {
+    "key": "evt_TR04S_0028",
+    "original": "",
+    "translation": "[#P04If] there's nothing you can do to evade an\nAccident, there's another available tactic."
+  },
+  {
+    "key": "evt_TR04S_0029",
+    "original": "",
+    "translation": "[#P04Using] a Topic at an event point on the Haruhi\nRoute…"
+  },
+  {
+    "key": "evt_TR04S_0030",
+    "original": "",
+    "translation": "[#P04]…will trigger a Delay Event."
+  },
+  {
+    "key": "evt_TR04S_0031",
+    "original": "",
+    "translation": "[#P04By] presenting a Topic keyword to Haruhi\nSuzumiya…"
+  },
+  {
+    "key": "evt_TR04S_0032",
+    "original": "",
+    "translation": "[#P04]…it is possible to distract and delay her for a\nshort time."
+  },
+  {
+    "key": "evt_TR04S_0033",
+    "original": "",
+    "translation": "[#P04The] time it can delay her for depends on the\ndetails of the Topic and the combination of…"
+  },
+  {
+    "key": "evt_TR04S_0034",
+    "original": "",
+    "translation": "[#P04]…members grouped with Haruhi, but in general\nthe order is as follows:"
+  },
+  {
+    "key": "evt_TR04S_0035",
+    "original": "",
+    "translation": "[#P04Haruhi] Topic—Large time limit increase."
+  },
+  {
+    "key": "evt_TR04S_0036",
+    "original": "",
+    "translation": "[#P04Character] Topic—Ordinary time limit\nincrease."
+  },
+  {
+    "key": "evt_TR04S_0037",
+    "original": "",
+    "translation": "[#P04Sub]-Topic—Small time limit increase."
+  },
+  {
+    "key": "evt_TR04S_0038",
+    "original": "",
+    "translation": "[#P04Haruhi] Topics also have the ability to negate\nAccidents…"
+  },
+  {
+    "key": "evt_TR04S_0039",
+    "original": "",
+    "translation": "[#P04]…but by using them to delay her, you can\ndrastically increase the time limit."
+  },
+  {
+    "key": "evt_TR04S_0040",
+    "original": "",
+    "translation": "[#P04Try] to get as many Topics as you can in the\nInvestigation Phase…"
+  },
+  {
+    "key": "evt_TR04S_0041",
+    "original": "",
+    "translation": "[#P04]…in order to increase your options in the\nPuzzle Phase."
+  },
+  {
+    "key": "evt_TR04S_0042",
+    "original": "",
+    "translation": "[#P04The] number of Topics you obtain and your\nresponse to choices are both important, but…"
+  },
+  {
+    "key": "evt_TR04S_0043",
+    "original": "",
+    "translation": "[#P04]…allotting Brigade members is most important."
+  },
+  {
+    "key": "evt_TR04S_0044",
+    "original": "",
+    "translation": "[#P04Please] identify the characteristics of each\nmember and after thinking carefully…"
+  },
+  {
+    "key": "evt_TR04S_0045",
+    "original": "",
+    "translation": "[#P04]…distribute them according to what each is\nwell-suited for."
+  },
+  {
+    "key": "evt_TR04S_0046",
+    "original": "",
+    "translation": "[#P04The] behavior of the members who don't\naccompany Kyon are also important factors."
+  },
+  {
+    "key": "evt_TR04S_0047",
+    "original": "",
+    "translation": "[#P04Try] distributing group members in various\nways and find out which combos work best!"
+  }
+]

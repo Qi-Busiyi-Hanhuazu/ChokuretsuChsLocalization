@@ -1,0 +1,27 @@
+[
+  {
+    "key": "evt_CHS_TUL_06S_0000",
+    "original": "",
+    "translation": "'Kay, next puzzle!"
+  },
+  {
+    "key": "evt_CHS_TUL_06S_0001",
+    "original": "",
+    "translation": "Can you place the king somewhere it'll be\ncheckmated?"
+  },
+  {
+    "key": "evt_CHS_TUL_06S_0002",
+    "original": "",
+    "translation": "Select a space to place the black king."
+  },
+  {
+    "key": "evt_CHS_TUL_06S_0003",
+    "original": "",
+    "translation": "That's correct. I can't be surprised,\nhey—Kyon!"
+  },
+  {
+    "key": "evt_CHS_TUL_06S_0004",
+    "original": "",
+    "translation": "Too bad! Looks like you were sliiiiightly off.\nGonna give it another go?"
+  }
+]

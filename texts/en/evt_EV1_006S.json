@@ -1,0 +1,832 @@
+[
+  {
+    "key": "evt_EV1_006S_0000",
+    "original": "",
+    "translation": "However, even if we go back to question the\ncomputer society again…"
+  },
+  {
+    "key": "evt_EV1_006S_0001",
+    "original": "",
+    "translation": "Those guys are pretty wary because of\nHaruhi, right?"
+  },
+  {
+    "key": "evt_EV1_006S_0002",
+    "original": "",
+    "translation": "Won't they avoid being upfront with us…?"
+  },
+  {
+    "key": "evt_EV1_006S_0003",
+    "original": "",
+    "translation": "The possibility certainly isn't zero."
+  },
+  {
+    "key": "evt_EV1_006S_0004",
+    "original": "",
+    "translation": "For the time being, how about we head their\nway and try?"
+  },
+  {
+    "key": "evt_EV1_006S_0005",
+    "original": "",
+    "translation": "Of course, Miss Suzumiya wouldn't be pleased\nif we came back without trying to ask them."
+  },
+  {
+    "key": "evt_EV1_006S_0006",
+    "original": "",
+    "translation": "That's true… Anyway, we still need to go, even\nif just to pretend we're doing something."
+  },
+  {
+    "key": "evt_EV1_006S_0007",
+    "original": "",
+    "translation": "Heey, Kyon, are there any games or\nanything?"
+  },
+  {
+    "key": "evt_EV1_006S_0008",
+    "original": "",
+    "translation": "Hey, why are you here?"
+  },
+  {
+    "key": "evt_EV1_006S_0009",
+    "original": "",
+    "translation": "When I looked over my shoulder, my little sister\nwas right behind me."
+  },
+  {
+    "key": "evt_EV1_006S_0012",
+    "original": "",
+    "translation": "Weren't you supposed to stay with Haruhi?"
+  },
+  {
+    "key": "evt_EV1_006S_0013",
+    "original": "",
+    "translation": "Yeah, but this way seemed more fun, so I came\nhere."
+  },
+  {
+    "key": "evt_EV1_006S_0014",
+    "original": "",
+    "translation": "I'd love to hear just what about this seemed\nfun to her."
+  },
+  {
+    "key": "evt_EV1_006S_0015",
+    "original": "",
+    "translation": "Hey Kyon, so are there any games?"
+  },
+  {
+    "key": "evt_EV1_006S_0016",
+    "original": "",
+    "translation": "As if I know. Even if there are some, we're not\ngoing there to play."
+  },
+  {
+    "key": "evt_EV1_006S_0017",
+    "original": "",
+    "translation": "Make sure to do what you're told, so you don't\nbecome a nuisance."
+  },
+  {
+    "key": "evt_EV1_006S_0018",
+    "original": "",
+    "translation": "Bleh, booooring."
+  },
+  {
+    "key": "evt_EV1_006S_0021",
+    "original": "",
+    "translation": "Y-you guys again?! What is it this time?!"
+  },
+  {
+    "key": "evt_EV1_006S_0022",
+    "original": "",
+    "translation": "Well now, there's no need to be so cold, is\nthere?"
+  },
+  {
+    "key": "evt_EV1_006S_0023",
+    "original": "",
+    "translation": "Did you forget what your brigade chief did to\nus?"
+  },
+  {
+    "key": "evt_EV1_006S_0024",
+    "original": "",
+    "translation": "If there's a single thing about her that's\nfriendly, I'd love to hear about it!"
+  },
+  {
+    "key": "evt_EV1_006S_0025",
+    "original": "",
+    "translation": "You're not wrong. If anyone asked me, I\nwouldn't have anything nice to say."
+  },
+  {
+    "key": "evt_EV1_006S_0027",
+    "original": "",
+    "translation": "Now now, Mr. Club President."
+  },
+  {
+    "key": "evt_EV1_006S_0028",
+    "original": "",
+    "translation": "Huh? Koizumi?"
+  },
+  {
+    "key": "evt_EV1_006S_0029",
+    "original": "",
+    "translation": "Please entrust this to me."
+  },
+  {
+    "key": "evt_EV1_006S_0030",
+    "original": "",
+    "translation": "Club President, neither of us hold any\nhostility towards you."
+  },
+  {
+    "key": "evt_EV1_006S_0031",
+    "original": "",
+    "translation": "Far from it, in fact. I think we should\ncollaborate with each other."
+  },
+  {
+    "key": "evt_EV1_006S_0032",
+    "original": "",
+    "translation": "Don't you want to enjoy a better school life,\nfor both of our benefits?"
+  },
+  {
+    "key": "evt_EV1_006S_0033",
+    "original": "",
+    "translation": "Hm… really? I'm not in a very trusting mood,\nbut…"
+  },
+  {
+    "key": "evt_EV1_006S_0034",
+    "original": "",
+    "translation": "He really does seem to be a master of\npersuasion, that Koizumi fellow."
+  },
+  {
+    "key": "evt_EV1_006S_0035",
+    "original": "",
+    "translation": "It seems like the club president is gradually\ngetting into the mood to talk."
+  },
+  {
+    "key": "evt_EV1_006S_0036",
+    "original": "",
+    "translation": "Not that listening to Koizumi's irritating talks\nis any fun."
+  },
+  {
+    "key": "evt_EV1_006S_0037",
+    "original": "",
+    "translation": "Though your research society is cultural, it's\nrather unusual for you to camp at school."
+  },
+  {
+    "key": "evt_EV1_006S_0038",
+    "original": "",
+    "translation": "Ah, well…"
+  },
+  {
+    "key": "evt_EV1_006S_0039",
+    "original": "",
+    "translation": "…I want you to keep this a secret from your\nbrigade chief, but…"
+  },
+  {
+    "key": "evt_EV1_006S_0040",
+    "original": "",
+    "translation": "It's not a problem."
+  },
+  {
+    "key": "evt_EV1_006S_0041",
+    "original": "",
+    "translation": "Thanks a lot. I get the feeling that if that\nperson caught wind of this…"
+  },
+  {
+    "key": "evt_EV1_006S_0042",
+    "original": "",
+    "translation": "…something bad might happen…"
+  },
+  {
+    "key": "evt_EV1_006S_0043",
+    "original": "",
+    "translation": "Mr. President, that feeling is most likely\ncorrect."
+  },
+  {
+    "key": "evt_EV1_006S_0044",
+    "original": "",
+    "translation": "So then, why might you be camping at school?"
+  },
+  {
+    "key": "evt_EV1_006S_0045",
+    "original": "",
+    "translation": "Right…"
+  },
+  {
+    "key": "evt_EV1_006S_0046",
+    "original": "",
+    "translation": "We're making an original game for the cultural\nfestival."
+  },
+  {
+    "key": "evt_EV1_006S_0047",
+    "original": "",
+    "translation": "A game you say? That sounds very\ninteresting."
+  },
+  {
+    "key": "evt_EV1_006S_0048",
+    "original": "",
+    "translation": "I would definitely love to see it when it's\nfinished."
+  },
+  {
+    "key": "evt_EV1_006S_0049",
+    "original": "",
+    "translation": "Geez, he really is impressive…"
+  },
+  {
+    "key": "evt_EV1_006S_0050",
+    "original": "",
+    "translation": "I don't get how he can line up all that irrita-\nting flattery without even batting an eyelid."
+  },
+  {
+    "key": "evt_EV1_006S_0051",
+    "original": "",
+    "translation": "In a way, it's admirable."
+  },
+  {
+    "key": "evt_EV1_006S_0052",
+    "original": "",
+    "translation": "Though of course, I have absolutely no\nintention to do the same."
+  },
+  {
+    "key": "evt_EV1_006S_0055",
+    "original": "",
+    "translation": "If I keep listening to Koizumi's flattery my\nears are going to bleed."
+  },
+  {
+    "key": "evt_EV1_006S_0056",
+    "original": "",
+    "translation": "Is there nothing for me to pass the time with?\n…Hm?"
+  },
+  {
+    "key": "evt_EV1_006S_0059",
+    "original": "",
+    "translation": "Was this also drawn on a computer?"
+  },
+  {
+    "key": "evt_EV1_006S_0060",
+    "original": "",
+    "translation": "Y-yes. That's right!"
+  },
+  {
+    "key": "evt_EV1_006S_0061",
+    "original": "",
+    "translation": "Woww, that's amazing."
+  },
+  {
+    "key": "evt_EV1_006S_0062",
+    "original": "",
+    "translation": "Not at all… Hahaha."
+  },
+  {
+    "key": "evt_EV1_006S_0063",
+    "original": "",
+    "translation": "Oi, what are you doing?"
+  },
+  {
+    "key": "evt_EV1_006S_0064",
+    "original": "",
+    "translation": "Ah, Kyon!"
+  },
+  {
+    "key": "evt_EV1_006S_0065",
+    "original": "",
+    "translation": "This poster is amazing! These people said\nthey made it on a computer!"
+  },
+  {
+    "key": "evt_EV1_006S_0066",
+    "original": "",
+    "translation": "Poster?"
+  },
+  {
+    "key": "evt_EV1_006S_0067",
+    "original": "",
+    "translation": "\"Value the water!” Is this supposed to raise\nawareness for water conservation?"
+  },
+  {
+    "key": "evt_EV1_006S_0068",
+    "original": "",
+    "translation": "It was a request from the student council.\nThey're pretty good, don't you think?"
+  },
+  {
+    "key": "evt_EV1_006S_0069",
+    "original": "",
+    "translation": "\"H2O,” in other words \"water,” is written on\nthe poster using CG, but…"
+  },
+  {
+    "key": "evt_EV1_006S_0070",
+    "original": "",
+    "translation": "Something about it gives a strange\nimpression. What's wrong with it exactly?"
+  },
+  {
+    "key": "evt_EV1_006S_0071",
+    "original": "",
+    "translation": "Ah."
+  },
+  {
+    "key": "evt_EV1_006S_0072",
+    "original": "",
+    "translation": "What is it, Kyon?"
+  },
+  {
+    "key": "evt_EV1_006S_0073",
+    "original": "",
+    "translation": "Right here, isn't the \"2” from \"H2O” missing?"
+  },
+  {
+    "key": "evt_EV1_006S_0074",
+    "original": "",
+    "translation": "Huh?! …Ahh, you're right!"
+  },
+  {
+    "key": "evt_EV1_006S_0075",
+    "original": "",
+    "translation": "It's the same color as the background, so it's\nimpossible to see!"
+  },
+  {
+    "key": "evt_EV1_006S_0076",
+    "original": "",
+    "translation": "Also, somehow or another the \"H” seems too\nwide."
+  },
+  {
+    "key": "evt_EV1_006S_0077",
+    "original": "",
+    "translation": "That's not an H…"
+  },
+  {
+    "key": "evt_EV1_006S_0078",
+    "original": "",
+    "translation": "It looks like \"1-1.”"
+  },
+  {
+    "key": "evt_EV1_006S_0079",
+    "original": "",
+    "translation": "N-now that you mention it…"
+  },
+  {
+    "key": "evt_EV1_006S_0080",
+    "original": "",
+    "translation": "Oh, it was an H? I thought they wrote \"1-10.”"
+  },
+  {
+    "key": "evt_EV1_006S_0081",
+    "original": "",
+    "translation": "1-10?!"
+  },
+  {
+    "key": "evt_EV1_006S_0082",
+    "original": "",
+    "translation": "…Certainly I couldn't say it doesn't look like it.\nIn other words, it does look like it. "
+  },
+  {
+    "key": "evt_EV1_006S_0083",
+    "original": "",
+    "translation": "This could be useful."
+  },
+  {
+    "key": "evt_EV1_006S_0084",
+    "original": "",
+    "translation": "The poster doesn't convey the intended\nmessage in its current state, right?"
+  },
+  {
+    "key": "evt_EV1_006S_0085",
+    "original": "",
+    "translation": "I think it'd be best if you took down the\nposters you've put up so far."
+  },
+  {
+    "key": "evt_EV1_006S_0086",
+    "original": "",
+    "translation": "It's summer vacation, so probably not many\nstudents have seen it."
+  },
+  {
+    "key": "evt_EV1_006S_0087",
+    "original": "",
+    "translation": "If you hurry and remake them, I'm sure\nnobody will notice."
+  },
+  {
+    "key": "evt_EV1_006S_0088",
+    "original": "",
+    "translation": "Uhh, maybe… I'll talk to the president about it\nand we'll consider it…"
+  },
+  {
+    "key": "evt_EV1_006S_0089",
+    "original": "",
+    "translation": "He's disappointed, but maybe I could use this\nas a means to trick Haruhi."
+  },
+  {
+    "key": "evt_EV1_006S_0090",
+    "original": "",
+    "translation": "Hopefully this is enough to convince her."
+  },
+  {
+    "key": "evt_EV1_006S_0094",
+    "original": "",
+    "translation": "I see. It seems like quite an interesting game."
+  },
+  {
+    "key": "evt_EV1_006S_0095",
+    "original": "",
+    "translation": "Yes! We're really proud of it."
+  },
+  {
+    "key": "evt_EV1_006S_0096",
+    "original": "",
+    "translation": "Koizumi's truly mastered the art of\nconversation."
+  },
+  {
+    "key": "evt_EV1_006S_0097",
+    "original": "",
+    "translation": "Not long ago, the club president's mouth was\nfirmly shut."
+  },
+  {
+    "key": "evt_EV1_006S_0098",
+    "original": "",
+    "translation": "It's impressive that he softened him up so\nmuch."
+  },
+  {
+    "key": "evt_EV1_006S_0099",
+    "original": "",
+    "translation": "How about I give you guys a special\nin-development screening…"
+  },
+  {
+    "key": "evt_EV1_006S_0101",
+    "original": "",
+    "translation": "Prez! Prez! "
+  },
+  {
+    "key": "evt_EV1_006S_0102",
+    "original": "",
+    "translation": "Hm, what is it?"
+  },
+  {
+    "key": "evt_EV1_006S_0103",
+    "original": "",
+    "translation": "I think the memory card with our program on it\nhas gone missing!"
+  },
+  {
+    "key": "evt_EV1_006S_0104",
+    "original": "",
+    "translation": "What?!"
+  },
+  {
+    "key": "evt_EV1_006S_0105",
+    "original": "",
+    "translation": "Wasn't it with us in the computer lab when we\nwere running tests?"
+  },
+  {
+    "key": "evt_EV1_006S_0106",
+    "original": "",
+    "translation": "Yeah, but it seems like I've lost it since then."
+  },
+  {
+    "key": "evt_EV1_006S_0107",
+    "original": "",
+    "translation": "R-right… I'll go search for it in a bit."
+  },
+  {
+    "key": "evt_EV1_006S_0108",
+    "original": "",
+    "translation": "He said \"in a bit,” but it's clear from his\nexpression that he wants to go right away."
+  },
+  {
+    "key": "evt_EV1_006S_0109",
+    "original": "",
+    "translation": "I don't really get it, but it seems like they've\nlost something really important."
+  },
+  {
+    "key": "evt_EV1_006S_0110",
+    "original": "",
+    "translation": "There probably isn't anything more to gain by\nbeing here."
+  },
+  {
+    "key": "evt_EV1_006S_0111",
+    "original": "",
+    "translation": "Koizumi, we've just about run out of time.\nLet's head back."
+  },
+  {
+    "key": "evt_EV1_006S_0114",
+    "original": "",
+    "translation": "Indeed, you're quite right."
+  },
+  {
+    "key": "evt_EV1_006S_0115",
+    "original": "",
+    "translation": "Come on, you too."
+  },
+  {
+    "key": "evt_EV1_006S_0116",
+    "original": "",
+    "translation": "I wanted to play moreee."
+  },
+  {
+    "key": "evt_EV1_006S_0117",
+    "original": "",
+    "translation": "Just come already."
+  },
+  {
+    "key": "evt_EV1_006S_0118",
+    "original": "",
+    "translation": "Well, see you later~!"
+  },
+  {
+    "key": "evt_EV1_006S_0120",
+    "original": "",
+    "translation": "See you~!"
+  },
+  {
+    "key": "evt_EV1_006S_0121",
+    "original": "",
+    "translation": "Before I knew it, my little sister seemed to\nhave taken a liking to the club members."
+  },
+  {
+    "key": "evt_EV1_006S_0122",
+    "original": "",
+    "translation": "Good grief, I'm surrounded by hopeless\npeople."
+  },
+  {
+    "key": "evt_EV1_006S_0124",
+    "original": "",
+    "translation": "Our harvest was pretty much fruitless, huh…"
+  },
+  {
+    "key": "evt_EV1_006S_0125",
+    "original": "",
+    "translation": "No no, that's not the case."
+  },
+  {
+    "key": "evt_EV1_006S_0126",
+    "original": "",
+    "translation": "We were able to obtain some rather\ninteresting information."
+  },
+  {
+    "key": "evt_EV1_006S_0127",
+    "original": "",
+    "translation": "It doesn't like it to me…\nBut I guess I'll take your word for it."
+  },
+  {
+    "key": "evt_EV1_006S_0128",
+    "original": "",
+    "translation": "Me too, me too! It was interesting!"
+  },
+  {
+    "key": "evt_EV1_006S_0129",
+    "original": "",
+    "translation": "Okay okay. You can just be quiet."
+  },
+  {
+    "key": "evt_EV1_006S_0130",
+    "original": "",
+    "translation": "Now that I think about it, they said they lost\ntheir memory card."
+  },
+  {
+    "key": "evt_EV1_006S_0131",
+    "original": "",
+    "translation": "Was that just made up so they wouldn't have\nto show us their game?"
+  },
+  {
+    "key": "evt_EV1_006S_0132",
+    "original": "",
+    "translation": "No, it seems to be true. You could tell by the\nlook on their faces."
+  },
+  {
+    "key": "evt_EV1_006S_0133",
+    "original": "",
+    "translation": "What's a \"memo reecard”?"
+  },
+  {
+    "key": "evt_EV1_006S_0134",
+    "original": "",
+    "translation": "Here you go again, butting your head into\neverything…"
+  },
+  {
+    "key": "evt_EV1_006S_0135",
+    "original": "",
+    "translation": "Hey hey, what is it?"
+  },
+  {
+    "key": "evt_EV1_006S_0136",
+    "original": "",
+    "translation": "It's a small and thin object, about this size\nperhaps."
+  },
+  {
+    "key": "evt_EV1_006S_0137",
+    "original": "",
+    "translation": "Hmm… Like that thing?"
+  },
+  {
+    "key": "evt_EV1_006S_0138",
+    "original": "",
+    "translation": "Hm? …Oh?!"
+  },
+  {
+    "key": "evt_EV1_006S_0139",
+    "original": "",
+    "translation": "Why is there a memory card lying in the corner\nof the hallway?!"
+  },
+  {
+    "key": "evt_EV1_006S_0140",
+    "original": "",
+    "translation": "I see…"
+  },
+  {
+    "key": "evt_EV1_006S_0141",
+    "original": "",
+    "translation": "He must've accidentally dropped it when\nputting up the posters in this area."
+  },
+  {
+    "key": "evt_EV1_006S_0142",
+    "original": "",
+    "translation": "Should we return it? …Ah, hold on, what are\nyou doing?"
+  },
+  {
+    "key": "evt_EV1_006S_0143",
+    "original": "",
+    "translation": "This is conjecture based on what their club\npresident said, but…"
+  },
+  {
+    "key": "evt_EV1_006S_0144",
+    "original": "",
+    "translation": "Whatever the contents are, they certainly\ndon't want Miss Suzumiya to know about it."
+  },
+  {
+    "key": "evt_EV1_006S_0145",
+    "original": "",
+    "translation": "That's how I interpreted their manner of\nspeaking, at least."
+  },
+  {
+    "key": "evt_EV1_006S_0146",
+    "original": "",
+    "translation": "Doesn't it make you wonder what's inside?"
+  },
+  {
+    "key": "evt_EV1_006S_0147",
+    "original": "",
+    "translation": "…Are you suggesting we take it with us?"
+  },
+  {
+    "key": "evt_EV1_006S_0148",
+    "original": "",
+    "translation": "Only until our summer camp is over. Once we're\ndone with it, we'll return it."
+  },
+  {
+    "key": "evt_EV1_006S_0149",
+    "original": "",
+    "translation": "You can't make an omelet without breaking\nsome eggs…right?"
+  },
+  {
+    "key": "evt_EV1_006S_0150",
+    "original": "",
+    "translation": "Precisely. I believe that's exactly the case."
+  },
+  {
+    "key": "evt_EV1_006S_0151",
+    "original": "",
+    "translation": "I see… I'll act like I didn't see anything."
+  },
+  {
+    "key": "evt_EV1_006S_0152",
+    "original": "",
+    "translation": "You take responsibility for the memory card,\nKoizumi."
+  },
+  {
+    "key": "evt_EV1_006S_0153",
+    "original": "",
+    "translation": "That was always my intention. I'm not planning\nto get you in trouble."
+  },
+  {
+    "key": "evt_EV1_006S_0154",
+    "original": "",
+    "translation": "If you're so inclined, how about I leave it with\nMiss Nagato?"
+  },
+  {
+    "key": "evt_EV1_006S_0155",
+    "original": "",
+    "translation": "…I'll look after it."
+  },
+  {
+    "key": "evt_EV1_006S_0156",
+    "original": "",
+    "translation": "Did Koizumi swindle me into doing this? Now I'm\ncomplicit."
+  },
+  {
+    "key": "evt_EV1_006S_0157",
+    "original": "",
+    "translation": "Right. In times like this we shouldn't be over-\nlooking something that could distract Haruhi."
+  },
+  {
+    "key": "evt_EV1_006S_0158",
+    "original": "",
+    "translation": "Don't you think?"
+  },
+  {
+    "key": "evt_EV1_006S_0159",
+    "original": "",
+    "translation": "It's wonderful that you understand."
+  },
+  {
+    "key": "evt_EV1_006S_0160",
+    "original": "",
+    "translation": "There must be something wrong with me if I\nunderstand the way this guy thinks…"
+  },
+  {
+    "key": "evt_EV1_006S_0161",
+    "original": "",
+    "translation": "I knew Koizumi liked tabletop games, but…"
+  },
+  {
+    "key": "evt_EV1_006S_0162",
+    "original": "",
+    "translation": "The fact he also likes computer games makes\nme think he's someone with a lot of hobbies."
+  },
+  {
+    "key": "evt_EV1_006S_0163",
+    "original": "",
+    "translation": "I'm something of an omnivore."
+  },
+  {
+    "key": "evt_EV1_006S_0164",
+    "original": "",
+    "translation": "If it seems interesting, I'm prone to get\ninvolved in various things."
+  },
+  {
+    "key": "evt_EV1_006S_0165",
+    "original": "",
+    "translation": "Isn't that just called being bored?"
+  },
+  {
+    "key": "evt_EV1_006S_0166",
+    "original": "",
+    "translation": "I mean, you're so easily amused by anything."
+  },
+  {
+    "key": "evt_EV1_006S_0167",
+    "original": "",
+    "translation": "Hahaha, that's quite harsh, isn't it?"
+  },
+  {
+    "key": "evt_EV1_006S_0168",
+    "original": "",
+    "translation": "You're quite multifaceted yourself. You always\ngo along with whatever I suggest."
+  },
+  {
+    "key": "evt_EV1_006S_0169",
+    "original": "",
+    "translation": "Am I wrong?"
+  },
+  {
+    "key": "evt_EV1_006S_0170",
+    "original": "",
+    "translation": "If you only look at the end results, I suppose."
+  },
+  {
+    "key": "evt_EV1_006S_0171",
+    "original": "",
+    "translation": "But there were a few games in particular that\nI wanted to focus on above the rest."
+  },
+  {
+    "key": "evt_EV1_006S_0172",
+    "original": "",
+    "translation": "Then how about we play one of those games\nagain?"
+  },
+  {
+    "key": "evt_EV1_006S_0173",
+    "original": "",
+    "translation": "Yeah, one of these days."
+  },
+  {
+    "key": "evt_EV1_006S_0174",
+    "original": "",
+    "translation": "Did you say something?"
+  },
+  {
+    "key": "evt_EV1_006S_0175",
+    "original": "",
+    "translation": "Not particularly."
+  },
+  {
+    "key": "evt_EV1_006S_0176",
+    "original": "",
+    "translation": "I don't have any reason to chat with this guy."
+  },
+  {
+    "key": "evt_EV1_006S_0177",
+    "original": "",
+    "translation": "Continue asking regardless"
+  },
+  {
+    "key": "evt_EV1_006S_0178",
+    "original": "",
+    "translation": "Look away"
+  },
+  {
+    "key": "evt_EV1_006S_0179",
+    "original": "",
+    "translation": "Close your eyes"
+  },
+  {
+    "key": "evt_EV1_006S_0180",
+    "original": "",
+    "translation": "Agree"
+  },
+  {
+    "key": "evt_EV1_006S_0181",
+    "original": "",
+    "translation": "Say it out loud"
+  },
+  {
+    "key": "evt_EV1_006S_0182",
+    "original": "",
+    "translation": "Just think it in your mind"
+  }
+]

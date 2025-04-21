@@ -1,0 +1,812 @@
+[
+  {
+    "key": "evt_EV1_021S_0000",
+    "original": "",
+    "translation": "Understood. I'll do my best to lead Suzumiya."
+  },
+  {
+    "key": "evt_EV1_021S_0001",
+    "original": "",
+    "translation": "Thanks, I really appreciate it."
+  },
+  {
+    "key": "evt_EV1_021S_0002",
+    "original": "",
+    "translation": "For the time being, our goal has been set.\nThough I'm still concerned about this situation."
+  },
+  {
+    "key": "evt_EV1_021S_0003",
+    "original": "",
+    "translation": "We haven't encountered any major problems\nyet, but you never know…"
+  },
+  {
+    "key": "evt_EV1_021S_0004",
+    "original": "",
+    "translation": "Nagato, have you figured out the location of\nthe data lifeform or whatever it's called?"
+  },
+  {
+    "key": "evt_EV1_021S_0006",
+    "original": "",
+    "translation": "Not yet."
+  },
+  {
+    "key": "evt_EV1_021S_0007",
+    "original": "",
+    "translation": "More time is required to pinpoint its\ncoordinates."
+  },
+  {
+    "key": "evt_EV1_021S_0008",
+    "original": "",
+    "translation": "What kind of data lifeform could this be that\neven Miss Nagato's methods can't pinpoint it?"
+  },
+  {
+    "key": "evt_EV1_021S_0009",
+    "original": "",
+    "translation": "You sound like you doubt its existence even\nthough Nagato just confirmed it."
+  },
+  {
+    "key": "evt_EV1_021S_0011",
+    "original": "",
+    "translation": "Could it have already gone back to its own\nworld…?"
+  },
+  {
+    "key": "evt_EV1_021S_0012",
+    "original": "",
+    "translation": "That is improbable. Traces of the subject are\nconstantly being identified."
+  },
+  {
+    "key": "evt_EV1_021S_0013",
+    "original": "",
+    "translation": "It's probably just really good at hiding."
+  },
+  {
+    "key": "evt_EV1_021S_0014",
+    "original": "",
+    "translation": "As usual, the situation is less than ideal."
+  },
+  {
+    "key": "evt_EV1_021S_0017",
+    "original": "",
+    "translation": "And we can't say that Miss Suzumiya's mental\nstate is looking good either."
+  },
+  {
+    "key": "evt_EV1_021S_0018",
+    "original": "",
+    "translation": "I was just contacted by my associates."
+  },
+  {
+    "key": "evt_EV1_021S_0019",
+    "original": "",
+    "translation": "By the suspicious organization Koizumi\noperates under—the \"Agency,” right?"
+  },
+  {
+    "key": "evt_EV1_021S_0020",
+    "original": "",
+    "translation": "It's not quite severe enough that closed\nspace is sprouting up yet, but…"
+  },
+  {
+    "key": "evt_EV1_021S_0021",
+    "original": "",
+    "translation": "It's only a matter of time."
+  },
+  {
+    "key": "evt_EV1_021S_0022",
+    "original": "",
+    "translation": "It seems like things are only getting worse."
+  },
+  {
+    "key": "evt_EV1_021S_0023",
+    "original": "",
+    "translation": "We have no choice but to make a continuous\neffort to keep Miss Suzumiya occupied."
+  },
+  {
+    "key": "evt_EV1_021S_0024",
+    "original": "",
+    "translation": "As per the aforementioned plan, we'll also\nhave to grab her attention with other things…"
+  },
+  {
+    "key": "evt_EV1_021S_0025",
+    "original": "",
+    "translation": "Yeah, I guess…"
+  },
+  {
+    "key": "evt_EV1_021S_0026",
+    "original": "",
+    "translation": "It's all a huge pain, but with the world at\nstake, what other option do we have?"
+  },
+  {
+    "key": "evt_EV1_021S_0027",
+    "original": "",
+    "translation": "When I phrase it like that, it makes us sound\nlike heroes saving the planet."
+  },
+  {
+    "key": "evt_EV1_021S_0028",
+    "original": "",
+    "translation": "So why don't I feel heroic in the absolute\nleast? Huh, Haruhi?"
+  },
+  {
+    "key": "evt_EV1_021S_0029",
+    "original": "",
+    "translation": "Good grief…"
+  },
+  {
+    "key": "evt_EV1_021S_0030",
+    "original": "",
+    "translation": "Then, in accordance with our \"guide by the\nhand” strategy, we'll lead Miss Suzumiya."
+  },
+  {
+    "key": "evt_EV1_021S_0031",
+    "original": "",
+    "translation": "Because we have no other choice."
+  },
+  {
+    "key": "evt_EV1_021S_0032",
+    "original": "",
+    "translation": "If we did, it'd be along the lines of dragging\nher out of the building by force."
+  },
+  {
+    "key": "evt_EV1_021S_0033",
+    "original": "",
+    "translation": "Of course there would still be the fear of\nworsening Haruhi's mood. Ahhh, what a pain."
+  },
+  {
+    "key": "evt_EV1_021S_0034",
+    "original": "",
+    "translation": "Shouldn't be long before those two are\nfinished. Let's just go meet up with them."
+  },
+  {
+    "key": "evt_EV1_021S_0035",
+    "original": "",
+    "translation": "I can hear it already… \"Waiting outside of the\ngirls' bathroom? You're the worst!”"
+  },
+  {
+    "key": "evt_EV1_021S_0037",
+    "original": "",
+    "translation": "It's okay, I'm sure everything will work out."
+  },
+  {
+    "key": "evt_EV1_021S_0038",
+    "original": "",
+    "translation": "Asahina admirably went out of her way to\nencourage me with her smile."
+  },
+  {
+    "key": "evt_EV1_021S_0039",
+    "original": "",
+    "translation": "Well then, it's about time we head off, don't\nyou think?"
+  },
+  {
+    "key": "evt_EV1_021S_0040",
+    "original": "",
+    "translation": "You guys go on ahead—I'm gonna clean the\nwall that Haruhi stained with her shoes."
+  },
+  {
+    "key": "evt_EV1_021S_0042",
+    "original": "",
+    "translation": "Do you mind if I stay and help you, Kyon?"
+  },
+  {
+    "key": "evt_EV1_021S_0043",
+    "original": "",
+    "translation": "No no, there's absolutely no need."
+  },
+  {
+    "key": "evt_EV1_021S_0044",
+    "original": "",
+    "translation": "Just the sentiment alone was enough. Thanks\nfor healing my heart, Asahina."
+  },
+  {
+    "key": "evt_EV1_021S_0045",
+    "original": "",
+    "translation": "I will go ahead."
+  },
+  {
+    "key": "evt_EV1_021S_0046",
+    "original": "",
+    "translation": "Nagato walked off, followed by Koizumi and\nAsahina."
+  },
+  {
+    "key": "evt_EV1_021S_0048",
+    "original": "",
+    "translation": "Well then, I'd better get rid of these marks…"
+  },
+  {
+    "key": "evt_EV1_021S_0049",
+    "original": "",
+    "translation": "Not that I'm her guardian or personal janitor\nor anything like that."
+  },
+  {
+    "key": "evt_EV1_021S_0050",
+    "original": "",
+    "translation": "Umm, where's something to wipe with…?"
+  },
+  {
+    "key": "evt_EV1_021S_0051",
+    "original": "",
+    "translation": "Hm…?"
+  },
+  {
+    "key": "evt_EV1_021S_0052",
+    "original": "",
+    "translation": "I guess that was the strange sensation you\nmight refer to as \"feeling a presence.”"
+  },
+  {
+    "key": "evt_EV1_021S_0053",
+    "original": "",
+    "translation": "…Excuse me?"
+  },
+  {
+    "key": "evt_EV1_021S_0054",
+    "original": "",
+    "translation": "What I saw when I looked over my shoulder—it\nwas certainly unexpected—"
+  },
+  {
+    "key": "evt_EV1_021S_0055",
+    "original": "",
+    "translation": "But at the same time… I felt like I knew this\nwas coming."
+  },
+  {
+    "key": "evt_EV1_021S_0056",
+    "original": "",
+    "translation": "Wha—?!"
+  },
+  {
+    "key": "evt_EV1_021S_0057",
+    "original": "",
+    "translation": "Standing there was…"
+  },
+  {
+    "key": "evt_EV1_021S_0058",
+    "original": "",
+    "translation": "The long-haired girl I saw walking past the\nwindow before."
+  },
+  {
+    "key": "evt_EV1_021S_0059",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_021S_0060",
+    "original": "",
+    "translation": "Wait wait wait, is it actually? Couldn't it just\nbe a look-alike?"
+  },
+  {
+    "key": "evt_EV1_021S_0061",
+    "original": "",
+    "translation": "Please tell me I'm wrong, but isn't she an\nactual spirit?"
+  },
+  {
+    "key": "evt_EV1_021S_0062",
+    "original": "",
+    "translation": "The possibility isn't zero. If Haruhi really\nwanted it, even ghosts could surely turn up."
+  },
+  {
+    "key": "evt_EV1_021S_0063",
+    "original": "",
+    "translation": "Wh… Who are you?"
+  },
+  {
+    "key": "evt_EV1_021S_0064",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_021S_0065",
+    "original": "",
+    "translation": "Those words I had barely managed to get out\nwere swallowed up by the ensuing silence."
+  },
+  {
+    "key": "evt_EV1_021S_0066",
+    "original": "",
+    "translation": "What is this feeling…?"
+  },
+  {
+    "key": "evt_EV1_021S_0067",
+    "original": "",
+    "translation": "It's like all the hairs on my body are standing\non end."
+  },
+  {
+    "key": "evt_EV1_021S_0068",
+    "original": "",
+    "translation": "The air feels unduly cold, even though it's the\nmiddle of summer."
+  },
+  {
+    "key": "evt_EV1_021S_0069",
+    "original": "",
+    "translation": "……"
+  },
+  {
+    "key": "evt_EV1_021S_0070",
+    "original": "",
+    "translation": "Huh…?"
+  },
+  {
+    "key": "evt_EV1_021S_0071",
+    "original": "",
+    "translation": "In that moment, the girl who hadn't moved a\nmuscle suddenly beckoned to me with her hand."
+  },
+  {
+    "key": "evt_EV1_021S_0072",
+    "original": "",
+    "translation": "That movement like branches swaying in the\nwind—for a mere moment, I was captivated—"
+  },
+  {
+    "key": "evt_EV1_021S_0073",
+    "original": "",
+    "translation": "Uh?!"
+  },
+  {
+    "key": "evt_EV1_021S_0074",
+    "original": "",
+    "translation": "?!"
+  },
+  {
+    "key": "evt_EV1_021S_0075",
+    "original": "",
+    "translation": "It was an unbelievable sight."
+  },
+  {
+    "key": "evt_EV1_021S_0076",
+    "original": "",
+    "translation": "Hey, you're kidding, right…?"
+  },
+  {
+    "key": "evt_EV1_021S_0077",
+    "original": "",
+    "translation": "This isn't… that alternate space, is it?!"
+  },
+  {
+    "key": "evt_EV1_021S_0078",
+    "original": "",
+    "translation": "That 1-10 classroom that Nagato rescued me\nfrom earlier…"
+  },
+  {
+    "key": "evt_EV1_021S_0079",
+    "original": "",
+    "translation": "Seriously? It's happening again…?"
+  },
+  {
+    "key": "evt_EV1_021S_0080",
+    "original": "",
+    "translation": "I instinctively scanned around and it was just\nas I expected—no doors in sight."
+  },
+  {
+    "key": "evt_EV1_021S_0081",
+    "original": "",
+    "translation": "Only these featureless walls, conjured to\nseparate me from the outside world."
+  },
+  {
+    "key": "evt_EV1_021S_0082",
+    "original": "",
+    "translation": "As if they'd always been there, since long\nago…"
+  },
+  {
+    "key": "evt_EV1_021S_0083",
+    "original": "",
+    "translation": "Calm down, calm down—just cool your head."
+  },
+  {
+    "key": "evt_EV1_021S_0084",
+    "original": "",
+    "translation": "What might've caused me to end up here?"
+  },
+  {
+    "key": "evt_EV1_021S_0085",
+    "original": "",
+    "translation": "Was it that long-haired girl that sent me\nhere? What is she exactly?"
+  },
+  {
+    "key": "evt_EV1_021S_0086",
+    "original": "",
+    "translation": "Some spirit that Haruhi created?"
+  },
+  {
+    "key": "evt_EV1_021S_0087",
+    "original": "",
+    "translation": "Or maybe some kind of data lifeform?"
+  },
+  {
+    "key": "evt_EV1_021S_0088",
+    "original": "",
+    "translation": "Not that it matters, but getting trapped in\nsuspicious classrooms like this repeatedly…"
+  },
+  {
+    "key": "evt_EV1_021S_0089",
+    "original": "",
+    "translation": "Bitter memories of when Ryoko Asakura tried\nto kill me float back to the surface."
+  },
+  {
+    "key": "evt_EV1_021S_0090",
+    "original": "",
+    "translation": "I don't think so but, could someone be aiming\nto kill me this time as well?"
+  },
+  {
+    "key": "evt_EV1_021S_0091",
+    "original": "",
+    "translation": "If they are… I can't afford to waste any time."
+  },
+  {
+    "key": "evt_EV1_021S_0092",
+    "original": "",
+    "translation": "…Huh?"
+  },
+  {
+    "key": "evt_EV1_021S_0093",
+    "original": "",
+    "translation": "At that moment, something entered my field of\nvision."
+  },
+  {
+    "key": "evt_EV1_021S_0094",
+    "original": "",
+    "translation": "A laptop…?"
+  },
+  {
+    "key": "evt_EV1_021S_0095",
+    "original": "",
+    "translation": "In the center of the classroom, a singular\nlaptop had been left running."
+  },
+  {
+    "key": "evt_EV1_021S_0096",
+    "original": "",
+    "translation": "There was one the last time I came here, too.\nCould this be the data lifeform's main body?"
+  },
+  {
+    "key": "evt_EV1_021S_0097",
+    "original": "",
+    "translation": "Wah…?!"
+  },
+  {
+    "key": "evt_EV1_021S_0098",
+    "original": "",
+    "translation": "This could be dangerous… Wait no, it's\ndefinitely dangerous."
+  },
+  {
+    "key": "evt_EV1_021S_0099",
+    "original": "",
+    "translation": "Let's assume that this really is class 1-10."
+  },
+  {
+    "key": "evt_EV1_021S_0100",
+    "original": "",
+    "translation": "What was it that Haruhi kept calling it again?"
+  },
+  {
+    "key": "evt_EV1_021S_0101",
+    "original": "",
+    "translation": "She gave it some considerably ominous\nnickname, I'm sure of it."
+  },
+  {
+    "key": "evt_EV1_021S_0102",
+    "original": "",
+    "translation": "Ah… the \"man-eating classroom.”"
+  },
+  {
+    "key": "evt_EV1_021S_0103",
+    "original": "",
+    "translation": "In other words—if I don't do something about\nthis, am I going to be eaten alive?"
+  },
+  {
+    "key": "evt_EV1_021S_0104",
+    "original": "",
+    "translation": "This is bad—this is seriously bad."
+  },
+  {
+    "key": "evt_EV1_021S_0105",
+    "original": "",
+    "translation": "What did she have in mind when she thought\nup this \"man-eating classroom” anyways?"
+  },
+  {
+    "key": "evt_EV1_021S_0106",
+    "original": "",
+    "translation": "Honestly, it's far too sinister—I don't even\nwant to know."
+  },
+  {
+    "key": "evt_EV1_021S_0107",
+    "original": "",
+    "translation": "Hey! Is there anyone outside?!"
+  },
+  {
+    "key": "evt_EV1_021S_0108",
+    "original": "",
+    "translation": "Nagato! Koizumi! Asahina!"
+  },
+  {
+    "key": "evt_EV1_021S_0109",
+    "original": "",
+    "translation": "I went back and forth across the wall, hitting\nit in search of an exit, but to no avail."
+  },
+  {
+    "key": "evt_EV1_021S_0110",
+    "original": "",
+    "translation": "—Until finally…"
+  },
+  {
+    "key": "evt_EV1_021S_0111",
+    "original": "",
+    "translation": "Whoa whoa whoa whoa whoa?!"
+  },
+  {
+    "key": "evt_EV1_021S_0112",
+    "original": "",
+    "translation": "A giant mouth emerged onto the classroom's\nblackboard, baring countless fangs…"
+  },
+  {
+    "key": "evt_EV1_021S_0113",
+    "original": "",
+    "translation": "You've gotta be kidding, Haruhi!!"
+  },
+  {
+    "key": "evt_EV1_021S_0114",
+    "original": "",
+    "translation": "What should I do? What even can I do?!"
+  },
+  {
+    "key": "evt_EV1_021S_0115",
+    "original": "",
+    "translation": "How did I get out of this last time? Try to\nremember. Come on brain, try to remember—"
+  },
+  {
+    "key": "evt_EV1_021S_0116",
+    "original": "",
+    "translation": "—! The mop!"
+  },
+  {
+    "key": "evt_EV1_021S_0117",
+    "original": "",
+    "translation": "I just need to wipe away that horrific, giant\nmouth with a mop!"
+  },
+  {
+    "key": "evt_EV1_021S_0118",
+    "original": "",
+    "translation": "I ran to the locker housing the cleaning\nequipment and took out a mop."
+  },
+  {
+    "key": "evt_EV1_021S_0119",
+    "original": "",
+    "translation": "Just like before, carefully bring the head of\nthe mop closer to the blackboard—"
+  },
+  {
+    "key": "evt_EV1_021S_0120",
+    "original": "",
+    "translation": "Wha?!"
+  },
+  {
+    "key": "evt_EV1_021S_0121",
+    "original": "",
+    "translation": "The mop was easily snatched up by the fangs\nand snapped like a twig…!"
+  },
+  {
+    "key": "evt_EV1_021S_0122",
+    "original": "",
+    "translation": "And as if it couldn't get any worse, that big\nmouth is only getting bigger."
+  },
+  {
+    "key": "evt_EV1_021S_0123",
+    "original": "",
+    "translation": "While I'm at it, looks like it's inching closer and\ncloser to me as well—"
+  },
+  {
+    "key": "evt_EV1_021S_0124",
+    "original": "",
+    "translation": "Damn, what do I do? What do I do?!"
+  },
+  {
+    "key": "evt_EV1_021S_0125",
+    "original": "",
+    "translation": "This laptop is clearly suspicious."
+  },
+  {
+    "key": "evt_EV1_021S_0126",
+    "original": "",
+    "translation": "But even so, there's no way of knowing what\nI'm supposed to do with it."
+  },
+  {
+    "key": "evt_EV1_021S_0127",
+    "original": "",
+    "translation": "Maybe I should just destroy it?"
+  },
+  {
+    "key": "evt_EV1_021S_0128",
+    "original": "",
+    "translation": "Or maybe I could enter some kind of\npassword…"
+  },
+  {
+    "key": "evt_EV1_021S_0129",
+    "original": "",
+    "translation": "Don't tell me you're here just so I can write my\nlast will and testament?"
+  },
+  {
+    "key": "evt_EV1_021S_0130",
+    "original": "",
+    "translation": "With my back pressed against the wall—I\nscowled at the blackboard's impending mouth."
+  },
+  {
+    "key": "evt_EV1_021S_0131",
+    "original": "",
+    "translation": "The mop was useless, there's no exit, and as\na bonus, I'm about to be devoured alive."
+  },
+  {
+    "key": "evt_EV1_021S_0132",
+    "original": "",
+    "translation": "What the hell should I—"
+  },
+  {
+    "key": "evt_EV1_021S_0133",
+    "original": "",
+    "translation": "Move."
+  },
+  {
+    "key": "evt_EV1_021S_0134",
+    "original": "",
+    "translation": "A voice came from behind me."
+  },
+  {
+    "key": "evt_EV1_021S_0135",
+    "original": "",
+    "translation": "N-Nagato? Is that you, Nagato?!"
+  },
+  {
+    "key": "evt_EV1_021S_0136",
+    "original": "",
+    "translation": "A crack ran across the wall, splitting it wide\nopen with the sound of shattering glass."
+  },
+  {
+    "key": "evt_EV1_021S_0137",
+    "original": "",
+    "translation": "What emerged from the crack was…"
+  },
+  {
+    "key": "evt_EV1_021S_0139",
+    "original": "",
+    "translation": "We made it in time."
+  },
+  {
+    "key": "evt_EV1_021S_0140",
+    "original": "",
+    "translation": "Looks like you're completely unscathed."
+  },
+  {
+    "key": "evt_EV1_021S_0141",
+    "original": "",
+    "translation": "Nagato! And Koizumi too…!"
+  },
+  {
+    "key": "evt_EV1_021S_0142",
+    "original": "",
+    "translation": "This is another perilous situation indeed. I see\n—it certainly is a \"man-eating” classroom."
+  },
+  {
+    "key": "evt_EV1_021S_0143",
+    "original": "",
+    "translation": "Now's not the time to chat. If the three of us\ndon't get out of here fast, we're all done for!"
+  },
+  {
+    "key": "evt_EV1_021S_0144",
+    "original": "",
+    "translation": "Impossible."
+  },
+  {
+    "key": "evt_EV1_021S_0145",
+    "original": "",
+    "translation": "Huh…?"
+  },
+  {
+    "key": "evt_EV1_021S_0146",
+    "original": "",
+    "translation": "Behind Nagato, the broken wall was\nreconstructed with an almighty force."
+  },
+  {
+    "key": "evt_EV1_021S_0147",
+    "original": "",
+    "translation": "Wh-what in the world…?!"
+  },
+  {
+    "key": "evt_EV1_021S_0148",
+    "original": "",
+    "translation": "There was a great likelihood that we wouldn't\nhave time to deal with it from the outside."
+  },
+  {
+    "key": "evt_EV1_021S_0149",
+    "original": "",
+    "translation": "Wouldn't have time…?"
+  },
+  {
+    "key": "evt_EV1_021S_0150",
+    "original": "",
+    "translation": "The data lifeform is trying to increase its\nexistence probability in this space."
+  },
+  {
+    "key": "evt_EV1_021S_0151",
+    "original": "",
+    "translation": "In other words, our lives are in danger as\nlong as we're in here?"
+  },
+  {
+    "key": "evt_EV1_021S_0152",
+    "original": "",
+    "translation": "Yes."
+  },
+  {
+    "key": "evt_EV1_021S_0153",
+    "original": "",
+    "translation": "So what are you guys planning to do about it\nnow that you're in here with me?"
+  },
+  {
+    "key": "evt_EV1_021S_0154",
+    "original": "",
+    "translation": "Use this…"
+  },
+  {
+    "key": "evt_EV1_021S_0155",
+    "original": "",
+    "translation": "Saying so, Nagato once again handed me a\nmop."
+  },
+  {
+    "key": "evt_EV1_021S_0156",
+    "original": "",
+    "translation": "I just tried that, but it was completely\nuseless."
+  },
+  {
+    "key": "evt_EV1_021S_0157",
+    "original": "",
+    "translation": "Without appended attribute data it's only a\nmop."
+  },
+  {
+    "key": "evt_EV1_021S_0158",
+    "original": "",
+    "translation": "So you're telling me this is more than just a\nmop now?"
+  },
+  {
+    "key": "evt_EV1_021S_0159",
+    "original": "",
+    "translation": "Yes. Use this to destroy the singularities\nkeeping this space stabilized."
+  },
+  {
+    "key": "evt_EV1_021S_0160",
+    "original": "",
+    "translation": "You want me to play clean up again? At such\na critical moment?"
+  },
+  {
+    "key": "evt_EV1_021S_0161",
+    "original": "",
+    "translation": "Yes."
+  },
+  {
+    "key": "evt_EV1_021S_0162",
+    "original": "",
+    "translation": "You can see that blackboard too, right\nNagato?"
+  },
+  {
+    "key": "evt_EV1_021S_0163",
+    "original": "",
+    "translation": "I can see it. It is not a major obstacle."
+  },
+  {
+    "key": "evt_EV1_021S_0164",
+    "original": "",
+    "translation": "With her usual nonchalance, Nagato held out\nher hand in front of the blackboard."
+  },
+  {
+    "key": "evt_EV1_021S_0165",
+    "original": "",
+    "translation": "In that moment, the blackboard snapped\nback to its original form with tremendous force."
+  },
+  {
+    "key": "evt_EV1_021S_0166",
+    "original": "",
+    "translation": "I will restrain it, so do it now."
+  },
+  {
+    "key": "evt_EV1_021S_0167",
+    "original": "",
+    "translation": "Right, I got it! If I just get this done,\neverything will be fine!"
+  },
+  {
+    "key": "evt_EV1_021S_0168",
+    "original": "",
+    "translation": "If worse comes to worst, I'll become a real\nspirit and haunt you at night, Haruhi!"
+  },
+  {
+    "key": "evt_EV1_021S_0169",
+    "original": "",
+    "translation": "About Haruhi"
+  }
+]

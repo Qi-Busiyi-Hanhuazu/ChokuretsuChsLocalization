@@ -1,0 +1,647 @@
+[
+  {
+    "key": "dat_MESSS_0000",
+    "original": "",
+    "translation": "[#P02]"
+  },
+  {
+    "key": "dat_MESSS_0001",
+    "original": "",
+    "translation": "[#P03]"
+  },
+  {
+    "key": "dat_MESSS_0002",
+    "original": "",
+    "translation": "Main Topic"
+  },
+  {
+    "key": "dat_MESSS_0003",
+    "original": "",
+    "translation": "Haruhi Topic"
+  },
+  {
+    "key": "dat_MESSS_0004",
+    "original": "",
+    "translation": "Character Topic"
+  },
+  {
+    "key": "dat_MESSS_0005",
+    "original": "",
+    "translation": "Sub-Topic"
+  },
+  {
+    "key": "dat_MESSS_0006",
+    "original": "",
+    "translation": "Character Distribution"
+  },
+  {
+    "key": "dat_MESSS_0007",
+    "original": "",
+    "translation": "Investigation Phase Results"
+  },
+  {
+    "key": "dat_MESSS_0008",
+    "original": "",
+    "translation": "Companion Selection"
+  },
+  {
+    "key": "dat_MESSS_0009",
+    "original": "",
+    "translation": "Assign club members to their activity.\n(Slide the icons)"
+  },
+  {
+    "key": "dat_MESSS_0010",
+    "original": "",
+    "translation": "☆Play an episode from the start☆   "
+  },
+  {
+    "key": "dat_MESSS_0011",
+    "original": "",
+    "translation": "☆Restart from a save☆   "
+  },
+  {
+    "key": "dat_MESSS_0012",
+    "original": "",
+    "translation": "☆Switch to Extra Mode☆   "
+  },
+  {
+    "key": "dat_MESSS_0013",
+    "original": "",
+    "translation": "☆Go to options☆   "
+  },
+  {
+    "key": "dat_MESSS_0014",
+    "original": "",
+    "translation": "☆Load save (progress will be lost)☆   "
+  },
+  {
+    "key": "dat_MESSS_0015",
+    "original": "",
+    "translation": "☆Go to config☆   "
+  },
+  {
+    "key": "dat_MESSS_0016",
+    "original": "",
+    "translation": "☆Go to title screen (progress will be lost)☆   "
+  },
+  {
+    "key": "dat_MESSS_0017",
+    "original": "",
+    "translation": "The Man-Eating Classroom"
+  },
+  {
+    "key": "dat_MESSS_0018",
+    "original": "",
+    "translation": "The Unfinished Sonata"
+  },
+  {
+    "key": "dat_MESSS_0019",
+    "original": "",
+    "translation": "A Midsummer Graduation"
+  },
+  {
+    "key": "dat_MESSS_0020",
+    "original": "",
+    "translation": "Big Mum Flower"
+  },
+  {
+    "key": "dat_MESSS_0021",
+    "original": "",
+    "translation": "Nessun Dorma"
+  },
+  {
+    "key": "dat_MESSS_0022",
+    "original": "",
+    "translation": "A mysterious room from which none return…   "
+  },
+  {
+    "key": "dat_MESSS_0023",
+    "original": "",
+    "translation": "The sound of a piano from an empty room?!   "
+  },
+  {
+    "key": "dat_MESSS_0024",
+    "original": "",
+    "translation": "It should've been a fun party…   "
+  },
+  {
+    "key": "dat_MESSS_0025",
+    "original": "",
+    "translation": "A conspiracy hidden in the shining pool?!   "
+  },
+  {
+    "key": "dat_MESSS_0026",
+    "original": "",
+    "translation": "The mysterious girl's true form?!   "
+  },
+  {
+    "key": "dat_MESSS_0027",
+    "original": "",
+    "translation": "No save data."
+  },
+  {
+    "key": "dat_MESSS_0028",
+    "original": "",
+    "translation": "No saves. Cannot resume.   "
+  },
+  {
+    "key": "dat_MESSS_0029",
+    "original": "",
+    "translation": "Load and resume save.   "
+  },
+  {
+    "key": "dat_MESSS_0030",
+    "original": "",
+    "translation": "Select a save slot."
+  },
+  {
+    "key": "dat_MESSS_0031",
+    "original": "",
+    "translation": "Yes"
+  },
+  {
+    "key": "dat_MESSS_0032",
+    "original": "",
+    "translation": "No"
+  },
+  {
+    "key": "dat_MESSS_0033",
+    "original": "",
+    "translation": "Load this save?"
+  },
+  {
+    "key": "dat_MESSS_0034",
+    "original": "",
+    "translation": "Save your current progress?\nIf you don't save, it won't be\nreflected in the extras or game log."
+  },
+  {
+    "key": "dat_MESSS_0035",
+    "original": "",
+    "translation": "Save your current progress?\nIf you don't save, you will return to\nthe title screen and your progress\nwon't be reflected in the extras."
+  },
+  {
+    "key": "dat_MESSS_0036",
+    "original": "",
+    "translation": "Save?"
+  },
+  {
+    "key": "dat_MESSS_0037",
+    "original": "",
+    "translation": "This will overwrite your save.\nAre you sure?"
+  },
+  {
+    "key": "dat_MESSS_0038",
+    "original": "",
+    "translation": "Loading.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0039",
+    "original": "",
+    "translation": "Saving.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0040",
+    "original": "",
+    "translation": "Accessing save data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0041",
+    "original": "",
+    "translation": "Save loaded."
+  },
+  {
+    "key": "dat_MESSS_0042",
+    "original": "",
+    "translation": "Saved game."
+  },
+  {
+    "key": "dat_MESSS_0043",
+    "original": "",
+    "translation": "If you return to the title screen,\nunsaved progress will be lost.\nDo you want to proceed?"
+  },
+  {
+    "key": "dat_MESSS_0044",
+    "original": "",
+    "translation": "Try again?"
+  },
+  {
+    "key": "dat_MESSS_0045",
+    "original": "",
+    "translation": "Save progress?"
+  },
+  {
+    "key": "dat_MESSS_0046",
+    "original": "",
+    "translation": "Resetting save data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0047",
+    "original": "",
+    "translation": "Deleting all data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0048",
+    "original": "",
+    "translation": "Failed to read save data.\nTurn off the power, and\nreinsert the game card."
+  },
+  {
+    "key": "dat_MESSS_0049",
+    "original": "",
+    "translation": "Failed to write save data.\nTurn off the power, and\nreinsert the game card."
+  },
+  {
+    "key": "dat_MESSS_0050",
+    "original": "",
+    "translation": "Save data is damaged.\n \nResetting save data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0051",
+    "original": "",
+    "translation": "System data is damaged.\n \nResetting system data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0052",
+    "original": "",
+    "translation": "Save data 1 is damaged.\n \nResetting save data 1.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0053",
+    "original": "",
+    "translation": "Save data 2 is damaged.\n \nResetting save data 2.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0054",
+    "original": "",
+    "translation": "Quicksave data is damaged.\n \nResetting quicksave data.\nDo not turn off the power."
+  },
+  {
+    "key": "dat_MESSS_0055",
+    "original": "",
+    "translation": "Who will go with Haruhi?"
+  },
+  {
+    "key": "dat_MESSS_0056",
+    "original": "",
+    "translation": "Kyon will go."
+  },
+  {
+    "key": "dat_MESSS_0057",
+    "original": "",
+    "translation": "Asahina will go."
+  },
+  {
+    "key": "dat_MESSS_0058",
+    "original": "",
+    "translation": "Nagato will go."
+  },
+  {
+    "key": "dat_MESSS_0059",
+    "original": "",
+    "translation": "Koizumi will go."
+  },
+  {
+    "key": "dat_MESSS_0060",
+    "original": "",
+    "translation": "Who will deal with the alternate space?"
+  },
+  {
+    "key": "dat_MESSS_0061",
+    "original": "",
+    "translation": "Leave it to Asahina."
+  },
+  {
+    "key": "dat_MESSS_0062",
+    "original": "",
+    "translation": "Leave it to Nagato."
+  },
+  {
+    "key": "dat_MESSS_0063",
+    "original": "",
+    "translation": "Leave it to Koizumi."
+  },
+  {
+    "key": "dat_MESSS_0064",
+    "original": "",
+    "translation": "Sound"
+  },
+  {
+    "key": "dat_MESSS_0065",
+    "original": "",
+    "translation": "Game ~ Investigation Phase"
+  },
+  {
+    "key": "dat_MESSS_0066",
+    "original": "",
+    "translation": "Game ~ Puzzle Phase"
+  },
+  {
+    "key": "dat_MESSS_0067",
+    "original": "",
+    "translation": "Reset to Default"
+  },
+  {
+    "key": "dat_MESSS_0068",
+    "original": "",
+    "translation": "Erase Data"
+  },
+  {
+    "key": "dat_MESSS_0069",
+    "original": "",
+    "translation": "Change sound settings.   "
+  },
+  {
+    "key": "dat_MESSS_0070",
+    "original": "",
+    "translation": "Change the Investigation Phase settings.   "
+  },
+  {
+    "key": "dat_MESSS_0071",
+    "original": "",
+    "translation": "Change the Puzzle Phase settings.   "
+  },
+  {
+    "key": "dat_MESSS_0072",
+    "original": "",
+    "translation": "Reset config to default settings.   "
+  },
+  {
+    "key": "dat_MESSS_0073",
+    "original": "",
+    "translation": "Erase all data.   "
+  },
+  {
+    "key": "dat_MESSS_0074",
+    "original": "",
+    "translation": "Background music volume.   "
+  },
+  {
+    "key": "dat_MESSS_0075",
+    "original": "",
+    "translation": "Sound effect volume.   "
+  },
+  {
+    "key": "dat_MESSS_0076",
+    "original": "",
+    "translation": "Unvoiced dialogue volume.   "
+  },
+  {
+    "key": "dat_MESSS_0077",
+    "original": "",
+    "translation": "Voiced dialogue volume.   "
+  },
+  {
+    "key": "dat_MESSS_0078",
+    "original": "",
+    "translation": "Character voice toggle.   "
+  },
+  {
+    "key": "dat_MESSS_0079",
+    "original": "",
+    "translation": "Toggle Kyon's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0080",
+    "original": "",
+    "translation": "Toggle Haruhi's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0081",
+    "original": "",
+    "translation": "Toggle Mikuru's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0082",
+    "original": "",
+    "translation": "Toggle Nagato's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0083",
+    "original": "",
+    "translation": "Toggle Koizumi's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0084",
+    "original": "",
+    "translation": "Toggle Kyon's sister's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0085",
+    "original": "",
+    "translation": "Toggle Tsuruya's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0086",
+    "original": "",
+    "translation": "Toggle Taniguchi's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0087",
+    "original": "",
+    "translation": "Toggle Kunikida's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0088",
+    "original": "",
+    "translation": "Toggle Mysterious Girl's voice.   "
+  },
+  {
+    "key": "dat_MESSS_0089",
+    "original": "",
+    "translation": "Would you like to return all\nsettings to their original state?"
+  },
+  {
+    "key": "dat_MESSS_0090",
+    "original": "",
+    "translation": "All data will be erased.\nThis cannot be undone.\nWould you like to proceed?"
+  },
+  {
+    "key": "dat_MESSS_0091",
+    "original": "",
+    "translation": "Deleting this cannot be undone.\nDo you want to proceed?"
+  },
+  {
+    "key": "dat_MESSS_0092",
+    "original": "",
+    "translation": "Reset to original state."
+  },
+  {
+    "key": "dat_MESSS_0093",
+    "original": "",
+    "translation": "All data erased."
+  },
+  {
+    "key": "dat_MESSS_0094",
+    "original": "",
+    "translation": "Batch Dialogue Display"
+  },
+  {
+    "key": "dat_MESSS_0095",
+    "original": "",
+    "translation": "Dialogue Skipping"
+  },
+  {
+    "key": "dat_MESSS_0096",
+    "original": "",
+    "translation": "Puzzle Interrupt Scenes"
+  },
+  {
+    "key": "dat_MESSS_0097",
+    "original": "",
+    "translation": "Topic Stock Mode"
+  },
+  {
+    "key": "dat_MESSS_0098",
+    "original": "",
+    "translation": "Toggles showing all dialogue at once.   "
+  },
+  {
+    "key": "dat_MESSS_0099",
+    "original": "",
+    "translation": "Dialogue skipping method.   "
+  },
+  {
+    "key": "dat_MESSS_0100",
+    "original": "",
+    "translation": "On: Play all. Off: Skip all.   "
+  },
+  {
+    "key": "dat_MESSS_0101",
+    "original": "",
+    "translation": "All obtained Topics usable.   "
+  },
+  {
+    "key": "dat_MESSS_0102",
+    "original": "",
+    "translation": "Off"
+  },
+  {
+    "key": "dat_MESSS_0103",
+    "original": "",
+    "translation": "On"
+  },
+  {
+    "key": "dat_MESSS_0104",
+    "original": "",
+    "translation": "Off"
+  },
+  {
+    "key": "dat_MESSS_0105",
+    "original": "",
+    "translation": "Unseen only"
+  },
+  {
+    "key": "dat_MESSS_0106",
+    "original": "",
+    "translation": "On"
+  },
+  {
+    "key": "dat_MESSS_0107",
+    "original": "",
+    "translation": "Fast Forward"
+  },
+  {
+    "key": "dat_MESSS_0108",
+    "original": "",
+    "translation": "Skip Already Read"
+  },
+  {
+    "key": "dat_MESSS_0109",
+    "original": "",
+    "translation": "[#P07Well] then…\nWhat should I do?"
+  },
+  {
+    "key": "dat_MESSS_0110",
+    "original": "",
+    "translation": "[#P08]"
+  },
+  {
+    "key": "dat_MESSS_0111",
+    "original": "",
+    "translation": "Reconsider the distribution."
+  },
+  {
+    "key": "dat_MESSS_0112",
+    "original": "",
+    "translation": "[#P07Well] then…\nWhat should I do?"
+  },
+  {
+    "key": "dat_MESSS_0113",
+    "original": "",
+    "translation": "[#P07]"
+  },
+  {
+    "key": "dat_MESSS_0115",
+    "original": "",
+    "translation": "Chess mode was added to the extras."
+  },
+  {
+    "key": "dat_MESSS_0116",
+    "original": "",
+    "translation": "A Haruhi Suzumiya event\nwas added to the extras."
+  },
+  {
+    "key": "dat_MESSS_0117",
+    "original": "",
+    "translation": "A Mikuru Asahina event\nwas added to the extras."
+  },
+  {
+    "key": "dat_MESSS_0118",
+    "original": "",
+    "translation": "A Yuki Nagato event\nwas added to the extras."
+  },
+  {
+    "key": "dat_MESSS_0119",
+    "original": "",
+    "translation": "An Itsuki Koizumi event\nwas added to the extras."
+  },
+  {
+    "key": "dat_MESSS_0120",
+    "original": "",
+    "translation": "A Tsuruya event was\nadded to the extras."
+  },
+  {
+    "key": "dat_MESSS_0121",
+    "original": "",
+    "translation": "You collected all the Haruhi topics!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0122",
+    "original": "",
+    "translation": "You collected all the Mikuru topics!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0123",
+    "original": "",
+    "translation": "You collected all the Nagato topics!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0124",
+    "original": "",
+    "translation": "You collected all the Koizumi topics!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0125",
+    "original": "",
+    "translation": "You collected all the main topics!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0126",
+    "original": "",
+    "translation": "You cleared all the chess puzzles!\nAn event image was added to the album."
+  },
+  {
+    "key": "dat_MESSS_0127",
+    "original": "",
+    "translation": "Congratulations!\nYou have collected everything\nand reached 100% completion!"
+  },
+  {
+    "key": "dat_MESSS_0128",
+    "original": "",
+    "translation": "Extras have become selectable from\nthe title menu."
+  },
+  {
+    "key": "dat_MESSS_0129",
+    "original": "",
+    "translation": "\"Mystery girl” system voice\nwas added under the\nsound config heading."
+  }
+]

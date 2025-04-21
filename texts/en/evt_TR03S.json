@@ -1,0 +1,142 @@
+[
+  {
+    "key": "evt_TR03S_0000",
+    "original": "",
+    "translation": "[#P04The] singularity has been successfully\nerased."
+  },
+  {
+    "key": "evt_TR03S_0001",
+    "original": "",
+    "translation": "[#P04In] the lower left corner of the screen, the\nremaining singularities and goal…"
+  },
+  {
+    "key": "evt_TR03S_0002",
+    "original": "",
+    "translation": "…will decrease when a singularity is erased."
+  },
+  {
+    "key": "evt_TR03S_0003",
+    "original": "",
+    "translation": "You will clear the stage when the number of\nremaining singularities is zero."
+  },
+  {
+    "key": "evt_TR03S_0004",
+    "original": "",
+    "translation": "However, if you allow the time limit to reach\nzero first…"
+  },
+  {
+    "key": "evt_TR03S_0005",
+    "original": "",
+    "translation": "…it will result in Time Over instead."
+  },
+  {
+    "key": "evt_TR03S_0006",
+    "original": "",
+    "translation": "If the goal is reached by then…"
+  },
+  {
+    "key": "evt_TR03S_0007",
+    "original": "",
+    "translation": "…the stage will then be cleared. But if the\ngoal is not met…"
+  },
+  {
+    "key": "evt_TR03S_0008",
+    "original": "",
+    "translation": "…it will then result in a Game Over."
+  },
+  {
+    "key": "evt_TR03S_0009",
+    "original": "",
+    "translation": "[#P04Pressing] the Y button will show the pause\nscreen…"
+  },
+  {
+    "key": "evt_TR03S_0010",
+    "original": "",
+    "translation": "[#P04]…allowing you to review the entire map."
+  },
+  {
+    "key": "evt_TR03S_0011",
+    "original": "",
+    "translation": "[#P04On] the full map you will be able to see mater-\nialized singularities and area search results."
+  },
+  {
+    "key": "evt_TR03S_0012",
+    "original": "",
+    "translation": "[#P04While] you are on the pause screen time is\nstopped…"
+  },
+  {
+    "key": "evt_TR03S_0013",
+    "original": "",
+    "translation": "[#P04]…so you may review the situation at your\nleisure."
+  },
+  {
+    "key": "evt_TR03S_0014",
+    "original": "",
+    "translation": "However please note that singularities not\nfully erased will still restore themselves."
+  },
+  {
+    "key": "evt_TR03S_0015",
+    "original": "",
+    "translation": "[#P04The] pause screen also displays things such\nas power ups, special ability levels…"
+  },
+  {
+    "key": "evt_TR03S_0016",
+    "original": "",
+    "translation": "[#P04]…and more information useful for forming a\nstrategy."
+  },
+  {
+    "key": "evt_TR03S_0017",
+    "original": "",
+    "translation": "[#P04In] order to destroy all of the singularities\nbefore the time limit…"
+  },
+  {
+    "key": "evt_TR03S_0018",
+    "original": "",
+    "translation": "[#P04]…it is important to investigate efficiently."
+  },
+  {
+    "key": "evt_TR03S_0019",
+    "original": "",
+    "translation": "[#P04With] the area search, you can search all the\ntiles one space away from the Brigade member."
+  },
+  {
+    "key": "evt_TR03S_0020",
+    "original": "",
+    "translation": "But it cannot materialize any of the\nsingularities."
+  },
+  {
+    "key": "evt_TR03S_0021",
+    "original": "",
+    "translation": "[#P04Investigate] wide areas efficiently so the\nresults do not overlap with each other…"
+  },
+  {
+    "key": "evt_TR03S_0022",
+    "original": "",
+    "translation": "…and you will be able to quickly deduce the\nlocations of the singularities."
+  },
+  {
+    "key": "evt_TR03S_0023",
+    "original": "",
+    "translation": "Once the location has been deduced, promptly\nperform a point search."
+  },
+  {
+    "key": "evt_TR03S_0024",
+    "original": "",
+    "translation": "And then rub the materialized singularities\nwith your stylus to erase it."
+  },
+  {
+    "key": "evt_TR03S_0025",
+    "original": "",
+    "translation": "Please remember that time is ticking away with\neach unnecessary search."
+  },
+  {
+    "key": "evt_TR03S_0026",
+    "original": "",
+    "translation": "[#P04It]'s important to diligently pause and\nconsider your strategy on the map."
+  },
+  {
+    "key": "evt_TR03S_0027",
+    "original": "",
+    "translation": "[#P04This] is especially important if the Haruhi Meter\nis low and you have few Topics."
+  }
+]

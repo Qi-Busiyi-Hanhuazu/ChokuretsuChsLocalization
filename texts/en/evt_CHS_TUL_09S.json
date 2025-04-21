@@ -1,0 +1,27 @@
+[
+  {
+    "key": "evt_CHS_TUL_09S_0000",
+    "original": "",
+    "translation": "'Kay, next puzzle!"
+  },
+  {
+    "key": "evt_CHS_TUL_09S_0001",
+    "original": "",
+    "translation": "This time there's a time limit!"
+  },
+  {
+    "key": "evt_CHS_TUL_09S_0002",
+    "original": "",
+    "translation": "Checkmate your opponent in two moves\nbefore time runs out."
+  },
+  {
+    "key": "evt_CHS_TUL_09S_0003",
+    "original": "",
+    "translation": "That's correct. I can't be surprised,\nhey—Kyon!"
+  },
+  {
+    "key": "evt_CHS_TUL_09S_0004",
+    "original": "",
+    "translation": "Too bad! Looks like you were sliiiiightly off.\nGonna give it another go?"
+  }
+]
