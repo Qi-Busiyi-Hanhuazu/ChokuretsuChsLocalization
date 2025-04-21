@@ -1,342 +1,602 @@
 [
-  [
-    "INFO",
-    "チェスのルールを説明します"
-  ],
-  [
-    "INFO",
-    "なし"
-  ],
-  [
-    "INFO",
-    "チェスの概要"
-  ],
-  [
-    "INFO",
-    "勝利＆敗北条件"
-  ],
-  [
-    "INFO",
-    "駒の動かし方"
-  ],
-  [
-    "INFO",
-    "キャスリング"
-  ],
-  [
-    "INFO",
-    "プロモーション"
-  ],
-  [
-    "INFO",
-    "チェスモードについて"
-  ],
-  [
-    "INFO",
-    "１手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "１手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "古泉全クリア"
-  ],
-  [
-    "INFO",
-    "詰めチェスの基本を説明します"
-  ],
-  [
-    "INFO",
-    "なし"
-  ],
-  [
-    "INFO",
-    "駒得について"
-  ],
-  [
-    "INFO",
-    "駒の守りと崩し"
-  ],
-  [
-    "INFO",
-    "フォークについて"
-  ],
-  [
-    "INFO",
-    "ピンについて"
-  ],
-  [
-    "INFO",
-    "スキュアについて"
-  ],
-  [
-    "INFO",
-    "ディスカバーアタック"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "みくる全クリア"
-  ],
-  [
-    "INFO",
-    "鶴屋さんの問題（難易度　簡単）"
-  ],
-  [
-    "INFO",
-    "#P05朝比奈さんの問題を１０問クリア"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "鶴屋さん全クリア"
-  ],
-  [
-    "INFO",
-    "長門の問題（難易度　ふつう）"
-  ],
-  [
-    "INFO",
-    "#P05鶴屋さんの問題を１０問クリア"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "４手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "長門全クリア"
-  ],
-  [
-    "INFO",
-    "ハルヒの問題（難易度　難しい）"
-  ],
-  [
-    "INFO",
-    "#P05長門有希の問題を１０問クリア"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "２手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "３手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "黒のキングを置く"
-  ],
-  [
-    "INFO",
-    "４手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "４手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "４手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "４手でチェックメイト"
-  ],
-  [
-    "INFO",
-    "ハルヒ全クリア"
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ],
-  [
-    "INFO",
-    "\u0003"
-  ],
-  [
-    "INFO",
-    "\u0007"
-  ],
-  [
-    "INFO",
-    "\u0004"
-  ],
-  [
-    "INFO",
-    "\u0002"
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHESSS_0000",
+    "original": "チェスのルールを説明します",
+    "translation": "チェスのルールを説明します",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "evt_CHESSS_0001",
+    "original": "なし",
+    "translation": "なし",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHESSS_0002",
+    "original": "チェスの概要",
+    "translation": "チェスの概要",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "evt_CHESSS_0003",
+    "original": "勝利＆敗北条件",
+    "translation": "勝利＆敗北条件",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "evt_CHESSS_0004",
+    "original": "駒の動かし方",
+    "translation": "駒の動かし方",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "evt_CHESSS_0005",
+    "original": "キャスリング",
+    "translation": "キャスリング",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "evt_CHESSS_0006",
+    "original": "プロモーション",
+    "translation": "プロモーション",
+    "speaker": "INFO"
+  },
+  {
+    "index": 7,
+    "key": "evt_CHESSS_0007",
+    "original": "チェスモードについて",
+    "translation": "チェスモードについて",
+    "speaker": "INFO"
+  },
+  {
+    "index": 8,
+    "key": "evt_CHESSS_0008",
+    "original": "１手でチェックメイト",
+    "translation": "１手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 9,
+    "key": "evt_CHESSS_0009",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 10,
+    "key": "evt_CHESSS_0010",
+    "original": "１手でチェックメイト",
+    "translation": "１手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 11,
+    "key": "evt_CHESSS_0011",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 12,
+    "key": "evt_CHESSS_0012",
+    "original": "古泉全クリア",
+    "translation": "古泉全クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 13,
+    "key": "evt_CHESSS_0013",
+    "original": "詰めチェスの基本を説明します",
+    "translation": "詰めチェスの基本を説明します",
+    "speaker": "INFO"
+  },
+  {
+    "index": 14,
+    "key": "evt_CHESSS_0014",
+    "original": "なし",
+    "translation": "なし",
+    "speaker": "INFO"
+  },
+  {
+    "index": 15,
+    "key": "evt_CHESSS_0015",
+    "original": "駒得について",
+    "translation": "駒得について",
+    "speaker": "INFO"
+  },
+  {
+    "index": 16,
+    "key": "evt_CHESSS_0016",
+    "original": "駒の守りと崩し",
+    "translation": "駒の守りと崩し",
+    "speaker": "INFO"
+  },
+  {
+    "index": 17,
+    "key": "evt_CHESSS_0017",
+    "original": "フォークについて",
+    "translation": "フォークについて",
+    "speaker": "INFO"
+  },
+  {
+    "index": 18,
+    "key": "evt_CHESSS_0018",
+    "original": "ピンについて",
+    "translation": "ピンについて",
+    "speaker": "INFO"
+  },
+  {
+    "index": 19,
+    "key": "evt_CHESSS_0019",
+    "original": "スキュアについて",
+    "translation": "スキュアについて",
+    "speaker": "INFO"
+  },
+  {
+    "index": 20,
+    "key": "evt_CHESSS_0020",
+    "original": "ディスカバーアタック",
+    "translation": "ディスカバーアタック",
+    "speaker": "INFO"
+  },
+  {
+    "index": 21,
+    "key": "evt_CHESSS_0021",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 22,
+    "key": "evt_CHESSS_0022",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 23,
+    "key": "evt_CHESSS_0023",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 24,
+    "key": "evt_CHESSS_0024",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 25,
+    "key": "evt_CHESSS_0025",
+    "original": "みくる全クリア",
+    "translation": "みくる全クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 26,
+    "key": "evt_CHESSS_0026",
+    "original": "鶴屋さんの問題（難易度　簡単）",
+    "translation": "鶴屋さんの問題（難易度　簡単）",
+    "speaker": "INFO"
+  },
+  {
+    "index": 27,
+    "key": "evt_CHESSS_0027",
+    "original": "[#P05]朝比奈さんの問題を１０問クリア",
+    "translation": "[#P05]朝比奈さんの問題を１０問クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 28,
+    "key": "evt_CHESSS_0028",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 29,
+    "key": "evt_CHESSS_0029",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 30,
+    "key": "evt_CHESSS_0030",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 31,
+    "key": "evt_CHESSS_0031",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 32,
+    "key": "evt_CHESSS_0032",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 33,
+    "key": "evt_CHESSS_0033",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 34,
+    "key": "evt_CHESSS_0034",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 35,
+    "key": "evt_CHESSS_0035",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 36,
+    "key": "evt_CHESSS_0036",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 37,
+    "key": "evt_CHESSS_0037",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 38,
+    "key": "evt_CHESSS_0038",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 39,
+    "key": "evt_CHESSS_0039",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 40,
+    "key": "evt_CHESSS_0040",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 41,
+    "key": "evt_CHESSS_0041",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 42,
+    "key": "evt_CHESSS_0042",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 43,
+    "key": "evt_CHESSS_0043",
+    "original": "鶴屋さん全クリア",
+    "translation": "鶴屋さん全クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 44,
+    "key": "evt_CHESSS_0044",
+    "original": "長門の問題（難易度　ふつう）",
+    "translation": "長門の問題（難易度　ふつう）",
+    "speaker": "INFO"
+  },
+  {
+    "index": 45,
+    "key": "evt_CHESSS_0045",
+    "original": "[#P05]鶴屋さんの問題を１０問クリア",
+    "translation": "[#P05]鶴屋さんの問題を１０問クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 46,
+    "key": "evt_CHESSS_0046",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 47,
+    "key": "evt_CHESSS_0047",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 48,
+    "key": "evt_CHESSS_0048",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 49,
+    "key": "evt_CHESSS_0049",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 50,
+    "key": "evt_CHESSS_0050",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 51,
+    "key": "evt_CHESSS_0051",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 52,
+    "key": "evt_CHESSS_0052",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 53,
+    "key": "evt_CHESSS_0053",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 54,
+    "key": "evt_CHESSS_0054",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 55,
+    "key": "evt_CHESSS_0055",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 56,
+    "key": "evt_CHESSS_0056",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 57,
+    "key": "evt_CHESSS_0057",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 58,
+    "key": "evt_CHESSS_0058",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 59,
+    "key": "evt_CHESSS_0059",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 60,
+    "key": "evt_CHESSS_0060",
+    "original": "４手でチェックメイト",
+    "translation": "４手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 61,
+    "key": "evt_CHESSS_0061",
+    "original": "長門全クリア",
+    "translation": "長門全クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 62,
+    "key": "evt_CHESSS_0062",
+    "original": "ハルヒの問題（難易度　難しい）",
+    "translation": "ハルヒの問題（難易度　難しい）",
+    "speaker": "INFO"
+  },
+  {
+    "index": 63,
+    "key": "evt_CHESSS_0063",
+    "original": "[#P05]長門有希の問題を１０問クリア",
+    "translation": "[#P05]長門有希の問題を１０問クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 64,
+    "key": "evt_CHESSS_0064",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 65,
+    "key": "evt_CHESSS_0065",
+    "original": "２手でチェックメイト",
+    "translation": "２手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 66,
+    "key": "evt_CHESSS_0066",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 67,
+    "key": "evt_CHESSS_0067",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 68,
+    "key": "evt_CHESSS_0068",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 69,
+    "key": "evt_CHESSS_0069",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 70,
+    "key": "evt_CHESSS_0070",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 71,
+    "key": "evt_CHESSS_0071",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 72,
+    "key": "evt_CHESSS_0072",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 73,
+    "key": "evt_CHESSS_0073",
+    "original": "３手でチェックメイト",
+    "translation": "３手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 74,
+    "key": "evt_CHESSS_0074",
+    "original": "黒のキングを置く",
+    "translation": "黒のキングを置く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 75,
+    "key": "evt_CHESSS_0075",
+    "original": "４手でチェックメイト",
+    "translation": "４手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 76,
+    "key": "evt_CHESSS_0076",
+    "original": "４手でチェックメイト",
+    "translation": "４手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 77,
+    "key": "evt_CHESSS_0077",
+    "original": "４手でチェックメイト",
+    "translation": "４手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 78,
+    "key": "evt_CHESSS_0078",
+    "original": "４手でチェックメイト",
+    "translation": "４手でチェックメイト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 79,
+    "key": "evt_CHESSS_0079",
+    "original": "ハルヒ全クリア",
+    "translation": "ハルヒ全クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 80,
+    "key": "evt_CHESSS_0080",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 81,
+    "key": "evt_CHESSS_0081",
+    "original": "\u0003",
+    "translation": "\u0003",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 82,
+    "key": "evt_CHESSS_0082",
+    "original": "\u0007",
+    "translation": "\u0007",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "evt_CHESSS_0083",
+    "original": "\u0004",
+    "translation": "\u0004",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 84,
+    "key": "evt_CHESSS_0084",
+    "original": "\u0002",
+    "translation": "\u0002",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

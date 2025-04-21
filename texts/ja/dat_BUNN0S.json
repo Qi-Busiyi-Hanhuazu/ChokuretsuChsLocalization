@@ -1,62 +1,111 @@
 [
-  [
-    "INFO",
-    "夜の掃除用具入れ。"
-  ],
-  [
-    "INFO",
-    "夜の段ボール箱。"
-  ],
-  [
-    "INFO",
-    "夜のパソコン。"
-  ],
-  [
-    "INFO",
-    "夜も団長は自己主張。"
-  ],
-  [
-    "INFO",
-    "夜の笹の葉。"
-  ],
-  [
-    "INFO",
-    "夜もお茶がうまい。"
-  ],
-  [
-    "INFO",
-    "夜のラジカセ。"
-  ],
-  [
-    "INFO",
-    "夜のメイド服。"
-  ],
-  [
-    "INFO",
-    "夜の難解本。"
-  ],
-  [
-    "INFO",
-    "夜の世界のカレー。"
-  ],
-  [
-    "INFO",
-    "夜夜っ！こんなところに……"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "index": 0,
+    "key": "dat_BUNN0S_0000",
+    "original": "夜の掃除用具入れ。",
+    "translation": "夜の掃除用具入れ。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_BUNN0S_0001",
+    "original": "夜の段ボール箱。",
+    "translation": "夜の段ボール箱。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_BUNN0S_0002",
+    "original": "夜のパソコン。",
+    "translation": "夜のパソコン。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "dat_BUNN0S_0003",
+    "original": "夜も団長は自己主張。",
+    "translation": "夜も団長は自己主張。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "dat_BUNN0S_0004",
+    "original": "夜の笹の葉。",
+    "translation": "夜の笹の葉。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "dat_BUNN0S_0005",
+    "original": "夜もお茶がうまい。",
+    "translation": "夜もお茶がうまい。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "dat_BUNN0S_0006",
+    "original": "夜のラジカセ。",
+    "translation": "夜のラジカセ。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 7,
+    "key": "dat_BUNN0S_0007",
+    "original": "夜のメイド服。",
+    "translation": "夜のメイド服。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 8,
+    "key": "dat_BUNN0S_0008",
+    "original": "夜の難解本。",
+    "translation": "夜の難解本。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 9,
+    "key": "dat_BUNN0S_0009",
+    "original": "夜の世界のカレー。",
+    "translation": "夜の世界のカレー。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 10,
+    "key": "dat_BUNN0S_0010",
+    "original": "夜夜っ！こんなところに……",
+    "translation": "夜夜っ！こんなところに……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 11,
+    "key": "dat_BUNN0S_0011",
+    "original": "\u0006",
+    "translation": "\u0006",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "dat_BUNN0S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "dat_BUNN0S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "dat_BUNN0S_0014",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

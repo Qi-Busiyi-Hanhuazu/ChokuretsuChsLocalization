@@ -1,0 +1,3 @@
+[submodule "bin/ChokuretsuTranslationUtility"]
+	path = bin/ChokuretsuTranslationUtility
+	url = https://github.com/Qi-Busiyi-Hanhuazu/ChokuretsuTranslationUtility.git

@@ -1,0 +1,258 @@
+[
+  {
+    "index": 0,
+    "key": "dat_QMAPS_0000",
+    "original": "BUND0.S",
+    "translation": "BUND0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "dat_QMAPS_0001",
+    "original": "BUNN0.S",
+    "translation": "BUNN0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "dat_QMAPS_0002",
+    "original": "BUNN1.S",
+    "translation": "BUNN1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "dat_QMAPS_0003",
+    "original": "COMD0.S",
+    "translation": "COMD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "dat_QMAPS_0004",
+    "original": "K15D0.S",
+    "translation": "K15D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "dat_QMAPS_0005",
+    "original": "ONGD0.S",
+    "translation": "ONGD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "dat_QMAPS_0006",
+    "original": "ONGN0.S",
+    "translation": "ONGN0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "dat_QMAPS_0007",
+    "original": "TAID0.S",
+    "translation": "TAID0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "dat_QMAPS_0008",
+    "original": "POOD0.S",
+    "translation": "POOD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "dat_QMAPS_0009",
+    "original": "KYND0.S",
+    "translation": "KYND0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "dat_QMAPS_0010",
+    "original": "SLTD0.S",
+    "translation": "SLTD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "dat_QMAPS_0011",
+    "original": "SLTD1.S",
+    "translation": "SLTD1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "dat_QMAPS_0012",
+    "original": "SL0D0.S",
+    "translation": "SL0D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "dat_QMAPS_0013",
+    "original": "SL1D0.S",
+    "translation": "SL1D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "dat_QMAPS_0014",
+    "original": "SL2D0.S",
+    "translation": "SL2D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "dat_QMAPS_0015",
+    "original": "SL3D0.S",
+    "translation": "SL3D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "dat_QMAPS_0016",
+    "original": "SL4D0.S",
+    "translation": "SL4D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "dat_QMAPS_0017",
+    "original": "SL5D0.S",
+    "translation": "SL5D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "dat_QMAPS_0018",
+    "original": "SL6D0.S",
+    "translation": "SL6D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "dat_QMAPS_0019",
+    "original": "SL7D0.S",
+    "translation": "SL7D0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "dat_QMAPS_0020",
+    "original": "POON0.S",
+    "translation": "POON0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "dat_QMAPS_0021",
+    "original": "ROKD0.S",
+    "translation": "ROKD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "dat_QMAPS_0022",
+    "original": "ROUD0.S",
+    "translation": "ROUD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "dat_QMAPS_0023",
+    "original": "AKIN0.S",
+    "translation": "AKIN0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "dat_QMAPS_0024",
+    "original": "SL1D1.S",
+    "translation": "SL1D1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "dat_QMAPS_0025",
+    "original": "SL2D1.S",
+    "translation": "SL2D1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "dat_QMAPS_0026",
+    "original": "SL3D1.S",
+    "translation": "SL3D1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "dat_QMAPS_0027",
+    "original": "SL4D1.S",
+    "translation": "SL4D1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "dat_QMAPS_0028",
+    "original": "SL5D1.S",
+    "translation": "SL5D1.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "dat_QMAPS_0029",
+    "original": "AKID0.S",
+    "translation": "AKID0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "dat_QMAPS_0030",
+    "original": "XTRD0.S",
+    "translation": "XTRD0.S",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "dat_QMAPS_0031",
+    "original": "SL8D0.S",
+    "translation": "SL8D0.S",
+    "speaker": "INFO",
+    "trash": true
+  }
+]

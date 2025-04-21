@@ -1,62 +1,68 @@
 [
-  [
-    "INFO",
-    "晚上的清洁用具盒。"
-  ],
-  [
-    "INFO",
-    "夜晚的纸箱。"
-  ],
-  [
-    "INFO",
-    "晚上的电脑。"
-  ],
-  [
-    "INFO",
-    "晚上团长也自我主张。"
-  ],
-  [
-    "INFO",
-    "夜晚的竹叶。"
-  ],
-  [
-    "INFO",
-    "晚上茶也很好喝。"
-  ],
-  [
-    "INFO",
-    "夜晚的收录机。"
-  ],
-  [
-    "INFO",
-    "晚上的女仆装。"
-  ],
-  [
-    "INFO",
-    "夜晚的难懂的书。"
-  ],
-  [
-    "INFO",
-    "夜晚世界的咖喱。"
-  ],
-  [
-    "INFO",
-    "夜夜！在这种地方……"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "key": "dat_BUNN0S_0000",
+    "original": "夜の掃除用具入れ。",
+    "translation": "晚上的扫除用具柜。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的扫除用具柜。\n\n晚上的清洁用具盒。\n\n晚上的扫除用具盒。"
+  },
+  {
+    "key": "dat_BUNN0S_0001",
+    "original": "夜の段ボール箱。",
+    "translation": "晚上的纸箱。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的纸箱。\n\n夜晚的纸箱。"
+  },
+  {
+    "key": "dat_BUNN0S_0002",
+    "original": "夜のパソコン。",
+    "translation": "晚上的电脑。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的电脑。"
+  },
+  {
+    "key": "dat_BUNN0S_0003",
+    "original": "夜も団長は自己主張。",
+    "translation": "晚上的团长依然自我主张。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的团长依然自我主张。\n\n晚上团长也自我主张。\n\n团长晚上也坚持自己的主张。"
+  },
+  {
+    "key": "dat_BUNN0S_0004",
+    "original": "夜の笹の葉。",
+    "translation": "晚上的竹叶。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的竹叶。\n\n夜晚的竹叶。"
+  },
+  {
+    "key": "dat_BUNN0S_0005",
+    "original": "夜もお茶がうまい。",
+    "translation": "晚上的茶也很好喝。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的茶也很好喝。\n\n晚上茶也很好喝。"
+  },
+  {
+    "key": "dat_BUNN0S_0006",
+    "original": "夜のラジカセ。",
+    "translation": "晚上的收录音机。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的收录音机。\n\n夜晚的收录机。"
+  },
+  {
+    "key": "dat_BUNN0S_0007",
+    "original": "夜のメイド服。",
+    "translation": "晚上的女仆装。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的女仆装。\n\n夜晚的女仆装。"
+  },
+  {
+    "key": "dat_BUNN0S_0008",
+    "original": "夜の難解本。",
+    "translation": "晚上的艰涩书。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的艰涩书。\n\n夜晚的难懂的书。\n\n夜书。"
+  },
+  {
+    "key": "dat_BUNN0S_0009",
+    "original": "夜の世界のカレー。",
+    "translation": "晚上的世界咖喱。",
+    "context": "INFO\n\n**翻译辅助**：\n\n晚上的世界咖喱。\n\n夜晚世界的咖喱。"
+  },
+  {
+    "key": "dat_BUNN0S_0010",
+    "original": "夜夜っ！こんなところに……",
+    "translation": "夜夜！在这种地方……",
+    "context": "INFO\n\n**翻译辅助**：\n\n夜夜！在这种地方……\n\n夜夜！在这样的地方……\n\n晚上！在这种地方……"
+  }
 ]

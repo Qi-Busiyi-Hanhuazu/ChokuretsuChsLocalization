@@ -1,42 +1,75 @@
 [
-  [
-    "ハルヒ",
-    "どっちにするの？"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "朝比奈",
-    "おわりです"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "長門",
-    "終了した"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "古泉",
-    "終わりですね"
-  ],
-  [
-    "CHOICE",
-    "いつものやつ"
-  ],
-  [
-    "CHOICE",
-    "れいのやつ"
-  ],
-  [
-    "CHOICE",
-    "れいのあれ"
-  ]
+  {
+    "index": 0,
+    "key": "evt_BGTESTS_0000",
+    "original": "どっちにするの？",
+    "translation": "どっちにするの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_BGTESTS_0001",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "evt_BGTESTS_0002",
+    "original": "おわりです",
+    "translation": "おわりです",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 3,
+    "key": "evt_BGTESTS_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_BGTESTS_0004",
+    "original": "終了した",
+    "translation": "終了した",
+    "speaker": "長門"
+  },
+  {
+    "index": 5,
+    "key": "evt_BGTESTS_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_BGTESTS_0006",
+    "original": "終わりですね",
+    "translation": "終わりですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_BGTESTS_0007",
+    "original": "いつものやつ",
+    "translation": "いつものやつ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 8,
+    "key": "evt_BGTESTS_0008",
+    "original": "れいのやつ",
+    "translation": "れいのやつ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 9,
+    "key": "evt_BGTESTS_0009",
+    "original": "れいのあれ",
+    "translation": "れいのあれ",
+    "speaker": "CHOICE"
+  }
 ]

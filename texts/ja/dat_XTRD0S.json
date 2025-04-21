@@ -1,42 +1,76 @@
 [
-  [
-    "INFO",
-    "イベントＣＧ閲覧へ"
-  ],
-  [
-    "INFO",
-    "ミュージックプレイヤーへ"
-  ],
-  [
-    "INFO",
-    "トピックリストへ"
-  ],
-  [
-    "INFO",
-    "達成率とルート一覧へ"
-  ],
-  [
-    "INFO",
-    "チェスモードへ"
-  ],
-  [
-    "INFO",
-    "退出～タイトルメニューへ"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "index": 0,
+    "key": "dat_XTRD0S_0000",
+    "original": "イベントＣＧ閲覧へ",
+    "translation": "イベントＣＧ閲覧へ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_XTRD0S_0001",
+    "original": "ミュージックプレイヤーへ",
+    "translation": "ミュージックプレイヤーへ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_XTRD0S_0002",
+    "original": "トピックリストへ",
+    "translation": "トピックリストへ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "dat_XTRD0S_0003",
+    "original": "達成率とルート一覧へ",
+    "translation": "達成率とルート一覧へ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "dat_XTRD0S_0004",
+    "original": "チェスモードへ",
+    "translation": "チェスモードへ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "dat_XTRD0S_0005",
+    "original": "退出～タイトルメニューへ",
+    "translation": "退出～タイトルメニューへ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "dat_XTRD0S_0006",
+    "original": "\u0006",
+    "translation": "\u0006",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "dat_XTRD0S_0007",
+    "original": "\u0006",
+    "translation": "\u0006",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "dat_XTRD0S_0008",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "dat_XTRD0S_0009",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

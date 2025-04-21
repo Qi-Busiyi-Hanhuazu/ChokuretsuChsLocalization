@@ -1,18 +1,34 @@
 [
-  [
-    "ハルヒ",
-    "ダミートピック"
-  ],
-  [
-    "みくる",
-    "ダミートピック"
-  ],
-  [
-    "ハルヒ",
-    "ダミートピック"
-  ],
-  [
-    "みくる",
-    "ダミートピック"
-  ]
+  {
+    "index": 0,
+    "key": "evt_MT30S_0000",
+    "original": "ダミートピック",
+    "translation": "ダミートピック",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_MT30S_0001",
+    "original": "ダミートピック",
+    "translation": "ダミートピック",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "evt_MT30S_0002",
+    "original": "ダミートピック",
+    "translation": "ダミートピック",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_MT30S_0003",
+    "original": "ダミートピック",
+    "translation": "ダミートピック",
+    "speaker": "みくる",
+    "trash": true
+  }
 ]

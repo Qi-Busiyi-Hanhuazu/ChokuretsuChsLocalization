@@ -1,690 +1,1208 @@
 [
-  [
-    "INFO",
-    "今日も最高！"
-  ],
-  [
-    "INFO",
-    "いつもの歩調"
-  ],
-  [
-    "INFO",
-    "いまここにある平和"
-  ],
-  [
-    "INFO",
-    "マックスリラックス"
-  ],
-  [
-    "INFO",
-    "超直線的行動力"
-  ],
-  [
-    "INFO",
-    "ホントのところ"
-  ],
-  [
-    "INFO",
-    "かくして俺は馬鹿を見る"
-  ],
-  [
-    "INFO",
-    "緊迫"
-  ],
-  [
-    "INFO",
-    "ミステリーのはじまり"
-  ],
-  [
-    "INFO",
-    "彼女の受難"
-  ],
-  [
-    "INFO",
-    "徒労は絶えない"
-  ],
-  [
-    "INFO",
-    "ホワイトデイドリーム"
-  ],
-  [
-    "INFO",
-    "未完のソナタ"
-  ],
-  [
-    "INFO",
-    "静かに密かに"
-  ],
-  [
-    "INFO",
-    "苦労の宿命"
-  ],
-  [
-    "INFO",
-    "俺は悪くない"
-  ],
-  [
-    "INFO",
-    "最終大清掃"
-  ],
-  [
-    "INFO",
-    "ギリギリ"
-  ],
-  [
-    "INFO",
-    "なせばなる"
-  ],
-  [
-    "INFO",
-    "なさねばならぬ"
-  ],
-  [
-    "INFO",
-    "大物は、遅れて登場"
-  ],
-  [
-    "INFO",
-    "変わりない花顔"
-  ],
-  [
-    "INFO",
-    "変わりない真顔"
-  ],
-  [
-    "INFO",
-    "変わりない厚顔"
-  ],
-  [
-    "INFO",
-    "そろったところで報告会"
-  ],
-  [
-    "INFO",
-    "猛烈爆裂"
-  ],
-  [
-    "INFO",
-    "指の圧力と書いて「指圧」"
-  ],
-  [
-    "INFO",
-    "そこに地面はあるのかい？"
-  ],
-  [
-    "INFO",
-    "あるはずのない、あるもの"
-  ],
-  [
-    "INFO",
-    "はじめます"
-  ],
-  [
-    "INFO",
-    "足の使い方"
-  ],
-  [
-    "INFO",
-    "正統派リアクション"
-  ],
-  [
-    "INFO",
-    "睡眠学習ノススメ"
-  ],
-  [
-    "INFO",
-    "涙の訳は……"
-  ],
-  [
-    "INFO",
-    "行動力と制動力"
-  ],
-  [
-    "INFO",
-    "どうする？"
-  ],
-  [
-    "INFO",
-    "どうするッ？？"
-  ],
-  [
-    "INFO",
-    "こんにちは"
-  ],
-  [
-    "INFO",
-    "いらっしゃい"
-  ],
-  [
-    "INFO",
-    "これがっ人喰い教室だっ！"
-  ],
-  [
-    "INFO",
-    "ちょっとお時間ありますか"
-  ],
-  [
-    "INFO",
-    "はい、あーん"
-  ],
-  [
-    "INFO",
-    "いま、このあたり。"
-  ],
-  [
-    "INFO",
-    "瞬発力ハイレベル"
-  ],
-  [
-    "INFO",
-    "決断力もハイレベル"
-  ],
-  [
-    "INFO",
-    "斜め読みの達人"
-  ],
-  [
-    "INFO",
-    "良からぬ閃き"
-  ],
-  [
-    "INFO",
-    "釣られた魚は大きいぞ"
-  ],
-  [
-    "INFO",
-    "やんわりエスパーボーイ"
-  ],
-  [
-    "INFO",
-    "ふんわりエスパーボール"
-  ],
-  [
-    "INFO",
-    "試聴会"
-  ],
-  [
-    "INFO",
-    "緊張感たっぷり"
-  ],
-  [
-    "INFO",
-    "これを「お約束」という"
-  ],
-  [
-    "INFO",
-    "幸せすぎて恐い　Ｐｔ．１"
-  ],
-  [
-    "INFO",
-    "違いのわかる女"
-  ],
-  [
-    "INFO",
-    "ＦＬＯＷＥＲＳ"
-  ],
-  [
-    "INFO",
-    "魅惑のウィンク"
-  ],
-  [
-    "INFO",
-    "チーズとネズミに似た関係"
-  ],
-  [
-    "INFO",
-    "暗号さながら"
-  ],
-  [
-    "INFO",
-    "ちょろっといっちょやる"
-  ],
-  [
-    "INFO",
-    "求む！　ハデな怪談！"
-  ],
-  [
-    "INFO",
-    "なにかいい感じ"
-  ],
-  [
-    "INFO",
-    "当たるも八卦"
-  ],
-  [
-    "INFO",
-    "これもユニフォーム"
-  ],
-  [
-    "INFO",
-    "サバイバル入門"
-  ],
-  [
-    "INFO",
-    "超料理長"
-  ],
-  [
-    "INFO",
-    "先生、こうですか？"
-  ],
-  [
-    "INFO",
-    "究極のひと串"
-  ],
-  [
-    "INFO",
-    "インスタレーション"
-  ],
-  [
-    "INFO",
-    "団員冥利に尽きる"
-  ],
-  [
-    "INFO",
-    "掃除のおばちゃんへの感謝"
-  ],
-  [
-    "INFO",
-    "星空のバーベキュー大会"
-  ],
-  [
-    "INFO",
-    "これも「お約束」という"
-  ],
-  [
-    "INFO",
-    "妹思い……妹重い……"
-  ],
-  [
-    "INFO",
-    "無言の追従"
-  ],
-  [
-    "INFO",
-    "ストーカーではない"
-  ],
-  [
-    "INFO",
-    "ストーカーではないよ"
-  ],
-  [
-    "INFO",
-    "パスファインダー"
-  ],
-  [
-    "INFO",
-    "爽やかガイド"
-  ],
-  [
-    "INFO",
-    "パイプ椅子マジック・１"
-  ],
-  [
-    "INFO",
-    "パイプ椅子マジック・２"
-  ],
-  [
-    "INFO",
-    "パイプ椅子マジック・多"
-  ],
-  [
-    "INFO",
-    "超校長の卒業式"
-  ],
-  [
-    "INFO",
-    "え？"
-  ],
-  [
-    "INFO",
-    "フッ"
-  ],
-  [
-    "INFO",
-    "船頭さんは大変そうだ"
-  ],
-  [
-    "INFO",
-    "横波注意"
-  ],
-  [
-    "INFO",
-    "明日のためのその１"
-  ],
-  [
-    "INFO",
-    "見事な成果"
-  ],
-  [
-    "INFO",
-    "漫才あるいは腹話術"
-  ],
-  [
-    "INFO",
-    "図工の評価はどうだったか"
-  ],
-  [
-    "INFO",
-    "束の間の幸福"
-  ],
-  [
-    "INFO",
-    "夏は花火"
-  ],
-  [
-    "INFO",
-    "豪邸の庭"
-  ],
-  [
-    "INFO",
-    "保養、保養、男の子♪"
-  ],
-  [
-    "INFO",
-    "気分は海中探査隊"
-  ],
-  [
-    "INFO",
-    "問いたい背中"
-  ],
-  [
-    "INFO",
-    "ギャグだと言ってくれ"
-  ],
-  [
-    "INFO",
-    "ドアの向こうは……"
-  ],
-  [
-    "INFO",
-    "ファーストエイド！"
-  ],
-  [
-    "INFO",
-    "観念しな～"
-  ],
-  [
-    "INFO",
-    "観念？"
-  ],
-  [
-    "INFO",
-    "おまえが、な。"
-  ],
-  [
-    "INFO",
-    "撃ち方よーい"
-  ],
-  [
-    "INFO",
-    "勲章ものだぞ！"
-  ],
-  [
-    "INFO",
-    "お花畑の実現"
-  ],
-  [
-    "INFO",
-    "幸せすぎて恐い　Ｐｔ．２"
-  ],
-  [
-    "INFO",
-    "これなら怖くない"
-  ],
-  [
-    "INFO",
-    "木はどこに行った？"
-  ],
-  [
-    "INFO",
-    "見ーつけた"
-  ],
-  [
-    "INFO",
-    "なんてこったい"
-  ],
-  [
-    "INFO",
-    "チチェローネ"
-  ],
-  [
-    "INFO",
-    "５度目の正直！"
-  ],
-  [
-    "INFO",
-    "はてさてんっんー"
-  ],
-  [
-    "INFO",
-    "赤いフードが見える気が…"
-  ],
-  [
-    "INFO",
-    "インテレクチュアル"
-  ],
-  [
-    "INFO",
-    "注目のカード"
-  ],
-  [
-    "INFO",
-    "こんなこともあろうかと"
-  ],
-  [
-    "INFO",
-    "目と目で通じ合う"
-  ],
-  [
-    "INFO",
-    "目と目で通じ合……"
-  ],
-  [
-    "INFO",
-    "ショーウィンドウさながら"
-  ],
-  [
-    "INFO",
-    "早くも店じまい"
-  ],
-  [
-    "INFO",
-    "ここが現場ですか"
-  ],
-  [
-    "INFO",
-    "凶行？　強行！"
-  ],
-  [
-    "INFO",
-    "魔法の駒"
-  ],
-  [
-    "INFO",
-    "無法の鍵"
-  ],
-  [
-    "INFO",
-    "騒々しい創造の女神"
-  ],
-  [
-    "INFO",
-    "きれい？"
-  ],
-  [
-    "INFO",
-    "きれいだよ"
-  ],
-  [
-    "INFO",
-    "ちょっとそのコ誰よ？"
-  ],
-  [
-    "INFO",
-    "ご機嫌、斜め４５度"
-  ],
-  [
-    "INFO",
-    "みっくるげんがー"
-  ],
-  [
-    "INFO",
-    "５人揃ってゴ……ゴー！"
-  ],
-  [
-    "INFO",
-    "ぐっすり眠れるだろうか"
-  ],
-  [
-    "INFO",
-    "グッドモーニングコール"
-  ],
-  [
-    "INFO",
-    "フラットモーニングコール"
-  ],
-  [
-    "INFO",
-    "バッドモーニングコール"
-  ],
-  [
-    "INFO",
-    "起こすな危険！"
-  ],
-  [
-    "INFO",
-    "起きた。危険！！"
-  ],
-  [
-    "INFO",
-    "猛烈爆裂　Ｐｔ．２"
-  ],
-  [
-    "INFO",
-    "残念な結果"
-  ],
-  [
-    "INFO",
-    "あの星をおまえにやろう"
-  ],
-  [
-    "INFO",
-    "目撃するまでが合宿よ"
-  ],
-  [
-    "INFO",
-    "今は前を走る"
-  ],
-  [
-    "INFO",
-    "それは陽炎のように"
-  ],
-  [
-    "INFO",
-    "ゆめかまぼろしか"
-  ],
-  [
-    "INFO",
-    "新しい朝が来た"
-  ],
-  [
-    "INFO",
-    "あの夏の想い出"
-  ],
-  [
-    "INFO",
-    "忘れ物と拾い主"
-  ],
-  [
-    "INFO",
-    "団長殿の大演説"
-  ],
-  [
-    "INFO",
-    "団長殿の死刑宣告"
-  ],
-  [
-    "INFO",
-    "かくして日常は続く"
-  ],
-  [
-    "INFO",
-    "「さ、行くわよ！」"
-  ],
-  [
-    "INFO",
-    "「アンタはいいのよ」"
-  ],
-  [
-    "INFO",
-    "「禁則事項です」"
-  ],
-  [
-    "INFO",
-    "「…………」"
-  ],
-  [
-    "INFO",
-    "「なに」"
-  ],
-  [
-    "INFO",
-    "「よろしければチェスを」"
-  ],
-  [
-    "INFO",
-    "「ごめんよ、売り切れさ」"
-  ],
-  [
-    "INFO",
-    "悲壮な決意"
-  ],
-  [
-    "INFO",
-    "別に。"
-  ],
-  [
-    "INFO",
-    "ルーティンワーク"
-  ],
-  [
-    "INFO",
-    "ハルヒトピックを全て収集"
-  ],
-  [
-    "INFO",
-    "みくるトピックを全て収集"
-  ],
-  [
-    "INFO",
-    "長門トピックを全て収集"
-  ],
-  [
-    "INFO",
-    "古泉トピックを全て収集"
-  ],
-  [
-    "INFO",
-    "メイントピックを全て収集"
-  ],
-  [
-    "INFO",
-    "チェス全問クリア"
-  ],
-  [
-    "INFO",
-    "ひと夏のひとコマ"
-  ],
-  [
-    "INFO",
-    "遊んでくれてありがとう！"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "ｿ"
-  ]
+  {
+    "index": 0,
+    "key": "dat_EXTRAS_0000",
+    "original": "今日も最高！",
+    "translation": "今日も最高！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_EXTRAS_0001",
+    "original": "いつもの歩調",
+    "translation": "いつもの歩調",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_EXTRAS_0002",
+    "original": "いまここにある平和",
+    "translation": "いまここにある平和",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "dat_EXTRAS_0003",
+    "original": "マックスリラックス",
+    "translation": "マックスリラックス",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "dat_EXTRAS_0004",
+    "original": "超直線的行動力",
+    "translation": "超直線的行動力",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "dat_EXTRAS_0005",
+    "original": "ホントのところ",
+    "translation": "ホントのところ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "dat_EXTRAS_0006",
+    "original": "かくして俺は馬鹿を見る",
+    "translation": "かくして俺は馬鹿を見る",
+    "speaker": "INFO"
+  },
+  {
+    "index": 7,
+    "key": "dat_EXTRAS_0007",
+    "original": "緊迫",
+    "translation": "緊迫",
+    "speaker": "INFO"
+  },
+  {
+    "index": 8,
+    "key": "dat_EXTRAS_0008",
+    "original": "ミステリーのはじまり",
+    "translation": "ミステリーのはじまり",
+    "speaker": "INFO"
+  },
+  {
+    "index": 9,
+    "key": "dat_EXTRAS_0009",
+    "original": "彼女の受難",
+    "translation": "彼女の受難",
+    "speaker": "INFO"
+  },
+  {
+    "index": 10,
+    "key": "dat_EXTRAS_0010",
+    "original": "徒労は絶えない",
+    "translation": "徒労は絶えない",
+    "speaker": "INFO"
+  },
+  {
+    "index": 11,
+    "key": "dat_EXTRAS_0011",
+    "original": "ホワイトデイドリーム",
+    "translation": "ホワイトデイドリーム",
+    "speaker": "INFO"
+  },
+  {
+    "index": 12,
+    "key": "dat_EXTRAS_0012",
+    "original": "未完のソナタ",
+    "translation": "未完のソナタ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 13,
+    "key": "dat_EXTRAS_0013",
+    "original": "静かに密かに",
+    "translation": "静かに密かに",
+    "speaker": "INFO"
+  },
+  {
+    "index": 14,
+    "key": "dat_EXTRAS_0014",
+    "original": "苦労の宿命",
+    "translation": "苦労の宿命",
+    "speaker": "INFO"
+  },
+  {
+    "index": 15,
+    "key": "dat_EXTRAS_0015",
+    "original": "俺は悪くない",
+    "translation": "俺は悪くない",
+    "speaker": "INFO"
+  },
+  {
+    "index": 16,
+    "key": "dat_EXTRAS_0016",
+    "original": "最終大清掃",
+    "translation": "最終大清掃",
+    "speaker": "INFO"
+  },
+  {
+    "index": 17,
+    "key": "dat_EXTRAS_0017",
+    "original": "ギリギリ",
+    "translation": "ギリギリ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 18,
+    "key": "dat_EXTRAS_0018",
+    "original": "なせばなる",
+    "translation": "なせばなる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 19,
+    "key": "dat_EXTRAS_0019",
+    "original": "なさねばならぬ",
+    "translation": "なさねばならぬ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 20,
+    "key": "dat_EXTRAS_0020",
+    "original": "大物は、遅れて登場",
+    "translation": "大物は、遅れて登場",
+    "speaker": "INFO"
+  },
+  {
+    "index": 21,
+    "key": "dat_EXTRAS_0021",
+    "original": "変わりない花顔",
+    "translation": "変わりない花顔",
+    "speaker": "INFO"
+  },
+  {
+    "index": 22,
+    "key": "dat_EXTRAS_0022",
+    "original": "変わりない真顔",
+    "translation": "変わりない真顔",
+    "speaker": "INFO"
+  },
+  {
+    "index": 23,
+    "key": "dat_EXTRAS_0023",
+    "original": "変わりない厚顔",
+    "translation": "変わりない厚顔",
+    "speaker": "INFO"
+  },
+  {
+    "index": 24,
+    "key": "dat_EXTRAS_0024",
+    "original": "そろったところで報告会",
+    "translation": "そろったところで報告会",
+    "speaker": "INFO"
+  },
+  {
+    "index": 25,
+    "key": "dat_EXTRAS_0025",
+    "original": "猛烈爆裂",
+    "translation": "猛烈爆裂",
+    "speaker": "INFO"
+  },
+  {
+    "index": 26,
+    "key": "dat_EXTRAS_0026",
+    "original": "指の圧力と書いて「指圧」",
+    "translation": "指の圧力と書いて「指圧」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 27,
+    "key": "dat_EXTRAS_0027",
+    "original": "そこに地面はあるのかい？",
+    "translation": "そこに地面はあるのかい？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 28,
+    "key": "dat_EXTRAS_0028",
+    "original": "あるはずのない、あるもの",
+    "translation": "あるはずのない、あるもの",
+    "speaker": "INFO"
+  },
+  {
+    "index": 29,
+    "key": "dat_EXTRAS_0029",
+    "original": "はじめます",
+    "translation": "はじめます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 30,
+    "key": "dat_EXTRAS_0030",
+    "original": "足の使い方",
+    "translation": "足の使い方",
+    "speaker": "INFO"
+  },
+  {
+    "index": 31,
+    "key": "dat_EXTRAS_0031",
+    "original": "正統派リアクション",
+    "translation": "正統派リアクション",
+    "speaker": "INFO"
+  },
+  {
+    "index": 32,
+    "key": "dat_EXTRAS_0032",
+    "original": "睡眠学習ノススメ",
+    "translation": "睡眠学習ノススメ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 33,
+    "key": "dat_EXTRAS_0033",
+    "original": "涙の訳は……",
+    "translation": "涙の訳は……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 34,
+    "key": "dat_EXTRAS_0034",
+    "original": "行動力と制動力",
+    "translation": "行動力と制動力",
+    "speaker": "INFO"
+  },
+  {
+    "index": 35,
+    "key": "dat_EXTRAS_0035",
+    "original": "どうする？",
+    "translation": "どうする？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 36,
+    "key": "dat_EXTRAS_0036",
+    "original": "どうするッ？？",
+    "translation": "どうするッ？？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 37,
+    "key": "dat_EXTRAS_0037",
+    "original": "こんにちは",
+    "translation": "こんにちは",
+    "speaker": "INFO"
+  },
+  {
+    "index": 38,
+    "key": "dat_EXTRAS_0038",
+    "original": "いらっしゃい",
+    "translation": "いらっしゃい",
+    "speaker": "INFO"
+  },
+  {
+    "index": 39,
+    "key": "dat_EXTRAS_0039",
+    "original": "これがっ人喰い教室だっ！",
+    "translation": "これがっ人喰い教室だっ！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 40,
+    "key": "dat_EXTRAS_0040",
+    "original": "ちょっとお時間ありますか",
+    "translation": "ちょっとお時間ありますか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 41,
+    "key": "dat_EXTRAS_0041",
+    "original": "はい、あーん",
+    "translation": "はい、あーん",
+    "speaker": "INFO"
+  },
+  {
+    "index": 42,
+    "key": "dat_EXTRAS_0042",
+    "original": "いま、このあたり。",
+    "translation": "いま、このあたり。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 43,
+    "key": "dat_EXTRAS_0043",
+    "original": "瞬発力ハイレベル",
+    "translation": "瞬発力ハイレベル",
+    "speaker": "INFO"
+  },
+  {
+    "index": 44,
+    "key": "dat_EXTRAS_0044",
+    "original": "決断力もハイレベル",
+    "translation": "決断力もハイレベル",
+    "speaker": "INFO"
+  },
+  {
+    "index": 45,
+    "key": "dat_EXTRAS_0045",
+    "original": "斜め読みの達人",
+    "translation": "斜め読みの達人",
+    "speaker": "INFO"
+  },
+  {
+    "index": 46,
+    "key": "dat_EXTRAS_0046",
+    "original": "良からぬ閃き",
+    "translation": "良からぬ閃き",
+    "speaker": "INFO"
+  },
+  {
+    "index": 47,
+    "key": "dat_EXTRAS_0047",
+    "original": "釣られた魚は大きいぞ",
+    "translation": "釣られた魚は大きいぞ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 48,
+    "key": "dat_EXTRAS_0048",
+    "original": "やんわりエスパーボーイ",
+    "translation": "やんわりエスパーボーイ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 49,
+    "key": "dat_EXTRAS_0049",
+    "original": "ふんわりエスパーボール",
+    "translation": "ふんわりエスパーボール",
+    "speaker": "INFO"
+  },
+  {
+    "index": 50,
+    "key": "dat_EXTRAS_0050",
+    "original": "試聴会",
+    "translation": "試聴会",
+    "speaker": "INFO"
+  },
+  {
+    "index": 51,
+    "key": "dat_EXTRAS_0051",
+    "original": "緊張感たっぷり",
+    "translation": "緊張感たっぷり",
+    "speaker": "INFO"
+  },
+  {
+    "index": 52,
+    "key": "dat_EXTRAS_0052",
+    "original": "これを「お約束」という",
+    "translation": "これを「お約束」という",
+    "speaker": "INFO"
+  },
+  {
+    "index": 53,
+    "key": "dat_EXTRAS_0053",
+    "original": "幸せすぎて恐い　Ｐｔ．１",
+    "translation": "幸せすぎて恐い　Ｐｔ．１",
+    "speaker": "INFO"
+  },
+  {
+    "index": 54,
+    "key": "dat_EXTRAS_0054",
+    "original": "違いのわかる女",
+    "translation": "違いのわかる女",
+    "speaker": "INFO"
+  },
+  {
+    "index": 55,
+    "key": "dat_EXTRAS_0055",
+    "original": "ＦＬＯＷＥＲＳ",
+    "translation": "ＦＬＯＷＥＲＳ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 56,
+    "key": "dat_EXTRAS_0056",
+    "original": "魅惑のウィンク",
+    "translation": "魅惑のウィンク",
+    "speaker": "INFO"
+  },
+  {
+    "index": 57,
+    "key": "dat_EXTRAS_0057",
+    "original": "チーズとネズミに似た関係",
+    "translation": "チーズとネズミに似た関係",
+    "speaker": "INFO"
+  },
+  {
+    "index": 58,
+    "key": "dat_EXTRAS_0058",
+    "original": "暗号さながら",
+    "translation": "暗号さながら",
+    "speaker": "INFO"
+  },
+  {
+    "index": 59,
+    "key": "dat_EXTRAS_0059",
+    "original": "ちょろっといっちょやる",
+    "translation": "ちょろっといっちょやる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 60,
+    "key": "dat_EXTRAS_0060",
+    "original": "求む！　ハデな怪談！",
+    "translation": "求む！　ハデな怪談！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 61,
+    "key": "dat_EXTRAS_0061",
+    "original": "なにかいい感じ",
+    "translation": "なにかいい感じ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 62,
+    "key": "dat_EXTRAS_0062",
+    "original": "当たるも八卦",
+    "translation": "当たるも八卦",
+    "speaker": "INFO"
+  },
+  {
+    "index": 63,
+    "key": "dat_EXTRAS_0063",
+    "original": "これもユニフォーム",
+    "translation": "これもユニフォーム",
+    "speaker": "INFO"
+  },
+  {
+    "index": 64,
+    "key": "dat_EXTRAS_0064",
+    "original": "サバイバル入門",
+    "translation": "サバイバル入門",
+    "speaker": "INFO"
+  },
+  {
+    "index": 65,
+    "key": "dat_EXTRAS_0065",
+    "original": "超料理長",
+    "translation": "超料理長",
+    "speaker": "INFO"
+  },
+  {
+    "index": 66,
+    "key": "dat_EXTRAS_0066",
+    "original": "先生、こうですか？",
+    "translation": "先生、こうですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 67,
+    "key": "dat_EXTRAS_0067",
+    "original": "究極のひと串",
+    "translation": "究極のひと串",
+    "speaker": "INFO"
+  },
+  {
+    "index": 68,
+    "key": "dat_EXTRAS_0068",
+    "original": "インスタレーション",
+    "translation": "インスタレーション",
+    "speaker": "INFO"
+  },
+  {
+    "index": 69,
+    "key": "dat_EXTRAS_0069",
+    "original": "団員冥利に尽きる",
+    "translation": "団員冥利に尽きる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 70,
+    "key": "dat_EXTRAS_0070",
+    "original": "掃除のおばちゃんへの感謝",
+    "translation": "掃除のおばちゃんへの感謝",
+    "speaker": "INFO"
+  },
+  {
+    "index": 71,
+    "key": "dat_EXTRAS_0071",
+    "original": "星空のバーベキュー大会",
+    "translation": "星空のバーベキュー大会",
+    "speaker": "INFO"
+  },
+  {
+    "index": 72,
+    "key": "dat_EXTRAS_0072",
+    "original": "これも「お約束」という",
+    "translation": "これも「お約束」という",
+    "speaker": "INFO"
+  },
+  {
+    "index": 73,
+    "key": "dat_EXTRAS_0073",
+    "original": "妹思い……妹重い……",
+    "translation": "妹思い……妹重い……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 74,
+    "key": "dat_EXTRAS_0074",
+    "original": "無言の追従",
+    "translation": "無言の追従",
+    "speaker": "INFO"
+  },
+  {
+    "index": 75,
+    "key": "dat_EXTRAS_0075",
+    "original": "ストーカーではない",
+    "translation": "ストーカーではない",
+    "speaker": "INFO"
+  },
+  {
+    "index": 76,
+    "key": "dat_EXTRAS_0076",
+    "original": "ストーカーではないよ",
+    "translation": "ストーカーではないよ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 77,
+    "key": "dat_EXTRAS_0077",
+    "original": "パスファインダー",
+    "translation": "パスファインダー",
+    "speaker": "INFO"
+  },
+  {
+    "index": 78,
+    "key": "dat_EXTRAS_0078",
+    "original": "爽やかガイド",
+    "translation": "爽やかガイド",
+    "speaker": "INFO"
+  },
+  {
+    "index": 79,
+    "key": "dat_EXTRAS_0079",
+    "original": "パイプ椅子マジック・１",
+    "translation": "パイプ椅子マジック・１",
+    "speaker": "INFO"
+  },
+  {
+    "index": 80,
+    "key": "dat_EXTRAS_0080",
+    "original": "パイプ椅子マジック・２",
+    "translation": "パイプ椅子マジック・２",
+    "speaker": "INFO"
+  },
+  {
+    "index": 81,
+    "key": "dat_EXTRAS_0081",
+    "original": "パイプ椅子マジック・多",
+    "translation": "パイプ椅子マジック・多",
+    "speaker": "INFO"
+  },
+  {
+    "index": 82,
+    "key": "dat_EXTRAS_0082",
+    "original": "超校長の卒業式",
+    "translation": "超校長の卒業式",
+    "speaker": "INFO"
+  },
+  {
+    "index": 83,
+    "key": "dat_EXTRAS_0083",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 84,
+    "key": "dat_EXTRAS_0084",
+    "original": "フッ",
+    "translation": "フッ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 85,
+    "key": "dat_EXTRAS_0085",
+    "original": "船頭さんは大変そうだ",
+    "translation": "船頭さんは大変そうだ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 86,
+    "key": "dat_EXTRAS_0086",
+    "original": "横波注意",
+    "translation": "横波注意",
+    "speaker": "INFO"
+  },
+  {
+    "index": 87,
+    "key": "dat_EXTRAS_0087",
+    "original": "明日のためのその１",
+    "translation": "明日のためのその１",
+    "speaker": "INFO"
+  },
+  {
+    "index": 88,
+    "key": "dat_EXTRAS_0088",
+    "original": "見事な成果",
+    "translation": "見事な成果",
+    "speaker": "INFO"
+  },
+  {
+    "index": 89,
+    "key": "dat_EXTRAS_0089",
+    "original": "漫才あるいは腹話術",
+    "translation": "漫才あるいは腹話術",
+    "speaker": "INFO"
+  },
+  {
+    "index": 90,
+    "key": "dat_EXTRAS_0090",
+    "original": "図工の評価はどうだったか",
+    "translation": "図工の評価はどうだったか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 91,
+    "key": "dat_EXTRAS_0091",
+    "original": "束の間の幸福",
+    "translation": "束の間の幸福",
+    "speaker": "INFO"
+  },
+  {
+    "index": 92,
+    "key": "dat_EXTRAS_0092",
+    "original": "夏は花火",
+    "translation": "夏は花火",
+    "speaker": "INFO"
+  },
+  {
+    "index": 93,
+    "key": "dat_EXTRAS_0093",
+    "original": "豪邸の庭",
+    "translation": "豪邸の庭",
+    "speaker": "INFO"
+  },
+  {
+    "index": 94,
+    "key": "dat_EXTRAS_0094",
+    "original": "保養、保養、男の子♪",
+    "translation": "保養、保養、男の子♪",
+    "speaker": "INFO"
+  },
+  {
+    "index": 95,
+    "key": "dat_EXTRAS_0095",
+    "original": "気分は海中探査隊",
+    "translation": "気分は海中探査隊",
+    "speaker": "INFO"
+  },
+  {
+    "index": 96,
+    "key": "dat_EXTRAS_0096",
+    "original": "問いたい背中",
+    "translation": "問いたい背中",
+    "speaker": "INFO"
+  },
+  {
+    "index": 97,
+    "key": "dat_EXTRAS_0097",
+    "original": "ギャグだと言ってくれ",
+    "translation": "ギャグだと言ってくれ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 98,
+    "key": "dat_EXTRAS_0098",
+    "original": "ドアの向こうは……",
+    "translation": "ドアの向こうは……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 99,
+    "key": "dat_EXTRAS_0099",
+    "original": "ファーストエイド！",
+    "translation": "ファーストエイド！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 100,
+    "key": "dat_EXTRAS_0100",
+    "original": "観念しな～",
+    "translation": "観念しな～",
+    "speaker": "INFO"
+  },
+  {
+    "index": 101,
+    "key": "dat_EXTRAS_0101",
+    "original": "観念？",
+    "translation": "観念？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 102,
+    "key": "dat_EXTRAS_0102",
+    "original": "おまえが、な。",
+    "translation": "おまえが、な。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 103,
+    "key": "dat_EXTRAS_0103",
+    "original": "撃ち方よーい",
+    "translation": "撃ち方よーい",
+    "speaker": "INFO"
+  },
+  {
+    "index": 104,
+    "key": "dat_EXTRAS_0104",
+    "original": "勲章ものだぞ！",
+    "translation": "勲章ものだぞ！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 105,
+    "key": "dat_EXTRAS_0105",
+    "original": "お花畑の実現",
+    "translation": "お花畑の実現",
+    "speaker": "INFO"
+  },
+  {
+    "index": 106,
+    "key": "dat_EXTRAS_0106",
+    "original": "幸せすぎて恐い　Ｐｔ．２",
+    "translation": "幸せすぎて恐い　Ｐｔ．２",
+    "speaker": "INFO"
+  },
+  {
+    "index": 107,
+    "key": "dat_EXTRAS_0107",
+    "original": "これなら怖くない",
+    "translation": "これなら怖くない",
+    "speaker": "INFO"
+  },
+  {
+    "index": 108,
+    "key": "dat_EXTRAS_0108",
+    "original": "木はどこに行った？",
+    "translation": "木はどこに行った？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 109,
+    "key": "dat_EXTRAS_0109",
+    "original": "見ーつけた",
+    "translation": "見ーつけた",
+    "speaker": "INFO"
+  },
+  {
+    "index": 110,
+    "key": "dat_EXTRAS_0110",
+    "original": "なんてこったい",
+    "translation": "なんてこったい",
+    "speaker": "INFO"
+  },
+  {
+    "index": 111,
+    "key": "dat_EXTRAS_0111",
+    "original": "チチェローネ",
+    "translation": "チチェローネ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 112,
+    "key": "dat_EXTRAS_0112",
+    "original": "５度目の正直！",
+    "translation": "５度目の正直！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 113,
+    "key": "dat_EXTRAS_0113",
+    "original": "はてさてんっんー",
+    "translation": "はてさてんっんー",
+    "speaker": "INFO"
+  },
+  {
+    "index": 114,
+    "key": "dat_EXTRAS_0114",
+    "original": "赤いフードが見える気が…",
+    "translation": "赤いフードが見える気が…",
+    "speaker": "INFO"
+  },
+  {
+    "index": 115,
+    "key": "dat_EXTRAS_0115",
+    "original": "インテレクチュアル",
+    "translation": "インテレクチュアル",
+    "speaker": "INFO"
+  },
+  {
+    "index": 116,
+    "key": "dat_EXTRAS_0116",
+    "original": "注目のカード",
+    "translation": "注目のカード",
+    "speaker": "INFO"
+  },
+  {
+    "index": 117,
+    "key": "dat_EXTRAS_0117",
+    "original": "こんなこともあろうかと",
+    "translation": "こんなこともあろうかと",
+    "speaker": "INFO"
+  },
+  {
+    "index": 118,
+    "key": "dat_EXTRAS_0118",
+    "original": "目と目で通じ合う",
+    "translation": "目と目で通じ合う",
+    "speaker": "INFO"
+  },
+  {
+    "index": 119,
+    "key": "dat_EXTRAS_0119",
+    "original": "目と目で通じ合……",
+    "translation": "目と目で通じ合……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 120,
+    "key": "dat_EXTRAS_0120",
+    "original": "ショーウィンドウさながら",
+    "translation": "ショーウィンドウさながら",
+    "speaker": "INFO"
+  },
+  {
+    "index": 121,
+    "key": "dat_EXTRAS_0121",
+    "original": "早くも店じまい",
+    "translation": "早くも店じまい",
+    "speaker": "INFO"
+  },
+  {
+    "index": 122,
+    "key": "dat_EXTRAS_0122",
+    "original": "ここが現場ですか",
+    "translation": "ここが現場ですか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 123,
+    "key": "dat_EXTRAS_0123",
+    "original": "凶行？　強行！",
+    "translation": "凶行？　強行！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 124,
+    "key": "dat_EXTRAS_0124",
+    "original": "魔法の駒",
+    "translation": "魔法の駒",
+    "speaker": "INFO"
+  },
+  {
+    "index": 125,
+    "key": "dat_EXTRAS_0125",
+    "original": "無法の鍵",
+    "translation": "無法の鍵",
+    "speaker": "INFO"
+  },
+  {
+    "index": 126,
+    "key": "dat_EXTRAS_0126",
+    "original": "騒々しい創造の女神",
+    "translation": "騒々しい創造の女神",
+    "speaker": "INFO"
+  },
+  {
+    "index": 127,
+    "key": "dat_EXTRAS_0127",
+    "original": "きれい？",
+    "translation": "きれい？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 128,
+    "key": "dat_EXTRAS_0128",
+    "original": "きれいだよ",
+    "translation": "きれいだよ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 129,
+    "key": "dat_EXTRAS_0129",
+    "original": "ちょっとそのコ誰よ？",
+    "translation": "ちょっとそのコ誰よ？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 130,
+    "key": "dat_EXTRAS_0130",
+    "original": "ご機嫌、斜め４５度",
+    "translation": "ご機嫌、斜め４５度",
+    "speaker": "INFO"
+  },
+  {
+    "index": 131,
+    "key": "dat_EXTRAS_0131",
+    "original": "みっくるげんがー",
+    "translation": "みっくるげんがー",
+    "speaker": "INFO"
+  },
+  {
+    "index": 132,
+    "key": "dat_EXTRAS_0132",
+    "original": "５人揃ってゴ……ゴー！",
+    "translation": "５人揃ってゴ……ゴー！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 133,
+    "key": "dat_EXTRAS_0133",
+    "original": "ぐっすり眠れるだろうか",
+    "translation": "ぐっすり眠れるだろうか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 134,
+    "key": "dat_EXTRAS_0134",
+    "original": "グッドモーニングコール",
+    "translation": "グッドモーニングコール",
+    "speaker": "INFO"
+  },
+  {
+    "index": 135,
+    "key": "dat_EXTRAS_0135",
+    "original": "フラットモーニングコール",
+    "translation": "フラットモーニングコール",
+    "speaker": "INFO"
+  },
+  {
+    "index": 136,
+    "key": "dat_EXTRAS_0136",
+    "original": "バッドモーニングコール",
+    "translation": "バッドモーニングコール",
+    "speaker": "INFO"
+  },
+  {
+    "index": 137,
+    "key": "dat_EXTRAS_0137",
+    "original": "起こすな危険！",
+    "translation": "起こすな危険！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 138,
+    "key": "dat_EXTRAS_0138",
+    "original": "起きた。危険！！",
+    "translation": "起きた。危険！！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 139,
+    "key": "dat_EXTRAS_0139",
+    "original": "猛烈爆裂　Ｐｔ．２",
+    "translation": "猛烈爆裂　Ｐｔ．２",
+    "speaker": "INFO"
+  },
+  {
+    "index": 140,
+    "key": "dat_EXTRAS_0140",
+    "original": "残念な結果",
+    "translation": "残念な結果",
+    "speaker": "INFO"
+  },
+  {
+    "index": 141,
+    "key": "dat_EXTRAS_0141",
+    "original": "あの星をおまえにやろう",
+    "translation": "あの星をおまえにやろう",
+    "speaker": "INFO"
+  },
+  {
+    "index": 142,
+    "key": "dat_EXTRAS_0142",
+    "original": "目撃するまでが合宿よ",
+    "translation": "目撃するまでが合宿よ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 143,
+    "key": "dat_EXTRAS_0143",
+    "original": "今は前を走る",
+    "translation": "今は前を走る",
+    "speaker": "INFO"
+  },
+  {
+    "index": 144,
+    "key": "dat_EXTRAS_0144",
+    "original": "それは陽炎のように",
+    "translation": "それは陽炎のように",
+    "speaker": "INFO"
+  },
+  {
+    "index": 145,
+    "key": "dat_EXTRAS_0145",
+    "original": "ゆめかまぼろしか",
+    "translation": "ゆめかまぼろしか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 146,
+    "key": "dat_EXTRAS_0146",
+    "original": "新しい朝が来た",
+    "translation": "新しい朝が来た",
+    "speaker": "INFO"
+  },
+  {
+    "index": 147,
+    "key": "dat_EXTRAS_0147",
+    "original": "あの夏の想い出",
+    "translation": "あの夏の想い出",
+    "speaker": "INFO"
+  },
+  {
+    "index": 148,
+    "key": "dat_EXTRAS_0148",
+    "original": "忘れ物と拾い主",
+    "translation": "忘れ物と拾い主",
+    "speaker": "INFO"
+  },
+  {
+    "index": 149,
+    "key": "dat_EXTRAS_0149",
+    "original": "団長殿の大演説",
+    "translation": "団長殿の大演説",
+    "speaker": "INFO"
+  },
+  {
+    "index": 150,
+    "key": "dat_EXTRAS_0150",
+    "original": "団長殿の死刑宣告",
+    "translation": "団長殿の死刑宣告",
+    "speaker": "INFO"
+  },
+  {
+    "index": 151,
+    "key": "dat_EXTRAS_0151",
+    "original": "かくして日常は続く",
+    "translation": "かくして日常は続く",
+    "speaker": "INFO"
+  },
+  {
+    "index": 152,
+    "key": "dat_EXTRAS_0152",
+    "original": "「さ、行くわよ！」",
+    "translation": "「さ、行くわよ！」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 153,
+    "key": "dat_EXTRAS_0153",
+    "original": "「アンタはいいのよ」",
+    "translation": "「アンタはいいのよ」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 154,
+    "key": "dat_EXTRAS_0154",
+    "original": "「禁則事項です」",
+    "translation": "「禁則事項です」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 155,
+    "key": "dat_EXTRAS_0155",
+    "original": "「…………」",
+    "translation": "「…………」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 156,
+    "key": "dat_EXTRAS_0156",
+    "original": "「なに」",
+    "translation": "「なに」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 157,
+    "key": "dat_EXTRAS_0157",
+    "original": "「よろしければチェスを」",
+    "translation": "「よろしければチェスを」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 158,
+    "key": "dat_EXTRAS_0158",
+    "original": "「ごめんよ、売り切れさ」",
+    "translation": "「ごめんよ、売り切れさ」",
+    "speaker": "INFO"
+  },
+  {
+    "index": 159,
+    "key": "dat_EXTRAS_0159",
+    "original": "悲壮な決意",
+    "translation": "悲壮な決意",
+    "speaker": "INFO"
+  },
+  {
+    "index": 160,
+    "key": "dat_EXTRAS_0160",
+    "original": "別に。",
+    "translation": "別に。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 161,
+    "key": "dat_EXTRAS_0161",
+    "original": "ルーティンワーク",
+    "translation": "ルーティンワーク",
+    "speaker": "INFO"
+  },
+  {
+    "index": 162,
+    "key": "dat_EXTRAS_0162",
+    "original": "ハルヒトピックを全て収集",
+    "translation": "ハルヒトピックを全て収集",
+    "speaker": "INFO"
+  },
+  {
+    "index": 163,
+    "key": "dat_EXTRAS_0163",
+    "original": "みくるトピックを全て収集",
+    "translation": "みくるトピックを全て収集",
+    "speaker": "INFO"
+  },
+  {
+    "index": 164,
+    "key": "dat_EXTRAS_0164",
+    "original": "長門トピックを全て収集",
+    "translation": "長門トピックを全て収集",
+    "speaker": "INFO"
+  },
+  {
+    "index": 165,
+    "key": "dat_EXTRAS_0165",
+    "original": "古泉トピックを全て収集",
+    "translation": "古泉トピックを全て収集",
+    "speaker": "INFO"
+  },
+  {
+    "index": 166,
+    "key": "dat_EXTRAS_0166",
+    "original": "メイントピックを全て収集",
+    "translation": "メイントピックを全て収集",
+    "speaker": "INFO"
+  },
+  {
+    "index": 167,
+    "key": "dat_EXTRAS_0167",
+    "original": "チェス全問クリア",
+    "translation": "チェス全問クリア",
+    "speaker": "INFO"
+  },
+  {
+    "index": 168,
+    "key": "dat_EXTRAS_0168",
+    "original": "ひと夏のひとコマ",
+    "translation": "ひと夏のひとコマ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 169,
+    "key": "dat_EXTRAS_0169",
+    "original": "遊んでくれてありがとう！",
+    "translation": "遊んでくれてありがとう！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 170,
+    "key": "dat_EXTRAS_0170",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 171,
+    "key": "dat_EXTRAS_0171",
+    "original": "ｿ",
+    "translation": "ｿ",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

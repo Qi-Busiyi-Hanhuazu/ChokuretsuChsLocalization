@@ -1,86 +1,169 @@
 [
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "ハルヒについて"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "NONE/SEL000"
-  ],
-  [
-    "INFO",
-    "<"
-  ],
-  [
-    "INFO",
-    "\u0015"
-  ],
-  [
-    "INFO",
-    "EV0_000"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "index": 0,
+    "key": "evt_EV0_000S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV0_000S_0001",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "evt_EV0_000S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_EV0_000S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_EV0_000S_0004",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV0_000S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_EV0_000S_0006",
+    "original": "NONE/SEL000",
+    "translation": "NONE/SEL000",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_EV0_000S_0007",
+    "original": "<",
+    "translation": "<",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV0_000S_0008",
+    "original": "\u0015",
+    "translation": "\u0015",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_EV0_000S_0009",
+    "original": "EV0_000",
+    "translation": "EV0_000",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_EV0_000S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_EV0_000S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV0_000S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV0_000S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_EV0_000S_0014",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "evt_EV0_000S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_EV0_000S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_EV0_000S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_EV0_000S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_EV0_000S_0019",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "evt_EV0_000S_0020",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

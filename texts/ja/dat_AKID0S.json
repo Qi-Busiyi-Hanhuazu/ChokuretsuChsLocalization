@@ -1,26 +1,48 @@
 [
-  [
-    "INFO",
-    "組み立て前のバーベキューグリル"
-  ],
-  [
-    "INFO",
-    "バーベキューの食材（ピーマン他）が山積みになっている"
-  ],
-  [
-    "INFO",
-    "\f"
-  ],
-  [
-    "INFO",
-    "\b"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0003"
-  ]
+  {
+    "index": 0,
+    "key": "dat_AKID0S_0000",
+    "original": "組み立て前のバーベキューグリル",
+    "translation": "組み立て前のバーベキューグリル",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_AKID0S_0001",
+    "original": "バーベキューの食材（ピーマン他）が山積みになっている",
+    "translation": "バーベキューの食材（ピーマン他）が山積みになっている",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_AKID0S_0002",
+    "original": "\f",
+    "translation": "\f",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "dat_AKID0S_0003",
+    "original": "\b",
+    "translation": "\b",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "dat_AKID0S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "dat_AKID0S_0005",
+    "original": "\u0003",
+    "translation": "\u0003",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

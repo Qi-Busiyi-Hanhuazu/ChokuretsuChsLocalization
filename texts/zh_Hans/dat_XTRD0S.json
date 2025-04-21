@@ -1,42 +1,38 @@
 [
-  [
-    "INFO",
-    "进入事件ＣＧ阅览"
-  ],
-  [
-    "INFO",
-    "进入音乐播放器"
-  ],
-  [
-    "INFO",
-    "进入主题列表"
-  ],
-  [
-    "INFO",
-    "进入达成率和路线一览"
-  ],
-  [
-    "INFO",
-    "进入国际象棋模式"
-  ],
-  [
-    "INFO",
-    "退出～返回标题菜单"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "key": "dat_XTRD0S_0000",
+    "original": "イベントＣＧ閲覧へ",
+    "translation": "进入事件ＣＧ阅览",
+    "context": "INFO\n\n**翻译辅助**：\n\n前往剧情CG欣赏\n\n事件CG浏览\n\n查看事件CG"
+  },
+  {
+    "key": "dat_XTRD0S_0001",
+    "original": "ミュージックプレイヤーへ",
+    "translation": "进入音乐播放器",
+    "context": "INFO\n\n**翻译辅助**：\n\n给音乐播放器\n\n到音乐播放器"
+  },
+  {
+    "key": "dat_XTRD0S_0002",
+    "original": "トピックリストへ",
+    "translation": "进入主题列表",
+    "context": "INFO\n\n**翻译辅助**：\n\n回到话题列表\n\n转到话题列表\n\n进入话题列表"
+  },
+  {
+    "key": "dat_XTRD0S_0003",
+    "original": "達成率とルート一覧へ",
+    "translation": "进入达成率和路线一览",
+    "context": "INFO\n\n**翻译辅助**：\n\n前往达成率与路线一览\n\n达成率和路线一览\n\n转到完成率和路线列表"
+  },
+  {
+    "key": "dat_XTRD0S_0004",
+    "original": "チェスモードへ",
+    "translation": "切换至国际象棋模式",
+    "context": "INFO\n\n**翻译辅助**：\n\n切换至国际象棋模式\n\n进入国际象棋模式"
+  },
+  {
+    "key": "dat_XTRD0S_0005",
+    "original": "退出～タイトルメニューへ",
+    "translation": "退出～返回标题菜单",
+    "context": "INFO\n\n**翻译辅助**：\n\n离开游戏～回到标题画面\n\n退出～进入标题菜单\n\n退出到标题菜单"
+  }
 ]

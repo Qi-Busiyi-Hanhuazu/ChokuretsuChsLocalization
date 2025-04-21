@@ -1,342 +1,482 @@
 [
-  [
-    "INFO",
-    "解释国际象棋规则"
-  ],
-  [
-    "INFO",
-    "无"
-  ],
-  [
-    "INFO",
-    "国际象棋概述"
-  ],
-  [
-    "INFO",
-    "胜利和败北条件"
-  ],
-  [
-    "INFO",
-    "棋子的移动方法"
-  ],
-  [
-    "INFO",
-    "王车易位"
-  ],
-  [
-    "INFO",
-    "升变"
-  ],
-  [
-    "INFO",
-    "关于国际象棋模式"
-  ],
-  [
-    "INFO",
-    "一步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "一步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "古泉全部完成"
-  ],
-  [
-    "INFO",
-    "对国际象棋棋谜的基础进行说明"
-  ],
-  [
-    "INFO",
-    "无"
-  ],
-  [
-    "INFO",
-    "关于驹得"
-  ],
-  [
-    "INFO",
-    "棋子的保护与破坏"
-  ],
-  [
-    "INFO",
-    "关于捉双"
-  ],
-  [
-    "INFO",
-    "关于牵制"
-  ],
-  [
-    "INFO",
-    "关于穿串"
-  ],
-  [
-    "INFO",
-    "关于闪击"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "实玖瑠全部完成"
-  ],
-  [
-    "INFO",
-    "鹤屋学姐的问题（难易度　简单）"
-  ],
-  [
-    "INFO",
-    "#P05完成了１０道朝比奈学姐的问题"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "鹤屋学姐全部完成"
-  ],
-  [
-    "INFO",
-    "长门的问题（难度　一般）"
-  ],
-  [
-    "INFO",
-    "#P05完成了１０道鹤屋学姐的问题"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "四步将死"
-  ],
-  [
-    "INFO",
-    "长门全通关"
-  ],
-  [
-    "INFO",
-    "春日的问题（难易度　难）"
-  ],
-  [
-    "INFO",
-    "#P05完成了１０道长门的问题"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "两步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "三步将死"
-  ],
-  [
-    "INFO",
-    "放置黑方的王"
-  ],
-  [
-    "INFO",
-    "四步将死"
-  ],
-  [
-    "INFO",
-    "四步将死"
-  ],
-  [
-    "INFO",
-    "四步将死"
-  ],
-  [
-    "INFO",
-    "四步将死"
-  ],
-  [
-    "INFO",
-    "春日全通关"
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ],
-  [
-    "INFO",
-    "\u0003"
-  ],
-  [
-    "INFO",
-    "\u0007"
-  ],
-  [
-    "INFO",
-    "\u0004"
-  ],
-  [
-    "INFO",
-    "\u0002"
-  ]
+  {
+    "key": "evt_CHESSS_0000",
+    "original": "チェスのルールを説明します",
+    "translation": "说明国际象棋规则。",
+    "context": "INFO\n\n**翻译辅助**：\n\n说明国际象棋规则。\n\n解释国际象棋规则\n\n国际象棋的规则。"
+  },
+  {
+    "key": "evt_CHESSS_0001",
+    "original": "なし",
+    "translation": "无",
+    "context": "INFO\n\n**翻译辅助**：\n\n略。\n\n的下界\n\n没有"
+  },
+  {
+    "key": "evt_CHESSS_0002",
+    "original": "チェスの概要",
+    "translation": "国际象棋的概要",
+    "context": "INFO\n\n**翻译辅助**：\n\n国际象棋概论。\n\n国际象棋概述\n\n国际象棋的概要"
+  },
+  {
+    "key": "evt_CHESSS_0003",
+    "original": "勝利＆敗北条件",
+    "translation": "胜利和败北条件",
+    "context": "INFO\n\n**翻译辅助**：\n\n胜利＆败北条件。\n\n胜利＆败北条件\n\n胜利与失败的条件"
+  },
+  {
+    "key": "evt_CHESSS_0004",
+    "original": "駒の動かし方",
+    "translation": "棋子的走法",
+    "context": "INFO\n\n**翻译辅助**：\n\n棋子的走法。\n\n棋子的移动方法"
+  },
+  {
+    "key": "evt_CHESSS_0005",
+    "original": "キャスリング",
+    "translation": "王车易位",
+    "context": "INFO\n\n**翻译辅助**：\n\n入堡。\n\n凯斯林\n\n铸件"
+  },
+  {
+    "key": "evt_CHESSS_0006",
+    "original": "プロモーション",
+    "translation": "升变",
+    "context": "INFO\n\n**翻译辅助**：\n\n升变。\n\n升级\n\n宣传"
+  },
+  {
+    "key": "evt_CHESSS_0007",
+    "original": "チェスモードについて",
+    "translation": "关于国际象棋模式",
+    "context": "INFO\n\n**翻译辅助**：\n\n说明国际象棋模式。\n\n关于国际象棋模式"
+  },
+  {
+    "key": "evt_CHESSS_0008",
+    "original": "１手でチェックメイト",
+    "translation": "一步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n一手将军。\n\n1手确认文件\n\n一手核对"
+  },
+  {
+    "key": "evt_CHESSS_0009",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0010",
+    "original": "１手でチェックメイト",
+    "translation": "一步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n一手将军。\n\n1手确认文件\n\n一手核对"
+  },
+  {
+    "key": "evt_CHESSS_0011",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0012",
+    "original": "古泉全クリア",
+    "translation": "古泉全部完成",
+    "context": "INFO\n\n**翻译辅助**：\n\n古泉全破。\n\n古泉全通关\n\n古泉全清"
+  },
+  {
+    "key": "evt_CHESSS_0013",
+    "original": "詰めチェスの基本を説明します",
+    "translation": "对国际象棋棋谜的基础进行说明",
+    "context": "INFO\n\n**翻译辅助**：\n\n诘棋基本说明。\n\n我来解释一下国际象棋的基本原理\n\n我将向大家介绍填鸭式国际象棋的基础。"
+  },
+  {
+    "key": "evt_CHESSS_0014",
+    "original": "なし",
+    "translation": "无",
+    "context": "INFO\n\n**翻译辅助**：\n\n略。\n\n的下界\n\n没有"
+  },
+  {
+    "key": "evt_CHESSS_0015",
+    "original": "駒得について",
+    "translation": "关于驹得",
+    "context": "INFO\n\n**翻译辅助**：\n\n驹得。\n\n关于驹得"
+  },
+  {
+    "key": "evt_CHESSS_0016",
+    "original": "駒の守りと崩し",
+    "translation": "棋子的保护与破坏",
+    "context": "INFO\n\n**翻译辅助**：\n\n防守与击溃。\n\n棋子的防守与瓦解\n\n棋子的守护与崩坏"
+  },
+  {
+    "key": "evt_CHESSS_0017",
+    "original": "フォークについて",
+    "translation": "关于捉双",
+    "context": "INFO\n\n**翻译辅助**：\n\n吃子。\n\n关于分叉\n\n关于叉子"
+  },
+  {
+    "key": "evt_CHESSS_0018",
+    "original": "ピンについて",
+    "translation": "关于牵制",
+    "context": "INFO\n\n**翻译辅助**：\n\n将军。\n\n关于管脚\n\n关于别针"
+  },
+  {
+    "key": "evt_CHESSS_0019",
+    "original": "スキュアについて",
+    "translation": "关于穿串",
+    "context": "INFO\n\n**翻译辅助**：\n\n易位。\n\n关于固化\n\n关于美少女"
+  },
+  {
+    "key": "evt_CHESSS_0020",
+    "original": "ディスカバーアタック",
+    "translation": "关于闪击",
+    "context": "INFO\n\n**翻译辅助**：\n\n发现攻击。\n\n探索攻势\n\n发现攻击"
+  },
+  {
+    "key": "evt_CHESSS_0021",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0022",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0023",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0024",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0025",
+    "original": "みくる全クリア",
+    "translation": "实玖瑠全部完成",
+    "context": "INFO\n\n**翻译辅助**：\n\n实玖瑠全破。\n\n实玖瑠全通关\n\n实玖瑠全清透"
+  },
+  {
+    "key": "evt_CHESSS_0026",
+    "original": "鶴屋さんの問題（難易度　簡単）",
+    "translation": "鹤屋学姐的问题（难易度　简单）",
+    "context": "INFO\n\n**翻译辅助**：\n\n鹤屋学姐的问题（难度　简单）。\n\n鹤屋的问题（难易度简单）"
+  },
+  {
+    "key": "evt_CHESSS_0027",
+    "original": "[#P05]朝比奈さんの問題を１０問クリア",
+    "translation": "[#P05]完成了１０道朝比奈学姐的问题",
+    "context": "INFO\n\n**翻译辅助**：\n\n[#P05]答对十题朝比奈学姐的问题。\n\n[#P05]完成了10道朝比奈的问题\n\n[#P05]解决朝比奈的10道问题"
+  },
+  {
+    "key": "evt_CHESSS_0028",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0029",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0030",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0031",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0032",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0033",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0034",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0035",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0036",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0037",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0038",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0039",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0040",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0041",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0042",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0043",
+    "original": "鶴屋さん全クリア",
+    "translation": "鹤屋学姐全部完成",
+    "context": "INFO\n\n**翻译辅助**：\n\n鹤屋学姐全破。\n\n鹤屋学姐全部通关\n\n鹤屋全通关"
+  },
+  {
+    "key": "evt_CHESSS_0044",
+    "original": "長門の問題（難易度　ふつう）",
+    "translation": "长门的问题（难度　一般）",
+    "context": "INFO\n\n**翻译辅助**：\n\n长门的问题（难度　普通）。\n\n长门问题（难度一般）\n\n长门的问题（难易度一般）"
+  },
+  {
+    "key": "evt_CHESSS_0045",
+    "original": "[#P05]鶴屋さんの問題を１０問クリア",
+    "translation": "[#P05]完成了１０道鹤屋学姐的问题",
+    "context": "INFO\n\n**翻译辅助**：\n\n[#P05]答对十题鹤屋学姐的问题。\n\n[#P05]完成了10道鹤屋学姐的问题\n\n[#P05]解决10道鹤屋问题"
+  },
+  {
+    "key": "evt_CHESSS_0046",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0047",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0048",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0049",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0050",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0051",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0052",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0053",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0054",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0055",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0056",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0057",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0058",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0059",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0060",
+    "original": "４手でチェックメイト",
+    "translation": "四步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n四手将军。\n\n用4手核对\n\n4招确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0061",
+    "original": "長門全クリア",
+    "translation": "长门全部完成",
+    "context": "INFO\n\n**翻译辅助**：\n\n长门全破。\n\n长门全通关\n\n长门全清"
+  },
+  {
+    "key": "evt_CHESSS_0062",
+    "original": "ハルヒの問題（難易度　難しい）",
+    "translation": "春日的问题（难易度　难）",
+    "context": "INFO\n\n**翻译辅助**：\n\n春日的问题（难度　困难）。\n\n春日的问题（难易度难）"
+  },
+  {
+    "key": "evt_CHESSS_0063",
+    "original": "[#P05]長門有希の問題を１０問クリア",
+    "translation": "[#P05]完成了１０道长门的问题",
+    "context": "INFO\n\n**翻译辅助**：\n\n[#P05]答对长门有希的问题10题\n\n[#P05]长门有希的问题10问通关\n\n[#P05]长门有希的10道题全部解决"
+  },
+  {
+    "key": "evt_CHESSS_0064",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0065",
+    "original": "２手でチェックメイト",
+    "translation": "两步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n二手将军。\n\n用两只手核对\n\n2手确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0066",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0067",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0068",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0069",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0070",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0071",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0072",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0073",
+    "original": "３手でチェックメイト",
+    "translation": "三步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n三手将军。\n\n3招确认文件\n\n三手对战"
+  },
+  {
+    "key": "evt_CHESSS_0074",
+    "original": "黒のキングを置く",
+    "translation": "放置黑方的王",
+    "context": "INFO\n\n**翻译辅助**：\n\n放置黑王。\n\n放上黑色的国王\n\n放黑金"
+  },
+  {
+    "key": "evt_CHESSS_0075",
+    "original": "４手でチェックメイト",
+    "translation": "四步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n四手将军。\n\n用4手核对\n\n4招确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0076",
+    "original": "４手でチェックメイト",
+    "translation": "四步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n四手将军。\n\n用4手核对\n\n4招确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0077",
+    "original": "４手でチェックメイト",
+    "translation": "四步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n四手将军。\n\n用4手核对\n\n4招确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0078",
+    "original": "４手でチェックメイト",
+    "translation": "四步将死",
+    "context": "INFO\n\n**翻译辅助**：\n\n四手将军。\n\n用4手核对\n\n4招确认文件"
+  },
+  {
+    "key": "evt_CHESSS_0079",
+    "original": "ハルヒ全クリア",
+    "translation": "春日全部完成",
+    "context": "INFO\n\n**翻译辅助**：\n\n春日全破。\n\n春日全通关\n\n春日全清"
+  }
 ]

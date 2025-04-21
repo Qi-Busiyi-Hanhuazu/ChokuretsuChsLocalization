@@ -26,6 +26,9 @@ New-Item "out/" -Type "Directory" -Force
 # Patch arm9.bin for line height and font size
 dotnet-script scripts/patch_arm9.csx
 
+# Convert texts
+python "scripts/convert_csv_to_json.py"
+
 # Create new font
 & "$ChokuretsuCli" extract -i "original_files/data/dat.bin" -n 0x071 -o "temp_files/dat_071.bin"
 & "$ChokuretsuCli" extract -i "original_files/data/grp.bin" -n 0xE50 -o "temp_files/grp_E50.png"
@@ -34,8 +37,8 @@ python "scripts/create_font.py"
 & "$ChokuretsuCli" replace -i "temp_files/grp.bin" -o "temp_files/grp.bin" -r "temp_files/E50.png"
 
 # Import texts
-& "$ChokuretsuCli" json-import -i "original_files/data/evt.bin" -f "texts/zh_Hans/" -c "temp_files/char_map.json" -o "temp_files/evt.bin"
-& "$ChokuretsuCli" json-import -i "original_files/data/dat.bin" -f "texts/zh_Hans/" -c "temp_files/char_map.json" -o "temp_files/dat.bin" -d
+& "$ChokuretsuCli" json-import -i "original_files/data/evt.bin" -f "temp_files/texts/" -c "temp_files/char_map.json" -o "temp_files/evt.bin"
+& "$ChokuretsuCli" json-import -i "original_files/data/dat.bin" -f "temp_files/texts/" -c "temp_files/char_map.json" -o "temp_files/dat.bin" -d
 & "$ChokuretsuCli" replace -i "temp_files/dat.bin" -o "temp_files/dat.bin" -r "temp_files/071.bin"
 
 # Edit hardcoded string

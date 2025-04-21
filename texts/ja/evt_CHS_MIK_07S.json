@@ -1,42 +1,79 @@
 [
-  [
-    "みくる",
-    ""
-  ],
-  [
-    "インフォ",
-    "では“チェス”のテクニックを使用\nした簡単な応用問題を解いてみて"
-  ],
-  [
-    "インフォ",
-    "下さい"
-  ],
-  [
-    "インフォ",
-    "２手で“クイーン”を\n取ってください"
-  ],
-  [
-    "みくる",
-    "正解です、さすがですね　（仮）"
-  ],
-  [
-    "みくる",
-    "次の問題も頑張ってください\n（仮）"
-  ],
-  [
-    "みくる",
-    "残念、違いましたね　（仮）"
-  ],
-  [
-    "みくる",
-    "もう一度挑戦してみてください\n（仮）"
-  ],
-  [
-    "みくる",
-    "“駒得”出来なかったようですね\n　（仮）"
-  ],
-  [
-    "みくる",
-    "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）"
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHS_MIK_07S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_CHS_MIK_07S_0001",
+    "original": "では“チェス”のテクニックを使用\nした簡単な応用問題を解いてみて",
+    "translation": "では“チェス”のテクニックを使用\nした簡単な応用問題を解いてみて",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHS_MIK_07S_0002",
+    "original": "下さい",
+    "translation": "下さい",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CHS_MIK_07S_0003",
+    "original": "２手で“クイーン”を\n取ってください",
+    "translation": "２手で“クイーン”を\n取ってください",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CHS_MIK_07S_0004",
+    "original": "正解です、さすがですね　（仮）",
+    "translation": "正解です、さすがですね　（仮）",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_CHS_MIK_07S_0005",
+    "original": "次の問題も頑張ってください\n（仮）",
+    "translation": "次の問題も頑張ってください\n（仮）",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_CHS_MIK_07S_0006",
+    "original": "残念、違いましたね　（仮）",
+    "translation": "残念、違いましたね　（仮）",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_CHS_MIK_07S_0007",
+    "original": "もう一度挑戦してみてください\n（仮）",
+    "translation": "もう一度挑戦してみてください\n（仮）",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_CHS_MIK_07S_0008",
+    "original": "“駒得”出来なかったようですね\n　（仮）",
+    "translation": "“駒得”出来なかったようですね\n　（仮）",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_CHS_MIK_07S_0009",
+    "original": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "translation": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "speaker": "みくる",
+    "trash": true
+  }
 ]

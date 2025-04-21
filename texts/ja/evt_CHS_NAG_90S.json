@@ -1,46 +1,88 @@
 [
-  [
-    "長門",
-    ""
-  ],
-  [
-    "長門",
-    "全ての出題が終了した\n……おめでとう"
-  ],
-  [
-    "長門",
-    "それではチェスの説明を\n開始しましょう　（仮）"
-  ],
-  [
-    "長門",
-    "では問題です"
-  ],
-  [
-    "長門",
-    "ルークを動かしてみてください\n（仮）"
-  ],
-  [
-    "長門",
-    "ルークの動き方は判りましたか？\n（仮）"
-  ],
-  [
-    "長門",
-    "次の問題に行きましょう\n（仮）"
-  ],
-  [
-    "長門",
-    "残念、違いましたね　（仮）"
-  ],
-  [
-    "長門",
-    "もう一度挑戦してみてください\n（仮）"
-  ],
-  [
-    "長門",
-    "“駒得”出来なかったようですね\n　（仮）"
-  ],
-  [
-    "長門",
-    "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）"
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHS_NAG_90S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_CHS_NAG_90S_0001",
+    "original": "全ての出題が終了した\n……おめでとう",
+    "translation": "全ての出題が終了した\n……おめでとう",
+    "speaker": "長門"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHS_NAG_90S_0002",
+    "original": "それではチェスの説明を\n開始しましょう　（仮）",
+    "translation": "それではチェスの説明を\n開始しましょう　（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_CHS_NAG_90S_0003",
+    "original": "では問題です",
+    "translation": "では問題です",
+    "speaker": "長門"
+  },
+  {
+    "index": 4,
+    "key": "evt_CHS_NAG_90S_0004",
+    "original": "ルークを動かしてみてください\n（仮）",
+    "translation": "ルークを動かしてみてください\n（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_CHS_NAG_90S_0005",
+    "original": "ルークの動き方は判りましたか？\n（仮）",
+    "translation": "ルークの動き方は判りましたか？\n（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_CHS_NAG_90S_0006",
+    "original": "次の問題に行きましょう\n（仮）",
+    "translation": "次の問題に行きましょう\n（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_CHS_NAG_90S_0007",
+    "original": "残念、違いましたね　（仮）",
+    "translation": "残念、違いましたね　（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_CHS_NAG_90S_0008",
+    "original": "もう一度挑戦してみてください\n（仮）",
+    "translation": "もう一度挑戦してみてください\n（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_CHS_NAG_90S_0009",
+    "original": "“駒得”出来なかったようですね\n　（仮）",
+    "translation": "“駒得”出来なかったようですね\n　（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_CHS_NAG_90S_0010",
+    "original": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "translation": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "speaker": "長門",
+    "trash": true
+  }
 ]

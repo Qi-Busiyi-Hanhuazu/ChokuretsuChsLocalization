@@ -1,30 +1,53 @@
 [
-  [
-    "古泉",
-    "では始めましょう"
-  ],
-  [
-    "古泉",
-    "今回は制限時間を設けました\nですが焦らず考えてみてください"
-  ],
-  [
-    "インフォ",
-    "制限時間内に２手で“チェックメイ\nト”してください"
-  ],
-  [
-    "古泉",
-    "正解です、さすがですね"
-  ],
-  [
-    "古泉",
-    "残念、違いましたね\nもう一度挑戦してみてください"
-  ],
-  [
-    "古泉",
-    ""
-  ],
-  [
-    "古泉",
-    ""
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHS_KOI_10S_0000",
+    "original": "では始めましょう",
+    "translation": "では始めましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 1,
+    "key": "evt_CHS_KOI_10S_0001",
+    "original": "今回は制限時間を設けました\nですが焦らず考えてみてください",
+    "translation": "今回は制限時間を設けました\nですが焦らず考えてみてください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHS_KOI_10S_0002",
+    "original": "制限時間内に２手で“チェックメイ\nト”してください",
+    "translation": "制限時間内に２手で“チェックメイ\nト”してください",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CHS_KOI_10S_0003",
+    "original": "正解です、さすがですね",
+    "translation": "正解です、さすがですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 4,
+    "key": "evt_CHS_KOI_10S_0004",
+    "original": "残念、違いましたね\nもう一度挑戦してみてください",
+    "translation": "残念、違いましたね\nもう一度挑戦してみてください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_CHS_KOI_10S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_CHS_KOI_10S_0006",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  }
 ]

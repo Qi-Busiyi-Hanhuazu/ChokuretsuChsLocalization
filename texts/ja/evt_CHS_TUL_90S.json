@@ -1,50 +1,95 @@
 [
-  [
-    "鶴屋",
-    ""
-  ],
-  [
-    "鶴屋",
-    "おめでとう、キョンくん！\nなかなかやるねぇ"
-  ],
-  [
-    "鶴屋",
-    "こんなに簡単にクリアされるとは\n思ってもみなかったよ"
-  ],
-  [
-    "鶴屋",
-    "それではチェスの説明を\n開始しましょう　（仮）"
-  ],
-  [
-    "鶴屋",
-    "では問題です"
-  ],
-  [
-    "鶴屋",
-    "ルークを動かしてみてください\n（仮）"
-  ],
-  [
-    "鶴屋",
-    "ルークの動き方は判りましたか？\n（仮）"
-  ],
-  [
-    "鶴屋",
-    "次の問題に行きましょう\n（仮）"
-  ],
-  [
-    "鶴屋",
-    "残念、違いましたね　（仮）"
-  ],
-  [
-    "鶴屋",
-    "もう一度挑戦してみてください\n（仮）"
-  ],
-  [
-    "鶴屋",
-    "“駒得”出来なかったようですね\n　（仮）"
-  ],
-  [
-    "鶴屋",
-    "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）"
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHS_TUL_90S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_CHS_TUL_90S_0001",
+    "original": "おめでとう、キョンくん！\nなかなかやるねぇ",
+    "translation": "おめでとう、キョンくん！\nなかなかやるねぇ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHS_TUL_90S_0002",
+    "original": "こんなに簡単にクリアされるとは\n思ってもみなかったよ",
+    "translation": "こんなに簡単にクリアされるとは\n思ってもみなかったよ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 3,
+    "key": "evt_CHS_TUL_90S_0003",
+    "original": "それではチェスの説明を\n開始しましょう　（仮）",
+    "translation": "それではチェスの説明を\n開始しましょう　（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_CHS_TUL_90S_0004",
+    "original": "では問題です",
+    "translation": "では問題です",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 5,
+    "key": "evt_CHS_TUL_90S_0005",
+    "original": "ルークを動かしてみてください\n（仮）",
+    "translation": "ルークを動かしてみてください\n（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_CHS_TUL_90S_0006",
+    "original": "ルークの動き方は判りましたか？\n（仮）",
+    "translation": "ルークの動き方は判りましたか？\n（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_CHS_TUL_90S_0007",
+    "original": "次の問題に行きましょう\n（仮）",
+    "translation": "次の問題に行きましょう\n（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_CHS_TUL_90S_0008",
+    "original": "残念、違いましたね　（仮）",
+    "translation": "残念、違いましたね　（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_CHS_TUL_90S_0009",
+    "original": "もう一度挑戦してみてください\n（仮）",
+    "translation": "もう一度挑戦してみてください\n（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_CHS_TUL_90S_0010",
+    "original": "“駒得”出来なかったようですね\n　（仮）",
+    "translation": "“駒得”出来なかったようですね\n　（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_CHS_TUL_90S_0011",
+    "original": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "translation": "ポイントの高い駒を奪われない様に\n気をつけてください　（仮）",
+    "speaker": "鶴屋",
+    "trash": true
+  }
 ]

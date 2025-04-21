@@ -1,18 +1,29 @@
 # 《凉宫春日的串联》汉化
 
+[![CC-BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
 ## 基本说明
+
 本项目是对《凉宫春日的串联》（<span lang="ja">涼宮ハルヒの直列</span>）的简体中文本地化。
 
-所用的工具基于 [Haroohie Translation Club](https://haroohie.club/)（凉宫春日游戏英文化计划）的 [开源工具](https://github.com/haroohie-club/ChokuretsuTranslationUtility)，[略有修改](https://github.com/Xzonn/ChokuretsuTranslationUtility)。
+所用的工具基于 [Haroohie Translation Club](https://haroohie.club/)（凉宫春日游戏英文化计划）的 [开源工具](https://github.com/haroohie-club/ChokuretsuTranslationUtility)，[略有修改](https://github.com/Qi-Busiyi-Hanhuazu/ChokuretsuTranslationUtility)。
+
+如需转载，请保留此说明。
 
 ## 使用方式
-请自行获取游戏日文版 ROM，然后下载 [修正补丁](https://github.com/Xzonn/ChokuretsuChsLocalization/releases/latest) 和 [补丁应用工具](https://github.com/Xzonn/NitroPatcher/releases/latest/)，按照工具的说明进行操作。
+
+请自行获取游戏日文版 ROM，然后下载修正补丁并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。
 
 日文版 ROM 校验码（[No-Intro](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=3810)）：
 
-- CRC32：8a58f646
-- MD5：6536132efddd337aa5069e627591fee5
-- SHA-1：81d5c6316dbcef9f4c51984adcaae171124ebb08
+- CRC32：`8a58f646`
+- MD5：`6536132efddd337aa5069e627591fee5`
+- SHA-1：`81d5c6316dbcef9f4c51984adcaae171124ebb08`
+
+补丁应用工具下载地址：
+
+- GitHub：<https://github.com/Xzonn/NitroPatcher/releases/latest/>
+- 百度网盘：<https://pan.baidu.com/s/1vXynSX1WauU3FeGHDnrDfg?pwd=ntro>
 
 ## 截图预览
 ![截图](assets/images/screenshot-01.png) ![截图](assets/images/screenshot-02.png) ![截图](assets/images/screenshot-03.png)
@@ -27,4 +38,4 @@
 - **非商业性使用**：您不得将本项目用于商业目的。
 - **相同方式共享**：若您基于本项目进行二次创作，您必须以相同的协议授权您的作品。
 
-请阅读本项目的 **[完整授权协议](LICENSE)** 以了解更多信息。
+请阅读本项目的 **[完整授权协议](LICENSE.txt)** 以了解更多信息。

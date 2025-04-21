@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "key": "dat_K15D0S_0000",
+    "original": "\u0007",
+    "translation": "\u0007",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "dat_K15D0S_0001",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "dat_K15D0S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "dat_K15D0S_0003",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  }
+]

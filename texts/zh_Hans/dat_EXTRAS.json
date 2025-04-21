@@ -1,690 +1,1022 @@
 [
-  [
-    "INFO",
-    "今天也是最棒的！"
-  ],
-  [
-    "INFO",
-    "平常的步伐"
-  ],
-  [
-    "INFO",
-    "现在这里的和平"
-  ],
-  [
-    "INFO",
-    "最大放松"
-  ],
-  [
-    "INFO",
-    "超直线的行动力"
-  ],
-  [
-    "INFO",
-    "真正的地方"
-  ],
-  [
-    "INFO",
-    "就这样我傻眼了"
-  ],
-  [
-    "INFO",
-    "紧迫"
-  ],
-  [
-    "INFO",
-    "神秘事件的开始"
-  ],
-  [
-    "INFO",
-    "她的受难"
-  ],
-  [
-    "INFO",
-    "徒劳无功"
-  ],
-  [
-    "INFO",
-    "白日梦"
-  ],
-  [
-    "INFO",
-    "未完的奏鸣曲"
-  ],
-  [
-    "INFO",
-    "安静而隐秘地"
-  ],
-  [
-    "INFO",
-    "辛苦的宿命"
-  ],
-  [
-    "INFO",
-    "我没有错"
-  ],
-  [
-    "INFO",
-    "最终大清扫"
-  ],
-  [
-    "INFO",
-    "勉强"
-  ],
-  [
-    "INFO",
-    "功夫不负有心人"
-  ],
-  [
-    "INFO",
-    "事在人为"
-  ],
-  [
-    "INFO",
-    "大人物姗姗来迟"
-  ],
-  [
-    "INFO",
-    "不变的花脸"
-  ],
-  [
-    "INFO",
-    "不变的严肃脸"
-  ],
-  [
-    "INFO",
-    "不变的厚颜"
-  ],
-  [
-    "INFO",
-    "在到齐的地方开报告会"
-  ],
-  [
-    "INFO",
-    "猛烈爆裂"
-  ],
-  [
-    "INFO",
-    "写作手指压力的“指压”"
-  ],
-  [
-    "INFO",
-    "那里有地面吗？"
-  ],
-  [
-    "INFO",
-    "不应该有的东西"
-  ],
-  [
-    "INFO",
-    "开始"
-  ],
-  [
-    "INFO",
-    "脚的使用方法"
-  ],
-  [
-    "INFO",
-    "正统派反应"
-  ],
-  [
-    "INFO",
-    "睡眠学习的推荐"
-  ],
-  [
-    "INFO",
-    "流泪的原因是……"
-  ],
-  [
-    "INFO",
-    "行动力和制动力"
-  ],
-  [
-    "INFO",
-    "怎么办？"
-  ],
-  [
-    "INFO",
-    "怎么办？？"
-  ],
-  [
-    "INFO",
-    "你好"
-  ],
-  [
-    "INFO",
-    "欢迎光临"
-  ],
-  [
-    "INFO",
-    "这就是食人教室！"
-  ],
-  [
-    "INFO",
-    "有时间吗"
-  ],
-  [
-    "INFO",
-    "是的，有"
-  ],
-  [
-    "INFO",
-    "现在，这附近。"
-  ],
-  [
-    "INFO",
-    "爆发力高水平"
-  ],
-  [
-    "INFO",
-    "决断力也高水平"
-  ],
-  [
-    "INFO",
-    "速读达人"
-  ],
-  [
-    "INFO",
-    "不好的想法"
-  ],
-  [
-    "INFO",
-    "钓上来的鱼很大"
-  ],
-  [
-    "INFO",
-    "温柔的超级男孩"
-  ],
-  [
-    "INFO",
-    "轻飘飘的超能力球"
-  ],
-  [
-    "INFO",
-    "试听会"
-  ],
-  [
-    "INFO",
-    "紧张感十足"
-  ],
-  [
-    "INFO",
-    "这叫做“约定”"
-  ],
-  [
-    "INFO",
-    "太过幸福而害怕　Ｐｔ．１"
-  ],
-  [
-    "INFO",
-    "懂得区别的女人"
-  ],
-  [
-    "INFO",
-    "ＦＬＯＷＥＲＳ"
-  ],
-  [
-    "INFO",
-    "魅惑的眨眼"
-  ],
-  [
-    "INFO",
-    "奶酪和老鼠相似的关系"
-  ],
-  [
-    "INFO",
-    "就像暗号一样"
-  ],
-  [
-    "INFO",
-    "稍微动一下"
-  ],
-  [
-    "INFO",
-    "寻求！　华丽的怪谈！"
-  ],
-  [
-    "INFO",
-    "感觉很好"
-  ],
-  [
-    "INFO",
-    "中奖也是算卦"
-  ],
-  [
-    "INFO",
-    "这也是运动服"
-  ],
-  [
-    "INFO",
-    "生存入门"
-  ],
-  [
-    "INFO",
-    "超级厨师长"
-  ],
-  [
-    "INFO",
-    "老师，是这样吗？"
-  ],
-  [
-    "INFO",
-    "终极的一串"
-  ],
-  [
-    "INFO",
-    "装置艺术"
-  ],
-  [
-    "INFO",
-    "团员尽得冥利"
-  ],
-  [
-    "INFO",
-    "对打扫的阿姨的感谢"
-  ],
-  [
-    "INFO",
-    "星空烤肉大会"
-  ],
-  [
-    "INFO",
-    "这也叫做“约定”"
-  ],
-  [
-    "INFO",
-    "想念妹妹……妹妹好重……"
-  ],
-  [
-    "INFO",
-    "无言的追随"
-  ],
-  [
-    "INFO",
-    "不是跟踪狂"
-  ],
-  [
-    "INFO",
-    "我不是跟踪狂啊"
-  ],
-  [
-    "INFO",
-    "探路者"
-  ],
-  [
-    "INFO",
-    "清爽的导游"
-  ],
-  [
-    "INFO",
-    "折叠椅魔法·１"
-  ],
-  [
-    "INFO",
-    "折叠椅魔法·２"
-  ],
-  [
-    "INFO",
-    "折叠椅魔法·多"
-  ],
-  [
-    "INFO",
-    "超校长的毕业典礼"
-  ],
-  [
-    "INFO",
-    "诶？"
-  ],
-  [
-    "INFO",
-    "呼"
-  ],
-  [
-    "INFO",
-    "船夫看起来很辛苦"
-  ],
-  [
-    "INFO",
-    "横波注意"
-  ],
-  [
-    "INFO",
-    "为了明天其１"
-  ],
-  [
-    "INFO",
-    "卓越的成果"
-  ],
-  [
-    "INFO",
-    "相声或腹语术"
-  ],
-  [
-    "INFO",
-    "图工的评价怎么样"
-  ],
-  [
-    "INFO",
-    "短暂的幸福"
-  ],
-  [
-    "INFO",
-    "夏天的烟火"
-  ],
-  [
-    "INFO",
-    "豪宅的庭院"
-  ],
-  [
-    "INFO",
-    "保养，保养，男孩子♪"
-  ],
-  [
-    "INFO",
-    "心情是海中探测队"
-  ],
-  [
-    "INFO",
-    "想问的背影"
-  ],
-  [
-    "INFO",
-    "告诉我这是个噱头"
-  ],
-  [
-    "INFO",
-    "门那边是……"
-  ],
-  [
-    "INFO",
-    "第一辅助！"
-  ],
-  [
-    "INFO",
-    "死心吧～"
-  ],
-  [
-    "INFO",
-    "死心？"
-  ],
-  [
-    "INFO",
-    "你这家伙啊。"
-  ],
-  [
-    "INFO",
-    "枪法好"
-  ],
-  [
-    "INFO",
-    "这可是勋章！"
-  ],
-  [
-    "INFO",
-    "花田的实现"
-  ],
-  [
-    "INFO",
-    "太过幸福而害怕　Ｐｔ．２"
-  ],
-  [
-    "INFO",
-    "这样的话就不怕了"
-  ],
-  [
-    "INFO",
-    "树去哪儿了？"
-  ],
-  [
-    "INFO",
-    "找到了"
-  ],
-  [
-    "INFO",
-    "怎么回事"
-  ],
-  [
-    "INFO",
-    "指导"
-  ],
-  [
-    "INFO",
-    "第５次的诚实！"
-  ],
-  [
-    "INFO",
-    "哎呀——"
-  ],
-  [
-    "INFO",
-    "感觉能看到红色的兜帽……"
-  ],
-  [
-    "INFO",
-    "知识分子"
-  ],
-  [
-    "INFO",
-    "引人注目的卡片"
-  ],
-  [
-    "INFO",
-    "还会有这种事吗"
-  ],
-  [
-    "INFO",
-    "眼神相通"
-  ],
-  [
-    "INFO",
-    "眼神相通……"
-  ],
-  [
-    "INFO",
-    "像橱窗一样"
-  ],
-  [
-    "INFO",
-    "早就打烊了"
-  ],
-  [
-    "INFO",
-    "这里是现场吗？"
-  ],
-  [
-    "INFO",
-    "凶行？　强行！"
-  ],
-  [
-    "INFO",
-    "魔法棋子"
-  ],
-  [
-    "INFO",
-    "无法无天的钥匙"
-  ],
-  [
-    "INFO",
-    "吵闹的创造女神"
-  ],
-  [
-    "INFO",
-    "漂亮吗？"
-  ],
-  [
-    "INFO",
-    "很漂亮啊"
-  ],
-  [
-    "INFO",
-    "那个女孩是谁？"
-  ],
-  [
-    "INFO",
-    "心情，斜４５度"
-  ],
-  [
-    "INFO",
-    "实玖瑠原画"
-  ],
-  [
-    "INFO",
-    "５个人聚在一起……开始！"
-  ],
-  [
-    "INFO",
-    "睡得好吗"
-  ],
-  [
-    "INFO",
-    "优秀叫醒电话"
-  ],
-  [
-    "INFO",
-    "普通叫醒电话"
-  ],
-  [
-    "INFO",
-    "劣质叫醒电话"
-  ],
-  [
-    "INFO",
-    "别起床，危险！"
-  ],
-  [
-    "INFO",
-    "起床了。危险！！"
-  ],
-  [
-    "INFO",
-    "猛烈爆裂　Ｐｔ．２"
-  ],
-  [
-    "INFO",
-    "遗憾的结果"
-  ],
-  [
-    "INFO",
-    "把那颗星星给你吧"
-  ],
-  [
-    "INFO",
-    "在目击到之前都是合宿"
-  ],
-  [
-    "INFO",
-    "现在在前方奔跑"
-  ],
-  [
-    "INFO",
-    "那就像阳炎一样"
-  ],
-  [
-    "INFO",
-    "梦幻还是虚幻"
-  ],
-  [
-    "INFO",
-    "新的早晨到来了"
-  ],
-  [
-    "INFO",
-    "那个夏天的回忆"
-  ],
-  [
-    "INFO",
-    "遗失物与拾起者"
-  ],
-  [
-    "INFO",
-    "团长大人的大演说"
-  ],
-  [
-    "INFO",
-    "团长大人的死刑宣告"
-  ],
-  [
-    "INFO",
-    "日常生活就这样继续下去"
-  ],
-  [
-    "INFO",
-    "“好，走吧！”"
-  ],
-  [
-    "INFO",
-    "“你不用了。”"
-  ],
-  [
-    "INFO",
-    "“这是禁止事项。”"
-  ],
-  [
-    "INFO",
-    "“…………”"
-  ],
-  [
-    "INFO",
-    "“什么？”"
-  ],
-  [
-    "INFO",
-    "“可以的话来下国际象棋吧。”"
-  ],
-  [
-    "INFO",
-    "“对不起，卖完了。”"
-  ],
-  [
-    "INFO",
-    "悲壮的决心"
-  ],
-  [
-    "INFO",
-    "没什么。"
-  ],
-  [
-    "INFO",
-    "日常工作"
-  ],
-  [
-    "INFO",
-    "收集所有春日话题"
-  ],
-  [
-    "INFO",
-    "收集所有实玖瑠话题"
-  ],
-  [
-    "INFO",
-    "收集所有长门话题"
-  ],
-  [
-    "INFO",
-    "收集所有古泉话题"
-  ],
-  [
-    "INFO",
-    "收集所有主要话题"
-  ],
-  [
-    "INFO",
-    "完成所有国际象棋问题"
-  ],
-  [
-    "INFO",
-    "一个夏天的一个画面"
-  ],
-  [
-    "INFO",
-    "谢谢你游玩游戏！"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "ｿ"
-  ]
+  {
+    "key": "dat_EXTRAS_0000",
+    "original": "今日も最高！",
+    "translation": "今天也超棒！",
+    "context": "INFO\n\n**翻译辅助**：\n\n今天也超棒！\n\n今天也是最棒的！"
+  },
+  {
+    "key": "dat_EXTRAS_0001",
+    "original": "いつもの歩調",
+    "translation": "一如往常的步调",
+    "context": "INFO\n\n**翻译辅助**：\n\n一如往常的步调\n\n平常的步伐\n\n一贯的步调"
+  },
+  {
+    "key": "dat_EXTRAS_0002",
+    "original": "いまここにある平和",
+    "translation": "此时此地的和平",
+    "context": "INFO\n\n**翻译辅助**：\n\n此时此地的和平\n\n现在这里的和平"
+  },
+  {
+    "key": "dat_EXTRAS_0003",
+    "original": "マックスリラックス",
+    "translation": "最大放松",
+    "context": "INFO\n\n**翻译辅助**：\n\n彻底放松\n\n马克斯放松\n\n最大松弛"
+  },
+  {
+    "key": "dat_EXTRAS_0004",
+    "original": "超直線的行動力",
+    "translation": "超直线的行动力",
+    "context": "INFO\n\n**翻译辅助**：\n\n超直线的行动力\n\n超线性行动力"
+  },
+  {
+    "key": "dat_EXTRAS_0005",
+    "original": "ホントのところ",
+    "translation": "真正的想法",
+    "context": "INFO\n\n**翻译辅助**：\n\n真正的想法\n\n真正的地方"
+  },
+  {
+    "key": "dat_EXTRAS_0006",
+    "original": "かくして俺は馬鹿を見る",
+    "translation": "就这样我傻眼了",
+    "context": "INFO\n\n**翻译辅助**：\n\n于是我看傻了眼\n\n我就这样看着笨蛋\n\n于是我就傻眼了"
+  },
+  {
+    "key": "dat_EXTRAS_0007",
+    "original": "緊迫",
+    "translation": "紧迫",
+    "context": "INFO\n\n**翻译辅助**：\n\n紧迫"
+  },
+  {
+    "key": "dat_EXTRAS_0008",
+    "original": "ミステリーのはじまり",
+    "translation": "神秘事件的开始",
+    "context": "INFO\n\n**翻译辅助**：\n\n推理小说的开端\n\n推理小说的开始\n\n推理的开始"
+  },
+  {
+    "key": "dat_EXTRAS_0009",
+    "original": "彼女の受難",
+    "translation": "她的苦难",
+    "context": "INFO\n\n**翻译辅助**：\n\n她的苦难\n\n她的受难"
+  },
+  {
+    "key": "dat_EXTRAS_0010",
+    "original": "徒労は絶えない",
+    "translation": "徒劳无功",
+    "context": "INFO\n\n**翻译辅助**：\n\n徒劳无功\n\n徒劳不断"
+  },
+  {
+    "key": "dat_EXTRAS_0011",
+    "original": "ホワイトデイドリーム",
+    "translation": "白色情人节之梦",
+    "context": "INFO\n\n**翻译辅助**：\n\n白色情人节之梦\n\n白日梦"
+  },
+  {
+    "key": "dat_EXTRAS_0012",
+    "original": "未完のソナタ",
+    "translation": "未完的奏鸣曲",
+    "context": "INFO\n\n**翻译辅助**：\n\n未完的奏鸣曲\n\n未完成的奏鸣曲"
+  },
+  {
+    "key": "dat_EXTRAS_0013",
+    "original": "静かに密かに",
+    "translation": "静静地、悄悄地",
+    "context": "INFO\n\n**翻译辅助**：\n\n静静地、悄悄地\n\n安静而隐秘地\n\n静静地悄悄地"
+  },
+  {
+    "key": "dat_EXTRAS_0014",
+    "original": "苦労の宿命",
+    "translation": "辛苦的宿命",
+    "context": "INFO\n\n**翻译辅助**：\n\n辛苦的宿命"
+  },
+  {
+    "key": "dat_EXTRAS_0015",
+    "original": "俺は悪くない",
+    "translation": "我没有错",
+    "context": "INFO\n\n**翻译辅助**：\n\n我没有错\n\n我不坏"
+  },
+  {
+    "key": "dat_EXTRAS_0016",
+    "original": "最終大清掃",
+    "translation": "最终大扫除",
+    "context": "INFO\n\n**翻译辅助**：\n\n最终大扫除\n\n最终大清扫\n\n最后的大清扫"
+  },
+  {
+    "key": "dat_EXTRAS_0017",
+    "original": "ギリギリ",
+    "translation": "极限",
+    "context": "INFO\n\n**翻译辅助**：\n\n极限\n\n勉强"
+  },
+  {
+    "key": "dat_EXTRAS_0018",
+    "original": "なせばなる",
+    "translation": "功夫不负有心人",
+    "context": "INFO\n\n**翻译辅助**：\n\n有志者事竟成\n\n若有若无\n\n必须"
+  },
+  {
+    "key": "dat_EXTRAS_0019",
+    "original": "なさねばならぬ",
+    "translation": "事在人为",
+    "context": "INFO\n\n**翻译辅助**：\n\n非做不可\n\n必须做\n\n必须"
+  },
+  {
+    "key": "dat_EXTRAS_0020",
+    "original": "大物は、遅れて登場",
+    "translation": "大人物姗姗来迟",
+    "context": "INFO\n\n**翻译辅助**：\n\n大人物姗姗来迟\n\n大人物晚点登场"
+  },
+  {
+    "key": "dat_EXTRAS_0021",
+    "original": "変わりない花顔",
+    "translation": "不变的花容",
+    "context": "INFO\n\n**翻译辅助**：\n\n不变的花容\n\n不变的花脸"
+  },
+  {
+    "key": "dat_EXTRAS_0022",
+    "original": "変わりない真顔",
+    "translation": "不变的正经脸",
+    "context": "INFO\n\n**翻译辅助**：\n\n不变的正经脸\n\n不变的严肃脸\n\n不变的真面目"
+  },
+  {
+    "key": "dat_EXTRAS_0023",
+    "original": "変わりない厚顔",
+    "translation": "不变的厚脸皮",
+    "context": "INFO\n\n**翻译辅助**：\n\n不变的厚脸皮\n\n不变的厚颜"
+  },
+  {
+    "key": "dat_EXTRAS_0024",
+    "original": "そろったところで報告会",
+    "translation": "到齐之后的报告会",
+    "context": "INFO\n\n**翻译辅助**：\n\n到齐之后的报告会\n\n在到齐的地方开报告会\n\n在统一的地方召开报告会"
+  },
+  {
+    "key": "dat_EXTRAS_0025",
+    "original": "猛烈爆裂",
+    "translation": "猛烈爆裂",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0026",
+    "original": "指の圧力と書いて「指圧」",
+    "translation": "写作手指压力的“指压”",
+    "context": "INFO\n\n**翻译辅助**：\n\n手指的压力与“指压”\n\n写为手指压力的“指压”\n\n写着手指的压力“指压”"
+  },
+  {
+    "key": "dat_EXTRAS_0027",
+    "original": "そこに地面はあるのかい？",
+    "translation": "那里有地面吗？",
+    "context": "INFO\n\n**翻译辅助**：\n\n那里有地面吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0028",
+    "original": "あるはずのない、あるもの",
+    "translation": "不可能有的、却有的东西",
+    "context": "INFO\n\n**翻译辅助**：\n\n不可能有的、却有的东西\n\n不应该有的东西\n\n不可能有的东西"
+  },
+  {
+    "key": "dat_EXTRAS_0029",
+    "original": "はじめます",
+    "translation": "开始",
+    "context": "INFO\n\n**翻译辅助**：\n\n开始\n\n开始。\n\n开始，开始"
+  },
+  {
+    "key": "dat_EXTRAS_0030",
+    "original": "足の使い方",
+    "translation": "脚的使用方式",
+    "context": "INFO\n\n**翻译辅助**：\n\n脚的使用方式\n\n脚的使用方法"
+  },
+  {
+    "key": "dat_EXTRAS_0031",
+    "original": "正統派リアクション",
+    "translation": "正统派反应",
+    "context": "INFO\n\n**翻译辅助**：\n\n正统派反应"
+  },
+  {
+    "key": "dat_EXTRAS_0032",
+    "original": "睡眠学習ノススメ",
+    "translation": "睡眠学习的推荐",
+    "context": "INFO\n\n**翻译辅助**：\n\n睡眠学习法推荐\n\n睡眠学习\n\n睡眠学习的推荐"
+  },
+  {
+    "key": "dat_EXTRAS_0033",
+    "original": "涙の訳は……",
+    "translation": "流泪的原因是……",
+    "context": "INFO\n\n**翻译辅助**：\n\n流泪的原因……\n\n眼泪的原因是……"
+  },
+  {
+    "key": "dat_EXTRAS_0034",
+    "original": "行動力と制動力",
+    "translation": "行动力与制动力",
+    "context": "INFO\n\n**翻译辅助**：\n\n行动力与制动力\n\n行动力和制动力"
+  },
+  {
+    "key": "dat_EXTRAS_0035",
+    "original": "どうする？",
+    "translation": "怎么办？",
+    "context": "INFO\n\n**翻译辅助**：\n\n怎么办？"
+  },
+  {
+    "key": "dat_EXTRAS_0036",
+    "original": "どうするッ？？",
+    "translation": "怎么办？？？",
+    "context": "INFO\n\n**翻译辅助**：\n\n怎么办？？？\n\n怎么办？？"
+  },
+  {
+    "key": "dat_EXTRAS_0037",
+    "original": "こんにちは",
+    "translation": "午安",
+    "context": "INFO\n\n**翻译辅助**：\n\n午安\n\n你好\n\n你好，先生"
+  },
+  {
+    "key": "dat_EXTRAS_0038",
+    "original": "いらっしゃい",
+    "translation": "欢迎光临",
+    "context": "INFO\n\n**翻译辅助**：\n\n欢迎光临"
+  },
+  {
+    "key": "dat_EXTRAS_0039",
+    "original": "これがっ人喰い教室だっ！",
+    "translation": "这就是食人教室！",
+    "context": "INFO\n\n**翻译辅助**：\n\n这就是食人教室！"
+  },
+  {
+    "key": "dat_EXTRAS_0040",
+    "original": "ちょっとお時間ありますか",
+    "translation": "可以占用一点时间吗？",
+    "context": "INFO\n\n**翻译辅助**：\n\n可以占用一点时间吗？\n\n有时间吗\n\n您有时间吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0041",
+    "original": "はい、あーん",
+    "translation": "是的，有",
+    "context": "INFO\n\n**翻译辅助**：\n\n来，啊——\n\n是的，啊\n\n是的，嗯"
+  },
+  {
+    "key": "dat_EXTRAS_0042",
+    "original": "いま、このあたり。",
+    "translation": "现在、这一带。",
+    "context": "INFO\n\n**翻译辅助**：\n\n现在、这一带。\n\n现在，这附近。\n\n现在就在这附近。"
+  },
+  {
+    "key": "dat_EXTRAS_0043",
+    "original": "瞬発力ハイレベル",
+    "translation": "爆发力高水平",
+    "context": "INFO\n\n**翻译辅助**：\n\n高水平的瞬间爆发力\n\n爆发力高电平\n\n爆发力高"
+  },
+  {
+    "key": "dat_EXTRAS_0044",
+    "original": "決断力もハイレベル",
+    "translation": "决断力也高水平",
+    "context": "INFO\n\n**翻译辅助**：\n\n高水平的决断力\n\n决断力也很高"
+  },
+  {
+    "key": "dat_EXTRAS_0045",
+    "original": "斜め読みの達人",
+    "translation": "速读达人",
+    "context": "INFO\n\n**翻译辅助**：\n\n斜读的高手\n\n斜读的达人\n\n斜读达人"
+  },
+  {
+    "key": "dat_EXTRAS_0046",
+    "original": "良からぬ閃き",
+    "translation": "不好的想法",
+    "context": "INFO\n\n**翻译辅助**：\n\n不好的灵感\n\n不好的闪现\n\n不好的想法"
+  },
+  {
+    "key": "dat_EXTRAS_0047",
+    "original": "釣られた魚は大きいぞ",
+    "translation": "钓上来的鱼很大",
+    "context": "INFO\n\n**翻译辅助**：\n\n上钩的鱼可大了\n\n钓上来的鱼可大了\n\n钓上来的鱼好大"
+  },
+  {
+    "key": "dat_EXTRAS_0048",
+    "original": "やんわりエスパーボーイ",
+    "translation": "温和的超能力男孩",
+    "context": "INFO\n\n**翻译辅助**：\n\n温和的超能力男孩\n\n温柔的超级男孩\n\n温柔的男人"
+  },
+  {
+    "key": "dat_EXTRAS_0049",
+    "original": "ふんわりエスパーボール",
+    "translation": "轻飘飘的超能力球",
+    "context": "INFO\n\n**翻译辅助**：\n\n轻飘飘的超能力球\n\n柔软的十一人球"
+  },
+  {
+    "key": "dat_EXTRAS_0050",
+    "original": "試聴会",
+    "translation": "试听会",
+    "context": "INFO\n\n**翻译辅助**：\n\n试听会"
+  },
+  {
+    "key": "dat_EXTRAS_0051",
+    "original": "緊張感たっぷり",
+    "translation": "充满紧张感",
+    "context": "INFO\n\n**翻译辅助**：\n\n充满紧张感\n\n紧张感十足"
+  },
+  {
+    "key": "dat_EXTRAS_0052",
+    "original": "これを「お約束」という",
+    "translation": "这就是“老套”",
+    "context": "INFO\n\n**翻译辅助**：\n\n这就是“老套”\n\n这叫做“约定”\n\n这就是“约定”"
+  },
+  {
+    "key": "dat_EXTRAS_0053",
+    "original": "幸せすぎて恐い　Ｐｔ．１",
+    "translation": "太过幸福而害怕　Ｐｔ．１",
+    "context": "INFO\n\n**翻译辅助**：\n\n幸福到恐怖 Pt.1\n\n太过幸福而害怕的Pt.1\n\n太幸福太可怕了Pt . 1"
+  },
+  {
+    "key": "dat_EXTRAS_0054",
+    "original": "違いのわかる女",
+    "translation": "懂得分辨差异的女人",
+    "context": "INFO\n\n**翻译辅助**：\n\n懂得分辨差异的女人\n\n懂得区别的女人"
+  },
+  {
+    "key": "dat_EXTRAS_0055",
+    "original": "ＦＬＯＷＥＲＳ",
+    "translation": "FLOWERS",
+    "context": "INFO\n\n**翻译辅助**：\n\nFLOWERS"
+  },
+  {
+    "key": "dat_EXTRAS_0056",
+    "original": "魅惑のウィンク",
+    "translation": "魅惑的眨眼",
+    "context": "INFO\n\n**翻译辅助**：\n\n魅惑的眨眼"
+  },
+  {
+    "key": "dat_EXTRAS_0057",
+    "original": "チーズとネズミに似た関係",
+    "translation": "类似芝士与老鼠的关系",
+    "context": "INFO\n\n**翻译辅助**：\n\n类似芝士与老鼠的关系\n\n奶酪和老鼠相似的关系\n\n类似奶酪和老鼠的关系"
+  },
+  {
+    "key": "dat_EXTRAS_0058",
+    "original": "暗号さながら",
+    "translation": "宛如暗号",
+    "context": "INFO\n\n**翻译辅助**：\n\n宛如暗号\n\n就像暗号一样\n\n宛如暗号一般"
+  },
+  {
+    "key": "dat_EXTRAS_0059",
+    "original": "ちょろっといっちょやる",
+    "translation": "稍微动一下",
+    "context": "INFO\n\n**翻译辅助**：\n\n稍微来一下\n\n稍微干一下\n\n稍微动一下"
+  },
+  {
+    "key": "dat_EXTRAS_0060",
+    "original": "求む！　ハデな怪談！",
+    "translation": "寻求！　华丽的怪谈！",
+    "context": "INFO\n\n**翻译辅助**：\n\n求！华丽的鬼故事！\n\n寻求！哈德的怪谈！\n\n求！华丽的怪谈！"
+  },
+  {
+    "key": "dat_EXTRAS_0061",
+    "original": "なにかいい感じ",
+    "translation": "感觉不错",
+    "context": "INFO\n\n**翻译辅助**：\n\n感觉不错\n\n感觉很好\n\n有种不错的感觉"
+  },
+  {
+    "key": "dat_EXTRAS_0062",
+    "original": "当たるも八卦",
+    "translation": "中奖也是算卦",
+    "context": "INFO\n\n**翻译辅助**：\n\n算命也要看对象\n\n算卦\n\n正经八卦"
+  },
+  {
+    "key": "dat_EXTRAS_0063",
+    "original": "これもユニフォーム",
+    "translation": "这也是制服",
+    "context": "INFO\n\n**翻译辅助**：\n\n这也是制服\n\n这也是运动服"
+  },
+  {
+    "key": "dat_EXTRAS_0064",
+    "original": "サバイバル入門",
+    "translation": "野外求生入门",
+    "context": "INFO\n\n**翻译辅助**：\n\n野外求生入门\n\n生存入门"
+  },
+  {
+    "key": "dat_EXTRAS_0065",
+    "original": "超料理長",
+    "translation": "超主厨",
+    "context": "INFO\n\n**翻译辅助**：\n\n超主厨\n\n超级厨师长"
+  },
+  {
+    "key": "dat_EXTRAS_0066",
+    "original": "先生、こうですか？",
+    "translation": "老师，是这样吗？",
+    "context": "INFO\n\n**翻译辅助**：\n\n老师，这样对吗？\n\n老师，这样吗？\n\n老师，是这样吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0067",
+    "original": "究極のひと串",
+    "translation": "究极的一串",
+    "context": "INFO\n\n**翻译辅助**：\n\n究极的一串\n\n终极的一串\n\n终极一串"
+  },
+  {
+    "key": "dat_EXTRAS_0068",
+    "original": "インスタレーション",
+    "translation": "安装",
+    "context": "INFO\n\n**翻译辅助**：\n\n安装\n\n装置艺术\n\n装置，装置"
+  },
+  {
+    "key": "dat_EXTRAS_0069",
+    "original": "団員冥利に尽きる",
+    "translation": "团员的福气",
+    "context": "INFO\n\n**翻译辅助**：\n\n团员的福气\n\n团员尽得冥利\n\n团员无上光荣"
+  },
+  {
+    "key": "dat_EXTRAS_0070",
+    "original": "掃除のおばちゃんへの感謝",
+    "translation": "感谢打扫阿姨",
+    "context": "INFO\n\n**翻译辅助**：\n\n感谢打扫阿姨\n\n对打扫的阿姨的感谢"
+  },
+  {
+    "key": "dat_EXTRAS_0071",
+    "original": "星空のバーベキュー大会",
+    "translation": "星空烤肉大会",
+    "context": "INFO\n\n**翻译辅助**：\n\n星空烤肉大会"
+  },
+  {
+    "key": "dat_EXTRAS_0072",
+    "original": "これも「お約束」という",
+    "translation": "这也是“老套”",
+    "context": "INFO\n\n**翻译辅助**：\n\n这也是“老套”\n\n这也叫做“约定”\n\n这也叫“约定”"
+  },
+  {
+    "key": "dat_EXTRAS_0073",
+    "original": "妹思い……妹重い……",
+    "translation": "想念妹妹……妹妹好重……",
+    "context": "INFO\n\n**翻译辅助**：\n\n为妹妹着想……妹妹很重……\n\n妹妹思念……妹妹沉重……\n\n想念妹妹……妹妹重……"
+  },
+  {
+    "key": "dat_EXTRAS_0074",
+    "original": "無言の追従",
+    "translation": "无言的追随",
+    "context": "INFO\n\n**翻译辅助**：\n\n无言的追随"
+  },
+  {
+    "key": "dat_EXTRAS_0075",
+    "original": "ストーカーではない",
+    "translation": "我不是跟踪狂",
+    "context": "INFO\n\n**翻译辅助**：\n\n我不是跟踪狂\n\n不是跟踪狂"
+  },
+  {
+    "key": "dat_EXTRAS_0076",
+    "original": "ストーカーではないよ",
+    "translation": "我不是跟踪狂啊",
+    "context": "INFO\n\n**翻译辅助**：\n\n我不是跟踪狂哦\n\n我不是跟踪狂。\n\n我不是跟踪狂"
+  },
+  {
+    "key": "dat_EXTRAS_0077",
+    "original": "パスファインダー",
+    "translation": "探路者",
+    "context": "INFO\n\n**翻译辅助**：\n\n密码\n\n路径查找器\n\n探路者"
+  },
+  {
+    "key": "dat_EXTRAS_0078",
+    "original": "爽やかガイド",
+    "translation": "爽朗的向导",
+    "context": "INFO\n\n**翻译辅助**：\n\n爽朗的向导\n\n清爽的导游\n\n清爽的向导"
+  },
+  {
+    "key": "dat_EXTRAS_0079",
+    "original": "パイプ椅子マジック・１",
+    "translation": "折叠椅魔法·１",
+    "context": "INFO\n\n**翻译辅助**：\n\n钢管椅魔术·1\n\n管椅魔术1\n\n折叠椅魔法1"
+  },
+  {
+    "key": "dat_EXTRAS_0080",
+    "original": "パイプ椅子マジック・２",
+    "translation": "折叠椅魔法·２",
+    "context": "INFO\n\n**翻译辅助**：\n\n钢管椅魔术·2\n\n管椅魔术2\n\n折叠椅魔法2"
+  },
+  {
+    "key": "dat_EXTRAS_0081",
+    "original": "パイプ椅子マジック・多",
+    "translation": "折叠椅魔法·多",
+    "context": "INFO\n\n**翻译辅助**：\n\n钢管椅魔术·多\n\n管椅魔术多\n\n折叠椅魔术多"
+  },
+  {
+    "key": "dat_EXTRAS_0082",
+    "original": "超校長の卒業式",
+    "translation": "超校长的毕业典礼",
+    "context": "INFO\n\n**翻译辅助**：\n\n超校长的毕业典礼"
+  },
+  {
+    "key": "dat_EXTRAS_0083",
+    "original": "え？",
+    "translation": "咦？",
+    "context": "INFO\n\n**翻译辅助**：\n\n咦？\n\n诶？\n\n呃？"
+  },
+  {
+    "key": "dat_EXTRAS_0084",
+    "original": "フッ",
+    "translation": "呼",
+    "context": "INFO\n\n**翻译辅助**：\n\n呵。\n\n挂钩\n\n氟"
+  },
+  {
+    "key": "dat_EXTRAS_0085",
+    "original": "船頭さんは大変そうだ",
+    "translation": "船长好像很辛苦。",
+    "context": "INFO\n\n**翻译辅助**：\n\n船长好像很辛苦。\n\n船夫看起来很辛苦"
+  },
+  {
+    "key": "dat_EXTRAS_0086",
+    "original": "横波注意",
+    "translation": "注意横波。",
+    "context": "INFO\n\n**翻译辅助**：\n\n注意横波。\n\n横波注意"
+  },
+  {
+    "key": "dat_EXTRAS_0087",
+    "original": "明日のためのその１",
+    "translation": "为了明天其１",
+    "context": "INFO\n\n**翻译辅助**：\n\n为了明天的那件事1\n\n为了明天的那个1\n\n为了明天的一件事"
+  },
+  {
+    "key": "dat_EXTRAS_0088",
+    "original": "見事な成果",
+    "translation": "漂亮的成果",
+    "context": "INFO\n\n**翻译辅助**：\n\n漂亮的成果\n\n卓越的成果\n\n出色的成果"
+  },
+  {
+    "key": "dat_EXTRAS_0089",
+    "original": "漫才あるいは腹話術",
+    "translation": "相声或腹语术",
+    "context": "INFO\n\n**翻译辅助**：\n\n相声或腹语术\n\n相声或腹语"
+  },
+  {
+    "key": "dat_EXTRAS_0090",
+    "original": "図工の評価はどうだったか",
+    "translation": "美劳的评价如何？",
+    "context": "INFO\n\n**翻译辅助**：\n\n美劳的评价如何？\n\n图工的评价怎么样\n\n美工的评价如何？"
+  },
+  {
+    "key": "dat_EXTRAS_0091",
+    "original": "束の間の幸福",
+    "translation": "短暂的幸福",
+    "context": "INFO\n\n**翻译辅助**：\n\n短暂的幸福"
+  },
+  {
+    "key": "dat_EXTRAS_0092",
+    "original": "夏は花火",
+    "translation": "夏天的烟火",
+    "context": "INFO\n\n**翻译辅助**：\n\n夏天的烟火\n\n夏天放烟花"
+  },
+  {
+    "key": "dat_EXTRAS_0093",
+    "original": "豪邸の庭",
+    "translation": "豪宅的庭院",
+    "context": "INFO\n\n**翻译辅助**：\n\n豪宅的庭院"
+  },
+  {
+    "key": "dat_EXTRAS_0094",
+    "original": "保養、保養、男の子♪",
+    "translation": "休养、休养，男生♪",
+    "context": "INFO\n\n**翻译辅助**：\n\n休养、休养，男生♪\n\n保养，保养，男孩子♪\n\n保养，保养，男孩♪"
+  },
+  {
+    "key": "dat_EXTRAS_0095",
+    "original": "気分は海中探査隊",
+    "translation": "心情像海底探险队",
+    "context": "INFO\n\n**翻译辅助**：\n\n心情像海底探险队\n\n心情是海中探测队\n\n心情是海底勘探队"
+  },
+  {
+    "key": "dat_EXTRAS_0096",
+    "original": "問いたい背中",
+    "translation": "想问的背影",
+    "context": "INFO\n\n**翻译辅助**：\n\n想问的背影"
+  },
+  {
+    "key": "dat_EXTRAS_0097",
+    "original": "ギャグだと言ってくれ",
+    "translation": "说是搞笑吧。",
+    "context": "INFO\n\n**翻译辅助**：\n\n说是搞笑吧。\n\n告诉我这是个噱头\n\n你就说这是笑话"
+  },
+  {
+    "key": "dat_EXTRAS_0098",
+    "original": "ドアの向こうは……",
+    "translation": "门的另一边……",
+    "context": "INFO\n\n**翻译辅助**：\n\n门的另一边……\n\n门那边是……\n\n门的对面是……"
+  },
+  {
+    "key": "dat_EXTRAS_0099",
+    "original": "ファーストエイド！",
+    "translation": "急救！",
+    "context": "INFO\n\n**翻译辅助**：\n\n急救！\n\n第一辅助！\n\nfirst aid ！"
+  },
+  {
+    "key": "dat_EXTRAS_0100",
+    "original": "観念しな～",
+    "translation": "死心吧～",
+    "context": "INFO\n\n**翻译辅助**：\n\n认命吧～\n\n没有观念\n\n观念吧～"
+  },
+  {
+    "key": "dat_EXTRAS_0101",
+    "original": "観念？",
+    "translation": "死心？",
+    "context": "INFO\n\n**翻译辅助**：\n\n认命？你说谁？\n\n观念？"
+  },
+  {
+    "key": "dat_EXTRAS_0102",
+    "original": "おまえが、な。",
+    "translation": "你这家伙啊。",
+    "context": "INFO\n\n**翻译辅助**：\n\n就是你啊。\n\n你啊。\n\n你，什么？"
+  },
+  {
+    "key": "dat_EXTRAS_0103",
+    "original": "撃ち方よーい",
+    "translation": "枪法好",
+    "context": "INFO\n\n**翻译辅助**：\n\n预备，射击！\n\n射击方法\n\n枪法好"
+  },
+  {
+    "key": "dat_EXTRAS_0104",
+    "original": "勲章ものだぞ！",
+    "translation": "这可是勋章！",
+    "context": "INFO\n\n**翻译辅助**：\n\n勋章级的！\n\n勋章啊！\n\n这可是勋章！"
+  },
+  {
+    "key": "dat_EXTRAS_0105",
+    "original": "お花畑の実現",
+    "translation": "花园的实现",
+    "context": "INFO\n\n**翻译辅助**：\n\n花园的实现\n\n花田的实现\n\n花圃的实现"
+  },
+  {
+    "key": "dat_EXTRAS_0106",
+    "original": "幸せすぎて恐い　Ｐｔ．２",
+    "translation": "太过幸福而害怕　Ｐｔ．２",
+    "context": "INFO\n\n**翻译辅助**：\n\n幸福到恐怖 Pt.2\n\n太过幸福而害怕的Pt.2\n\n太幸福太可怕了Pt . 2"
+  },
+  {
+    "key": "dat_EXTRAS_0107",
+    "original": "これなら怖くない",
+    "translation": "这样就不怕了。",
+    "context": "INFO\n\n**翻译辅助**：\n\n这样就不怕了。\n\n这样的话就不怕了\n\n这样就不怕了"
+  },
+  {
+    "key": "dat_EXTRAS_0108",
+    "original": "木はどこに行った？",
+    "translation": "树到哪里去了？",
+    "context": "INFO\n\n**翻译辅助**：\n\n树到哪里去了？\n\n树去哪儿了？\n\n树去哪里了？"
+  },
+  {
+    "key": "dat_EXTRAS_0109",
+    "original": "見ーつけた",
+    "translation": "找到了！",
+    "context": "INFO\n\n**翻译辅助**：\n\n找到了！\n\n找到了"
+  },
+  {
+    "key": "dat_EXTRAS_0110",
+    "original": "なんてこったい",
+    "translation": "怎么回事",
+    "context": "INFO\n\n**翻译辅助**：\n\n我的天啊。\n\n多么固体\n\n怎么回事"
+  },
+  {
+    "key": "dat_EXTRAS_0111",
+    "original": "チチェローネ",
+    "translation": "指导",
+    "context": "INFO\n\n**翻译辅助**：\n\n奇切罗内\n\n契切罗尼"
+  },
+  {
+    "key": "dat_EXTRAS_0112",
+    "original": "５度目の正直！",
+    "translation": "第５次的诚实！",
+    "context": "INFO\n\n**翻译辅助**：\n\n第五次的坚持！\n\n第5次的正直！\n\n第5次诚实！"
+  },
+  {
+    "key": "dat_EXTRAS_0113",
+    "original": "はてさてんっんー",
+    "translation": "哎呀——",
+    "context": "INFO\n\n**翻译辅助**：\n\n嘿呀呀呀呀\n\n海特萨丁\n\n哎呀哎呀"
+  },
+  {
+    "key": "dat_EXTRAS_0114",
+    "original": "赤いフードが見える気が…",
+    "translation": "好像看到红色兜帽了……",
+    "context": "INFO\n\n**翻译辅助**：\n\n好像看到红色兜帽了……\n\n感觉能看到红色的兜帽……\n\n感觉能看到红色的食物……"
+  },
+  {
+    "key": "dat_EXTRAS_0115",
+    "original": "インテレクチュアル",
+    "translation": "知识分子",
+    "context": "INFO\n\n**翻译辅助**：\n\n知性派\n\n绝缘\n\nintreculture"
+  },
+  {
+    "key": "dat_EXTRAS_0116",
+    "original": "注目のカード",
+    "translation": "引人注目的卡片",
+    "context": "INFO\n\n**翻译辅助**：\n\n注目卡\n\n关注的卡片\n\n引人注目的卡片"
+  },
+  {
+    "key": "dat_EXTRAS_0117",
+    "original": "こんなこともあろうかと",
+    "translation": "还会有这种事吗",
+    "context": "INFO\n\n**翻译辅助**：\n\n早知道会这样\n\n这样的事\n\n还会有这种事吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0118",
+    "original": "目と目で通じ合う",
+    "translation": "眼神相通",
+    "context": "INFO\n\n**翻译辅助**：\n\n就用眼神沟通了\n\n眼睛和眼睛相通\n\n眼神相通"
+  },
+  {
+    "key": "dat_EXTRAS_0119",
+    "original": "目と目で通じ合……",
+    "translation": "眼神相通……",
+    "context": "INFO\n\n**翻译辅助**：\n\n就用眼神沟通……\n\n眼睛和眼睛相通……"
+  },
+  {
+    "key": "dat_EXTRAS_0120",
+    "original": "ショーウィンドウさながら",
+    "translation": "橱窗",
+    "context": "INFO\n\n**翻译辅助**：\n\n橱窗\n\n像橱窗一样"
+  },
+  {
+    "key": "dat_EXTRAS_0121",
+    "original": "早くも店じまい",
+    "translation": "早早关店",
+    "context": "INFO\n\n**翻译辅助**：\n\n早早关店\n\n早就打烊了\n\n早早打烊"
+  },
+  {
+    "key": "dat_EXTRAS_0122",
+    "original": "ここが現場ですか",
+    "translation": "这里就是现场吗",
+    "context": "INFO\n\n**翻译辅助**：\n\n这里就是现场吗\n\n这里是现场吗？\n\n这是现场吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0123",
+    "original": "凶行？　強行！",
+    "translation": "凶行？　强行！",
+    "context": "INFO\n\n**翻译辅助**：\n\n凶行？强行！\n\n行凶？强行！"
+  },
+  {
+    "key": "dat_EXTRAS_0124",
+    "original": "魔法の駒",
+    "translation": "魔法棋子",
+    "context": "INFO\n\n**翻译辅助**：\n\n魔法棋子\n\n魔法之驹"
+  },
+  {
+    "key": "dat_EXTRAS_0125",
+    "original": "無法の鍵",
+    "translation": "无法之钥",
+    "context": "INFO\n\n**翻译辅助**：\n\n无法之钥\n\n无法无天的钥匙\n\n无法的钥匙"
+  },
+  {
+    "key": "dat_EXTRAS_0126",
+    "original": "騒々しい創造の女神",
+    "translation": "吵闹的创造女神",
+    "context": "INFO\n\n**翻译辅助**：\n\n吵闹的创造女神\n\n喧闹的创世女神"
+  },
+  {
+    "key": "dat_EXTRAS_0127",
+    "original": "きれい？",
+    "translation": "漂亮吗？",
+    "context": "INFO\n\n**翻译辅助**：\n\n漂亮吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0128",
+    "original": "きれいだよ",
+    "translation": "漂亮啊",
+    "context": "INFO\n\n**翻译辅助**：\n\n漂亮啊\n\n很漂亮啊\n\n很漂亮"
+  },
+  {
+    "key": "dat_EXTRAS_0129",
+    "original": "ちょっとそのコ誰よ？",
+    "translation": "那个女生是谁？",
+    "context": "INFO\n\n**翻译辅助**：\n\n那个女生是谁？\n\n那个女孩是谁？\n\n喂，这孩子是谁啊？"
+  },
+  {
+    "key": "dat_EXTRAS_0130",
+    "original": "ご機嫌、斜め４５度",
+    "translation": "心情倾斜45度",
+    "context": "INFO\n\n**翻译辅助**：\n\n心情倾斜45度\n\n心情，斜45度\n\n心情，倾斜45度"
+  },
+  {
+    "key": "dat_EXTRAS_0131",
+    "original": "みっくるげんがー",
+    "translation": "实玖瑠原画",
+    "context": "INFO\n\n**翻译辅助**：\n\n四度元气\n\n米克尔根格\n\n紧密"
+  },
+  {
+    "key": "dat_EXTRAS_0132",
+    "original": "５人揃ってゴ……ゴー！",
+    "translation": "５个人聚在一起……开始！",
+    "context": "INFO\n\n**翻译辅助**：\n\n5人到齐G……GO！\n\n5个人聚在一起……果！\n\n五个人一起来……开始！"
+  },
+  {
+    "key": "dat_EXTRAS_0133",
+    "original": "ぐっすり眠れるだろうか",
+    "translation": "睡得好吗",
+    "context": "INFO\n\n**翻译辅助**：\n\n能睡得安稳吗\n\n能睡得香甜吗？\n\n睡得好吗？"
+  },
+  {
+    "key": "dat_EXTRAS_0134",
+    "original": "グッドモーニングコール",
+    "translation": "优秀叫醒电话",
+    "context": "INFO\n\n**翻译辅助**：\n\nGood morning call\n\n叫醒服务\n\n早安呼叫"
+  },
+  {
+    "key": "dat_EXTRAS_0135",
+    "original": "フラットモーニングコール",
+    "translation": "普通叫醒电话",
+    "context": "INFO\n\n**翻译辅助**：\n\nFlat morning call\n\n平板morning call\n\n平板叫醒服务"
+  },
+  {
+    "key": "dat_EXTRAS_0136",
+    "original": "バッドモーニングコール",
+    "translation": "劣质叫醒电话",
+    "context": "INFO\n\n**翻译辅助**：\n\nBad morning call\n\n巴德叫醒服务\n\n坏帐呼叫"
+  },
+  {
+    "key": "dat_EXTRAS_0137",
+    "original": "起こすな危険！",
+    "translation": "别起床，危险！",
+    "context": "INFO\n\n**翻译辅助**：\n\n别叫醒我危险！\n\n危险！\n\n别叫醒我，危险！"
+  },
+  {
+    "key": "dat_EXTRAS_0138",
+    "original": "起きた。危険！！",
+    "translation": "起床。危险！！",
+    "context": "INFO\n\n**翻译辅助**：\n\n起床。危险！！\n\n起床了。危险！！\n\n起来了。危险！！"
+  },
+  {
+    "key": "dat_EXTRAS_0139",
+    "original": "猛烈爆裂　Ｐｔ．２",
+    "translation": "猛烈爆裂 Pt.2",
+    "context": "INFO\n\n**翻译辅助**：\n\n猛烈爆裂 Pt.2\n\n猛烈爆裂Pt.2\n\n猛烈爆裂Pt . 2"
+  },
+  {
+    "key": "dat_EXTRAS_0140",
+    "original": "残念な結果",
+    "translation": "遗憾的结果",
+    "context": "INFO\n\n**翻译辅助**：\n\n遗憾的结果"
+  },
+  {
+    "key": "dat_EXTRAS_0141",
+    "original": "あの星をおまえにやろう",
+    "translation": "那颗星就送给你吧",
+    "context": "INFO\n\n**翻译辅助**：\n\n那颗星就送给你吧\n\n把那颗星星给你吧"
+  },
+  {
+    "key": "dat_EXTRAS_0142",
+    "original": "目撃するまでが合宿よ",
+    "translation": "集宿到目击为止",
+    "context": "INFO\n\n**翻译辅助**：\n\n集宿到目击为止\n\n在目击到之前都是合宿\n\n在目击之前是合宿"
+  },
+  {
+    "key": "dat_EXTRAS_0143",
+    "original": "今は前を走る",
+    "translation": "现在向前跑",
+    "context": "INFO\n\n**翻译辅助**：\n\n现在向前跑\n\n现在在前方奔跑\n\n现在跑在前面"
+  },
+  {
+    "key": "dat_EXTRAS_0144",
+    "original": "それは陽炎のように",
+    "translation": "那就像海市蜃楼",
+    "context": "INFO\n\n**翻译辅助**：\n\n那就像海市蜃楼\n\n那就像阳炎一样\n\n它就像阳光一样，"
+  },
+  {
+    "key": "dat_EXTRAS_0145",
+    "original": "ゆめかまぼろしか",
+    "translation": "是梦还是幻影",
+    "context": "INFO\n\n**翻译辅助**：\n\n是梦还是幻影\n\n梦幻还是虚幻\n\n梦和破鹿"
+  },
+  {
+    "key": "dat_EXTRAS_0146",
+    "original": "新しい朝が来た",
+    "translation": "新的早晨来临",
+    "context": "INFO\n\n**翻译辅助**：\n\n新的早晨来临\n\n新的早晨到来了"
+  },
+  {
+    "key": "dat_EXTRAS_0147",
+    "original": "あの夏の想い出",
+    "translation": "那个夏天的回忆",
+    "context": "INFO\n\n**翻译辅助**：\n\n那个夏天的回忆"
+  },
+  {
+    "key": "dat_EXTRAS_0148",
+    "original": "忘れ物と拾い主",
+    "translation": "遗失物与失主",
+    "context": "INFO\n\n**翻译辅助**：\n\n遗失物与失主\n\n遗失物与拾起者\n\n失物和拾物的主人"
+  },
+  {
+    "key": "dat_EXTRAS_0149",
+    "original": "団長殿の大演説",
+    "translation": "团长阁下的大演说",
+    "context": "INFO\n\n**翻译辅助**：\n\n团长阁下的大演说\n\n团长大人的大演说\n\n团长的大演说"
+  },
+  {
+    "key": "dat_EXTRAS_0150",
+    "original": "団長殿の死刑宣告",
+    "translation": "团长大人的死刑宣告",
+    "context": "INFO\n\n**翻译辅助**：\n\n团长阁下的死刑宣告\n\n团长殿下的死刑宣告\n\n团长大人的死刑宣判"
+  },
+  {
+    "key": "dat_EXTRAS_0151",
+    "original": "かくして日常は続く",
+    "translation": "日常生活就这样继续下去",
+    "context": "INFO\n\n**翻译辅助**：\n\n就这样日常生活继续\n\n这样日常生活就这样持续着\n\n就这样，日常生活继续下去"
+  },
+  {
+    "key": "dat_EXTRAS_0152",
+    "original": "「さ、行くわよ！」",
+    "translation": "“好，走吧！”",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0153",
+    "original": "「アンタはいいのよ」",
+    "translation": "「アンタはいいのよ」",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0154",
+    "original": "「禁則事項です」",
+    "translation": "“这是禁止事项。”",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0155",
+    "original": "「…………」",
+    "translation": "「…………」",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0156",
+    "original": "「なに」",
+    "translation": "「なに」",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0157",
+    "original": "「よろしければチェスを」",
+    "translation": "“可以的话来下国际象棋吧。”",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0158",
+    "original": "「ごめんよ、売り切れさ」",
+    "translation": "「ごめんよ、売り切れさ」",
+    "context": "INFO"
+  },
+  {
+    "key": "dat_EXTRAS_0159",
+    "original": "悲壮な決意",
+    "translation": "悲壮的决心",
+    "context": "INFO\n\n**翻译辅助**：\n\n悲壮的决心"
+  },
+  {
+    "key": "dat_EXTRAS_0160",
+    "original": "別に。",
+    "translation": "没什么。",
+    "context": "INFO\n\n**翻译辅助**：\n\n没什么。"
+  },
+  {
+    "key": "dat_EXTRAS_0161",
+    "original": "ルーティンワーク",
+    "translation": "日常工作",
+    "context": "INFO\n\n**翻译辅助**：\n\n例行公事\n\n常规工件\n\n日常工作"
+  },
+  {
+    "key": "dat_EXTRAS_0162",
+    "original": "ハルヒトピックを全て収集",
+    "translation": "收集全部春日话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n收集全部春日话题\n\n收集所有春日话题\n\n收集所有的春日话题"
+  },
+  {
+    "key": "dat_EXTRAS_0163",
+    "original": "みくるトピックを全て収集",
+    "translation": "收集所有实玖瑠话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n收集全部实玖瑠话题\n\n实玖瑠话题全部收集\n\n收集所有的话题"
+  },
+  {
+    "key": "dat_EXTRAS_0164",
+    "original": "長門トピックを全て収集",
+    "translation": "收集全部长门话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n收集全部长门话题\n\n收集所有长门话题"
+  },
+  {
+    "key": "dat_EXTRAS_0165",
+    "original": "古泉トピックを全て収集",
+    "translation": "收集全部古泉话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n收集全部古泉话题\n\n收集所有古泉话题"
+  },
+  {
+    "key": "dat_EXTRAS_0166",
+    "original": "メイントピックを全て収集",
+    "translation": "收集全部主要话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n收集全部主要话题\n\n收集所有主要话题\n\n收集所有的话题"
+  },
+  {
+    "key": "dat_EXTRAS_0167",
+    "original": "チェス全問クリア",
+    "translation": "完成所有国际象棋问题",
+    "context": "INFO\n\n**翻译辅助**：\n\n国际象棋全关\n\n国际象棋全问通关\n\n国际象棋全过关"
+  },
+  {
+    "key": "dat_EXTRAS_0168",
+    "original": "ひと夏のひとコマ",
+    "translation": "夏日一景",
+    "context": "INFO\n\n**翻译辅助**：\n\n夏日一景\n\n一个夏天的一个画面\n\n一个夏天的一幕"
+  },
+  {
+    "key": "dat_EXTRAS_0169",
+    "original": "遊んでくれてありがとう！",
+    "translation": "谢谢你游玩游戏！",
+    "context": "INFO\n\n**翻译辅助**：\n\n谢谢你们陪我玩！\n\n谢谢你陪我玩！"
+  }
 ]

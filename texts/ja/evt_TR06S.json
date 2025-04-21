@@ -1,150 +1,286 @@
 [
-  [
-    "インフォ",
-    "#P04以上で解決パートチュートリアルを\n終了します"
-  ],
-  [
-    "インフォ",
-    "#P04本編の解決パートに向けて、以降の\n探索パート中の行動へのヒントを"
-  ],
-  [
-    "インフォ",
-    "#P04お伝えします"
-  ],
-  [
-    "インフォ",
-    "#P04１：“ハルヒメーター”について"
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    "#P04探索パート中の行動で“ハルヒ\nメーター”を増加させておくと"
-  ],
-  [
-    "インフォ",
-    "#P04解決パートの基本制限時間に\nボーナスが追加されます"
-  ],
-  [
-    "インフォ",
-    "#P04“ハルヒメーター”は新・七不思議\nの怪奇現象に対する"
-  ],
-  [
-    "インフォ",
-    "#P04“涼宮ハルヒの集中度”をどれだけ\n拡散させたかを表しています。"
-  ],
-  [
-    "インフォ",
-    "#P04メーターが減少するほど怪奇現象\nに対する興味が高い状態を表し"
-  ],
-  [
-    "インフォ",
-    "#P04目的地に早く移動しようとします\n（制限時間ボーナスが減少します）"
-  ],
-  [
-    "インフォ",
-    "#P04メーターが増加すると、他の情報に\n興味を奪われている状態を表し"
-  ],
-  [
-    "インフォ",
-    "#P04寄り道しやすくなります\n（制限時間ボーナスが増加します）"
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ],
-  [
-    "インフォ",
-    ""
-  ]
+  {
+    "index": 0,
+    "key": "evt_TR06S_0000",
+    "original": "[#P04]以上で解決パートチュートリアルを\n終了します",
+    "translation": "[#P04]以上で解決パートチュートリアルを\n終了します",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 1,
+    "key": "evt_TR06S_0001",
+    "original": "[#P04]本編の解決パートに向けて、以降の\n探索パート中の行動へのヒントを",
+    "translation": "[#P04]本編の解決パートに向けて、以降の\n探索パート中の行動へのヒントを",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 2,
+    "key": "evt_TR06S_0002",
+    "original": "[#P04]お伝えします",
+    "translation": "[#P04]お伝えします",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 3,
+    "key": "evt_TR06S_0003",
+    "original": "[#P04]１：“ハルヒメーター”について",
+    "translation": "[#P04]１：“ハルヒメーター”について",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 4,
+    "key": "evt_TR06S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_TR06S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_TR06S_0006",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_TR06S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_TR06S_0008",
+    "original": "[#P04]探索パート中の行動で“ハルヒ\nメーター”を増加させておくと",
+    "translation": "[#P04]探索パート中の行動で“ハルヒ\nメーター”を増加させておくと",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 9,
+    "key": "evt_TR06S_0009",
+    "original": "[#P04]解決パートの基本制限時間に\nボーナスが追加されます",
+    "translation": "[#P04]解決パートの基本制限時間に\nボーナスが追加されます",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 10,
+    "key": "evt_TR06S_0010",
+    "original": "[#P04]“ハルヒメーター”は新・七不思議\nの怪奇現象に対する",
+    "translation": "[#P04]“ハルヒメーター”は新・七不思議\nの怪奇現象に対する",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 11,
+    "key": "evt_TR06S_0011",
+    "original": "[#P04]“涼宮ハルヒの集中度”をどれだけ\n拡散させたかを表しています。",
+    "translation": "[#P04]“涼宮ハルヒの集中度”をどれだけ\n拡散させたかを表しています。",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 12,
+    "key": "evt_TR06S_0012",
+    "original": "[#P04]メーターが減少するほど怪奇現象\nに対する興味が高い状態を表し",
+    "translation": "[#P04]メーターが減少するほど怪奇現象\nに対する興味が高い状態を表し",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 13,
+    "key": "evt_TR06S_0013",
+    "original": "[#P04]目的地に早く移動しようとします\n（制限時間ボーナスが減少します）",
+    "translation": "[#P04]目的地に早く移動しようとします\n（制限時間ボーナスが減少します）",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 14,
+    "key": "evt_TR06S_0014",
+    "original": "[#P04]メーターが増加すると、他の情報に\n興味を奪われている状態を表し",
+    "translation": "[#P04]メーターが増加すると、他の情報に\n興味を奪われている状態を表し",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 15,
+    "key": "evt_TR06S_0015",
+    "original": "[#P04]寄り道しやすくなります\n（制限時間ボーナスが増加します）",
+    "translation": "[#P04]寄り道しやすくなります\n（制限時間ボーナスが増加します）",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 16,
+    "key": "evt_TR06S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_TR06S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_TR06S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_TR06S_0019",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "evt_TR06S_0020",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "evt_TR06S_0021",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "evt_TR06S_0022",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "evt_TR06S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_TR06S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_TR06S_0025",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "evt_TR06S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_TR06S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_TR06S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_TR06S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_TR06S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_TR06S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_TR06S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_TR06S_0033",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "evt_TR06S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_TR06S_0035",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "evt_TR06S_0036",
+    "original": "",
+    "translation": "",
+    "speaker": "インフォ",
+    "trash": true
+  }
 ]

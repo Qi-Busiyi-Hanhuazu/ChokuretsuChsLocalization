@@ -1,62 +1,111 @@
 [
-  [
-    "INFO",
-    "掃除用具入れ。人も入れる。"
-  ],
-  [
-    "INFO",
-    "段ボール箱。野球道具入り。"
-  ],
-  [
-    "INFO",
-    "パソコン。戦利品……なのか？"
-  ],
-  [
-    "INFO",
-    "団長の自己主張。"
-  ],
-  [
-    "INFO",
-    "笹の葉サラサラ。星に願いを。"
-  ],
-  [
-    "INFO",
-    "今日もお茶がうまい。"
-  ],
-  [
-    "INFO",
-    "ラジカセ。"
-  ],
-  [
-    "INFO",
-    "魅惑のメイド服。"
-  ],
-  [
-    "INFO",
-    "タイトルからして読めない難解本。"
-  ],
-  [
-    "INFO",
-    "世界のカレー。全４巻。"
-  ],
-  [
-    "INFO",
-    "あっ！こんなところに……"
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ]
+  {
+    "index": 0,
+    "key": "dat_BUND0S_0000",
+    "original": "掃除用具入れ。人も入れる。",
+    "translation": "掃除用具入れ。人も入れる。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_BUND0S_0001",
+    "original": "段ボール箱。野球道具入り。",
+    "translation": "段ボール箱。野球道具入り。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_BUND0S_0002",
+    "original": "パソコン。戦利品……なのか？",
+    "translation": "パソコン。戦利品……なのか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "dat_BUND0S_0003",
+    "original": "団長の自己主張。",
+    "translation": "団長の自己主張。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "dat_BUND0S_0004",
+    "original": "笹の葉サラサラ。星に願いを。",
+    "translation": "笹の葉サラサラ。星に願いを。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "dat_BUND0S_0005",
+    "original": "今日もお茶がうまい。",
+    "translation": "今日もお茶がうまい。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "dat_BUND0S_0006",
+    "original": "ラジカセ。",
+    "translation": "ラジカセ。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 7,
+    "key": "dat_BUND0S_0007",
+    "original": "魅惑のメイド服。",
+    "translation": "魅惑のメイド服。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 8,
+    "key": "dat_BUND0S_0008",
+    "original": "タイトルからして読めない難解本。",
+    "translation": "タイトルからして読めない難解本。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 9,
+    "key": "dat_BUND0S_0009",
+    "original": "世界のカレー。全４巻。",
+    "translation": "世界のカレー。全４巻。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 10,
+    "key": "dat_BUND0S_0010",
+    "original": "あっ！こんなところに……",
+    "translation": "あっ！こんなところに……",
+    "speaker": "INFO"
+  },
+  {
+    "index": 11,
+    "key": "dat_BUND0S_0011",
+    "original": "\u0006",
+    "translation": "\u0006",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "dat_BUND0S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "dat_BUND0S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "dat_BUND0S_0014",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]

@@ -1,42 +1,44 @@
 [
-  [
-    "ハルヒ",
-    "选哪一个？"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "朝比奈",
-    "结束了。"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "長門",
-    "结束了。"
-  ],
-  [
-    "ハルヒ",
-    ""
-  ],
-  [
-    "古泉",
-    "结束了呢。"
-  ],
-  [
-    "CHOICE",
-    "老家伙"
-  ],
-  [
-    "CHOICE",
-    "那个家伙"
-  ],
-  [
-    "CHOICE",
-    "零的那个"
-  ]
+  {
+    "key": "evt_BGTESTS_0000",
+    "original": "どっちにするの？",
+    "translation": "要选哪边？",
+    "context": "ハルヒ\n\n**翻译辅助**：\n\n要选哪边？\n\n选哪一个？\n\n选哪个？"
+  },
+  {
+    "key": "evt_BGTESTS_0002",
+    "original": "おわりです",
+    "translation": "完",
+    "context": "朝比奈\n\n**翻译辅助**：\n\n完\n\n结束了"
+  },
+  {
+    "key": "evt_BGTESTS_0004",
+    "original": "終了した",
+    "translation": "结束了。",
+    "context": "長門\n\n**翻译辅助**：\n\n结束了。\n\n结束了\n\n已完成"
+  },
+  {
+    "key": "evt_BGTESTS_0006",
+    "original": "終わりですね",
+    "translation": "结束了呢。",
+    "context": "古泉\n\n**翻译辅助**：\n\n结束了呢。\n\n结束了呢\n\n结束了。"
+  },
+  {
+    "key": "evt_BGTESTS_0007",
+    "original": "いつものやつ",
+    "translation": "是平常那个",
+    "context": "CHOICE\n\n**翻译辅助**：\n\n是平常那个\n\n老家伙"
+  },
+  {
+    "key": "evt_BGTESTS_0008",
+    "original": "れいのやつ",
+    "translation": "蕾茵那家伙。",
+    "context": "CHOICE\n\n**翻译辅助**：\n\n蕾茵那家伙。\n\n那个家伙\n\n老家伙"
+  },
+  {
+    "key": "evt_BGTESTS_0009",
+    "original": "れいのあれ",
+    "translation": "关于恋的那个……",
+    "context": "CHOICE\n\n**翻译辅助**：\n\n关于恋的那个……\n\n那个例子\n\n零的那个"
+  }
 ]

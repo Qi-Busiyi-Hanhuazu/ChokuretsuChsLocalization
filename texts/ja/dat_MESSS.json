@@ -1,522 +1,913 @@
 [
-  [
-    "INFO",
-    "#P02"
-  ],
-  [
-    "INFO",
-    "#P03"
-  ],
-  [
-    "INFO",
-    "メイントピック"
-  ],
-  [
-    "INFO",
-    "ハルヒトピック"
-  ],
-  [
-    "INFO",
-    "キャラトピック"
-  ],
-  [
-    "INFO",
-    "サブトピック"
-  ],
-  [
-    "INFO",
-    "キャラクター分配"
-  ],
-  [
-    "INFO",
-    "探索パートリザルト"
-  ],
-  [
-    "INFO",
-    "同行者選択"
-  ],
-  [
-    "INFO",
-    "目的に団員を分配してください。\n（アイコンをスライドします）"
-  ],
-  [
-    "INFO",
-    "☆エピソードを最初から始めます☆　　　"
-  ],
-  [
-    "INFO",
-    "☆セーブした場所から再開します☆　　　"
-  ],
-  [
-    "INFO",
-    "☆エクストラモードへ移行します☆　　　"
-  ],
-  [
-    "INFO",
-    "☆オプション設定を行います☆　　　"
-  ],
-  [
-    "INFO",
-    "☆セーブした場所から再開します。現在のプレイ内容は破棄されます☆　　　"
-  ],
-  [
-    "INFO",
-    "☆コンフィグ設定を行います☆　　　"
-  ],
-  [
-    "INFO",
-    "☆現在のプレイ状態を破棄してタイトル画面へ戻ります☆　　　"
-  ],
-  [
-    "INFO",
-    "人喰い教室"
-  ],
-  [
-    "INFO",
-    "未完のソナタ"
-  ],
-  [
-    "INFO",
-    "真夏の卒業式"
-  ],
-  [
-    "INFO",
-    "ビッグ・マム・フラワー"
-  ],
-  [
-    "INFO",
-    "誰も寝てはならない"
-  ],
-  [
-    "INFO",
-    "二度と出られない謎の教室　　　"
-  ],
-  [
-    "INFO",
-    "誰もいない音楽室からピアノの音が！？　　　"
-  ],
-  [
-    "INFO",
-    "楽しいパーティーのハズが……　　　"
-  ],
-  [
-    "INFO",
-    "光るプールに隠された陰謀とは！？　　　"
-  ],
-  [
-    "INFO",
-    "謎の少女の正体は！？　　　"
-  ],
-  [
-    "INFO",
-    "セーブデータがありません。"
-  ],
-  [
-    "INFO",
-    "セーブデータがありません。再開できません。　　　"
-  ],
-  [
-    "INFO",
-    "セーブデータをロードして再開します　　　"
-  ],
-  [
-    "INFO",
-    "保存する箇所を選んでください。"
-  ],
-  [
-    "INFO",
-    "はい"
-  ],
-  [
-    "INFO",
-    "いいえ"
-  ],
-  [
-    "INFO",
-    "このセーブデータをロードしますか？"
-  ],
-  [
-    "INFO",
-    "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nプレイ内容が反映されません"
-  ],
-  [
-    "INFO",
-    "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nクリア情報が反映されず\nタイトル画面に戻ります"
-  ],
-  [
-    "INFO",
-    "セーブデータを保存します。\nよろしいですか？"
-  ],
-  [
-    "INFO",
-    "セーブデータを上書きします。\nよろしいですか？"
-  ],
-  [
-    "INFO",
-    "ロードしています。\n電源を切らないでください。"
-  ],
-  [
-    "INFO",
-    "保存しています。\n電源を切らないでください。"
-  ],
-  [
-    "INFO",
-    "セーブデータにアクセスしています。\n電源を切らないでください。"
-  ],
-  [
-    "INFO",
-    "ロードしました。"
-  ],
-  [
-    "INFO",
-    "保存しました。"
-  ],
-  [
-    "INFO",
-    "タイトル画面へ戻ります。\n今までの進行状態は破棄されますが\nよろしいですか？"
-  ],
-  [
-    "INFO",
-    "もう一度挑戦しますか？"
-  ],
-  [
-    "INFO",
-    "中断セーブしますか？"
-  ],
-  [
-    "INFO",
-    "セーブデータを初期化しています。\n電源を切らないでください。"
-  ],
-  [
-    "INFO",
-    "全てのデータを消去しています。\n電源を切らないでください。"
-  ],
-  [
-    "INFO",
-    "セーブデータを読めませんでした。\n電源を切って、\nカードを差し込み直してください。"
-  ],
-  [
-    "INFO",
-    "セーブデータを書けませんでした\n電源を切って、\nカードを差し込み直してください"
-  ],
-  [
-    "INFO",
-    "セーブデータが破損しています\n　\nセーブデータを初期化しています\n電源を切らないでください"
-  ],
-  [
-    "INFO",
-    "システムデータが破損しています\n　\nシステムデータを初期化しています\n電源を切らないでください"
-  ],
-  [
-    "INFO",
-    "セーブデータ１が破損しています\n　\nセーブデータ１を初期化しています\n電源を切らないでください"
-  ],
-  [
-    "INFO",
-    "セーブデータ２が破損しています\n　\nセーブデータ２を初期化しています\n電源を切らないでください"
-  ],
-  [
-    "INFO",
-    "中断セーブデータが破損しています\n　\n中断セーブデータを初期化しています\n電源を切らないでください"
-  ],
-  [
-    "INFO",
-    "誰をハルヒに同行させますか？"
-  ],
-  [
-    "INFO",
-    "キョンが同行します。"
-  ],
-  [
-    "INFO",
-    "朝比奈さんに同行してもらう。"
-  ],
-  [
-    "INFO",
-    "長門に同行してもらう。"
-  ],
-  [
-    "INFO",
-    "古泉に同行してもらう。"
-  ],
-  [
-    "INFO",
-    "異空間の対応を誰に任せますか？"
-  ],
-  [
-    "INFO",
-    "朝比奈さんに任せる"
-  ],
-  [
-    "INFO",
-    "長門に任せる"
-  ],
-  [
-    "INFO",
-    "古泉に任せる"
-  ],
-  [
-    "INFO",
-    "サウンド"
-  ],
-  [
-    "INFO",
-    "システム～探索パート"
-  ],
-  [
-    "INFO",
-    "システム～解決パート"
-  ],
-  [
-    "INFO",
-    "初期状態に戻す"
-  ],
-  [
-    "INFO",
-    "データ消去"
-  ],
-  [
-    "INFO",
-    "サウンド関係の設定を変更します　　　"
-  ],
-  [
-    "INFO",
-    "システム関係の設定を変更します　　　"
-  ],
-  [
-    "INFO",
-    "システム関係の設定を変更します　　　"
-  ],
-  [
-    "INFO",
-    "オプション設定を初期状態に戻します　　　"
-  ],
-  [
-    "INFO",
-    "全てのデータを消去します　　　"
-  ],
-  [
-    "INFO",
-    "ＢＧＭの音量を変更します　　　"
-  ],
-  [
-    "INFO",
-    "ＳＥの音量を変更します　　　"
-  ],
-  [
-    "INFO",
-    "メッセージＳＥの音量を変更します　　　"
-  ],
-  [
-    "INFO",
-    "ボイスの音量を変更します　　　"
-  ],
-  [
-    "INFO",
-    "システムボイスのキャラクターを設定します　　　"
-  ],
-  [
-    "INFO",
-    "キョンのシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "ハルヒのシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "みくるのシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "長門のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "古泉のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "キョンの妹のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "鶴屋さんのシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "谷口のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "国木田のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "謎の少女のシステムボイスを切り替えます　　　"
-  ],
-  [
-    "INFO",
-    "オプション設定を初期状態に戻します\nよろしいですか？"
-  ],
-  [
-    "INFO",
-    "全てのデータを消去します\n消去すると元に戻せません\nよろしいですか？"
-  ],
-  [
-    "INFO",
-    "消去すると元に戻せません\n本当によろしいですか？"
-  ],
-  [
-    "INFO",
-    "初期状態に戻しました"
-  ],
-  [
-    "INFO",
-    "全てのデータを消去しました"
-  ],
-  [
-    "INFO",
-    "メッセージ一括表示"
-  ],
-  [
-    "INFO",
-    "メッセージスキップ"
-  ],
-  [
-    "INFO",
-    "解決パートイベント"
-  ],
-  [
-    "INFO",
-    "トピックストックモード"
-  ],
-  [
-    "INFO",
-    "イベント中のメッセージを一括表示するかどうかです　　　"
-  ],
-  [
-    "INFO",
-    "メッセージスキップについて　　　"
-  ],
-  [
-    "INFO",
-    "ＯＮ＝全て再生　ＯＦＦ＝全てスキップ　未読のみ＝未読イベントのみ再生　　　"
-  ],
-  [
-    "INFO",
-    "探索パートで入手したことのあるトピックを全て使用できます　　　"
-  ],
-  [
-    "INFO",
-    "ＯＦＦ"
-  ],
-  [
-    "INFO",
-    "ＯＮ"
-  ],
-  [
-    "INFO",
-    "ＯＦＦ"
-  ],
-  [
-    "INFO",
-    "未読のみ"
-  ],
-  [
-    "INFO",
-    "ＯＮ"
-  ],
-  [
-    "INFO",
-    "早送り"
-  ],
-  [
-    "INFO",
-    "既読スキップ"
-  ],
-  [
-    "INFO",
-    "#P07さて・・・・\nどうしたものか"
-  ],
-  [
-    "INFO",
-    "#P08"
-  ],
-  [
-    "INFO",
-    "この配分は考え直そう"
-  ],
-  [
-    "INFO",
-    "#P07さて・・・・\nどうしたものか"
-  ],
-  [
-    "INFO",
-    "#P07"
-  ],
-  [
-    "INFO",
-    "　＠、。．・：？！＿々ー―～…‘’“”（）《》「」『』－＝％☆♪"
-  ],
-  [
-    "INFO",
-    "エクストラにチェスモードが\n追加されました"
-  ],
-  [
-    "INFO",
-    "エクストラに涼宮ハルヒの\nイベントが追加されました"
-  ],
-  [
-    "INFO",
-    "エクストラに朝比奈みくるの\nイベントが追加されました"
-  ],
-  [
-    "INFO",
-    "エクストラに長門有希の\nイベントが追加されました"
-  ],
-  [
-    "INFO",
-    "エクストラに古泉一樹の\nイベントが追加されました"
-  ],
-  [
-    "INFO",
-    "エクストラに鶴屋さんの\nイベントが追加されました"
-  ],
-  [
-    "INFO",
-    "ハルヒトピックを全て入手しました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "みくるトピックを全て入手しました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "長門トピックを全て入手しました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "古泉トピックを全て入手しました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "メイントピックを全て入手しました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "すべてのチェス問題をクリアしました！\nアルバムにイベント絵が追加されます"
-  ],
-  [
-    "INFO",
-    "おめでとうございます\n全ての要素を入手して\n達成率が１００％になりました！"
-  ],
-  [
-    "INFO",
-    "タイトルメニューのエクストラが選択\n可能になりました"
-  ],
-  [
-    "INFO",
-    "コンフィグのサウンド項目内に\n“謎の少女”のシステムボイスが\n追加されました"
-  ]
+  {
+    "index": 0,
+    "key": "dat_MESSS_0000",
+    "original": "[#P02]",
+    "translation": "[#P02]",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_MESSS_0001",
+    "original": "[#P03]",
+    "translation": "[#P03]",
+    "speaker": "INFO"
+  },
+  {
+    "index": 2,
+    "key": "dat_MESSS_0002",
+    "original": "メイントピック",
+    "translation": "メイントピック",
+    "speaker": "INFO"
+  },
+  {
+    "index": 3,
+    "key": "dat_MESSS_0003",
+    "original": "ハルヒトピック",
+    "translation": "ハルヒトピック",
+    "speaker": "INFO"
+  },
+  {
+    "index": 4,
+    "key": "dat_MESSS_0004",
+    "original": "キャラトピック",
+    "translation": "キャラトピック",
+    "speaker": "INFO"
+  },
+  {
+    "index": 5,
+    "key": "dat_MESSS_0005",
+    "original": "サブトピック",
+    "translation": "サブトピック",
+    "speaker": "INFO"
+  },
+  {
+    "index": 6,
+    "key": "dat_MESSS_0006",
+    "original": "キャラクター分配",
+    "translation": "キャラクター分配",
+    "speaker": "INFO"
+  },
+  {
+    "index": 7,
+    "key": "dat_MESSS_0007",
+    "original": "探索パートリザルト",
+    "translation": "探索パートリザルト",
+    "speaker": "INFO"
+  },
+  {
+    "index": 8,
+    "key": "dat_MESSS_0008",
+    "original": "同行者選択",
+    "translation": "同行者選択",
+    "speaker": "INFO"
+  },
+  {
+    "index": 9,
+    "key": "dat_MESSS_0009",
+    "original": "目的に団員を分配してください。\n（アイコンをスライドします）",
+    "translation": "目的に団員を分配してください。\n（アイコンをスライドします）",
+    "speaker": "INFO"
+  },
+  {
+    "index": 10,
+    "key": "dat_MESSS_0010",
+    "original": "☆エピソードを最初から始めます☆　　　",
+    "translation": "☆エピソードを最初から始めます☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 11,
+    "key": "dat_MESSS_0011",
+    "original": "☆セーブした場所から再開します☆　　　",
+    "translation": "☆セーブした場所から再開します☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 12,
+    "key": "dat_MESSS_0012",
+    "original": "☆エクストラモードへ移行します☆　　　",
+    "translation": "☆エクストラモードへ移行します☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 13,
+    "key": "dat_MESSS_0013",
+    "original": "☆オプション設定を行います☆　　　",
+    "translation": "☆オプション設定を行います☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 14,
+    "key": "dat_MESSS_0014",
+    "original": "☆セーブした場所から再開します。現在のプレイ内容は破棄されます☆　　　",
+    "translation": "☆セーブした場所から再開します。現在のプレイ内容は破棄されます☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 15,
+    "key": "dat_MESSS_0015",
+    "original": "☆コンフィグ設定を行います☆　　　",
+    "translation": "☆コンフィグ設定を行います☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 16,
+    "key": "dat_MESSS_0016",
+    "original": "☆現在のプレイ状態を破棄してタイトル画面へ戻ります☆　　　",
+    "translation": "☆現在のプレイ状態を破棄してタイトル画面へ戻ります☆　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 17,
+    "key": "dat_MESSS_0017",
+    "original": "人喰い教室",
+    "translation": "人喰い教室",
+    "speaker": "INFO"
+  },
+  {
+    "index": 18,
+    "key": "dat_MESSS_0018",
+    "original": "未完のソナタ",
+    "translation": "未完のソナタ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 19,
+    "key": "dat_MESSS_0019",
+    "original": "真夏の卒業式",
+    "translation": "真夏の卒業式",
+    "speaker": "INFO"
+  },
+  {
+    "index": 20,
+    "key": "dat_MESSS_0020",
+    "original": "ビッグ・マム・フラワー",
+    "translation": "ビッグ・マム・フラワー",
+    "speaker": "INFO"
+  },
+  {
+    "index": 21,
+    "key": "dat_MESSS_0021",
+    "original": "誰も寝てはならない",
+    "translation": "誰も寝てはならない",
+    "speaker": "INFO"
+  },
+  {
+    "index": 22,
+    "key": "dat_MESSS_0022",
+    "original": "二度と出られない謎の教室　　　",
+    "translation": "二度と出られない謎の教室　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 23,
+    "key": "dat_MESSS_0023",
+    "original": "誰もいない音楽室からピアノの音が！？　　　",
+    "translation": "誰もいない音楽室からピアノの音が！？　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 24,
+    "key": "dat_MESSS_0024",
+    "original": "楽しいパーティーのハズが……　　　",
+    "translation": "楽しいパーティーのハズが……　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 25,
+    "key": "dat_MESSS_0025",
+    "original": "光るプールに隠された陰謀とは！？　　　",
+    "translation": "光るプールに隠された陰謀とは！？　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 26,
+    "key": "dat_MESSS_0026",
+    "original": "謎の少女の正体は！？　　　",
+    "translation": "謎の少女の正体は！？　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 27,
+    "key": "dat_MESSS_0027",
+    "original": "セーブデータがありません。",
+    "translation": "セーブデータがありません。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 28,
+    "key": "dat_MESSS_0028",
+    "original": "セーブデータがありません。再開できません。　　　",
+    "translation": "セーブデータがありません。再開できません。　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 29,
+    "key": "dat_MESSS_0029",
+    "original": "セーブデータをロードして再開します　　　",
+    "translation": "セーブデータをロードして再開します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 30,
+    "key": "dat_MESSS_0030",
+    "original": "保存する箇所を選んでください。",
+    "translation": "保存する箇所を選んでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 31,
+    "key": "dat_MESSS_0031",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "INFO"
+  },
+  {
+    "index": 32,
+    "key": "dat_MESSS_0032",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 33,
+    "key": "dat_MESSS_0033",
+    "original": "このセーブデータをロードしますか？",
+    "translation": "このセーブデータをロードしますか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 34,
+    "key": "dat_MESSS_0034",
+    "original": "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nプレイ内容が反映されません",
+    "translation": "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nプレイ内容が反映されません",
+    "speaker": "INFO"
+  },
+  {
+    "index": 35,
+    "key": "dat_MESSS_0035",
+    "original": "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nクリア情報が反映されず\nタイトル画面に戻ります",
+    "translation": "これまでの状態を保存しますか？\n保存しない場合、エクストラ等に\nクリア情報が反映されず\nタイトル画面に戻ります",
+    "speaker": "INFO"
+  },
+  {
+    "index": 36,
+    "key": "dat_MESSS_0036",
+    "original": "セーブデータを保存します。\nよろしいですか？",
+    "translation": "セーブデータを保存します。\nよろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 37,
+    "key": "dat_MESSS_0037",
+    "original": "セーブデータを上書きします。\nよろしいですか？",
+    "translation": "セーブデータを上書きします。\nよろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 38,
+    "key": "dat_MESSS_0038",
+    "original": "ロードしています。\n電源を切らないでください。",
+    "translation": "ロードしています。\n電源を切らないでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 39,
+    "key": "dat_MESSS_0039",
+    "original": "保存しています。\n電源を切らないでください。",
+    "translation": "保存しています。\n電源を切らないでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 40,
+    "key": "dat_MESSS_0040",
+    "original": "セーブデータにアクセスしています。\n電源を切らないでください。",
+    "translation": "セーブデータにアクセスしています。\n電源を切らないでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 41,
+    "key": "dat_MESSS_0041",
+    "original": "ロードしました。",
+    "translation": "ロードしました。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 42,
+    "key": "dat_MESSS_0042",
+    "original": "保存しました。",
+    "translation": "保存しました。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 43,
+    "key": "dat_MESSS_0043",
+    "original": "タイトル画面へ戻ります。\n今までの進行状態は破棄されますが\nよろしいですか？",
+    "translation": "タイトル画面へ戻ります。\n今までの進行状態は破棄されますが\nよろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 44,
+    "key": "dat_MESSS_0044",
+    "original": "もう一度挑戦しますか？",
+    "translation": "もう一度挑戦しますか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 45,
+    "key": "dat_MESSS_0045",
+    "original": "中断セーブしますか？",
+    "translation": "中断セーブしますか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 46,
+    "key": "dat_MESSS_0046",
+    "original": "セーブデータを初期化しています。\n電源を切らないでください。",
+    "translation": "セーブデータを初期化しています。\n電源を切らないでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 47,
+    "key": "dat_MESSS_0047",
+    "original": "全てのデータを消去しています。\n電源を切らないでください。",
+    "translation": "全てのデータを消去しています。\n電源を切らないでください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 48,
+    "key": "dat_MESSS_0048",
+    "original": "セーブデータを読めませんでした。\n電源を切って、\nカードを差し込み直してください。",
+    "translation": "セーブデータを読めませんでした。\n電源を切って、\nカードを差し込み直してください。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 49,
+    "key": "dat_MESSS_0049",
+    "original": "セーブデータを書けませんでした\n電源を切って、\nカードを差し込み直してください",
+    "translation": "セーブデータを書けませんでした\n電源を切って、\nカードを差し込み直してください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 50,
+    "key": "dat_MESSS_0050",
+    "original": "セーブデータが破損しています\n　\nセーブデータを初期化しています\n電源を切らないでください",
+    "translation": "セーブデータが破損しています\n　\nセーブデータを初期化しています\n電源を切らないでください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 51,
+    "key": "dat_MESSS_0051",
+    "original": "システムデータが破損しています\n　\nシステムデータを初期化しています\n電源を切らないでください",
+    "translation": "システムデータが破損しています\n　\nシステムデータを初期化しています\n電源を切らないでください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 52,
+    "key": "dat_MESSS_0052",
+    "original": "セーブデータ１が破損しています\n　\nセーブデータ１を初期化しています\n電源を切らないでください",
+    "translation": "セーブデータ１が破損しています\n　\nセーブデータ１を初期化しています\n電源を切らないでください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 53,
+    "key": "dat_MESSS_0053",
+    "original": "セーブデータ２が破損しています\n　\nセーブデータ２を初期化しています\n電源を切らないでください",
+    "translation": "セーブデータ２が破損しています\n　\nセーブデータ２を初期化しています\n電源を切らないでください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 54,
+    "key": "dat_MESSS_0054",
+    "original": "中断セーブデータが破損しています\n　\n中断セーブデータを初期化しています\n電源を切らないでください",
+    "translation": "中断セーブデータが破損しています\n　\n中断セーブデータを初期化しています\n電源を切らないでください",
+    "speaker": "INFO"
+  },
+  {
+    "index": 55,
+    "key": "dat_MESSS_0055",
+    "original": "誰をハルヒに同行させますか？",
+    "translation": "誰をハルヒに同行させますか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 56,
+    "key": "dat_MESSS_0056",
+    "original": "キョンが同行します。",
+    "translation": "キョンが同行します。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 57,
+    "key": "dat_MESSS_0057",
+    "original": "朝比奈さんに同行してもらう。",
+    "translation": "朝比奈さんに同行してもらう。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 58,
+    "key": "dat_MESSS_0058",
+    "original": "長門に同行してもらう。",
+    "translation": "長門に同行してもらう。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 59,
+    "key": "dat_MESSS_0059",
+    "original": "古泉に同行してもらう。",
+    "translation": "古泉に同行してもらう。",
+    "speaker": "INFO"
+  },
+  {
+    "index": 60,
+    "key": "dat_MESSS_0060",
+    "original": "異空間の対応を誰に任せますか？",
+    "translation": "異空間の対応を誰に任せますか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 61,
+    "key": "dat_MESSS_0061",
+    "original": "朝比奈さんに任せる",
+    "translation": "朝比奈さんに任せる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 62,
+    "key": "dat_MESSS_0062",
+    "original": "長門に任せる",
+    "translation": "長門に任せる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 63,
+    "key": "dat_MESSS_0063",
+    "original": "古泉に任せる",
+    "translation": "古泉に任せる",
+    "speaker": "INFO"
+  },
+  {
+    "index": 64,
+    "key": "dat_MESSS_0064",
+    "original": "サウンド",
+    "translation": "サウンド",
+    "speaker": "INFO"
+  },
+  {
+    "index": 65,
+    "key": "dat_MESSS_0065",
+    "original": "システム～探索パート",
+    "translation": "システム～探索パート",
+    "speaker": "INFO"
+  },
+  {
+    "index": 66,
+    "key": "dat_MESSS_0066",
+    "original": "システム～解決パート",
+    "translation": "システム～解決パート",
+    "speaker": "INFO"
+  },
+  {
+    "index": 67,
+    "key": "dat_MESSS_0067",
+    "original": "初期状態に戻す",
+    "translation": "初期状態に戻す",
+    "speaker": "INFO"
+  },
+  {
+    "index": 68,
+    "key": "dat_MESSS_0068",
+    "original": "データ消去",
+    "translation": "データ消去",
+    "speaker": "INFO"
+  },
+  {
+    "index": 69,
+    "key": "dat_MESSS_0069",
+    "original": "サウンド関係の設定を変更します　　　",
+    "translation": "サウンド関係の設定を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 70,
+    "key": "dat_MESSS_0070",
+    "original": "システム関係の設定を変更します　　　",
+    "translation": "システム関係の設定を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 71,
+    "key": "dat_MESSS_0071",
+    "original": "システム関係の設定を変更します　　　",
+    "translation": "システム関係の設定を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 72,
+    "key": "dat_MESSS_0072",
+    "original": "オプション設定を初期状態に戻します　　　",
+    "translation": "オプション設定を初期状態に戻します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 73,
+    "key": "dat_MESSS_0073",
+    "original": "全てのデータを消去します　　　",
+    "translation": "全てのデータを消去します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 74,
+    "key": "dat_MESSS_0074",
+    "original": "ＢＧＭの音量を変更します　　　",
+    "translation": "ＢＧＭの音量を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 75,
+    "key": "dat_MESSS_0075",
+    "original": "ＳＥの音量を変更します　　　",
+    "translation": "ＳＥの音量を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 76,
+    "key": "dat_MESSS_0076",
+    "original": "メッセージＳＥの音量を変更します　　　",
+    "translation": "メッセージＳＥの音量を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 77,
+    "key": "dat_MESSS_0077",
+    "original": "ボイスの音量を変更します　　　",
+    "translation": "ボイスの音量を変更します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 78,
+    "key": "dat_MESSS_0078",
+    "original": "システムボイスのキャラクターを設定します　　　",
+    "translation": "システムボイスのキャラクターを設定します　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 79,
+    "key": "dat_MESSS_0079",
+    "original": "キョンのシステムボイスを切り替えます　　　",
+    "translation": "キョンのシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 80,
+    "key": "dat_MESSS_0080",
+    "original": "ハルヒのシステムボイスを切り替えます　　　",
+    "translation": "ハルヒのシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 81,
+    "key": "dat_MESSS_0081",
+    "original": "みくるのシステムボイスを切り替えます　　　",
+    "translation": "みくるのシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 82,
+    "key": "dat_MESSS_0082",
+    "original": "長門のシステムボイスを切り替えます　　　",
+    "translation": "長門のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 83,
+    "key": "dat_MESSS_0083",
+    "original": "古泉のシステムボイスを切り替えます　　　",
+    "translation": "古泉のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 84,
+    "key": "dat_MESSS_0084",
+    "original": "キョンの妹のシステムボイスを切り替えます　　　",
+    "translation": "キョンの妹のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 85,
+    "key": "dat_MESSS_0085",
+    "original": "鶴屋さんのシステムボイスを切り替えます　　　",
+    "translation": "鶴屋さんのシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 86,
+    "key": "dat_MESSS_0086",
+    "original": "谷口のシステムボイスを切り替えます　　　",
+    "translation": "谷口のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 87,
+    "key": "dat_MESSS_0087",
+    "original": "国木田のシステムボイスを切り替えます　　　",
+    "translation": "国木田のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 88,
+    "key": "dat_MESSS_0088",
+    "original": "謎の少女のシステムボイスを切り替えます　　　",
+    "translation": "謎の少女のシステムボイスを切り替えます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 89,
+    "key": "dat_MESSS_0089",
+    "original": "オプション設定を初期状態に戻します\nよろしいですか？",
+    "translation": "オプション設定を初期状態に戻します\nよろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 90,
+    "key": "dat_MESSS_0090",
+    "original": "全てのデータを消去します\n消去すると元に戻せません\nよろしいですか？",
+    "translation": "全てのデータを消去します\n消去すると元に戻せません\nよろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 91,
+    "key": "dat_MESSS_0091",
+    "original": "消去すると元に戻せません\n本当によろしいですか？",
+    "translation": "消去すると元に戻せません\n本当によろしいですか？",
+    "speaker": "INFO"
+  },
+  {
+    "index": 92,
+    "key": "dat_MESSS_0092",
+    "original": "初期状態に戻しました",
+    "translation": "初期状態に戻しました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 93,
+    "key": "dat_MESSS_0093",
+    "original": "全てのデータを消去しました",
+    "translation": "全てのデータを消去しました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 94,
+    "key": "dat_MESSS_0094",
+    "original": "メッセージ一括表示",
+    "translation": "メッセージ一括表示",
+    "speaker": "INFO"
+  },
+  {
+    "index": 95,
+    "key": "dat_MESSS_0095",
+    "original": "メッセージスキップ",
+    "translation": "メッセージスキップ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 96,
+    "key": "dat_MESSS_0096",
+    "original": "解決パートイベント",
+    "translation": "解決パートイベント",
+    "speaker": "INFO"
+  },
+  {
+    "index": 97,
+    "key": "dat_MESSS_0097",
+    "original": "トピックストックモード",
+    "translation": "トピックストックモード",
+    "speaker": "INFO"
+  },
+  {
+    "index": 98,
+    "key": "dat_MESSS_0098",
+    "original": "イベント中のメッセージを一括表示するかどうかです　　　",
+    "translation": "イベント中のメッセージを一括表示するかどうかです　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 99,
+    "key": "dat_MESSS_0099",
+    "original": "メッセージスキップについて　　　",
+    "translation": "メッセージスキップについて　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 100,
+    "key": "dat_MESSS_0100",
+    "original": "ＯＮ＝全て再生　ＯＦＦ＝全てスキップ　未読のみ＝未読イベントのみ再生　　　",
+    "translation": "ＯＮ＝全て再生　ＯＦＦ＝全てスキップ　未読のみ＝未読イベントのみ再生　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 101,
+    "key": "dat_MESSS_0101",
+    "original": "探索パートで入手したことのあるトピックを全て使用できます　　　",
+    "translation": "探索パートで入手したことのあるトピックを全て使用できます　　　",
+    "speaker": "INFO"
+  },
+  {
+    "index": 102,
+    "key": "dat_MESSS_0102",
+    "original": "ＯＦＦ",
+    "translation": "ＯＦＦ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 103,
+    "key": "dat_MESSS_0103",
+    "original": "ＯＮ",
+    "translation": "ＯＮ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 104,
+    "key": "dat_MESSS_0104",
+    "original": "ＯＦＦ",
+    "translation": "ＯＦＦ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 105,
+    "key": "dat_MESSS_0105",
+    "original": "未読のみ",
+    "translation": "未読のみ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 106,
+    "key": "dat_MESSS_0106",
+    "original": "ＯＮ",
+    "translation": "ＯＮ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 107,
+    "key": "dat_MESSS_0107",
+    "original": "早送り",
+    "translation": "早送り",
+    "speaker": "INFO"
+  },
+  {
+    "index": 108,
+    "key": "dat_MESSS_0108",
+    "original": "既読スキップ",
+    "translation": "既読スキップ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 109,
+    "key": "dat_MESSS_0109",
+    "original": "[#P07]さて・・・・\nどうしたものか",
+    "translation": "[#P07]さて・・・・\nどうしたものか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 110,
+    "key": "dat_MESSS_0110",
+    "original": "[#P08]",
+    "translation": "[#P08]",
+    "speaker": "INFO"
+  },
+  {
+    "index": 111,
+    "key": "dat_MESSS_0111",
+    "original": "この配分は考え直そう",
+    "translation": "この配分は考え直そう",
+    "speaker": "INFO"
+  },
+  {
+    "index": 112,
+    "key": "dat_MESSS_0112",
+    "original": "[#P07]さて・・・・\nどうしたものか",
+    "translation": "[#P07]さて・・・・\nどうしたものか",
+    "speaker": "INFO"
+  },
+  {
+    "index": 113,
+    "key": "dat_MESSS_0113",
+    "original": "[#P07]",
+    "translation": "[#P07]",
+    "speaker": "INFO"
+  },
+  {
+    "index": 114,
+    "key": "dat_MESSS_0114",
+    "original": "　＠、。．・：？！＿々ー―～…‘’“”（）《》「」『』－＝％☆♪",
+    "translation": "　＠、。．・：？！＿々ー―～…‘’“”（）《》「」『』－＝％☆♪",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 115,
+    "key": "dat_MESSS_0115",
+    "original": "エクストラにチェスモードが\n追加されました",
+    "translation": "エクストラにチェスモードが\n追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 116,
+    "key": "dat_MESSS_0116",
+    "original": "エクストラに涼宮ハルヒの\nイベントが追加されました",
+    "translation": "エクストラに涼宮ハルヒの\nイベントが追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 117,
+    "key": "dat_MESSS_0117",
+    "original": "エクストラに朝比奈みくるの\nイベントが追加されました",
+    "translation": "エクストラに朝比奈みくるの\nイベントが追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 118,
+    "key": "dat_MESSS_0118",
+    "original": "エクストラに長門有希の\nイベントが追加されました",
+    "translation": "エクストラに長門有希の\nイベントが追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 119,
+    "key": "dat_MESSS_0119",
+    "original": "エクストラに古泉一樹の\nイベントが追加されました",
+    "translation": "エクストラに古泉一樹の\nイベントが追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 120,
+    "key": "dat_MESSS_0120",
+    "original": "エクストラに鶴屋さんの\nイベントが追加されました",
+    "translation": "エクストラに鶴屋さんの\nイベントが追加されました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 121,
+    "key": "dat_MESSS_0121",
+    "original": "ハルヒトピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "translation": "ハルヒトピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 122,
+    "key": "dat_MESSS_0122",
+    "original": "みくるトピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "translation": "みくるトピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 123,
+    "key": "dat_MESSS_0123",
+    "original": "長門トピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "translation": "長門トピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 124,
+    "key": "dat_MESSS_0124",
+    "original": "古泉トピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "translation": "古泉トピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 125,
+    "key": "dat_MESSS_0125",
+    "original": "メイントピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "translation": "メイントピックを全て入手しました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 126,
+    "key": "dat_MESSS_0126",
+    "original": "すべてのチェス問題をクリアしました！\nアルバムにイベント絵が追加されます",
+    "translation": "すべてのチェス問題をクリアしました！\nアルバムにイベント絵が追加されます",
+    "speaker": "INFO"
+  },
+  {
+    "index": 127,
+    "key": "dat_MESSS_0127",
+    "original": "おめでとうございます\n全ての要素を入手して\n達成率が１００％になりました！",
+    "translation": "おめでとうございます\n全ての要素を入手して\n達成率が１００％になりました！",
+    "speaker": "INFO"
+  },
+  {
+    "index": 128,
+    "key": "dat_MESSS_0128",
+    "original": "タイトルメニューのエクストラが選択\n可能になりました",
+    "translation": "タイトルメニューのエクストラが選択\n可能になりました",
+    "speaker": "INFO"
+  },
+  {
+    "index": 129,
+    "key": "dat_MESSS_0129",
+    "original": "コンフィグのサウンド項目内に\n“謎の少女”のシステムボイスが\n追加されました",
+    "translation": "コンフィグのサウンド項目内に\n“謎の少女”のシステムボイスが\n追加されました",
+    "speaker": "INFO"
+  }
 ]

@@ -1,1234 +1,1034 @@
 [
-  [
-    "INFO",
-    "打听情报"
-  ],
-  [
-    "INFO",
-    "为了打听详细情报，\n再次前往电研社"
-  ],
-  [
-    "INFO",
-    "为了打听详细情报，\n再次了前往电研社"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "单独行动"
-  ],
-  [
-    "INFO",
-    ".\u0001/\u0001c\u0002d\u0002"
-  ],
-  [
-    "INFO",
-    "和实玖瑠一起"
-  ],
-  [
-    "INFO",
-    "c\u0002"
-  ],
-  [
-    "INFO",
-    "和长门一同"
-  ],
-  [
-    "INFO",
-    "・・c\u0002d\u0002"
-  ],
-  [
-    "INFO",
-    "和古泉行动"
-  ],
-  [
-    "INFO",
-    "1\u0001c\u0002"
-  ],
-  [
-    "INFO",
-    "脚踏两条船？"
-  ],
-  [
-    "INFO",
-    "z"
-  ],
-  [
-    "INFO",
-    "古泉的一计"
-  ],
-  [
-    "INFO",
-    "・c\u0002"
-  ],
-  [
-    "INFO",
-    "帅气的两人"
-  ],
-  [
-    "INFO",
-    "5\u0001\u0001c\u0002"
-  ],
-  [
-    "INFO",
-    "全员一起去电研社"
-  ],
-  [
-    "INFO",
-    "现场调查"
-  ],
-  [
-    "INFO",
-    "为了寻找传说中的１年级１０班，\n调查本馆校舍"
-  ],
-  [
-    "INFO",
-    "为了寻找１年级１０班，\n对本馆校舍进行了现场调查"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "和春日两个人"
-  ],
-  [
-    "INFO",
-    "f\u0002"
-  ],
-  [
-    "INFO",
-    "吵闹少女"
-  ],
-  [
-    "INFO",
-    "|"
-  ],
-  [
-    "INFO",
-    "春日与长门"
-  ],
-  [
-    "INFO",
-    "\u0001f\u0002g\u0002"
-  ],
-  [
-    "INFO",
-    "比较对象"
-  ],
-  [
-    "INFO",
-    "・f\u0002"
-  ],
-  [
-    "INFO",
-    "事先调查"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "ＳＯＳ团活动记录"
-  ],
-  [
-    "INFO",
-    "・\u0001\u0002f\u0002g\u0002"
-  ],
-  [
-    "INFO",
-    "再次袭击"
-  ],
-  [
-    "INFO",
-    "|"
-  ],
-  [
-    "INFO",
-    "集结"
-  ],
-  [
-    "INFO",
-    "埋伏"
-  ],
-  [
-    "INFO",
-    "在音乐教室前埋伏\n（请至少配置１人）"
-  ],
-  [
-    "INFO",
-    "在音乐教室前面埋伏了"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "再次确认"
-  ],
-  [
-    "INFO",
-    ":\u0001・・"
-  ],
-  [
-    "INFO",
-    "商量"
-  ],
-  [
-    "INFO",
-    "··"
-  ],
-  [
-    "INFO",
-    "为了说服春日"
-  ],
-  [
-    "INFO",
-    "}"
-  ],
-  [
-    "INFO",
-    "古泉的提案"
-  ],
-  [
-    "INFO",
-    "<\u0001・・"
-  ],
-  [
-    "INFO",
-    "陈旧的音色"
-  ],
-  [
-    "INFO",
-    "=\u0001\u0004\u0002・・｡\u0002"
-  ],
-  [
-    "INFO",
-    "电研社的秘密"
-  ],
-  [
-    "INFO",
-    "\u0005\u0002｡\u0002｢\u0002"
-  ],
-  [
-    "INFO",
-    "可疑的行动"
-  ],
-  [
-    "INFO",
-    "\u0002\u0002・"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "资料检索"
-  ],
-  [
-    "INFO",
-    "根据从图书室带来的资料调查"
-  ],
-  [
-    "INFO",
-    "调查了从图书室带来的资料"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "在书山中"
-  ],
-  [
-    "INFO",
-    "､\u0002ｧ\u0002"
-  ],
-  [
-    "INFO",
-    "杂工"
-  ],
-  [
-    "INFO",
-    "｢\u0001｣\u0001､\u0001ｦ\u0002ｧ\u0002ｨ\u0002"
-  ],
-  [
-    "INFO",
-    "读书时间"
-  ],
-  [
-    "INFO",
-    "\u0006\u0002ｦ\u0002ｨ\u0002"
-  ],
-  [
-    "INFO",
-    "社会阶层"
-  ],
-  [
-    "INFO",
-    "｢\u0001｣\u0001ｨ\u0002ｧ\u0002"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "\u0006\u0002ｦ\u0002"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "､\u0001\u0006\u0002､\u0002ｧ\u0002"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "拿到钥匙"
-  ],
-  [
-    "INFO",
-    "去教师办公室借音乐教室的钥匙\n（请至少配置１人）"
-  ],
-  [
-    "INFO",
-    "从教师办公室借来了音乐教室的钥匙"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "阿虚奋斗"
-  ],
-  [
-    "INFO",
-    "E\u0001F\u0001ｫ\u0002ｴ\u0002"
-  ],
-  [
-    "INFO",
-    "实玖瑠大活跃"
-  ],
-  [
-    "INFO",
-    "ｬ\u0002ｳ\u0002"
-  ],
-  [
-    "INFO",
-    "不知何时"
-  ],
-  [
-    "INFO",
-    "\r\u0002\u000e\u0002ｭ\u0002ｲ\u0002"
-  ],
-  [
-    "INFO",
-    "抢先一步"
-  ],
-  [
-    "INFO",
-    "G\u0001ｮ\u0002ｱ\u0002"
-  ],
-  [
-    "INFO",
-    "海报"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "作曲比赛"
-  ],
-  [
-    "INFO",
-    "\u0010\u0002ｱ\u0002ｴ\u0002"
-  ],
-  [
-    "INFO",
-    "北高的校友"
-  ],
-  [
-    "INFO",
-    "G\u0001\u000e\u0002ｫ\u0002ｱ\u0002"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "采购"
-  ],
-  [
-    "INFO",
-    "去买烤肉用的食材"
-  ],
-  [
-    "INFO",
-    "从商店街买来了烤肉用的食材"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "阿虚与迷途猫"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "不小心，实玖瑠"
-  ],
-  [
-    "INFO",
-    "ｾ\u0002"
-  ],
-  [
-    "INFO",
-    "微妙的选择"
-  ],
-  [
-    "INFO",
-    "\u0012\u0002ﾁ\u0002"
-  ],
-  [
-    "INFO",
-    "抽福券？"
-  ],
-  [
-    "INFO",
-    "M\u0001ﾄ\u0002"
-  ],
-  [
-    "INFO",
-    "再度脚踏两条船"
-  ],
-  [
-    "INFO",
-    "O\u0001\u0015\u0002ﾆ\u0002ﾇ\u0002"
-  ],
-  [
-    "INFO",
-    "实玖瑠与迷途猫"
-  ],
-  [
-    "INFO",
-    "\u0017\u0002ﾉ\u0002"
-  ],
-  [
-    "INFO",
-    "店主的赠品"
-  ],
-  [
-    "INFO",
-    "Q\u0001\u0019\u0002ﾌ\u0002"
-  ],
-  [
-    "INFO",
-    "买得太多"
-  ],
-  [
-    "INFO",
-    "筹措工具"
-  ],
-  [
-    "INFO",
-    "寻找烤肉用的工具"
-  ],
-  [
-    "INFO",
-    "和春日一起准备了烤肉用的工具"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "到处都是"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "女仆小姐是强击手"
-  ],
-  [
-    "INFO",
-    "ｶ\u0001ｷ\u0001ｸ\u0001"
-  ],
-  [
-    "INFO",
-    "徒劳的努力"
-  ],
-  [
-    "INFO",
-    "\u001a\u0002\u001b\u0002\u001c\u0002"
-  ],
-  [
-    "INFO",
-    "残次品堆积如山"
-  ],
-  [
-    "INFO",
-    "ｹ\u0001ﾍ\u0002"
-  ],
-  [
-    "INFO",
-    "困难时的电研社"
-  ],
-  [
-    "INFO",
-    "\u001d\u0002ﾎ\u0002"
-  ],
-  [
-    "INFO",
-    "脱轨"
-  ],
-  [
-    "INFO",
-    "ｻ\u0001ｼ\u0001\u001f\u0002 \u0002ﾐ\u0002ﾑ\u0002"
-  ],
-  [
-    "INFO",
-    "手工制作"
-  ],
-  [
-    "INFO",
-    "ｽ\u0001!\u0002ﾒ\u0002"
-  ],
-  [
-    "INFO",
-    "小问题大问题"
-  ],
-  [
-    "INFO",
-    "料理准备"
-  ],
-  [
-    "INFO",
-    "和春日一起准备烤肉的食材"
-  ],
-  [
-    "INFO",
-    "和春日一起准备了烤肉的食材"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "预先准备"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "从未见过"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "无聊的话"
-  ],
-  [
-    "INFO",
-    "$\u0002ﾔ\u0002"
-  ],
-  [
-    "INFO",
-    "大麻烦"
-  ],
-  [
-    "INFO",
-    "去学校"
-  ],
-  [
-    "INFO",
-    "和实玖瑠一起\n去学校接鹤屋学姐"
-  ],
-  [
-    "INFO",
-    "和鹤屋学姐汇合了"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "约会心情"
-  ],
-  [
-    "INFO",
-    "]\u0001ﾘ\u0002"
-  ],
-  [
-    "INFO",
-    "长门和妹妹"
-  ],
-  [
-    "INFO",
-    "_\u0001ﾚ\u0002"
-  ],
-  [
-    "INFO",
-    "实玖瑠的灾难"
-  ],
-  [
-    "INFO",
-    "ﾛ\u0002"
-  ],
-  [
-    "INFO",
-    "异常情况"
-  ],
-  [
-    "INFO",
-    "游泳池调查"
-  ],
-  [
-    "INFO",
-    "监视和调查池中是否发生异常"
-  ],
-  [
-    "INFO",
-    "监视和调查了游泳池\n是否发生异常"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "游泳池边"
-  ],
-  [
-    "INFO",
-    "ﾟ\u0002"
-  ],
-  [
-    "INFO",
-    "月亮在哪边"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "致宇宙的朋友"
-  ],
-  [
-    "INFO",
-    "ﾃ\u0001・"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "去校舍"
-  ],
-  [
-    "INFO",
-    "为了让春日离开游泳池，\n和古泉在校舍准备机关"
-  ],
-  [
-    "INFO",
-    "为了让春日离开游泳池，\n和古泉在校舍准备了机关"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "共同作业"
-  ],
-  [
-    "INFO",
-    "*\u0002・"
-  ],
-  [
-    "INFO",
-    "理科室的那家伙"
-  ],
-  [
-    "INFO",
-    ",\u0002ﾅ\u0001・"
-  ],
-  [
-    "INFO",
-    "恐怖的科学"
-  ],
-  [
-    "INFO",
-    "*\u0002ﾅ\u0001・"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "采购"
-  ],
-  [
-    "INFO",
-    "去买夜宵\n（请至少配置１人）"
-  ],
-  [
-    "INFO",
-    "去买了夜宵"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "晚上去便利店"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "实玖瑠的购物"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "长门要的东西"
-  ],
-  [
-    "INFO",
-    "h\u0001・"
-  ],
-  [
-    "INFO",
-    "两手拿着购物袋"
-  ],
-  [
-    "INFO",
-    "困住"
-  ],
-  [
-    "INFO",
-    "想办法不让春日离开活动室"
-  ],
-  [
-    "INFO",
-    "为了不让春日离开活动室，\n想尽办法拖住了她"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "最后的抵抗"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "创可贴"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "长门可怕的东西？"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "试胆的规则"
-  ],
-  [
-    "INFO",
-    "k\u0001"
-  ],
-  [
-    "INFO",
-    "影子王国"
-  ],
-  [
-    "INFO",
-    "l\u0001\u0003\u0003"
-  ],
-  [
-    "INFO",
-    "不能接受"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "重做"
-  ],
-  [
-    "INFO",
-    "・\u0003\u0003"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "捕获"
-  ],
-  [
-    "INFO",
-    "捕获电研社部员\n（请至少配置１人）"
-  ],
-  [
-    "INFO",
-    "捕获了情况变得奇怪的\n电研社部员们"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "自卖自夸"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "不可靠的搭档"
-  ],
-  [
-    "INFO",
-    "ﾏ\u0001"
-  ],
-  [
-    "INFO",
-    "可靠的伙伴"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "互相扶持"
-  ],
-  [
-    "INFO",
-    "ﾒ\u0001"
-  ],
-  [
-    "INFO",
-    "两个极端"
-  ],
-  [
-    "INFO",
-    "5\u0002\u000e\u0003"
-  ],
-  [
-    "INFO",
-    "大危机！？"
-  ],
-  [
-    "INFO",
-    "ﾔ\u00017\u0002\u000f\u0003"
-  ],
-  [
-    "INFO",
-    "意外的再会"
-  ],
-  [
-    "INFO",
-    "ﾖ\u00019\u0002\u0010\u0003"
-  ],
-  [
-    "INFO",
-    "痕迹"
-  ],
-  [
-    "INFO",
-    "棋子的回收"
-  ],
-  [
-    "INFO",
-    "试胆成功的证明，\n去拿国际象棋的棋子"
-  ],
-  [
-    "INFO",
-    "试胆成功的证明，\n去拿了国际象棋的棋子"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "更进一步的受害者"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "被夺走的东西"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "毫不留情的人"
-  ],
-  [
-    "INFO",
-    ":\u0002;\u0002\u0016\u0003"
-  ],
-  [
-    "INFO",
-    "去追那些家伙"
-  ],
-  [
-    "INFO",
-    "ﾚ\u0001\r\u0003"
-  ],
-  [
-    "INFO",
-    "出乎意料"
-  ],
-  [
-    "INFO",
-    "=\u0002\b\u0003"
-  ],
-  [
-    "INFO",
-    "不协调感"
-  ],
-  [
-    "INFO",
-    "ﾜ\u0001ﾝ\u0001?\u0002@\u0002\u0014\u0003\u0016\u0003"
-  ],
-  [
-    "INFO",
-    "谁都不在"
-  ],
-  [
-    "INFO",
-    "ﾚ\u0001@\u0002\u0014\u0003\u0015\u0003"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "困住"
-  ],
-  [
-    "INFO",
-    "在活动室阻止春日\n（请至少配置１人）"
-  ],
-  [
-    "INFO",
-    "在活动室阻止了春日"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "游戏"
-  ],
-  [
-    "INFO",
-    "|\u0001}\u0001\u001a\u0003\u001b\u0003"
-  ],
-  [
-    "INFO",
-    "误算"
-  ],
-  [
-    "INFO",
-    "A\u0002B\u0002\u001a\u0003\u001c\u0003"
-  ],
-  [
-    "INFO",
-    "白炽灯"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "淘汰赛"
-  ],
-  [
-    "INFO",
-    "钟表工艺"
-  ],
-  [
-    "INFO",
-    "为了避免发生异变的时间，\n在时钟的指针上做手脚"
-  ],
-  [
-    "INFO",
-    "为了避免发生异变的时间，\n在时钟的指针上做了手脚"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "孤独的工作"
-  ],
-  [
-    "INFO",
-    "\"\u0003#\u0003"
-  ],
-  [
-    "INFO",
-    "阿米斯"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "身边的盲点"
-  ],
-  [
-    "INFO",
-    "F\u0002$\u0003%\u0003"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "镜子上的工艺品"
-  ],
-  [
-    "INFO",
-    "为了不让春日看见，\n在镜子上做手脚"
-  ],
-  [
-    "INFO",
-    "为了不让春日看见，\n在镜子上做了手脚"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "踏实的工作"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "异常情况"
-  ],
-  [
-    "INFO",
-    "*\u0003+\u0003"
-  ],
-  [
-    "INFO",
-    "二选一"
-  ],
-  [
-    "INFO",
-    "・(\u0003+\u0003"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "设置奇点"
-  ],
-  [
-    "INFO",
-    "设置成为长门制造的\n作为奇点的国际象棋棋子"
-  ],
-  [
-    "INFO",
-    "设置了奇点（国际象棋棋子）"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "追溯异变"
-  ],
-  [
-    "INFO",
-    "・0\u00031\u0003"
-  ],
-  [
-    "INFO",
-    "独自一人"
-  ],
-  [
-    "INFO",
-    "・2\u00034\u0003"
-  ],
-  [
-    "INFO",
-    "东奔西走"
-  ],
-  [
-    "INFO",
-    "-\u0003-\u00033\u0003"
-  ],
-  [
-    "INFO",
-    "不存在的地方"
-  ],
-  [
-    "INFO",
-    "\u0010\u0006"
-  ],
-  [
-    "INFO",
-    "\u0018\b"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "ﾈ\u000e"
-  ],
-  [
-    "INFO",
-    "H\u0011"
-  ],
-  [
-    "INFO",
-    "P\u0013"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "h\u0017"
-  ],
-  [
-    "INFO",
-    "p\u0019"
-  ],
-  [
-    "INFO",
-    "D\u001b"
-  ],
-  [
-    "INFO",
-    "$\u001d"
-  ],
-  [
-    "INFO",
-    "\u001f"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    "·"
-  ],
-  [
-    "INFO",
-    ",&"
-  ],
-  [
-    "INFO",
-    "ﾜ'"
-  ],
-  [
-    "INFO",
-    "ｬ)"
-  ],
-  [
-    "INFO",
-    "l+"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0002"
-  ]
+  {
+    "key": "evt_SCENARIOS_0000",
+    "original": "聞き込み",
+    "translation": "打听情报",
+    "context": "INFO\n\n**翻译辅助**：\n\n探听\n\n走访\n\n打听"
+  },
+  {
+    "key": "evt_SCENARIOS_0001",
+    "original": "詳しい情報を求めて\nコンピ研に再度聞き込み",
+    "translation": "为了打听详细情报，\n再次前往电研社",
+    "context": "INFO\n\n**翻译辅助**：\n\n为了寻求详细情报  \n再度向电研社打听\n\n寻求详细的信息  \n再次询问电研社\n\n为寻求详细信息，再次走访电研社"
+  },
+  {
+    "key": "evt_SCENARIOS_0002",
+    "original": "詳しい情報を求めて\nコンピ研で再度聞き込みを行った",
+    "translation": "为了打听详细情报，\n再次了前往电研社",
+    "context": "INFO\n\n**翻译辅助**：\n\n为了寻求详细情报  \n在电研再度探听\n\n为了寻求详细的情报，在电研社再次进行了询问  \n\n\n为了寻求详细的信息，在电研社再次进行了调查。"
+  },
+  {
+    "key": "evt_SCENARIOS_0004",
+    "original": "単独行動",
+    "translation": "单独行动",
+    "context": "INFO\n\n**翻译辅助**：\n\n单独行动"
+  },
+  {
+    "key": "evt_SCENARIOS_0006",
+    "original": "みくると一緒に",
+    "translation": "和实玖瑠一起",
+    "context": "INFO\n\n**翻译辅助**：\n\n和实玖瑠一起"
+  },
+  {
+    "key": "evt_SCENARIOS_0008",
+    "original": "長門と共に",
+    "translation": "和长门一同",
+    "context": "INFO\n\n**翻译辅助**：\n\n和长门一起\n\n与长门一起"
+  },
+  {
+    "key": "evt_SCENARIOS_0010",
+    "original": "古泉と行動",
+    "translation": "和古泉行动",
+    "context": "INFO\n\n**翻译辅助**：\n\n和古泉一起\n\n古泉与行动\n\n古泉和行动"
+  },
+  {
+    "key": "evt_SCENARIOS_0012",
+    "original": "両手に花？",
+    "translation": "脚踏两条船？",
+    "context": "INFO\n\n**翻译辅助**：\n\n左拥右抱？\n\n双手鲜花？\n\n双手捧花？"
+  },
+  {
+    "key": "evt_SCENARIOS_0014",
+    "original": "古泉の一計",
+    "translation": "古泉的一计",
+    "context": "INFO\n\n**翻译辅助**：\n\n古泉的妙计\n\n古泉之计\n\n古泉一计"
+  },
+  {
+    "key": "evt_SCENARIOS_0016",
+    "original": "クールな２人",
+    "translation": "帅气的两人",
+    "context": "INFO\n\n**翻译辅助**：\n\n冷酷二人组\n\n酷酷的两个人\n\n冷酷的两个人"
+  },
+  {
+    "key": "evt_SCENARIOS_0018",
+    "original": "全員でコンピ研へ",
+    "translation": "全体前往电脑社",
+    "context": "INFO\n\n**翻译辅助**：\n\n全体前往电脑社\n\n全员一起去电研社\n\n全体人员一起去研讨会"
+  },
+  {
+    "key": "evt_SCENARIOS_0019",
+    "original": "現場調査",
+    "translation": "现场调查",
+    "context": "INFO\n\n**翻译辅助**：\n\n现场调查"
+  },
+  {
+    "key": "evt_SCENARIOS_0020",
+    "original": "噂の１年１０組を探すため\n本館校舎を調査",
+    "translation": "为了寻找传说中的１年级１０班，\n调查本馆校舍",
+    "context": "INFO\n\n**翻译辅助**：\n\n寻找传闻中的1年级10班  \n调查本馆校舍\n\n为了寻找传说中的1年级10班  \n调查本馆校舍"
+  },
+  {
+    "key": "evt_SCENARIOS_0021",
+    "original": "１年１０組を探すため\n本館校舎を現場調査した",
+    "translation": "为了寻找１年级１０班，\n对本馆校舍进行了现场调查",
+    "context": "INFO\n\n**翻译辅助**：\n\n为了寻找1年级10班  \n在本馆校舍进行现场调查\n\n为了寻找1年级10班  \n对本馆校舍进行了现场调查\n\n为了寻找1年级10个班，对本馆校舍进行了现场调查"
+  },
+  {
+    "key": "evt_SCENARIOS_0023",
+    "original": "ハルヒと２人で",
+    "translation": "和春日一起",
+    "context": "INFO\n\n**翻译辅助**：\n\n和春日一起\n\n和春日两个人"
+  },
+  {
+    "key": "evt_SCENARIOS_0025",
+    "original": "かしまし少女",
+    "translation": "吵闹少女",
+    "context": "INFO\n\n**翻译辅助**：\n\n喧闹少女\n\n聪明少女\n\n稻草人少女"
+  },
+  {
+    "key": "evt_SCENARIOS_0027",
+    "original": "ハルヒと長門",
+    "translation": "春日和长门",
+    "context": "INFO\n\n**翻译辅助**：\n\n春日和长门\n\n春日与长门"
+  },
+  {
+    "key": "evt_SCENARIOS_0029",
+    "original": "比較対象",
+    "translation": "比较对象",
+    "context": "INFO\n\n**翻译辅助**：\n\n比较对象"
+  },
+  {
+    "key": "evt_SCENARIOS_0031",
+    "original": "下調べ",
+    "translation": "事前调查",
+    "context": "INFO\n\n**翻译辅助**：\n\n事前调查\n\n事先调查\n\n预先调查"
+  },
+  {
+    "key": "evt_SCENARIOS_0033",
+    "original": "ＳＯＳ団活動記録",
+    "translation": "SOS团活动记录",
+    "context": "INFO\n\n**翻译辅助**：\n\nSOS团活动记录"
+  },
+  {
+    "key": "evt_SCENARIOS_0035",
+    "original": "再襲撃",
+    "translation": "再袭击",
+    "context": "INFO\n\n**翻译辅助**：\n\n再袭击\n\n再次袭击"
+  },
+  {
+    "key": "evt_SCENARIOS_0037",
+    "original": "集結",
+    "translation": "集合",
+    "context": "INFO\n\n**翻译辅助**：\n\n集合\n\n集结"
+  },
+  {
+    "key": "evt_SCENARIOS_0038",
+    "original": "張り込み",
+    "translation": "埋伏",
+    "context": "INFO\n\n**翻译辅助**：\n\n监视\n\n绷紧\n\n埋伏"
+  },
+  {
+    "key": "evt_SCENARIOS_0039",
+    "original": "音楽室前で張り込み\n（最低１名配置してください）",
+    "translation": "在音乐教室前埋伏\n（请至少配置１人）",
+    "context": "INFO\n\n**翻译辅助**：\n\n在音乐教室前埋伏  \n（至少要有一人在此）\n\n在音乐教室前紧张  \n（请至少配置1名）\n\n在音乐教室前守候  \n（至少安排1人）"
+  },
+  {
+    "key": "evt_SCENARIOS_0040",
+    "original": "音楽室の前で張り込みを行った",
+    "translation": "在音乐教室前面埋伏了",
+    "context": "INFO\n\n**翻译辅助**：\n\n在音乐教室前监视\n\n在音乐教室前面进行了埋伏\n\n在音乐教室前紧张起来"
+  },
+  {
+    "key": "evt_SCENARIOS_0042",
+    "original": "再確認",
+    "translation": "再确认",
+    "context": "INFO\n\n**翻译辅助**：\n\n再确认\n\n再次确认\n\n复查"
+  },
+  {
+    "key": "evt_SCENARIOS_0044",
+    "original": "相談",
+    "translation": "商量",
+    "context": "INFO\n\n**翻译辅助**：\n\n商量\n\n协商\n\n咨询"
+  },
+  {
+    "key": "evt_SCENARIOS_0046",
+    "original": "ハルヒを説得するために",
+    "translation": "为说服春日",
+    "context": "INFO\n\n**翻译辅助**：\n\n为说服春日\n\n为了说服春日"
+  },
+  {
+    "key": "evt_SCENARIOS_0048",
+    "original": "古泉の提案",
+    "translation": "古泉的提议",
+    "context": "INFO\n\n**翻译辅助**：\n\n古泉的提议\n\n古泉的提案"
+  },
+  {
+    "key": "evt_SCENARIOS_0050",
+    "original": "古びた音色",
+    "translation": "古老音色",
+    "context": "INFO\n\n**翻译辅助**：\n\n古老音色\n\n陈旧的音色"
+  },
+  {
+    "key": "evt_SCENARIOS_0052",
+    "original": "コンピ研の秘密",
+    "translation": "电脑社的秘密",
+    "context": "INFO\n\n**翻译辅助**：\n\n电脑社的秘密\n\n电研社的秘密"
+  },
+  {
+    "key": "evt_SCENARIOS_0054",
+    "original": "怪しい行動",
+    "translation": "可疑行动",
+    "context": "INFO\n\n**翻译辅助**：\n\n可疑行动\n\n可疑的行动\n\n奇怪的行为"
+  },
+  {
+    "key": "evt_SCENARIOS_0056",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0057",
+    "original": "資料検索",
+    "translation": "资料搜寻",
+    "context": "INFO\n\n**翻译辅助**：\n\n资料搜寻\n\n资料检索\n\n查找资料"
+  },
+  {
+    "key": "evt_SCENARIOS_0058",
+    "original": "図書室から持ってきた資料を元に\n調べる",
+    "translation": "根据从图书室带来的资料调查",
+    "context": "INFO\n\n**翻译辅助**：\n\n以从图书室拿来的资料为依据  \n调查\n\n以从图书室带来的资料为基础进行调查  \n\n\n根据从图书室带来的资料"
+  },
+  {
+    "key": "evt_SCENARIOS_0059",
+    "original": "図書室から持ってきた資料を調べた",
+    "translation": "调查了从图书室带来的资料",
+    "context": "INFO\n\n**翻译辅助**：\n\n调查从图书室拿来的资料\n\n查了从图书室带来的资料\n\n查阅了从图书室带来的资料"
+  },
+  {
+    "key": "evt_SCENARIOS_0061",
+    "original": "本の山の中で",
+    "translation": "书堆之中",
+    "context": "INFO\n\n**翻译辅助**：\n\n书堆之中\n\n在书山中\n\n在书堆里"
+  },
+  {
+    "key": "evt_SCENARIOS_0063",
+    "original": "雑用係",
+    "translation": "打杂",
+    "context": "INFO\n\n**翻译辅助**：\n\n打杂\n\n杂工\n\n勤杂工"
+  },
+  {
+    "key": "evt_SCENARIOS_0065",
+    "original": "読書の時間",
+    "translation": "读书时间",
+    "context": "INFO\n\n**翻译辅助**：\n\n读书时间"
+  },
+  {
+    "key": "evt_SCENARIOS_0067",
+    "original": "ヒエラルキー",
+    "translation": "社会阶层",
+    "context": "INFO\n\n**翻译辅助**：\n\n阶级制度\n\n希埃拉尔基\n\n等级制度"
+  },
+  {
+    "key": "evt_SCENARIOS_0069",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0071",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0073",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0074",
+    "original": "鍵入手",
+    "translation": "钥匙到手",
+    "context": "INFO\n\n**翻译辅助**：\n\n钥匙到手\n\n拿到钥匙\n\n获取密钥"
+  },
+  {
+    "key": "evt_SCENARIOS_0075",
+    "original": "職員室に音楽室の鍵を借りに行く\n（最低１名配置してください）",
+    "translation": "去教师办公室借音乐教室的钥匙\n（请至少配置１人）",
+    "context": "INFO\n\n**翻译辅助**：\n\n去教职员办公室借音乐教室的钥匙  \n（至少要有一名成员留守）\n\n去教师办公室借音乐教室的钥匙  \n（最少配置1名）\n\n去教师办公室借音乐教室的钥匙。  \n（请至少配备1人）"
+  },
+  {
+    "key": "evt_SCENARIOS_0076",
+    "original": "職員室で音楽室の鍵を借りてきた",
+    "translation": "从教师办公室借来了音乐教室的钥匙",
+    "context": "INFO\n\n**翻译辅助**：\n\n在教教师办公室借到音乐教室钥匙\n\n我从教师办公室借来了音乐教室的钥匙\n\n在办公室借了音乐教室的钥匙"
+  },
+  {
+    "key": "evt_SCENARIOS_0078",
+    "original": "キョン奮闘",
+    "translation": "阿虚奋斗",
+    "context": "INFO\n\n**翻译辅助**：\n\n阿虚奋斗"
+  },
+  {
+    "key": "evt_SCENARIOS_0080",
+    "original": "みくる大活躍",
+    "translation": "实玖瑠大活跃",
+    "context": "INFO\n\n**翻译辅助**：\n\n实玖瑠大活跃"
+  },
+  {
+    "key": "evt_SCENARIOS_0082",
+    "original": "いつの間にやら",
+    "translation": "不知不觉间",
+    "context": "INFO\n\n**翻译辅助**：\n\n不知不觉间\n\n不知何时"
+  },
+  {
+    "key": "evt_SCENARIOS_0084",
+    "original": "先回り",
+    "translation": "先发制人",
+    "context": "INFO\n\n**翻译辅助**：\n\n先发制人\n\n抢先一步\n\n先来后到"
+  },
+  {
+    "key": "evt_SCENARIOS_0086",
+    "original": "ポスター",
+    "translation": "海报",
+    "context": "INFO\n\n**翻译辅助**：\n\n海报"
+  },
+  {
+    "key": "evt_SCENARIOS_0088",
+    "original": "作曲コンテスト",
+    "translation": "作曲比赛",
+    "context": "INFO\n\n**翻译辅助**：\n\n作曲比赛"
+  },
+  {
+    "key": "evt_SCENARIOS_0090",
+    "original": "北高のＯＢ",
+    "translation": "北高校友",
+    "context": "INFO\n\n**翻译辅助**：\n\n北高校友\n\n北高的校友"
+  },
+  {
+    "key": "evt_SCENARIOS_0092",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0093",
+    "original": "買い出し",
+    "translation": "采买",
+    "context": "INFO\n\n**翻译辅助**：\n\n采买\n\n采购"
+  },
+  {
+    "key": "evt_SCENARIOS_0094",
+    "original": "バーベキュー用の\n食材を買いに行く",
+    "translation": "去采购烤肉用的\n食材",
+    "context": "INFO\n\n**翻译辅助**：\n\n去采购烤肉用的  \n食材\n\n  \n去买烤肉用的食材\n\n去买烤肉用的食材"
+  },
+  {
+    "key": "evt_SCENARIOS_0095",
+    "original": "商店街でバーベキュー用の\n食材を買ってきた",
+    "translation": "从商店街买来了烤肉用的食材",
+    "context": "INFO\n\n**翻译辅助**：\n\n在商店街买好了烤肉用的  \n食材\n\n在商店街买来烤肉用的食材  \n\n\n在商店街买了烤肉用的食材。"
+  },
+  {
+    "key": "evt_SCENARIOS_0097",
+    "original": "キョンと迷い猫",
+    "translation": "阿虚与迷途猫",
+    "context": "INFO\n\n**翻译辅助**：\n\n阿虚与迷途猫"
+  },
+  {
+    "key": "evt_SCENARIOS_0099",
+    "original": "うっかり、みくる",
+    "translation": "粗心的实玖瑠",
+    "context": "INFO\n\n**翻译辅助**：\n\n粗心的实玖瑠\n\n不小心，实玖瑠"
+  },
+  {
+    "key": "evt_SCENARIOS_0101",
+    "original": "微妙なチョイス",
+    "translation": "微妙的选择",
+    "context": "INFO\n\n**翻译辅助**：\n\n微妙的选择"
+  },
+  {
+    "key": "evt_SCENARIOS_0103",
+    "original": "福引き券？",
+    "translation": "抽奖券？",
+    "context": "INFO\n\n**翻译辅助**：\n\n抽奖券？\n\n抽福券？\n\n优惠券？"
+  },
+  {
+    "key": "evt_SCENARIOS_0105",
+    "original": "両手に花、ふたたび",
+    "translation": "再度脚踏两条船",
+    "context": "INFO\n\n**翻译辅助**：\n\n左拥右抱再续\n\n双手鲜花，再次绽放\n\n双手捧花，再次"
+  },
+  {
+    "key": "evt_SCENARIOS_0107",
+    "original": "みくると迷い猫",
+    "translation": "实玖瑠与迷途猫",
+    "context": "INFO\n\n**翻译辅助**：\n\n实玖瑠与迷途猫\n\n实玖瑠和迷途猫"
+  },
+  {
+    "key": "evt_SCENARIOS_0109",
+    "original": "店主のオマケ",
+    "translation": "店主的赠品",
+    "context": "INFO\n\n**翻译辅助**：\n\n老板的赠品\n\n店主阿曼"
+  },
+  {
+    "key": "evt_SCENARIOS_0111",
+    "original": "買いすぎ",
+    "translation": "买太多",
+    "context": "INFO\n\n**翻译辅助**：\n\n买太多\n\n买得太多"
+  },
+  {
+    "key": "evt_SCENARIOS_0112",
+    "original": "道具調達",
+    "translation": "调度道具",
+    "context": "INFO\n\n**翻译辅助**：\n\n调度道具\n\n筹措工具\n\n工具采购"
+  },
+  {
+    "key": "evt_SCENARIOS_0113",
+    "original": "バーベキューに使う道具を探す",
+    "translation": "寻找烤肉用具",
+    "context": "INFO\n\n**翻译辅助**：\n\n寻找烤肉用具\n\n寻找烤肉用的工具"
+  },
+  {
+    "key": "evt_SCENARIOS_0114",
+    "original": "ハルヒと一緒に、バーベキュー用の\n道具を調達してきた",
+    "translation": "和春日一起准备了烤肉用的工具",
+    "context": "INFO\n\n**翻译辅助**：\n\n和春日一起张罗了烤肉用的  \n道具\n\n我和春日一起准备了烤肉用的工具。  \n\n\n和春日一起准备烤肉用的道具"
+  },
+  {
+    "key": "evt_SCENARIOS_0116",
+    "original": "行き当たりばったり",
+    "translation": "走一步算一步",
+    "context": "INFO\n\n**翻译辅助**：\n\n走一步算一步\n\n到处都是\n\n漫无目的"
+  },
+  {
+    "key": "evt_SCENARIOS_0118",
+    "original": "メイドさんはスラッガー",
+    "translation": "女仆小姐是强击手",
+    "context": "INFO\n\n**翻译辅助**：\n\n女仆挥大棒\n\n女佣是强击手\n\n女仆是斯拉格"
+  },
+  {
+    "key": "evt_SCENARIOS_0120",
+    "original": "無駄な努力",
+    "translation": "白费力气",
+    "context": "INFO\n\n**翻译辅助**：\n\n白费力气\n\n徒劳的努力"
+  },
+  {
+    "key": "evt_SCENARIOS_0122",
+    "original": "手抜かり山盛り",
+    "translation": "漏洞百出",
+    "context": "INFO\n\n**翻译辅助**：\n\n漏洞百出\n\n残次品堆积如山\n\n忙得不可开交"
+  },
+  {
+    "key": "evt_SCENARIOS_0124",
+    "original": "困った時のコンピ研",
+    "translation": "有困难找电脑社",
+    "context": "INFO\n\n**翻译辅助**：\n\n有困难找电脑社\n\n困难时的电研社"
+  },
+  {
+    "key": "evt_SCENARIOS_0126",
+    "original": "脱線",
+    "translation": "脱轨",
+    "context": "INFO\n\n**翻译辅助**：\n\n脱轨"
+  },
+  {
+    "key": "evt_SCENARIOS_0128",
+    "original": "手作り",
+    "translation": "手工",
+    "context": "INFO\n\n**翻译辅助**：\n\n手工\n\n手工制作"
+  },
+  {
+    "key": "evt_SCENARIOS_0130",
+    "original": "ささいで大きな問題",
+    "translation": "小问题大问题",
+    "context": "INFO\n\n**翻译辅助**：\n\n小而大的问题\n\n小问题\n\n小问题大问题"
+  },
+  {
+    "key": "evt_SCENARIOS_0131",
+    "original": "料理準備",
+    "translation": "准备料理",
+    "context": "INFO\n\n**翻译辅助**：\n\n准备料理\n\n料理准备\n\n准备饭菜"
+  },
+  {
+    "key": "evt_SCENARIOS_0132",
+    "original": "ハルヒと一緒にバーベキューの\n食材の下ごしらえ",
+    "translation": "和春日一起为烤肉\n食材做准备",
+    "context": "INFO\n\n**翻译辅助**：\n\n和春日一起为烤肉  \n食材做准备\n\n和春日一起烤肉  \n准备食材"
+  },
+  {
+    "key": "evt_SCENARIOS_0133",
+    "original": "ハルヒと一緒にバーベキューの\n食材の下ごしらえをした",
+    "translation": "和春日一起为烤肉\n食材做准备。",
+    "context": "INFO\n\n**翻译辅助**：\n\n和春日一起为烤肉  \n食材做准备。\n\n和春日一起准备烤肉的食材  \n\n\n和春日一起准备烤肉的食材。"
+  },
+  {
+    "key": "evt_SCENARIOS_0135",
+    "original": "下ごしらえを",
+    "translation": "事前处理",
+    "context": "INFO\n\n**翻译辅助**：\n\n事前处理\n\n预先准备\n\n做好准备"
+  },
+  {
+    "key": "evt_SCENARIOS_0137",
+    "original": "見たこともない",
+    "translation": "没看过",
+    "context": "INFO\n\n**翻译辅助**：\n\n没看过\n\n从未见过\n\n连见都没见过"
+  },
+  {
+    "key": "evt_SCENARIOS_0139",
+    "original": "つまらない話",
+    "translation": "无聊话题",
+    "context": "INFO\n\n**翻译辅助**：\n\n无聊话题\n\n无聊的话"
+  },
+  {
+    "key": "evt_SCENARIOS_0141",
+    "original": "大迷惑",
+    "translation": "大麻烦",
+    "context": "INFO\n\n**翻译辅助**：\n\n大麻烦"
+  },
+  {
+    "key": "evt_SCENARIOS_0142",
+    "original": "学校へ",
+    "translation": "上学",
+    "context": "INFO\n\n**翻译辅助**：\n\n上学\n\n去学校\n\n到学校"
+  },
+  {
+    "key": "evt_SCENARIOS_0143",
+    "original": "みくると一緒に学校へ\n鶴屋さんを迎えに行く",
+    "translation": "和实玖瑠一起\n去学校接鹤屋学姐",
+    "context": "INFO\n\n**翻译辅助**：\n\n和实玖瑠一起上学  \n去接鹤屋学姐\n\n和实玖瑠一起去学校接鹤屋  \n\n\n和实玖瑠一起去学校迎接鹤屋。"
+  },
+  {
+    "key": "evt_SCENARIOS_0144",
+    "original": "鶴屋さんと合流できた",
+    "translation": "和鹤屋学姐会合",
+    "context": "INFO\n\n**翻译辅助**：\n\n和鹤屋学姐会合\n\n和鹤屋学姐汇合了\n\n和鹤屋会合了"
+  },
+  {
+    "key": "evt_SCENARIOS_0146",
+    "original": "デート気分",
+    "translation": "约会心情",
+    "context": "INFO\n\n**翻译辅助**：\n\n约会心情\n\n约会的心情"
+  },
+  {
+    "key": "evt_SCENARIOS_0148",
+    "original": "長門と妹",
+    "translation": "长门与妹妹",
+    "context": "INFO\n\n**翻译辅助**：\n\n长门与妹妹\n\n长门和妹妹"
+  },
+  {
+    "key": "evt_SCENARIOS_0150",
+    "original": "みくるの災難",
+    "translation": "实玖瑠的灾难",
+    "context": "INFO\n\n**翻译辅助**：\n\n实玖瑠的灾难"
+  },
+  {
+    "key": "evt_SCENARIOS_0152",
+    "original": "異常事態",
+    "translation": "异常状况",
+    "context": "INFO\n\n**翻译辅助**：\n\n异常状况\n\n异常情况"
+  },
+  {
+    "key": "evt_SCENARIOS_0153",
+    "original": "プール調査",
+    "translation": "调查游泳池",
+    "context": "INFO\n\n**翻译辅助**：\n\n调查游泳池\n\n游泳池调查"
+  },
+  {
+    "key": "evt_SCENARIOS_0154",
+    "original": "プールで異変が発生しないか\n監視と調査を行う",
+    "translation": "游泳池会不会发生异变呢\n进行监视与调查",
+    "context": "INFO\n\n**翻译辅助**：\n\n游泳池会不会发生异变呢  \n进行监视与调查\n\n游泳池是否发生异常情况  \n进行监视和调查\n\n监视和调查游泳池是否发生异常"
+  },
+  {
+    "key": "evt_SCENARIOS_0155",
+    "original": "プールで異変が発生しないか\n監視と調査を行った",
+    "translation": "监视和调查了游泳池\n是否发生异常",
+    "context": "INFO\n\n**翻译辅助**：\n\n在泳池里设下异变  \n监视并调查\n\n在游泳池是否发生异常情况  \n进行了监视和调查\n\n对游泳池是否发生异常进行了监视和调查"
+  },
+  {
+    "key": "evt_SCENARIOS_0157",
+    "original": "プールサイド",
+    "translation": "游泳池畔",
+    "context": "INFO\n\n**翻译辅助**：\n\n游泳池畔\n\n游泳池边\n\n泳池边"
+  },
+  {
+    "key": "evt_SCENARIOS_0159",
+    "original": "月はどっちだ",
+    "translation": "月亮在哪边",
+    "context": "INFO\n\n**翻译辅助**：\n\n月亮在哪边\n\n月亮在哪里"
+  },
+  {
+    "key": "evt_SCENARIOS_0161",
+    "original": "宇宙のお友達へ",
+    "translation": "致太空的朋友",
+    "context": "INFO\n\n**翻译辅助**：\n\n致太空的朋友\n\n致宇宙的朋友\n\n给宇宙的朋友"
+  },
+  {
+    "key": "evt_SCENARIOS_0163",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0164",
+    "original": "校舎へ",
+    "translation": "前往校舍",
+    "context": "INFO\n\n**翻译辅助**：\n\n前往校舍\n\n去校舍\n\n到校舍"
+  },
+  {
+    "key": "evt_SCENARIOS_0165",
+    "original": "ハルヒをプールから引き離すため\n古泉と校舎で仕掛けを準備",
+    "translation": "为了让春日离开游泳池，\n和古泉在校舍准备机关",
+    "context": "INFO\n\n**翻译辅助**：\n\n将春日引离泳池  \n和古泉在校舍设陷阱\n\n为了让春日离开游泳池  \n在古泉和校舍准备机关\n\n为了让春日离开泳池  \n古泉和校舍准备了装置"
+  },
+  {
+    "key": "evt_SCENARIOS_0166",
+    "original": "ハルヒをプールから引き離すため\n古泉と校舎で仕掛けを準備した",
+    "translation": "为了让春日离开游泳池，\n和古泉在校舍准备了机关",
+    "context": "INFO\n\n**翻译辅助**：\n\n将春日引离泳池  \n和古泉在校舍设了陷阱\n\n为了让春日离开游泳池  \n在古泉和校舍里准备了机关\n\n为了让春日离开游泳池  \n在古泉和校舍准备了装置"
+  },
+  {
+    "key": "evt_SCENARIOS_0168",
+    "original": "共同作業",
+    "translation": "共同作业",
+    "context": "INFO\n\n**翻译辅助**：\n\n共同作业\n\n协作"
+  },
+  {
+    "key": "evt_SCENARIOS_0170",
+    "original": "理科室のアイツ",
+    "translation": "理化教室的那家伙",
+    "context": "INFO\n\n**翻译辅助**：\n\n理化教室的那家伙\n\n理科室的那家伙\n\n理科教室的那家伙"
+  },
+  {
+    "key": "evt_SCENARIOS_0172",
+    "original": "恐怖の科学",
+    "translation": "恐怖的科学",
+    "context": "INFO\n\n**翻译辅助**：\n\n恐怖的科学\n\n恐怖科学"
+  },
+  {
+    "key": "evt_SCENARIOS_0174",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0175",
+    "original": "買い出し",
+    "translation": "采买",
+    "context": "INFO\n\n**翻译辅助**：\n\n采买\n\n采购"
+  },
+  {
+    "key": "evt_SCENARIOS_0176",
+    "original": "夜食の買い出しに行く\n（最低１名配置してください）",
+    "translation": "去买夜宵\n（请至少配置１人）",
+    "context": "INFO\n\n**翻译辅助**：\n\n去买宵夜  \n（至少一人）\n\n去买夜宵  \n（最少配置一名）\n\n去采购夜宵  \n（至少安排1人）"
+  },
+  {
+    "key": "evt_SCENARIOS_0177",
+    "original": "夜食の買い出しに行ってきた",
+    "translation": "去买了夜宵",
+    "context": "INFO\n\n**翻译辅助**：\n\n出门买消夜\n\n去买夜宵回来了"
+  },
+  {
+    "key": "evt_SCENARIOS_0179",
+    "original": "夜のコンビニへ",
+    "translation": "夜晚的便利商店",
+    "context": "INFO\n\n**翻译辅助**：\n\n夜晚的便利商店\n\n晚上去便利店"
+  },
+  {
+    "key": "evt_SCENARIOS_0181",
+    "original": "みくるのお買い物",
+    "translation": "实玖瑠的购物",
+    "context": "INFO\n\n**翻译辅助**：\n\n实玖瑠的购物"
+  },
+  {
+    "key": "evt_SCENARIOS_0183",
+    "original": "長門の欲しい物",
+    "translation": "长门的想要",
+    "context": "INFO\n\n**翻译辅助**：\n\n长门的想要\n\n长门要的东西\n\n长门想要的东西"
+  },
+  {
+    "key": "evt_SCENARIOS_0185",
+    "original": "両手に買い物袋",
+    "translation": "两手提着购物袋",
+    "context": "INFO\n\n**翻译辅助**：\n\n两手提着购物袋\n\n两手拿着购物袋\n\n双手购物袋"
+  },
+  {
+    "key": "evt_SCENARIOS_0186",
+    "original": "足止め",
+    "translation": "拦路",
+    "context": "INFO\n\n**翻译辅助**：\n\n拦路\n\n困住\n\n止步"
+  },
+  {
+    "key": "evt_SCENARIOS_0187",
+    "original": "ハルヒが部室から出ないように\nなんとか足止め",
+    "translation": "不让春日离开社团教室\n想办法绊住她",
+    "context": "INFO\n\n**翻译辅助**：\n\n不让春日离开社团教室  \n想办法绊住她\n\n为了不让春日走出活动室  \n\n\n为了不让春日离开活动室，想尽办法拖住他"
+  },
+  {
+    "key": "evt_SCENARIOS_0188",
+    "original": "ハルヒが部室から出ないように\nなんとか足止めした",
+    "translation": "为了不让春日离开活动室，\n想尽办法拖住了她",
+    "context": "INFO\n\n**翻译辅助**：\n\n不让春日离开社团教室  \n想办法绊住她了\n\n为了不让春日离开活动室，我想尽办法拖住了他  \n\n\n为了不让春日走出活动室"
+  },
+  {
+    "key": "evt_SCENARIOS_0190",
+    "original": "最後の抵抗",
+    "translation": "最后的抵抗",
+    "context": "INFO\n\n**翻译辅助**：\n\n最后的抵抗"
+  },
+  {
+    "key": "evt_SCENARIOS_0192",
+    "original": "絆創膏",
+    "translation": "创可贴",
+    "context": "INFO\n\n**翻译辅助**：\n\n创可贴"
+  },
+  {
+    "key": "evt_SCENARIOS_0194",
+    "original": "長門の怖い物？",
+    "translation": "长门的害怕？",
+    "context": "INFO\n\n**翻译辅助**：\n\n长门的害怕？\n\n长门可怕的东西？\n\n长门的可怕之物？"
+  },
+  {
+    "key": "evt_SCENARIOS_0196",
+    "original": "肝試しのルール",
+    "translation": "试胆大会的规则",
+    "context": "INFO\n\n**翻译辅助**：\n\n试胆大会的规则\n\n试胆的规则\n\n试胆规则"
+  },
+  {
+    "key": "evt_SCENARIOS_0198",
+    "original": "影の王国",
+    "translation": "影之王国",
+    "context": "INFO\n\n**翻译辅助**：\n\n影之王国\n\n影子王国"
+  },
+  {
+    "key": "evt_SCENARIOS_0200",
+    "original": "納得できない",
+    "translation": "无法接受",
+    "context": "INFO\n\n**翻译辅助**：\n\n无法接受\n\n不能接受"
+  },
+  {
+    "key": "evt_SCENARIOS_0202",
+    "original": "やり直し",
+    "translation": "重来",
+    "context": "INFO\n\n**翻译辅助**：\n\n重来\n\n重做\n\n重新做"
+  },
+  {
+    "key": "evt_SCENARIOS_0204",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0205",
+    "original": "捕獲",
+    "translation": "捕获",
+    "context": "INFO\n\n**翻译辅助**：\n\n捕获"
+  },
+  {
+    "key": "evt_SCENARIOS_0206",
+    "original": "コンピ研部員たちを捕獲\n（最低１名配置してください）",
+    "translation": "捕获电研社部员\n（请至少配置１人）",
+    "context": "INFO\n\n**翻译辅助**：\n\n捕捉电脑社社员  \n（至少一人）\n\n捕获电研社部员  \n（至少安排1人）\n\n捕获电研社人员  \n（最少配置1名）"
+  },
+  {
+    "key": "evt_SCENARIOS_0207",
+    "original": "様子がおかしくなった\nコンピ研部員たちを捕獲した",
+    "translation": "捕获了情况变得奇怪的\n电研社部员们",
+    "context": "INFO\n\n**翻译辅助**：\n\n情况有异  \n捕捉电脑社社员了\n\n情况变得奇怪了  \n捕获了电研社部员们\n\n捕获了电研社部的成员们"
+  },
+  {
+    "key": "evt_SCENARIOS_0209",
+    "original": "自画自賛",
+    "translation": "自卖自夸",
+    "context": "INFO\n\n**翻译辅助**：\n\n自卖自夸\n\n自吹自擂"
+  },
+  {
+    "key": "evt_SCENARIOS_0211",
+    "original": "頼りない相棒",
+    "translation": "不可靠的搭档",
+    "context": "INFO\n\n**翻译辅助**：\n\n不可靠的搭档\n\n不可靠的伙伴"
+  },
+  {
+    "key": "evt_SCENARIOS_0213",
+    "original": "頼りになる相棒",
+    "translation": "可靠的搭档",
+    "context": "INFO\n\n**翻译辅助**：\n\n可靠的搭档\n\n可靠的伙伴"
+  },
+  {
+    "key": "evt_SCENARIOS_0215",
+    "original": "持ちつ持たれつ",
+    "translation": "互助合作",
+    "context": "INFO\n\n**翻译辅助**：\n\n互助合作\n\n互相扶持\n\n夹持列"
+  },
+  {
+    "key": "evt_SCENARIOS_0217",
+    "original": "両極端",
+    "translation": "两极",
+    "context": "INFO\n\n**翻译辅助**：\n\n两极\n\n两个极端"
+  },
+  {
+    "key": "evt_SCENARIOS_0219",
+    "original": "大ピンチ！？",
+    "translation": "大危机？",
+    "context": "INFO\n\n**翻译辅助**：\n\n大危机？\n\n大危机！？"
+  },
+  {
+    "key": "evt_SCENARIOS_0221",
+    "original": "意外な再会",
+    "translation": "意外重逢",
+    "context": "INFO\n\n**翻译辅助**：\n\n意外重逢\n\n意外的再会\n\n意外的重逢"
+  },
+  {
+    "key": "evt_SCENARIOS_0223",
+    "original": "痕跡",
+    "translation": "痕迹",
+    "context": "INFO\n\n**翻译辅助**：\n\n痕迹"
+  },
+  {
+    "key": "evt_SCENARIOS_0224",
+    "original": "駒の回収",
+    "translation": "回收棋子",
+    "context": "INFO\n\n**翻译辅助**：\n\n回收棋子\n\n棋子的回收"
+  },
+  {
+    "key": "evt_SCENARIOS_0225",
+    "original": "肝試し完遂の証\nチェスの駒を取ってくる",
+    "translation": "试胆成功的证明，\n去拿国际象棋的棋子",
+    "context": "INFO\n\n**翻译辅助**：\n\n试胆成功的证明  \n去拿棋子\n\n试胆成功的证明  \n取下国际象棋棋子\n\n取下国际象棋的棋子来证明试胆成功"
+  },
+  {
+    "key": "evt_SCENARIOS_0226",
+    "original": "肝試し完遂の証\nチェスの駒を取ってきた",
+    "translation": "试胆成功的证明，\n去拿了国际象棋的棋子",
+    "context": "INFO\n\n**翻译辅助**：\n\n试胆成功的证明  \n去拿棋子了\n\n试胆成功的证明  \n拿到了国际象棋的棋子\n\n取下了国际象棋的棋子"
+  },
+  {
+    "key": "evt_SCENARIOS_0228",
+    "original": "さらなる被害者",
+    "translation": "新的被害者",
+    "context": "INFO\n\n**翻译辅助**：\n\n新的被害者\n\n更进一步的受害者\n\n更多的受害者"
+  },
+  {
+    "key": "evt_SCENARIOS_0230",
+    "original": "奪われたモノ",
+    "translation": "被夺之物",
+    "context": "INFO\n\n**翻译辅助**：\n\n被夺之物\n\n被夺走的东西"
+  },
+  {
+    "key": "evt_SCENARIOS_0232",
+    "original": "容赦ない人",
+    "translation": "无情的人",
+    "context": "INFO\n\n**翻译辅助**：\n\n无情的人\n\n毫不留情的人"
+  },
+  {
+    "key": "evt_SCENARIOS_0234",
+    "original": "ヤツらを追って",
+    "translation": "追逐那家伙",
+    "context": "INFO\n\n**翻译辅助**：\n\n追逐那家伙\n\n追赶他们\n\n去追那些家伙"
+  },
+  {
+    "key": "evt_SCENARIOS_0236",
+    "original": "予想外",
+    "translation": "意外",
+    "context": "INFO\n\n**翻译辅助**：\n\n意外\n\n出乎意料\n\n意料之外"
+  },
+  {
+    "key": "evt_SCENARIOS_0238",
+    "original": "違和感",
+    "translation": "异样感",
+    "context": "INFO\n\n**翻译辅助**：\n\n异样感\n\n不协调感\n\n违和感"
+  },
+  {
+    "key": "evt_SCENARIOS_0240",
+    "original": "誰もいない",
+    "translation": "空无一人",
+    "context": "INFO\n\n**翻译辅助**：\n\n空无一人\n\n谁都不在\n\n谁也不在"
+  },
+  {
+    "key": "evt_SCENARIOS_0242",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0243",
+    "original": "足止め",
+    "translation": "拦路",
+    "context": "INFO\n\n**翻译辅助**：\n\n拦路\n\n困住\n\n止步"
+  },
+  {
+    "key": "evt_SCENARIOS_0244",
+    "original": "部室でハルヒを足止めする\n（最低１名配置してください）",
+    "translation": "在活动室阻止春日\n（请至少配置１人）",
+    "context": "INFO\n\n**翻译辅助**：\n\n在社团教室绊住春日  \n（至少一人）\n\n在活动室阻止春日  \n（最低配置1名）\n\n在活动室困住春日  \n（至少安排1人）"
+  },
+  {
+    "key": "evt_SCENARIOS_0245",
+    "original": "部室でハルヒを足止めした",
+    "translation": "在社团教室绊住春日",
+    "context": "INFO\n\n**翻译辅助**：\n\n在社团教室绊住春日\n\n在活动室阻止了春日\n\n把春日困在活动室里"
+  },
+  {
+    "key": "evt_SCENARIOS_0247",
+    "original": "ゲーム",
+    "translation": "游戏",
+    "context": "INFO\n\n**翻译辅助**：\n\n游戏\n\n游戏名称"
+  },
+  {
+    "key": "evt_SCENARIOS_0249",
+    "original": "誤算",
+    "translation": "失算",
+    "context": "INFO\n\n**翻译辅助**：\n\n失算\n\n误算\n\n大错特错"
+  },
+  {
+    "key": "evt_SCENARIOS_0251",
+    "original": "白熱",
+    "translation": "白热化",
+    "context": "INFO\n\n**翻译辅助**：\n\n白热化\n\n白炽灯\n\n白热"
+  },
+  {
+    "key": "evt_SCENARIOS_0253",
+    "original": "トーナメント",
+    "translation": "淘汰赛",
+    "context": "INFO\n\n**翻译辅助**：\n\n淘汰赛"
+  },
+  {
+    "key": "evt_SCENARIOS_0254",
+    "original": "時計に細工",
+    "translation": "对时钟动手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n对时钟动手脚\n\n钟表工艺\n\n在手表上做手脚"
+  },
+  {
+    "key": "evt_SCENARIOS_0255",
+    "original": "異変の起こる時間を避けるため\n時計の針に細工する",
+    "translation": "为了避免发生异变的时间，\n在时钟的指针上做手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n避开异变发生的时间  \n对时钟动手脚\n\n为了避开异变发生的时间  \n在时钟的指针上动手脚\n\n为了避免发生异变的时间  \n在表针上做工艺品"
+  },
+  {
+    "key": "evt_SCENARIOS_0256",
+    "original": "異変の起こる時間を避けるため\n時計の針に細工を行った",
+    "translation": "为了避免发生异变的时间，\n在时钟的指针上做了手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n避开异变发生的时间  \n对时钟动手脚了\n\n为了避免发生异变的时间  \n在表针上做了手脚\n\n为了避开异变发生的时间，在时钟的指针上动了手脚"
+  },
+  {
+    "key": "evt_SCENARIOS_0258",
+    "original": "孤独な作業",
+    "translation": "孤独的作业",
+    "context": "INFO\n\n**翻译辅助**：\n\n孤独的作业\n\n孤独的工作"
+  },
+  {
+    "key": "evt_SCENARIOS_0260",
+    "original": "ニアミス",
+    "translation": "擦身而过",
+    "context": "INFO\n\n**翻译辅助**：\n\n擦身而过\n\n阿米斯\n\n近距离"
+  },
+  {
+    "key": "evt_SCENARIOS_0262",
+    "original": "身近な盲点",
+    "translation": "身边的盲点",
+    "context": "INFO\n\n**翻译辅助**：\n\n身边的盲点"
+  },
+  {
+    "key": "evt_SCENARIOS_0264",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0265",
+    "original": "鏡に細工",
+    "translation": "对镜子动手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n对镜子动手脚\n\n镜子上的工艺品\n\n在镜子上做工艺品"
+  },
+  {
+    "key": "evt_SCENARIOS_0266",
+    "original": "ハルヒに見られないように\n鏡に細工をする",
+    "translation": "为了不让春日看见，\n在镜子上做手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n不让春日看见  \n对镜子动手脚\n\n为了不让春日看见  \n在镜子上做工艺品\n\n为了不让春日看到，在镜子上动了手脚"
+  },
+  {
+    "key": "evt_SCENARIOS_0267",
+    "original": "ハルヒに見られないように\n鏡に細工を行った",
+    "translation": "为了不让春日看见，\n在镜子上做了手脚",
+    "context": "INFO\n\n**翻译辅助**：\n\n不让春日看见  \n对镜子动手脚了\n\n为了不让春日看见，在镜子上做了些工艺品  \n\n\n为了不让春日看见，在镜子上做了手脚"
+  },
+  {
+    "key": "evt_SCENARIOS_0269",
+    "original": "地道な作業",
+    "translation": "踏实的作业",
+    "context": "INFO\n\n**翻译辅助**：\n\n踏实的作业\n\n踏实的工作"
+  },
+  {
+    "key": "evt_SCENARIOS_0271",
+    "original": "異常事態",
+    "translation": "异常状况",
+    "context": "INFO\n\n**翻译辅助**：\n\n异常状况\n\n异常情况"
+  },
+  {
+    "key": "evt_SCENARIOS_0273",
+    "original": "二者択一",
+    "translation": "二选一",
+    "context": "INFO\n\n**翻译辅助**：\n\n二选一"
+  },
+  {
+    "key": "evt_SCENARIOS_0275",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  },
+  {
+    "key": "evt_SCENARIOS_0276",
+    "original": "特異点設置",
+    "translation": "设置奇点",
+    "context": "INFO\n\n**翻译辅助**：\n\n设置奇点\n\n奇点设置"
+  },
+  {
+    "key": "evt_SCENARIOS_0277",
+    "original": "長門製の特異点となる\nチェスの駒を設置する",
+    "translation": "设置成为长门制造的\n作为奇点的国际象棋棋子",
+    "context": "INFO\n\n**翻译辅助**：\n\n成为长门制的奇点  \n设置棋子\n\n长门制造的奇点  \n设置国际象棋棋子\n\n设置国际象棋棋子是长门制的特殊点"
+  },
+  {
+    "key": "evt_SCENARIOS_0278",
+    "original": "特異点（チェスの駒）を設置した",
+    "translation": "设置奇点（国际象棋的棋子）",
+    "context": "INFO\n\n**翻译辅助**：\n\n设置奇点（国际象棋的棋子）\n\n设置了奇点（国际象棋棋子）\n\n设置了特殊点（国际象棋棋子）"
+  },
+  {
+    "key": "evt_SCENARIOS_0280",
+    "original": "異変を辿って",
+    "translation": "追寻异变",
+    "context": "INFO\n\n**翻译辅助**：\n\n追寻异变\n\n追溯异变\n\n追寻着异变"
+  },
+  {
+    "key": "evt_SCENARIOS_0282",
+    "original": "ひとりきり",
+    "translation": "独自一人",
+    "context": "INFO\n\n**翻译辅助**：\n\n独自一人\n\n一个人"
+  },
+  {
+    "key": "evt_SCENARIOS_0284",
+    "original": "東奔西走",
+    "translation": "东奔西走",
+    "context": "INFO\n\n**翻译辅助**：\n\n东奔西走"
+  },
+  {
+    "key": "evt_SCENARIOS_0286",
+    "original": "存在しない場所",
+    "translation": "不存在的地点",
+    "context": "INFO\n\n**翻译辅助**：\n\n不存在的地点\n\n不存在的地方"
+  }
 ]

@@ -1,26 +1,46 @@
 [
-  [
-    "長門",
-    "１１問目\n出題する"
-  ],
-  [
-    "インフォ",
-    "時間内に３手で“チェックメイト”\nしてください"
-  ],
-  [
-    "長門",
-    "正解\n次の準備をする"
-  ],
-  [
-    "長門",
-    "不正解\n再挑戦を受け付ける"
-  ],
-  [
-    "長門",
-    "この問題では不要です　（仮）"
-  ],
-  [
-    "長門",
-    "これは表示されませんね\n（仮）"
-  ]
+  {
+    "index": 0,
+    "key": "evt_CHS_NAG_11S_0000",
+    "original": "１１問目\n出題する",
+    "translation": "１１問目\n出題する",
+    "speaker": "長門"
+  },
+  {
+    "index": 1,
+    "key": "evt_CHS_NAG_11S_0001",
+    "original": "時間内に３手で“チェックメイト”\nしてください",
+    "translation": "時間内に３手で“チェックメイト”\nしてください",
+    "speaker": "インフォ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CHS_NAG_11S_0002",
+    "original": "正解\n次の準備をする",
+    "translation": "正解\n次の準備をする",
+    "speaker": "長門"
+  },
+  {
+    "index": 3,
+    "key": "evt_CHS_NAG_11S_0003",
+    "original": "不正解\n再挑戦を受け付ける",
+    "translation": "不正解\n再挑戦を受け付ける",
+    "speaker": "長門"
+  },
+  {
+    "index": 4,
+    "key": "evt_CHS_NAG_11S_0004",
+    "original": "この問題では不要です　（仮）",
+    "translation": "この問題では不要です　（仮）",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_CHS_NAG_11S_0005",
+    "original": "これは表示されませんね\n（仮）",
+    "translation": "これは表示されませんね\n（仮）",
+    "speaker": "長門",
+    "trash": true
+  }
 ]

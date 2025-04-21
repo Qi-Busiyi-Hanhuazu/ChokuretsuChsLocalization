@@ -1,22 +1,41 @@
 [
-  [
-    "INFO",
-    "グランドピアノ"
-  ],
-  [
-    "INFO",
-    "\u0007"
-  ],
-  [
-    "INFO",
-    "\u0005"
-  ],
-  [
-    "INFO",
-    ""
-  ],
-  [
-    "INFO",
-    "\u0006"
-  ]
+  {
+    "index": 0,
+    "key": "dat_ONGD0S_0000",
+    "original": "グランドピアノ",
+    "translation": "グランドピアノ",
+    "speaker": "INFO"
+  },
+  {
+    "index": 1,
+    "key": "dat_ONGD0S_0001",
+    "original": "\u0007",
+    "translation": "\u0007",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "dat_ONGD0S_0002",
+    "original": "\u0005",
+    "translation": "\u0005",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "dat_ONGD0S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "INFO",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "dat_ONGD0S_0004",
+    "original": "\u0006",
+    "translation": "\u0006",
+    "speaker": "INFO",
+    "trash": true
+  }
 ]
