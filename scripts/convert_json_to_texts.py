@@ -19,6 +19,7 @@ def parse_json(
   output = []
 
   data: list[list[str]] = json.load(reader)
+  all_trash = True
   for index, (speaker, content) in enumerate(data):
     key = f"{sheet_name}_{index:04d}"
     content = CONTROL_PATTERN.sub(lambda x: f"[{x.group(0)}]", content)
@@ -31,9 +32,13 @@ def parse_json(
     }
     if TRASH_PATTERN.search(content):
       item["trash"] = True
+    else:
+      all_trash = False
 
     output.append(item)
 
+  if all_trash:
+    return []
   return output
 
 
