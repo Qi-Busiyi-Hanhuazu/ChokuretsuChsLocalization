@@ -7,22 +7,22 @@
   {
     "key": "evt_CHS_MIK_05S_0002",
     "original": "",
-    "translation": "We'll now explain a skewer."
+    "translation": "We will now explain a skewer."
   },
   {
     "key": "evt_CHS_MIK_05S_0003",
     "original": "",
-    "translation": "A skewer is the same as a pin, other than the\nfact that…"
+    "translation": "A skewer is the same as a pin, except for the\nfact that…"
   },
   {
     "key": "evt_CHS_MIK_05S_0004",
     "original": "",
-    "translation": "…the valuable piece is instead the one being\nattacked."
+    "translation": "…the valuable piece is the one being\nattacked instead."
   },
   {
     "key": "evt_CHS_MIK_05S_0005",
     "original": "",
-    "translation": "It's a technique to skewer one piece to aim\nfor the piece behind."
+    "translation": "It is a technique where you skewer one piece\nto aim for the piece behind it."
   },
   {
     "key": "evt_CHS_MIK_05S_0006",
@@ -37,7 +37,7 @@
   {
     "key": "evt_CHS_MIK_05S_0008",
     "original": "",
-    "translation": "Since the black queen cannot move,\ncapturing it is guaranteed."
+    "translation": "Since the black queen cannot move, its\ncapture is guaranteed."
   },
   {
     "key": "evt_CHS_MIK_05S_0009",
@@ -87,6 +87,6 @@
   {
     "key": "evt_CHS_MIK_05S_0018",
     "original": "",
-    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+    "translation": "Make sure to consider the value of each\npiece, okay?"
   }
 ]

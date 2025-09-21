@@ -22,7 +22,7 @@
   {
     "key": "evt_CHS_KOI_03S_0004",
     "original": "",
-    "translation": "Whether an enemy or ally piece, you can't\nmake one piece jump past another."
+    "translation": "Whether an enemy or ally piece, you cannot\nmake one piece jump past another."
   },
   {
     "key": "evt_CHS_KOI_03S_0005",
@@ -32,7 +32,7 @@
   {
     "key": "evt_CHS_KOI_03S_0006",
     "original": "",
-    "translation": "You cannot enter a tile with an ally piece on it.\nYou must stop right before their tile."
+    "translation": "Your piece may not enter a tile with an ally\npiece on it. It must stop before contact."
   },
   {
     "key": "evt_CHS_KOI_03S_0007",
@@ -42,17 +42,17 @@
   {
     "key": "evt_CHS_KOI_03S_0008",
     "original": "",
-    "translation": "You can move to the tile of an enemy piece by\ncapturing the piece."
+    "translation": "You can move to the tile of an enemy piece by\ncapturing it."
   },
   {
     "key": "evt_CHS_KOI_03S_0009",
     "original": "",
-    "translation": "You cannot then continue to advance in the\nsame turn. You must stop on the tile."
+    "translation": "Your piece cannot then continue to advance\nin the same turn, and must stop on the tile."
   },
   {
     "key": "evt_CHS_KOI_03S_0010",
     "original": "",
-    "translation": "Now we understand the basic rules, we'll\nexplain how each piece moves."
+    "translation": "Now that we understand the basic rules, we'll\nexplain how each piece moves."
   },
   {
     "key": "evt_CHS_KOI_03S_0011",
@@ -117,7 +117,7 @@
   {
     "key": "evt_CHS_KOI_03S_0023",
     "original": "",
-    "translation": "It cannot share a tile with an ally piece, but it\ncan capture the opponent's pieces."
+    "translation": "They cannot share a tile with an ally piece,\nbut they can capture the opponent's pieces."
   },
   {
     "key": "evt_CHS_KOI_03S_0024",
@@ -132,7 +132,7 @@
   {
     "key": "evt_CHS_KOI_03S_0026",
     "original": "",
-    "translation": "They can move to tiles to the left or right of\na tile two tiles away in any direction."
+    "translation": "They move in an \"L” shape, two tiles away in\nany direction, and an additional tile sideways."
   },
   {
     "key": "evt_CHS_KOI_03S_0027",
@@ -142,12 +142,12 @@
   {
     "key": "evt_CHS_KOI_03S_0028",
     "original": "",
-    "translation": "It's a little complicated, but it's an important\nmovement, so try to remember it."
+    "translation": "The movement is little complicated, but also\nimportant, so try to remember it."
   },
   {
     "key": "evt_CHS_KOI_03S_0029",
     "original": "",
-    "translation": "There's another special rule to the knight's\nmovement."
+    "translation": "There is another special rule to the knight's\nmovement."
   },
   {
     "key": "evt_CHS_KOI_03S_0030",
@@ -177,7 +177,7 @@
   {
     "key": "evt_CHS_KOI_03S_0035",
     "original": "",
-    "translation": "They're no different to rooks in shogi."
+    "translation": "They are no different to rooks in shogi."
   },
   {
     "key": "evt_CHS_KOI_03S_0036",
@@ -192,7 +192,7 @@
   {
     "key": "evt_CHS_KOI_03S_0038",
     "original": "",
-    "translation": "Pawns can move one space forwards."
+    "translation": "Pawns can move one space forward."
   },
   {
     "key": "evt_CHS_KOI_03S_0039",
@@ -212,7 +212,7 @@
   {
     "key": "evt_CHS_KOI_03S_0042",
     "original": "",
-    "translation": "Special rule 1. They can move up to two spaces\nforwards on their first move."
+    "translation": "Special rule 1. They can move up to two spaces\nforward on their first move."
   },
   {
     "key": "evt_CHS_KOI_03S_0043",
@@ -222,7 +222,7 @@
   {
     "key": "evt_CHS_KOI_03S_0044",
     "original": "",
-    "translation": "…it can move two spaces forwards."
+    "translation": "…it can move two spaces forward."
   },
   {
     "key": "evt_CHS_KOI_03S_0045",
@@ -252,7 +252,7 @@
   {
     "key": "evt_CHS_KOI_03S_0050",
     "original": "",
-    "translation": "Pawns can capture pieces diagonally forward\nfrom them."
+    "translation": "Pawns can capture pieces one square\ndiagonally forward from them."
   },
   {
     "key": "evt_CHS_KOI_03S_0051",
@@ -262,12 +262,12 @@
   {
     "key": "evt_CHS_KOI_03S_0052",
     "original": "",
-    "translation": "…if there is an enemy on those tiles."
+    "translation": "…if there is an enemy piece on those tiles."
   },
   {
     "key": "evt_CHS_KOI_03S_0053",
     "original": "",
-    "translation": "Pawns can only advance forwards, not\nbackwards."
+    "translation": "Pawns can only advance forward, not\nbackwards."
   },
   {
     "key": "evt_CHS_KOI_03S_0054",
@@ -282,17 +282,17 @@
   {
     "key": "evt_CHS_KOI_03S_0056",
     "original": "",
-    "translation": "There is a special rule to pawns called \"en\npassant.”"
+    "translation": "There is a special rule for pawns called \"en\npassant.”"
   },
   {
     "key": "evt_CHS_KOI_03S_0057",
     "original": "",
-    "translation": "Pawns can move up to two spaces forwards\non their first move."
+    "translation": "Pawns can move up to two spaces forward on\ntheir first move."
   },
   {
     "key": "evt_CHS_KOI_03S_0058",
     "original": "",
-    "translation": "Only when a pawn has moved two spaces\nforwards…"
+    "translation": "Only when a pawn has moved two spaces\nforward…"
   },
   {
     "key": "evt_CHS_KOI_03S_0059",
@@ -307,12 +307,12 @@
   {
     "key": "evt_CHS_KOI_03S_0061",
     "original": "",
-    "translation": "…if the opponent's pawn on the adjacent\ncolumn advances two tiles…"
+    "translation": "…and the opponent's pawn on the adjacent\ncolumn advances two tiles…"
   },
   {
     "key": "evt_CHS_KOI_03S_0062",
     "original": "",
-    "translation": "…you can move your pawn diagonally\nforwards to capture the opponent's pawn."
+    "translation": "…you can move your pawn diagonally forward\nto capture the opponent's pawn."
   },
   {
     "key": "evt_CHS_KOI_03S_0063",
@@ -332,7 +332,7 @@
   {
     "key": "evt_CHS_KOI_03S_0066",
     "original": "",
-    "translation": "…after they have advanced two tiles\nforwards."
+    "translation": "…after they have advanced two tiles\nforward."
   },
   {
     "key": "evt_CHS_KOI_03S_0067",

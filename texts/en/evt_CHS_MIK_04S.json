@@ -12,17 +12,17 @@
   {
     "key": "evt_CHS_MIK_04S_0003",
     "original": "",
-    "translation": "Pins can be performed with pieces that can\nmove in straight lines, such as the queen…"
+    "translation": "Pins can be performed with pieces that can\nmove in straight lines, such as bishops, rooks…"
   },
   {
     "key": "evt_CHS_MIK_04S_0004",
     "original": "",
-    "translation": "…bishops, or rooks."
+    "translation": "…and the queen."
   },
   {
     "key": "evt_CHS_MIK_04S_0005",
     "original": "",
-    "translation": "It specifically indicates a situation where a\nstraight line attack is attacking the…"
+    "translation": "It specifically indicates a situation where a\nstraight line attack is directed at the…"
   },
   {
     "key": "evt_CHS_MIK_04S_0006",
@@ -32,7 +32,7 @@
   {
     "key": "evt_CHS_MIK_04S_0007",
     "original": "",
-    "translation": "In other words, they can't move the piece in\nthe middle, as if they do…"
+    "translation": "In other words, they cannot move the piece in\nthe middle. If they do…"
   },
   {
     "key": "evt_CHS_MIK_04S_0008",
@@ -47,7 +47,7 @@
   {
     "key": "evt_CHS_MIK_04S_0010",
     "original": "",
-    "translation": "The white rook is attacking the king with the\nbishop in between…"
+    "translation": "The white rook is attacking the king, with the\nbishop in between…"
   },
   {
     "key": "evt_CHS_MIK_04S_0011",
@@ -82,7 +82,7 @@
   {
     "key": "evt_CHS_MIK_04S_0017",
     "original": "",
-    "translation": "As such, it's an effective method of\npreventing the enemy from moving pieces."
+    "translation": "As such, it is an effective method of\npreventing the enemy from moving pieces."
   },
   {
     "key": "evt_CHS_MIK_04S_0018",
@@ -112,6 +112,6 @@
   {
     "key": "evt_CHS_MIK_04S_0023",
     "original": "",
-    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+    "translation": "Make sure to consider the value of each\npiece, okay?"
   }
 ]

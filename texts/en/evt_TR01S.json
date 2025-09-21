@@ -52,7 +52,7 @@
   {
     "key": "evt_TR01S_0010",
     "original": "",
-    "translation": "[#P04]…either erase all of the singularities, or\nachieve the goal before \"Time Over” occurs."
+    "translation": "[#P04]…either erase all of the singularities, or\nachieve the goal before \"Time's Up” occurs."
   },
   {
     "key": "evt_TR01S_0011",
@@ -192,7 +192,7 @@
   {
     "key": "evt_TR01S_0038",
     "original": "",
-    "translation": "…the surrounding nine tiles that includes the\ntile itself."
+    "translation": "…the surrounding nine tiles, including the tile\nat your feet."
   },
   {
     "key": "evt_TR01S_0039",

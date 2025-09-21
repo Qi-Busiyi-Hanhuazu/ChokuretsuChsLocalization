@@ -287,7 +287,7 @@
   {
     "key": "evt_EV1_010S_0062",
     "original": "",
-    "translation": "H2O, the chemical formula of water."
+    "translation": "H?O, the chemical formula of water."
   },
   {
     "key": "evt_EV1_010S_0063",
@@ -347,7 +347,7 @@
   {
     "key": "evt_EV1_010S_0074",
     "original": "",
-    "translation": "Look, it doesn't look like it says H2O."
+    "translation": "Look, it doesn't look like it says H?O."
   },
   {
     "key": "evt_EV1_010S_0075",
@@ -642,7 +642,7 @@
   {
     "key": "evt_EV1_010S_0141",
     "original": "",
-    "translation": "The inside is an amino acid compound with\ndietary fibre from beans. It's mainly sucrose."
+    "translation": "The inside is an amino acid compound with\ndietary fiber from beans. It's mainly sucrose."
   },
   {
     "key": "evt_EV1_010S_0142",
@@ -832,7 +832,7 @@
   {
     "key": "evt_EV1_010S_0181",
     "original": "",
-    "translation": "Is that why they think there's a link with\n\"electromagnetic radiation?”"
+    "translation": "Is that why they think there's a link with\n\"electromagnetic radiation”?"
   },
   {
     "key": "evt_EV1_010S_0182",

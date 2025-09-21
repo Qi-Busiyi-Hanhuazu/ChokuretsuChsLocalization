@@ -7,7 +7,7 @@
   {
     "key": "evt_CHS_MIK_02S_0002",
     "original": "",
-    "translation": "We'll now explain breaking down a piece's\ndefense to help you…"
+    "translation": "We will now explain breaking down a piece's\ndefense to help you…"
   },
   {
     "key": "evt_CHS_MIK_02S_0003",
@@ -22,22 +22,22 @@
   {
     "key": "evt_CHS_MIK_02S_0005",
     "original": "",
-    "translation": "In a board state like the one shown on the\nbottom screen, it's possible to capture the…"
+    "translation": "In a board state like the one shown on the\nbottom screen, it is possible to capture the…"
   },
   {
     "key": "evt_CHS_MIK_02S_0006",
     "original": "",
-    "translation": "…rook the bishop, but it'll immediately be taken\nby the pawn."
+    "translation": "…rook with your bishop, but it will immediately\nbe taken by the pawn."
   },
   {
     "key": "evt_CHS_MIK_02S_0007",
     "original": "",
-    "translation": "In this situation, you say the bishop is being\ndefended by the pawn."
+    "translation": "This situation can be described as the bishop\nbeing defended by the pawn."
   },
   {
     "key": "evt_CHS_MIK_02S_0008",
     "original": "",
-    "translation": "We can't trade the rook and the bishop…"
+    "translation": "We cannot trade the rook and the bishop…"
   },
   {
     "key": "evt_CHS_MIK_02S_0009",
@@ -47,7 +47,7 @@
   {
     "key": "evt_CHS_MIK_02S_0010",
     "original": "",
-    "translation": "Defending your pieces like this so they\ncannot be taken by your opponent…"
+    "translation": "Defending your pieces like this so that they\ncannot be taken by your opponent…"
   },
   {
     "key": "evt_CHS_MIK_02S_0011",
@@ -77,7 +77,7 @@
   {
     "key": "evt_CHS_MIK_02S_0016",
     "original": "",
-    "translation": "Take a look at this board on the bottom\nscreen, where you must checkmate in two moves."
+    "translation": "Take a look at the board on the bottom\nscreen, where you must checkmate in two moves."
   },
   {
     "key": "evt_CHS_MIK_02S_0017",
@@ -102,7 +102,7 @@
   {
     "key": "evt_CHS_MIK_02S_0021",
     "original": "",
-    "translation": "We'll put the queen to use here."
+    "translation": "This is where the queen takes the spotlight."
   },
   {
     "key": "evt_CHS_MIK_02S_0022",
@@ -127,12 +127,12 @@
   {
     "key": "evt_CHS_MIK_02S_0026",
     "original": "",
-    "translation": "There's no way of taking the knight or\nescaping with the king."
+    "translation": "There is no way of taking the knight or\nescaping with the king."
   },
   {
     "key": "evt_CHS_MIK_02S_0027",
     "original": "",
-    "translation": "It's checkmate."
+    "translation": "It is checkmate."
   },
   {
     "key": "evt_CHS_MIK_02S_0028",

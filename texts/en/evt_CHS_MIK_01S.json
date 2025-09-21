@@ -22,7 +22,7 @@
   {
     "key": "evt_CHS_MIK_01S_0005",
     "original": "",
-    "translation": "From now on, we will assume you understand…"
+    "translation": "From now on, we will assume that you\nunderstand…"
   },
   {
     "key": "evt_CHS_MIK_01S_0006",
@@ -42,7 +42,7 @@
   {
     "key": "evt_CHS_MIK_01S_0009",
     "original": "",
-    "translation": "Although in either case you're only losing one\npiece, there's a big difference in…"
+    "translation": "Even if you are only losing one piece, there's\na big difference between…"
   },
   {
     "key": "evt_CHS_MIK_01S_0010",
@@ -67,17 +67,17 @@
   {
     "key": "evt_CHS_MIK_01S_0014",
     "original": "",
-    "translation": "In other words, if when taking or losing a\npiece the total value of your pieces…"
+    "translation": "In other words, if taking or losing a piece\ncauses the total value of your pieces…"
   },
   {
     "key": "evt_CHS_MIK_01S_0015",
     "original": "",
-    "translation": "…overtakes your opponent's, you can assume\nthat you have the advantage."
+    "translation": "…to overtake that of your opponent's, you\ncan assume that you have the advantage."
   },
   {
     "key": "evt_CHS_MIK_01S_0016",
     "original": "",
-    "translation": "It's important to plan your strategies such\nthat you lose as few points as possible…"
+    "translation": "It is important to plan your strategies such\nthat you lose as few points as possible…"
   },
   {
     "key": "evt_CHS_MIK_01S_0017",
@@ -87,17 +87,17 @@
   {
     "key": "evt_CHS_MIK_01S_0018",
     "original": "",
-    "translation": "However, victory in chess is not about taking\nas many of your opponent's pieces…"
+    "translation": "However, victory in chess is not just about\ntaking as many of your opponent's pieces…"
   },
   {
     "key": "evt_CHS_MIK_01S_0019",
     "original": "",
-    "translation": "…as possible, it's about checkmating your\nopponent, so don't concern yourself with it…"
+    "translation": "…as possible. It's about checkmating your\nopponent, so don't concern yourself with it…"
   },
   {
     "key": "evt_CHS_MIK_01S_0020",
     "original": "",
-    "translation": "…too much, or you'll have the rug pulled out\nfrom under your feet."
+    "translation": "…too much, or you may end up being caught\noff guard."
   },
   {
     "key": "evt_CHS_MIK_01S_0021",
@@ -107,7 +107,7 @@
   {
     "key": "evt_CHS_MIK_01S_0022",
     "original": "",
-    "translation": "…that's all that matters to win!"
+    "translation": "…that is all that matters to win!"
   },
   {
     "key": "evt_CHS_MIK_01S_0023",
@@ -117,7 +117,7 @@
   {
     "key": "evt_CHS_MIK_01S_0025",
     "original": "",
-    "translation": "As you can see from the diagram, the king is\nvalued as infinite, as it cannot be taken."
+    "translation": "As you can see from the diagram, the king is\nvalued as infinite because it cannot be taken."
   },
   {
     "key": "evt_CHS_MIK_01S_0026",
@@ -137,7 +137,7 @@
   {
     "key": "evt_CHS_MIK_01S_0029",
     "original": "",
-    "translation": "If a knight is taken with a queen, and then\nthe knight is taken in return…"
+    "translation": "If a knight is taken with a queen, and the\nknight is then taken in return…"
   },
   {
     "key": "evt_CHS_MIK_01S_0030",
@@ -147,7 +147,7 @@
   {
     "key": "evt_CHS_MIK_01S_0031",
     "original": "",
-    "translation": "This means that in total, you gain a 6 point\nadvantage."
+    "translation": "This means that, in total, you gain a 6 point\nadvantage."
   },
   {
     "key": "evt_CHS_MIK_01S_0032",
@@ -157,7 +157,7 @@
   {
     "key": "evt_CHS_MIK_01S_0033",
     "original": "",
-    "translation": "Try to gain the most advantage over your\nopponent."
+    "translation": "Try to take your opponent's pieces in a way\nthat gains you the most advantage."
   },
   {
     "key": "evt_CHS_MIK_01S_0034",
@@ -192,6 +192,6 @@
   {
     "key": "evt_CHS_MIK_01S_0040",
     "original": "",
-    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+    "translation": "Make sure to consider the value of each\npiece, okay?"
   }
 ]

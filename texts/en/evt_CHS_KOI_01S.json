@@ -42,7 +42,7 @@
   {
     "key": "evt_CHS_KOI_01S_0008",
     "original": "",
-    "translation": "The players are divided into white (first to\nmove) and black, and take turns moving pieces."
+    "translation": "The players are divided into white (moves\nfirst) and black, and take turns moving pieces."
   },
   {
     "key": "evt_CHS_KOI_01S_0009",
@@ -57,7 +57,7 @@
   {
     "key": "evt_CHS_KOI_01S_0011",
     "original": "",
-    "translation": "The six piece types are—Kings"
+    "translation": "The six piece types are:\nKings"
   },
   {
     "key": "evt_CHS_KOI_01S_0012",
@@ -92,12 +92,12 @@
   {
     "key": "evt_CHS_KOI_01S_0018",
     "original": "",
-    "translation": "Make sure that the king and queen are\nfacing each other."
+    "translation": "Make sure that opposing kings and queens\nare facing each other."
   },
   {
     "key": "evt_CHS_KOI_01S_0019",
     "original": "",
-    "translation": "The placement of the pieces is not point\nsymmetric."
+    "translation": "The placement of the pieces is not\npoint-symmetric."
   },
   {
     "key": "evt_CHS_KOI_01S_0020",

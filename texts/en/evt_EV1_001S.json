@@ -7,7 +7,7 @@
   {
     "key": "evt_EV1_001S_0001",
     "original": "",
-    "translation": "The fact is—it's summer break, yet I've come\nto school. Brigade chief's orders, of course."
+    "translation": "The fact is: it's summer break, yet I've come\nto school. Brigade chief's orders, of course."
   },
   {
     "key": "evt_EV1_001S_0002",
@@ -22,7 +22,7 @@
   {
     "key": "evt_EV1_001S_0004",
     "original": "",
-    "translation": "She stole my phone, and after interrogating\nTaniguchi…"
+    "translation": "She stole my phone and, after interrogating\nTaniguchi…"
   },
   {
     "key": "evt_EV1_001S_0005",
@@ -442,7 +442,7 @@
   {
     "key": "evt_EV1_001S_0100",
     "original": "",
-    "translation": "That's pretty good, but still not quite right. I'll\ngive you 35 points. Koizumi, you're up next."
+    "translation": "That's pretty good, but still not quite right.\nI'll give you 35 points. Koizumi, you're up next."
   },
   {
     "key": "evt_EV1_001S_0102",
@@ -592,7 +592,7 @@
   {
     "key": "evt_EV1_001S_0134",
     "original": "",
-    "translation": "Part of a group that calls themselves the\n\"Agency.”"
+    "translation": "Part of a group who call themselves the\n\"Agency.”"
   },
   {
     "key": "evt_EV1_001S_0135",
@@ -992,7 +992,7 @@
   {
     "key": "evt_EV1_001S_0225",
     "original": "",
-    "translation": "You can move Kyon by tapping where you\nwant to go with the stylus."
+    "translation": "You can move Kyon by tapping where you\nwant him to go with the stylus."
   },
   {
     "key": "evt_EV1_001S_0226",
@@ -1052,7 +1052,7 @@
   {
     "key": "evt_EV1_001S_0238",
     "original": "",
-    "translation": "And you shouldn't peer into the mirror in the\nentryway at 2:22:22 AM."
+    "translation": "And you shouldn't peer into the mirror in the\nentryway at 2:22:22am."
   },
   {
     "key": "evt_EV1_001S_0239",
@@ -1187,7 +1187,7 @@
   {
     "key": "evt_EV1_001S_0266",
     "original": "",
-    "translation": "If I were to be selfish, I would've preferred a\ncool barley tea, but whatever…"
+    "translation": "If I were to be selfish, I would've preferred a\ncold barley tea, but whatever…"
   },
   {
     "key": "evt_EV1_001S_0267",
@@ -1372,7 +1372,7 @@
   {
     "key": "evt_EV1_001S_0305",
     "original": "",
-    "translation": "You will receive a bonus to your puzzle-\nsolving time, and the difficulty will decrease."
+    "translation": "You will receive a bonus to your\npuzzle-solving time, and the difficulty will decrease."
   },
   {
     "key": "evt_EV1_001S_0306",
@@ -1407,17 +1407,17 @@
   {
     "key": "evt_EV1_001S_0312",
     "original": "",
-    "translation": "The basic technique for moving the Haruhi\nMeter to the right, is as follows:"
+    "translation": "The basic technique for moving the Haruhi\nMeter to the right is as follows:"
   },
   {
     "key": "evt_EV1_001S_0313",
     "original": "",
-    "translation": "1: Try to make Haruhi the topic of\nconversation as much as you can."
+    "translation": "1. Try to make Haruhi the topic of\nconversation as much as you can."
   },
   {
     "key": "evt_EV1_001S_0314",
     "original": "",
-    "translation": "2: When grouping, try not to leave Haruhi on\nher own, and preferably have Kyon join her."
+    "translation": "2. When grouping, try not to leave Haruhi on\nher own, and preferably have Kyon join her."
   },
   {
     "key": "evt_EV1_001S_0315",
@@ -1447,7 +1447,7 @@
   {
     "key": "evt_EV1_001S_0321",
     "original": "",
-    "translation": "[#Q01Glug], [#W20][#Q01glug], [#Q01glug]…[#W30][#SE004][#Q01paaaah]!"
+    "translation": "[#Q01]*Glug, [#W20][#Q01glug], [#Q01glug]…[#W30][#SE004][#Q01paaaah]!*"
   },
   {
     "key": "evt_EV1_001S_0322",
@@ -1892,12 +1892,12 @@
   {
     "key": "evt_EV1_001S_0427",
     "original": "",
-    "translation": "If you look at this one mirror that's\nsomewhere in the school at 2:22:22 AM…"
+    "translation": "If you look at this one mirror that's\nsomewhere in the school at 2:22:22am…"
   },
   {
     "key": "evt_EV1_001S_0428",
     "original": "",
-    "translation": "A duplicate of yourself comes out of the mir-\nror and changes places with you! That story!"
+    "translation": "A duplicate of yourself comes out of the\nmirror and changes places with you! That story!"
   },
   {
     "key": "evt_EV1_001S_0429",
@@ -1907,7 +1907,7 @@
   {
     "key": "evt_EV1_001S_0430",
     "original": "",
-    "translation": "This isn't so much an encounter with un-\nnatural phenomena as it is an urban legend."
+    "translation": "This isn't so much an encounter with\nunnatural phenomena as it is an urban legend."
   },
   {
     "key": "evt_EV1_001S_0431",

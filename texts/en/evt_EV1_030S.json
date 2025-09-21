@@ -87,7 +87,7 @@
   {
     "key": "evt_EV1_030S_0018",
     "original": "",
-    "translation": "He's absolutely right. If it weren't for every-\none here, who knows what we'd have done."
+    "translation": "He's absolutely right. If it weren't for\neveryone here, who knows what we'd have done."
   },
   {
     "key": "evt_EV1_030S_0019",
@@ -202,7 +202,7 @@
   {
     "key": "evt_EV1_030S_0042",
     "original": "",
-    "translation": "It appears to be in our best interest to deal\nwith it quickly. Let's start immediately."
+    "translation": "It appears to be in our best interest to deal\nwith it in haste. Let's start immediately."
   },
   {
     "key": "evt_EV1_030S_0043",
@@ -647,7 +647,7 @@
   {
     "key": "evt_EV1_030S_0140",
     "original": "",
-    "translation": "It would seem so. In this case, the chance of\nan alternate space existing was increased."
+    "translation": "It would seem so. In this case, the chance of\nalternate space existing was increased."
   },
   {
     "key": "evt_EV1_030S_0141",

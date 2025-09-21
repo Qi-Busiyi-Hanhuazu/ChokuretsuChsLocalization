@@ -67,7 +67,7 @@
   {
     "key": "evt_CHS_KOI_04S_0013",
     "original": "",
-    "translation": "…with the enemy piece's attack range."
+    "translation": "…with the enemy pieces' attack range."
   },
   {
     "key": "evt_CHS_KOI_04S_0014",
@@ -77,7 +77,7 @@
   {
     "key": "evt_CHS_KOI_04S_0015",
     "original": "",
-    "translation": "There must not be any pieces getting in the\nway between the king and rook…"
+    "translation": "There must not be any pieces obstructing\nmovement between the king and the rook…"
   },
   {
     "key": "evt_CHS_KOI_04S_0016",
@@ -97,7 +97,7 @@
   {
     "key": "evt_CHS_KOI_04S_0019",
     "original": "",
-    "translation": "…move two spaces, and at the same time,\ncauses the rook to move to its side."
+    "translation": "…move two spaces and, at the same time,\ncauses the rook to move to its side."
   },
   {
     "key": "evt_CHS_KOI_04S_0020",

@@ -7,7 +7,7 @@
   {
     "key": "evt_CHS_KOI_06S_0002",
     "original": "",
-    "translation": "Let's explain how to play \"chess mode.”"
+    "translation": "Let's explain how to play \"Chess Mode.”"
   },
   {
     "key": "evt_CHS_KOI_06S_0003",
@@ -22,7 +22,7 @@
   {
     "key": "evt_CHS_KOI_06S_0005",
     "original": "",
-    "translation": "Presenting the puzzles will be the five\ncharacters—Itsuki Koizumi, Mikuru Asahina…"
+    "translation": "Five characters will present the\npuzzles—Itsuki Koizumi, Mikuru Asahina…"
   },
   {
     "key": "evt_CHS_KOI_06S_0006",
@@ -32,7 +32,7 @@
   {
     "key": "evt_CHS_KOI_06S_0007",
     "original": "",
-    "translation": "…selectable by default, but in order to unlock\nthe other three's puzzles…"
+    "translation": "…selectable by default, but in order to unlock\nthe other three…"
   },
   {
     "key": "evt_CHS_KOI_06S_0008",
@@ -87,7 +87,7 @@
   {
     "key": "evt_CHS_KOI_06S_0018",
     "original": "",
-    "translation": "In the other, your objective is to place the\nblack king…"
+    "translation": "In the other mode, your objective is to place\nthe black king…"
   },
   {
     "key": "evt_CHS_KOI_06S_0019",
@@ -97,12 +97,12 @@
   {
     "key": "evt_CHS_KOI_06S_0020",
     "original": "",
-    "translation": "Carefully observe the state of the board,\nand touch the square that you think will work."
+    "translation": "Carefully observe the state of the board,\nand tap the square that you think will work."
   },
   {
     "key": "evt_CHS_KOI_06S_0021",
     "original": "",
-    "translation": "The black king will be placed in that square,\nand if that causes a checkmate…"
+    "translation": "The black king will be placed in that square\nand, if that causes a checkmate…"
   },
   {
     "key": "evt_CHS_KOI_06S_0022",
@@ -117,7 +117,7 @@
   {
     "key": "evt_CHS_KOI_06S_0024",
     "original": "",
-    "translation": "Let's have a go at solving some chess\npuzzles for real."
+    "translation": "Let's try solving some chess puzzles."
   },
   {
     "key": "evt_CHS_KOI_06S_0025",
@@ -147,7 +147,7 @@
   {
     "key": "evt_CHS_KOI_06S_0030",
     "original": "",
-    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another try."
   },
   {
     "key": "evt_CHS_KOI_06S_0031",
@@ -157,6 +157,6 @@
   {
     "key": "evt_CHS_KOI_06S_0032",
     "original": "",
-    "translation": "…playing the first puzzle once again."
+    "translation": "…playing the first puzzle once more."
   }
 ]

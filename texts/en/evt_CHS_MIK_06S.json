@@ -7,7 +7,7 @@
   {
     "key": "evt_CHS_MIK_06S_0002",
     "original": "",
-    "translation": "We'll now explain a discovered attack."
+    "translation": "We will now explain a discovered attack."
   },
   {
     "key": "evt_CHS_MIK_06S_0003",
@@ -17,7 +17,7 @@
   {
     "key": "evt_CHS_MIK_06S_0004",
     "original": "",
-    "translation": "…in order to attack a valuable piece with a\npiece hidden behind."
+    "translation": "…in order to reveal an attack by a piece\npreviously hidden."
   },
   {
     "key": "evt_CHS_MIK_06S_0005",
@@ -27,12 +27,12 @@
   {
     "key": "evt_CHS_MIK_06S_0006",
     "original": "",
-    "translation": "…it's called a discovered check."
+    "translation": "…it is called a discovered check."
   },
   {
     "key": "evt_CHS_MIK_06S_0007",
     "original": "",
-    "translation": "It's hard to explain through words, so let's\ntake a look on the bottom screen."
+    "translation": "It is hard to explain through words, so let's\ntake a look on the bottom screen."
   },
   {
     "key": "evt_CHS_MIK_06S_0008",
@@ -77,12 +77,12 @@
   {
     "key": "evt_CHS_MIK_06S_0016",
     "original": "",
-    "translation": "…at the same time, which is derived from the\ndouble check technique."
+    "translation": "…at the same time. This can lead to a\ntechnique called a \"double check.”"
   },
   {
     "key": "evt_CHS_MIK_06S_0017",
     "original": "",
-    "translation": "Here's a slightly different situation."
+    "translation": "Here is a slightly different situation."
   },
   {
     "key": "evt_CHS_MIK_06S_0018",
@@ -142,6 +142,6 @@
   {
     "key": "evt_CHS_MIK_06S_0029",
     "original": "",
-    "translation": "Make sure to consider the value of each of\nthe pieces, okay?"
+    "translation": "Make sure to consider the value of each\npiece, okay?"
   }
 ]

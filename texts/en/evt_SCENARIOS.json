@@ -382,7 +382,7 @@
   {
     "key": "evt_SCENARIOS_0131",
     "original": "",
-    "translation": "Cooking prep."
+    "translation": "Cooking prep"
   },
   {
     "key": "evt_SCENARIOS_0132",
@@ -762,12 +762,12 @@
   {
     "key": "evt_SCENARIOS_0255",
     "original": "",
-    "translation": "Manipulate the hands on the clock to avoid\nthe time when the strange phenomenon occurs."
+    "translation": "Manipulate the hands on the clocks to\navoid the time of the strange phenomenon."
   },
   {
     "key": "evt_SCENARIOS_0256",
     "original": "",
-    "translation": "Manipulated the hands on the clock to avoid\nthe time when the strange phenomenon occurs."
+    "translation": "Manipulated the hands on the clocks to avoid\nthe time when the strange phenomenon occurs."
   },
   {
     "key": "evt_SCENARIOS_0258",
@@ -797,7 +797,7 @@
   {
     "key": "evt_SCENARIOS_0266",
     "original": "",
-    "translation": "Tamper with the mirror so that Haruhi doesn't\nsee."
+    "translation": "Tamper with the mirror so that Haruhi\ndoesn't see."
   },
   {
     "key": "evt_SCENARIOS_0267",
@@ -827,17 +827,17 @@
   {
     "key": "evt_SCENARIOS_0276",
     "original": "",
-    "translation": "Singularity"
+    "translation": "Singularities"
   },
   {
     "key": "evt_SCENARIOS_0277",
     "original": "",
-    "translation": "Set up the chess piece that Nagato will make\ninto a singularity."
+    "translation": "Set up the chess pieces that Nagato will\nmake into singularities."
   },
   {
     "key": "evt_SCENARIOS_0278",
     "original": "",
-    "translation": "Singularity (chess piece) placed."
+    "translation": "Singularities (chess pieces) placed."
   },
   {
     "key": "evt_SCENARIOS_0280",

@@ -7,7 +7,7 @@
   {
     "key": "evt_CHS_KOI_09S_0001",
     "original": "",
-    "translation": "I've set a time limit this time.\nGive it your calm consideration nonetheless."
+    "translation": "I've set a time limit for this round.\nGive it your calm consideration nonetheless."
   },
   {
     "key": "evt_CHS_KOI_09S_0002",
@@ -22,6 +22,6 @@
   {
     "key": "evt_CHS_KOI_09S_0004",
     "original": "",
-    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another go."
+    "translation": "Unfortunately, that's incorrect.\nGo ahead and give it another try."
   }
 ]
