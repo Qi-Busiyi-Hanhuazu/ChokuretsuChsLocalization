@@ -1,0 +1,345 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA40S_0000",
+    "original": "覚えてるか？　職員室での出来事を",
+    "translation": "覚えてるか？　職員室での出来事を",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA40S_0001",
+    "original": "出来事って……なんのこと？",
+    "translation": "出来事って……なんのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA40S_0002",
+    "original": "お前が言ってた、ＳＯＳ団は教師に\n目の敵にされてるって話だ",
+    "translation": "お前が言ってた、ＳＯＳ団は教師に\n目の敵にされてるって話だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA40S_0003",
+    "original": "ああ、そのことね",
+    "translation": "ああ、そのことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA40S_0004",
+    "original": "気になってたんだが、それってどう\nいう意味なんだ？",
+    "translation": "気になってたんだが、それってどう\nいう意味なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA40S_0005",
+    "original": "そのままの意味よ。団員勧誘の妨害\nとか、ビラ配りの妨害とか",
+    "translation": "そのままの意味よ。団員勧誘の妨害\nとか、ビラ配りの妨害とか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA40S_0006",
+    "original": "ＳＯＳ団の活動を妨げようとする\n教師ばかりで、困ったものだわ",
+    "translation": "ＳＯＳ団の活動を妨げようとする\n教師ばかりで、困ったものだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA40S_0007",
+    "original": "……バニーのコスプレで校内を闊歩\nしてりゃ、当たり前の反応だろう",
+    "translation": "……バニーのコスプレで校内を闊歩\nしてりゃ、当たり前の反応だろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA40S_0008",
+    "original": "むしろ大問題にされなかっただけ\nありがたいと思うが",
+    "translation": "むしろ大問題にされなかっただけ\nありがたいと思うが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA40S_0009",
+    "original": "あのぉ、職員室でのことなんです\nけど……",
+    "translation": "あのぉ、職員室でのことなんです\nけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA40S_0010",
+    "original": "職員室？　なにかあったっけ？",
+    "translation": "職員室？　なにかあったっけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA40S_0011",
+    "original": "バーベキューの道具を、先生に借り\nられないかって話をしたときの……",
+    "translation": "バーベキューの道具を、先生に借り\nられないかって話をしたときの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA40S_0012",
+    "original": "ああ、みくるちゃんが提案したアレ",
+    "translation": "ああ、みくるちゃんが提案したアレ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA40S_0013",
+    "original": "あたし、ＳＯＳ団が先生方に嫌われ\nてるなんて、全然知らなくて……",
+    "translation": "あたし、ＳＯＳ団が先生方に嫌われ\nてるなんて、全然知らなくて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA40S_0014",
+    "original": "別に嫌われてるわけじゃないわ",
+    "translation": "別に嫌われてるわけじゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA40S_0015",
+    "original": "むしろ、恐れられていると言った\n方が適切かしら",
+    "translation": "むしろ、恐れられていると言った\n方が適切かしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA40S_0016",
+    "original": "え？　そ、そうなんですか……？",
+    "translation": "え？　そ、そうなんですか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA40S_0017",
+    "original": "あたしたちの活動が、これまでの\n常識を打ち破る画期的なモノだから",
+    "translation": "あたしたちの活動が、これまでの\n常識を打ち破る画期的なモノだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA40S_0018",
+    "original": "それを理解できない教員が、目の敵\nにしてるのよ",
+    "translation": "それを理解できない教員が、目の敵\nにしてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA40S_0019",
+    "original": "ほら、前に一緒にバニー服を着て\n団の広告宣伝をしたでしょ？",
+    "translation": "ほら、前に一緒にバニー服を着て\n団の広告宣伝をしたでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA40S_0020",
+    "original": "あ、ありましたね、そういうの……",
+    "translation": "あ、ありましたね、そういうの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA40S_0021",
+    "original": "他にも、色々と画期的な活動を\n展開してきた、あたしたち――",
+    "translation": "他にも、色々と画期的な活動を\n展開してきた、あたしたち――",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA40S_0022",
+    "original": "ＳＯＳ団に対する無理解が、恐れを\n抱かせてるのね、きっと",
+    "translation": "ＳＯＳ団に対する無理解が、恐れを\n抱かせてるのね、きっと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA40S_0023",
+    "original": "……ええと",
+    "translation": "……ええと",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA40S_0024",
+    "original": "[#P06]何をするかわからない危険な集団だ\nって思われてるだけじゃ……",
+    "translation": "[#P06]何をするかわからない危険な集団だ\nって思われてるだけじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA40S_0025",
+    "original": "なにか言った？",
+    "translation": "なにか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA40S_0026",
+    "original": "い、いえっ、なにもっ",
+    "translation": "い、いえっ、なにもっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA40S_0027",
+    "original": "だから、みくるちゃんは気にしない\nこと。悪いのはこっちじゃないわ",
+    "translation": "だから、みくるちゃんは気にしない\nこと。悪いのはこっちじゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA40S_0028",
+    "original": "胸を張って、堂々としていなさい",
+    "translation": "胸を張って、堂々としていなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA40S_0029",
+    "original": "は、はいぃ……",
+    "translation": "は、はいぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA40S_0030",
+    "original": "つい話し込んじゃったわね。ほら\n急いでみんなの所に行きましょう",
+    "translation": "つい話し込んじゃったわね。ほら\n急いでみんなの所に行きましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA40S_0031",
+    "original": "[#P06]……少しは時間稼ぎになったかなぁ",
+    "translation": "[#P06]……少しは時間稼ぎになったかなぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA40S_0032",
+    "original": "[#P06]みんな、頑張って……",
+    "translation": "[#P06]みんな、頑張って……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA40S_0033",
+    "original": "みくるちゃん！　早く！",
+    "translation": "みくるちゃん！　早く！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA40S_0034",
+    "original": "はーいっ！",
+    "translation": "はーいっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA40S_0035",
+    "original": "ＳＯＳ団は、教員からの迫害を受け\nていると聞いた",
+    "translation": "ＳＯＳ団は、教員からの迫害を受け\nていると聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA40S_0036",
+    "original": "誰が、そんなこと言ったの？",
+    "translation": "誰が、そんなこと言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA40S_0037",
+    "original": "……って、キョンしかいないわね",
+    "translation": "……って、キョンしかいないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA40S_0038",
+    "original": "バーベキューの道具を借りる借りな\nいの話で、そんな話題になったっけ",
+    "translation": "バーベキューの道具を借りる借りな\nいの話で、そんな話題になったっけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA40S_0039",
+    "original": "別に迫害を受けてるわけじゃないわ\nこっちを理解できないだけ",
+    "translation": "別に迫害を受けてるわけじゃないわ\nこっちを理解できないだけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA40S_0040",
+    "original": "でも心配無用よ。いずれギャフンと\n言わせて、団の実力を見せ付けるわ",
+    "translation": "でも心配無用よ。いずれギャフンと\n言わせて、団の実力を見せ付けるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA40S_0041",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA40S_0042",
+    "original": "そうよ。だから大船に乗ったつもり\nで、あたしに付いてきなさい",
+    "translation": "そうよ。だから大船に乗ったつもり\nで、あたしに付いてきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA40S_0043",
+    "original": "バーベキューの道具の件、\n聞きましたよ",
+    "translation": "バーベキューの道具の件、\n聞きましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA40S_0044",
+    "original": "職員室に行こうとした朝比奈さんを\n制止なさったとか",
+    "translation": "職員室に行こうとした朝比奈さんを\n制止なさったとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA40S_0045",
+    "original": "少し大げさに話が伝わってるわね",
+    "translation": "少し大げさに話が伝わってるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA40S_0046",
+    "original": "ただ、教師はＳＯＳ団を目の敵に\nしてるから無駄だって言ったのよ",
+    "translation": "ただ、教師はＳＯＳ団を目の敵に\nしてるから無駄だって言ったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA40S_0047",
+    "original": "結果として手に入ったんだし、もう\nその話はいいんじゃない",
+    "translation": "結果として手に入ったんだし、もう\nその話はいいんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA40S_0048",
+    "original": "さあ、もうちょっと、急いで向かう\nわよ",
+    "translation": "さあ、もうちょっと、急いで向かう\nわよ",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN23S_0000",
+    "original": "おいハルヒ",
+    "translation": "おいハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN23S_0001",
+    "original": "なによ、急いでるんだけど",
+    "translation": "なによ、急いでるんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN23S_0002",
+    "original": "思い出したんだが、長門が調査の\n役に立つかもと、メモをくれたんだ",
+    "translation": "思い出したんだが、長門が調査の\n役に立つかもと、メモをくれたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN23S_0003",
+    "original": "有希がメモ？\nキョン、ちょっと見せて",
+    "translation": "有希がメモ？\nキョン、ちょっと見せて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN23S_0004",
+    "original": "……",
+    "translation": "……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN23S_0005",
+    "original": "なるほど、今回の事件に似た都市伝\n説や怪談を集めたのね",
+    "translation": "なるほど、今回の事件に似た都市伝\n説や怪談を集めたのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN23S_0006",
+    "original": "ほう、共通点はあるのか？",
+    "translation": "ほう、共通点はあるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN23S_0007",
+    "original": "どうかしら、少なくとも発生場所は\n学校に限らないみたい",
+    "translation": "どうかしら、少なくとも発生場所は\n学校に限らないみたい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN23S_0008",
+    "original": "じゃあ、このピアノの謎も、学校の\n七不思議ではないんじゃないのか？",
+    "translation": "じゃあ、このピアノの謎も、学校の\n七不思議ではないんじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN23S_0009",
+    "original": "そうかもしれないし、そうでないか\nもしれないわ",
+    "translation": "そうかもしれないし、そうでないか\nもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN23S_0010",
+    "original": "どっちにしろ、調べなくちゃ",
+    "translation": "どっちにしろ、調べなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN23S_0011",
+    "original": "ハルヒの意志は固く、長門のメモで\nも揺らぎそうにない",
+    "translation": "ハルヒの意志は固く、長門のメモで\nも揺らぎそうにない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN23S_0012",
+    "original": "意志の強さだけは人並み以上だから\nな……こいつは",
+    "translation": "意志の強さだけは人並み以上だから\nな……こいつは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN23S_0013",
+    "original": "あ、あの、涼宮さんっ",
+    "translation": "あ、あの、涼宮さんっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN23S_0014",
+    "original": "なあに？\n急いでるんだから、手短にね",
+    "translation": "なあに？\n急いでるんだから、手短にね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN23S_0015",
+    "original": "な、長門さんが……\n怖い話を集めてくれたんです",
+    "translation": "な、長門さんが……\n怖い話を集めてくれたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN23S_0016",
+    "original": "有希が？\n有希も物好きねえ……それで？",
+    "translation": "有希が？\n有希も物好きねえ……それで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN23S_0017",
+    "original": "こ、これがその怪談をまとめたメモ\nなんですけど……",
+    "translation": "こ、これがその怪談をまとめたメモ\nなんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN23S_0018",
+    "original": "ふぅん、ちょっと見せて？\n……ふむふむ",
+    "translation": "ふぅん、ちょっと見せて？\n……ふむふむ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN23S_0019",
+    "original": "どれもどこかで聞いたような、あり\nがちな話ばかりね",
+    "translation": "どれもどこかで聞いたような、あり\nがちな話ばかりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN23S_0020",
+    "original": "有希らしくないわ",
+    "translation": "有希らしくないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN23S_0021",
+    "original": "そ、そうなんですか……？",
+    "translation": "そ、そうなんですか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN23S_0022",
+    "original": "まあ、今のところは研究する価値は\nなさそうね",
+    "translation": "まあ、今のところは研究する価値は\nなさそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN23S_0023",
+    "original": "それより、音楽室の方が気になるわ\n速く行きましょう",
+    "translation": "それより、音楽室の方が気になるわ\n速く行きましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN23S_0024",
+    "original": "は、はい……",
+    "translation": "は、はい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN23S_0025",
+    "original": "こんな話がある",
+    "translation": "こんな話がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN23S_0026",
+    "original": "あるピアニストがいて、交通事故で\n命を失ってしまった",
+    "translation": "あるピアニストがいて、交通事故で\n命を失ってしまった",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN23S_0027",
+    "original": "彼は脳死だったが心臓は無事だった\nので、心臓病の患者に移植された",
+    "translation": "彼は脳死だったが心臓は無事だった\nので、心臓病の患者に移植された",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN23S_0028",
+    "original": "それ以来、以前は楽器などなにも\n弾けなかったはずの患者が",
+    "translation": "それ以来、以前は楽器などなにも\n弾けなかったはずの患者が",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN23S_0029",
+    "original": "ピアノを弾けるようになったという",
+    "translation": "ピアノを弾けるようになったという",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN23S_0030",
+    "original": "ふむ……興味深いわね",
+    "translation": "ふむ……興味深いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN23S_0031",
+    "original": "もしかしたら、うちの学校にもそう\nいう患者がいるのかも",
+    "translation": "もしかしたら、うちの学校にもそう\nいう患者がいるのかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN23S_0032",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN23S_0033",
+    "original": "こういう話もある",
+    "translation": "こういう話もある",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN23S_0034",
+    "original": "恋人に先立たれたピアノ職人が\nピアノの線に恋人の髪を混ぜた",
+    "translation": "恋人に先立たれたピアノ職人が\nピアノの線に恋人の髪を混ぜた",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN23S_0035",
+    "original": "ピアノの完成と共に職人は自殺し\nピアノはどこかへ引き取られた",
+    "translation": "ピアノの完成と共に職人は自殺し\nピアノはどこかへ引き取られた",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN23S_0036",
+    "original": "そのピアノは夜中に哀しげに音楽を\n奏で、持ち主に不幸が起きる",
+    "translation": "そのピアノは夜中に哀しげに音楽を\n奏で、持ち主に不幸が起きる",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN23S_0037",
+    "original": "“呪いのピアノ”になったという",
+    "translation": "“呪いのピアノ”になったという",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN23S_0038",
+    "original": "ふむふむ、その呪いのピアノが\nうちの学校に流れ着いたってことね",
+    "translation": "ふむふむ、その呪いのピアノが\nうちの学校に流れ着いたってことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN23S_0039",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN23S_0040",
+    "original": "今の涼宮ハルヒは、どんな噂を聞い\nても校内のエピソードに変換する",
+    "translation": "今の涼宮ハルヒは、どんな噂を聞い\nても校内のエピソードに変換する",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN23S_0041",
+    "original": "誘導は逆効果",
+    "translation": "誘導は逆効果",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN23S_0042",
+    "original": "そういえば、長門さんからメモを\n預かっていますよ",
+    "translation": "そういえば、長門さんからメモを\n預かっていますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN23S_0043",
+    "original": "有希からメモ？",
+    "translation": "有希からメモ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN23S_0044",
+    "original": "ええ。似たような怪談のケースを\n集めてみたそうです",
+    "translation": "ええ。似たような怪談のケースを\n集めてみたそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN23S_0045",
+    "original": "ふうん、それは面白そうね\nあとで見てみるわ",
+    "translation": "ふうん、それは面白そうね\nあとで見てみるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN23S_0046",
+    "original": "それより、今は急ぎましょう",
+    "translation": "それより、今は急ぎましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN23S_0047",
+    "original": "それでは、あとでお渡しすることに\nします",
+    "translation": "それでは、あとでお渡しすることに\nします",
+    "speaker": "古泉"
+  }
+]

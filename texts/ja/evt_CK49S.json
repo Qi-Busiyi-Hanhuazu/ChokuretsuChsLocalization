@@ -1,0 +1,359 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK49S_0000",
+    "original": "なあハルヒ、この後の予定なんだが",
+    "translation": "なあハルヒ、この後の予定なんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK49S_0001",
+    "original": "この後って体育館に行くんでしょ\nだからこうして歩いてるんじゃない",
+    "translation": "この後って体育館に行くんでしょ\nだからこうして歩いてるんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK49S_0002",
+    "original": "その後だ",
+    "translation": "その後だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK49S_0003",
+    "original": "鏡の怪談を確かめるでしょ？　長い\n髪の少女の謎も突き止めないとね",
+    "translation": "鏡の怪談を確かめるでしょ？　長い\n髪の少女の謎も突き止めないとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK49S_0004",
+    "original": "この怪談騒ぎが終わった後だ！",
+    "translation": "この怪談騒ぎが終わった後だ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK49S_0005",
+    "original": "夏休みなんだぜ。遊びに行く予定は\n必須だろうが",
+    "translation": "夏休みなんだぜ。遊びに行く予定は\n必須だろうが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK49S_0006",
+    "original": "遊び……遊びねぇ。夏休みはＳＯＳ\n団の活動が主体だから",
+    "translation": "遊び……遊びねぇ。夏休みはＳＯＳ\n団の活動が主体だから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK49S_0007",
+    "original": "んなこと勝手に決めてるのか",
+    "translation": "んなこと勝手に決めてるのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK49S_0008",
+    "original": "俺は遊びたいのだ！　夏なんだ\n貴重な夏休みなんだ！　泳ぐとかさ",
+    "translation": "俺は遊びたいのだ！　夏なんだ\n貴重な夏休みなんだ！　泳ぐとかさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK49S_0009",
+    "original": "はいはい、少しは考慮しとくわよ",
+    "translation": "はいはい、少しは考慮しとくわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK49S_0010",
+    "original": "いっぱい考慮してくれ。こんな騒ぎ\n今回だけでたくさんだ",
+    "translation": "いっぱい考慮してくれ。こんな騒ぎ\n今回だけでたくさんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK49S_0011",
+    "original": "あの～、夏休みの今後の予定\nなんですけどぉ",
+    "translation": "あの～、夏休みの今後の予定\nなんですけどぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK49S_0012",
+    "original": "今後の予定って、ＳＯＳ団活動の？",
+    "translation": "今後の予定って、ＳＯＳ団活動の？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK49S_0013",
+    "original": "できれば、せっかく夏なんですし",
+    "translation": "できれば、せっかく夏なんですし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK49S_0014",
+    "original": "夏らしいことをするのはどうかな\nって思いました",
+    "translation": "夏らしいことをするのはどうかな\nって思いました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK49S_0015",
+    "original": "夏らしいＳＯＳ団調査かぁ……\nそうね、ＵＦＯなんてどうかしら？",
+    "translation": "夏らしいＳＯＳ団調査かぁ……\nそうね、ＵＦＯなんてどうかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK49S_0016",
+    "original": "ＵＦＯって夏の風物詩なんですか？",
+    "translation": "ＵＦＯって夏の風物詩なんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK49S_0017",
+    "original": "それは幽霊でしょ。でも、今やって\nるじゃない？",
+    "translation": "それは幽霊でしょ。でも、今やって\nるじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK49S_0018",
+    "original": "ううっ、幽霊はもうごりごりですぅ",
+    "translation": "ううっ、幽霊はもうごりごりですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK49S_0019",
+    "original": "夏の夜空にＵＦＯ発見って見出しの\n記事って、結構多いと思わない？",
+    "translation": "夏の夜空にＵＦＯ発見って見出しの\n記事って、結構多いと思わない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK49S_0020",
+    "original": "んんー、夏は夜空を眺める人が多い\nから、なんじゃないかなぁ……？",
+    "translation": "んんー、夏は夜空を眺める人が多い\nから、なんじゃないかなぁ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK49S_0021",
+    "original": "じゃあ天体調査ね。予定にそれを\n組み込みましょう！",
+    "translation": "じゃあ天体調査ね。予定にそれを\n組み込みましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK49S_0022",
+    "original": "えぇっと……はい、そうですね",
+    "translation": "えぇっと……はい、そうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK49S_0023",
+    "original": "なに、みくるちゃん。それじゃ不満\nなのかしら",
+    "translation": "なに、みくるちゃん。それじゃ不満\nなのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK49S_0024",
+    "original": "他に要望があったら言ってごらん\nなさい",
+    "translation": "他に要望があったら言ってごらん\nなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK49S_0025",
+    "original": "あ、遊びに行きたいなって思ったり\nします",
+    "translation": "あ、遊びに行きたいなって思ったり\nします",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK49S_0026",
+    "original": "夏休みですから調査じゃなくて\n遊びに！",
+    "translation": "夏休みですから調査じゃなくて\n遊びに！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK49S_0027",
+    "original": "なるほど、そういうことね\nええ、わかったわ",
+    "translation": "なるほど、そういうことね\nええ、わかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK49S_0028",
+    "original": "それじゃ何かイベントごとを考え\nておくわ。盆踊りとか縁日とか",
+    "translation": "それじゃ何かイベントごとを考え\nておくわ。盆踊りとか縁日とか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK49S_0029",
+    "original": "ぜひぜひ、お願いしま～す！",
+    "translation": "ぜひぜひ、お願いしま～す！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK49S_0030",
+    "original": "今後の予定を知りたい",
+    "translation": "今後の予定を知りたい",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK49S_0031",
+    "original": "今後って、ＳＯＳ団の予定のこと\nかしら？",
+    "translation": "今後って、ＳＯＳ団の予定のこと\nかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK49S_0032",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK49S_0033",
+    "original": "有希が積極的だなんて珍しいわね\nあるわよ～、色々と遊ぶ計画が",
+    "translation": "有希が積極的だなんて珍しいわね\nあるわよ～、色々と遊ぶ計画が",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK49S_0034",
+    "original": "計画？",
+    "translation": "計画？",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK49S_0035",
+    "original": "ホントに珍しいわね！　有希が\n遊ぶことに興味示すなんて",
+    "translation": "ホントに珍しいわね！　有希が\n遊ぶことに興味示すなんて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK49S_0036",
+    "original": "……夏休みだから",
+    "translation": "……夏休みだから",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK49S_0037",
+    "original": "わかった、家に帰ったら本格的に\n決めるわよ！",
+    "translation": "わかった、家に帰ったら本格的に\n決めるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK49S_0038",
+    "original": "有希にそんなに期待されてるなら、\n頑張らなくっちゃ！",
+    "translation": "有希にそんなに期待されてるなら、\n頑張らなくっちゃ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK49S_0039",
+    "original": "涼宮さん、今後の予定をお伺い\nしたいのですが",
+    "translation": "涼宮さん、今後の予定をお伺い\nしたいのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK49S_0040",
+    "original": "今後って？　今日の事じゃなくて？",
+    "translation": "今後って？　今日の事じゃなくて？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK49S_0041",
+    "original": "本日の予定は理解していますから",
+    "translation": "本日の予定は理解していますから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK49S_0042",
+    "original": "夏休みの今後のことです。ＳＯＳ団\nとしての活動も多いかと思いますが",
+    "translation": "夏休みの今後のことです。ＳＯＳ団\nとしての活動も多いかと思いますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK49S_0043",
+    "original": "ええ、貴重な夏休みだもの。丸一日\n調査に使えるのは助かるわよ",
+    "translation": "ええ、貴重な夏休みだもの。丸一日\n調査に使えるのは助かるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK49S_0044",
+    "original": "調査だけではなく、娯楽や休暇的行\n為も必要ではないかと提案致します",
+    "translation": "調査だけではなく、娯楽や休暇的行\n為も必要ではないかと提案致します",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK49S_0045",
+    "original": "緩急がないと、ルーティンワーク化\nしてしまう危惧がありますので",
+    "translation": "緩急がないと、ルーティンワーク化\nしてしまう危惧がありますので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK49S_0046",
+    "original": "つまり、夏休みだから遊ぼうと？",
+    "translation": "つまり、夏休みだから遊ぼうと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK49S_0047",
+    "original": "そう解釈していただいても\nかまいません",
+    "translation": "そう解釈していただいても\nかまいません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK49S_0048",
+    "original": "なるほどね……\nわかったわ。善処しましょう",
+    "translation": "なるほどね……\nわかったわ。善処しましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK49S_0049",
+    "original": "団長として団員の要望は聞き届けて\nあげなきゃね",
+    "translation": "団長として団員の要望は聞き届けて\nあげなきゃね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK49S_0050",
+    "original": "是非ご検討ください",
+    "translation": "是非ご検討ください",
+    "speaker": "古泉"
+  }
+]

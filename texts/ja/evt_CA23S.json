@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA23S_0000",
+    "original": "さっき妹が迷子になっただろう",
+    "translation": "さっき妹が迷子になっただろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA23S_0001",
+    "original": "無事に見つかって良かったわよ",
+    "translation": "無事に見つかって良かったわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA23S_0002",
+    "original": "妹ちゃんは探検が中断されて\nつまらなさそうだったけど",
+    "translation": "妹ちゃんは探検が中断されて\nつまらなさそうだったけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA23S_0003",
+    "original": "本格的に迷子になってしまったら\n大変よね。この学校ムダに広いし",
+    "translation": "本格的に迷子になってしまったら\n大変よね。この学校ムダに広いし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA23S_0004",
+    "original": "まったくだ",
+    "translation": "まったくだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA23S_0005",
+    "original": "あの後、古泉と朝比奈さんを捜しに\n行ったじゃないか",
+    "translation": "あの後、古泉と朝比奈さんを捜しに\n行ったじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA23S_0006",
+    "original": "ええ",
+    "translation": "ええ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA23S_0007",
+    "original": "朝比奈さんが、ひとりで妹を捜して\nいて、人気のない学校に怯えてたぞ",
+    "translation": "朝比奈さんが、ひとりで妹を捜して\nいて、人気のない学校に怯えてたぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA23S_0008",
+    "original": "そうね。人がいないと普段と違って\n見えるし、彼女恐がりだしね",
+    "translation": "そうね。人がいないと普段と違って\n見えるし、彼女恐がりだしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA23S_0009",
+    "original": "だから、ここいらで怪談捜しは\n止めて喫茶店にでも行かないか？",
+    "translation": "だから、ここいらで怪談捜しは\n止めて喫茶店にでも行かないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA23S_0010",
+    "original": "キョンのおごりで？",
+    "translation": "キョンのおごりで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA23S_0011",
+    "original": "いたしかたないな",
+    "translation": "いたしかたないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA23S_0012",
+    "original": "じゃあ、新七不思議を見つけたら\n打ち上げはキョンのおごりね！",
+    "translation": "じゃあ、新七不思議を見つけたら\n打ち上げはキョンのおごりね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA23S_0013",
+    "original": "こら、待てよ",
+    "translation": "こら、待てよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA23S_0014",
+    "original": "新七不思議は諦めないのかよ",
+    "translation": "新七不思議は諦めないのかよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA23S_0015",
+    "original": "決定事項だからね！",
+    "translation": "決定事項だからね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA23S_0016",
+    "original": "涼宮さんはあたしと古泉くんを\n捜しに出てくれたんですよね？",
+    "translation": "涼宮さんはあたしと古泉くんを\n捜しに出てくれたんですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA23S_0017",
+    "original": "ん？　それは妹ちゃんが迷子に\nなった時のこと？",
+    "translation": "ん？　それは妹ちゃんが迷子に\nなった時のこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA23S_0018",
+    "original": "そうです。バタバタしていて、\nお礼を言ってなかったので",
+    "translation": "そうです。バタバタしていて、\nお礼を言ってなかったので",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA23S_0019",
+    "original": "ありがとうございました",
+    "translation": "ありがとうございました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA23S_0020",
+    "original": "お礼なんて別に言わなくていいわよ",
+    "translation": "お礼なんて別に言わなくていいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA23S_0021",
+    "original": "でも、心配してくれたんですよね",
+    "translation": "でも、心配してくれたんですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA23S_0022",
+    "original": "心配って言うか……まあ、待つのは\n嫌いだからあたし、それだけよ",
+    "translation": "心配って言うか……まあ、待つのは\n嫌いだからあたし、それだけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA23S_0023",
+    "original": "気を使ってくれてるんですか？",
+    "translation": "気を使ってくれてるんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA23S_0024",
+    "original": "まあね、少しくらいはね",
+    "translation": "まあね、少しくらいはね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA23S_0025",
+    "original": "ふふっ、涼宮さんて優しいです",
+    "translation": "ふふっ、涼宮さんて優しいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA23S_0026",
+    "original": "あのね、みくるちゃん\n団長なんだから、当然のことよ",
+    "translation": "あのね、みくるちゃん\n団長なんだから、当然のことよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA23S_0027",
+    "original": "朝比奈みくるが迷子になった",
+    "translation": "朝比奈みくるが迷子になった",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA23S_0028",
+    "original": "みくるちゃんが？　どこで？",
+    "translation": "みくるちゃんが？　どこで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA23S_0029",
+    "original": "校内",
+    "translation": "校内",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA23S_0030",
+    "original": "あー多分、それ違うわ。迷子に\nなったのは妹ちゃんよ",
+    "translation": "あー多分、それ違うわ。迷子に\nなったのは妹ちゃんよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA23S_0031",
+    "original": "みくるちゃんはそれ捜しに行って\nくれただけよ",
+    "translation": "みくるちゃんはそれ捜しに行って\nくれただけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA23S_0032",
+    "original": "ま、結局キョンが、戻ってこない\nみくるちゃんと古泉くんを",
+    "translation": "ま、結局キョンが、戻ってこない\nみくるちゃんと古泉くんを",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA23S_0033",
+    "original": "捜しに行ったんだけどね",
+    "translation": "捜しに行ったんだけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA23S_0034",
+    "original": "それは迷子とは言わない？",
+    "translation": "それは迷子とは言わない？",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA23S_0035",
+    "original": "どうかしら、難しいところだけど\n迷子ではないでしょうね",
+    "translation": "どうかしら、難しいところだけど\n迷子ではないでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA23S_0036",
+    "original": "了解した。認識を修正する",
+    "translation": "了解した。認識を修正する",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA23S_0037",
+    "original": "そう言えば、図書室に行く途中で\n妹さんが迷子になった時ですが",
+    "translation": "そう言えば、図書室に行く途中で\n妹さんが迷子になった時ですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA23S_0038",
+    "original": "僕と朝比奈さんを、涼宮さんも\n捜しに出てくださったんですよね",
+    "translation": "僕と朝比奈さんを、涼宮さんも\n捜しに出てくださったんですよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA23S_0039",
+    "original": "ええ、待ってるのって性に合わ\nないのよね、あたし",
+    "translation": "ええ、待ってるのって性に合わ\nないのよね、あたし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA23S_0040",
+    "original": "キョンには、なぜじっとしていら\nれないって怒鳴られたけど",
+    "translation": "キョンには、なぜじっとしていら\nれないって怒鳴られたけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA23S_0041",
+    "original": "まあ、その場から動かないのが\nはぐれた時の合流の秘訣ですから",
+    "translation": "まあ、その場から動かないのが\nはぐれた時の合流の秘訣ですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA23S_0042",
+    "original": "まあ、そうよね",
+    "translation": "まあ、そうよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA23S_0043",
+    "original": "迎えに出てきてくれたんですよね\nありがとうございます",
+    "translation": "迎えに出てきてくれたんですよね\nありがとうございます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA23S_0044",
+    "original": "団長なんだから、なにかあったら\n当然よね",
+    "translation": "団長なんだから、なにかあったら\n当然よね",
+    "speaker": "ハルヒ"
+  }
+]

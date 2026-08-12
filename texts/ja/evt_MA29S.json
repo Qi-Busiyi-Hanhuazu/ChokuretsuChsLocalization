@@ -1,0 +1,425 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA29S_0000",
+    "original": "……急に耳鳴りがしてきた",
+    "translation": "……急に耳鳴りがしてきた",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA29S_0001",
+    "original": "これは……きっとなにかあるわね",
+    "translation": "これは……きっとなにかあるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA29S_0002",
+    "original": "耳鳴りがしただけで、いったい\nどんな根拠があるってんだ",
+    "translation": "耳鳴りがしただけで、いったい\nどんな根拠があるってんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA29S_0003",
+    "original": "この先になにかがあるって\nあたしのカンがそう言ってるのよ",
+    "translation": "この先になにかがあるって\nあたしのカンがそう言ってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA29S_0004",
+    "original": "いくわよ！",
+    "translation": "いくわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA29S_0005",
+    "original": "いいことを教えてやろう、ハルヒ",
+    "translation": "いいことを教えてやろう、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA29S_0006",
+    "original": "なによ",
+    "translation": "なによ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA29S_0007",
+    "original": "この辺りは“スポット”なんだ",
+    "translation": "この辺りは“スポット”なんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA29S_0008",
+    "original": "スポット？",
+    "translation": "スポット？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA29S_0009",
+    "original": "電波が干渉し合ってる場所らしい",
+    "translation": "電波が干渉し合ってる場所らしい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA29S_0010",
+    "original": "その証拠に、この近くだと携帯も\nつながらないんだ",
+    "translation": "その証拠に、この近くだと携帯も\nつながらないんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA29S_0011",
+    "original": "耳鳴りもその影響かも知れないぞ",
+    "translation": "耳鳴りもその影響かも知れないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA29S_0012",
+    "original": "知らなかった、北高にそんな場所\nあっただなんて",
+    "translation": "知らなかった、北高にそんな場所\nあっただなんて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA29S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_MA29S_0014",
+    "original": "耳鳴りですか……？",
+    "translation": "耳鳴りですか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA29S_0015",
+    "original": "あたしのカンが告げているわ\nこの先になにかあるって！",
+    "translation": "あたしのカンが告げているわ\nこの先になにかあるって！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA29S_0016",
+    "original": "いくわよ、みくるちゃん！",
+    "translation": "いくわよ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA29S_0017",
+    "original": "あ、そ、そうだっ",
+    "translation": "あ、そ、そうだっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA29S_0018",
+    "original": "なに？　みくるちゃん",
+    "translation": "なに？　みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA29S_0019",
+    "original": "えと、ここは“スポット”だって\n言ってましたっ",
+    "translation": "えと、ここは“スポット”だって\n言ってましたっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA29S_0020",
+    "original": "ちょうど電波が重なる場所だから\n携帯が入らなかったり",
+    "translation": "ちょうど電波が重なる場所だから\n携帯が入らなかったり",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA29S_0021",
+    "original": "耳鳴りとかお腹がいたくなったり\nすることがあるそうです",
+    "translation": "耳鳴りとかお腹がいたくなったり\nすることがあるそうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA29S_0022",
+    "original": "そんなの誰から聞いたの？",
+    "translation": "そんなの誰から聞いたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA29S_0023",
+    "original": "えと……キョンくんです",
+    "translation": "えと……キョンくんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA29S_0024",
+    "original": "キョン？　なんだかウソくさいわね",
+    "translation": "キョン？　なんだかウソくさいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA29S_0025",
+    "original": "本当だと、キョンくんは言ってまし\nたけど",
+    "translation": "本当だと、キョンくんは言ってまし\nたけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA29S_0026",
+    "original": "まあいいわ",
+    "translation": "まあいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA29S_0027",
+    "original": "キョンもたまにはおもしろい情報を\n持ってくるじゃない",
+    "translation": "キョンもたまにはおもしろい情報を\n持ってくるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA29S_0028",
+    "original": "どうしてかしら、もう一度鏡を\n調べたくなってきたわ",
+    "translation": "どうしてかしら、もう一度鏡を\n調べたくなってきたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA29S_0029",
+    "original": "急ぎましょう、有希",
+    "translation": "急ぎましょう、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA29S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_MA29S_0031",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA29S_0032",
+    "original": "どうしたのよ、早く行かないと",
+    "translation": "どうしたのよ、早く行かないと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA29S_0033",
+    "original": "ここは“スポット”になっている",
+    "translation": "ここは“スポット”になっている",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA29S_0034",
+    "original": "スポット？",
+    "translation": "スポット？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA29S_0035",
+    "original": "電波緩衝地帯。電磁波の位相が\n重なっている",
+    "translation": "電波緩衝地帯。電磁波の位相が\n重なっている",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA29S_0036",
+    "original": "どういうこと？",
+    "translation": "どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA29S_0037",
+    "original": "携帯電話が使えなくなる",
+    "translation": "携帯電話が使えなくなる",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA29S_0038",
+    "original": "また可聴領域外の音が発生している",
+    "translation": "また可聴領域外の音が発生している",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA29S_0039",
+    "original": "つまり、それが耳鳴りの原因だって\n言いたいのね",
+    "translation": "つまり、それが耳鳴りの原因だって\n言いたいのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA29S_0040",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA29S_0041",
+    "original": "なるほど……怪談とは違うけど\nそれはそれでおもしろい現象ね",
+    "translation": "なるほど……怪談とは違うけど\nそれはそれでおもしろい現象ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA29S_0042",
+    "original": "待ってて、いろいろ試してみる\nから！",
+    "translation": "待ってて、いろいろ試してみる\nから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA29S_0043",
+    "original": "なんだか無性に昇降口の鏡を\n調べたくなってきたわ",
+    "translation": "なんだか無性に昇降口の鏡を\n調べたくなってきたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA29S_0044",
+    "original": "古泉くん、急ぎましょう",
+    "translation": "古泉くん、急ぎましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA29S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_MA29S_0046",
+    "original": "お待ちください、涼宮さん",
+    "translation": "お待ちください、涼宮さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA29S_0047",
+    "original": "なに？　急ぎたいんだけど",
+    "translation": "なに？　急ぎたいんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA29S_0048",
+    "original": "実は、面白い話を耳にしたのですが",
+    "translation": "実は、面白い話を耳にしたのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA29S_0049",
+    "original": "この辺りに、電波のスポットがある\nらしいのです",
+    "translation": "この辺りに、電波のスポットがある\nらしいのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA29S_0050",
+    "original": "スポット？",
+    "translation": "スポット？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA29S_0051",
+    "original": "街中なのに、急に携帯電話の電波が\n届かなくなる",
+    "translation": "街中なのに、急に携帯電話の電波が\n届かなくなる",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA29S_0052",
+    "original": "そんな体験をしたことは？",
+    "translation": "そんな体験をしたことは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA29S_0053",
+    "original": "それはあるけど……",
+    "translation": "それはあるけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA29S_0054",
+    "original": "つまり、それがスポットです",
+    "translation": "つまり、それがスポットです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA29S_0055",
+    "original": "校内に、そんな場所があると聞いた\nことがあります",
+    "translation": "校内に、そんな場所があると聞いた\nことがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA29S_0056",
+    "original": "おそらく、この辺りがそうなので\nしょう",
+    "translation": "おそらく、この辺りがそうなので\nしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA29S_0057",
+    "original": "へえ……おもしろいわね",
+    "translation": "へえ……おもしろいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA29S_0058",
+    "original": "たまたまそうなったのか、それとも\nなにか理由があるのか……",
+    "translation": "たまたまそうなったのか、それとも\nなにか理由があるのか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA29S_0059",
+    "original": "いずれにせよ、調べてみると面白い\nかもしれません",
+    "translation": "いずれにせよ、調べてみると面白い\nかもしれません",
+    "speaker": "古泉"
+  }
+]

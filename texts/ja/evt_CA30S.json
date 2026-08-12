@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA30S_0000",
+    "original": "そういえば、今日は便利なものを\n見たぞ",
+    "translation": "そういえば、今日は便利なものを\n見たぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA30S_0001",
+    "original": "朝比奈さんが持っていた、キーホル\nダーが実は小さな電卓だった",
+    "translation": "朝比奈さんが持っていた、キーホル\nダーが実は小さな電卓だった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA30S_0002",
+    "original": "……それで？",
+    "translation": "……それで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA30S_0003",
+    "original": "買い物の計算に役立ったんだ。ま\nさかあの小ささで電卓だったとはな",
+    "translation": "買い物の計算に役立ったんだ。ま\nさかあの小ささで電卓だったとはな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA30S_0004",
+    "original": "あのねキョン。携帯電話に電卓機能\nくらい、ついてるでしょ",
+    "translation": "あのねキョン。携帯電話に電卓機能\nくらい、ついてるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA30S_0005",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA30S_0006",
+    "original": "そういえば、そうだったよな",
+    "translation": "そういえば、そうだったよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA30S_0007",
+    "original": "あ、そうだ\nこんなのがあるんですよ",
+    "translation": "あ、そうだ\nこんなのがあるんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA30S_0008",
+    "original": "なにそれ？　キーホルダー？",
+    "translation": "なにそれ？　キーホルダー？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA30S_0009",
+    "original": "えっと、これ、こんなに小さいのに\n実は電卓なんです",
+    "translation": "えっと、これ、こんなに小さいのに\n実は電卓なんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA30S_0010",
+    "original": "今日、買出しの計算をするときにも\n役に立ったんですよ～",
+    "translation": "今日、買出しの計算をするときにも\n役に立ったんですよ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA30S_0011",
+    "original": "へーえ。逆に小さすぎて使い難そう\nな感じもするけど……",
+    "translation": "へーえ。逆に小さすぎて使い難そう\nな感じもするけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA30S_0012",
+    "original": "携帯電話の電卓機能じゃ、ダメだっ\nたの？",
+    "translation": "携帯電話の電卓機能じゃ、ダメだっ\nたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA30S_0013",
+    "original": "えっと……",
+    "translation": "えっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA30S_0014",
+    "original": "機能があるのは知ってるんですけど\nどうやって呼び出すのか知らなくて",
+    "translation": "機能があるのは知ってるんですけど\nどうやって呼び出すのか知らなくて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA30S_0015",
+    "original": "なるほどね。なんかみくるちゃん\nらしいわよね",
+    "translation": "なるほどね。なんかみくるちゃん\nらしいわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA30S_0016",
+    "original": "これは、朝比奈みくるの所有する\n小型電子計算機",
+    "translation": "これは、朝比奈みくるの所有する\n小型電子計算機",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA30S_0017",
+    "original": "どれ？　これが計算機？　ふうん\nずいぶんと小さいのね",
+    "translation": "どれ？　これが計算機？　ふうん\nずいぶんと小さいのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA30S_0018",
+    "original": "機能は四則演算に限定されている",
+    "translation": "機能は四則演算に限定されている",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA30S_0019",
+    "original": "でも、朝比奈みくるは便利と言って\nいた",
+    "translation": "でも、朝比奈みくるは便利と言って\nいた",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA30S_0020",
+    "original": "もしもの時には、あると役に立つ\nかもしれないわね",
+    "translation": "もしもの時には、あると役に立つ\nかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA30S_0021",
+    "original": "けど今時、携帯電話にも電卓機能は\nついてると思うけど",
+    "translation": "けど今時、携帯電話にも電卓機能は\nついてると思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA30S_0022",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA30S_0023",
+    "original": "朝比奈さんのキーホルダーは、もう\nご覧になりましたか？",
+    "translation": "朝比奈さんのキーホルダーは、もう\nご覧になりましたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA30S_0024",
+    "original": "みくるちゃんのキーホルダー？",
+    "translation": "みくるちゃんのキーホルダー？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA30S_0025",
+    "original": "ええ、小さな電卓になっているそう\nですよ。買出しで活躍したそうです",
+    "translation": "ええ、小さな電卓になっているそう\nですよ。買出しで活躍したそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA30S_0026",
+    "original": "ふうん……",
+    "translation": "ふうん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA30S_0027",
+    "original": "買い物の計算くらいなら、暗算でも\n問題ないと思うけど",
+    "translation": "買い物の計算くらいなら、暗算でも\n問題ないと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA30S_0028",
+    "original": "でもま、みくるちゃんらしいと言え\nばみくるちゃんらしいわね",
+    "translation": "でもま、みくるちゃんらしいと言え\nばみくるちゃんらしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA30S_0029",
+    "original": "まあいいわ。さあ、急ぎましょ",
+    "translation": "まあいいわ。さあ、急ぎましょ",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA26S_0000",
+    "original": "ハルヒはキレイな花と道ばたに咲く\n花のどちらが好きだ？",
+    "translation": "ハルヒはキレイな花と道ばたに咲く\n花のどちらが好きだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA26S_0001",
+    "original": "唐突に何よ、それ？",
+    "translation": "唐突に何よ、それ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA26S_0002",
+    "original": "さっき鶴屋さんに聞かれたんだが",
+    "translation": "さっき鶴屋さんに聞かれたんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA26S_0003",
+    "original": "心理テストとかなのかしら？",
+    "translation": "心理テストとかなのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA26S_0004",
+    "original": "さあ？",
+    "translation": "さあ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA26S_0005",
+    "original": "解答はなかったの？",
+    "translation": "解答はなかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA26S_0006",
+    "original": "キレイは可憐で、道ばたは健気だと\nか言ってたかな？",
+    "translation": "キレイは可憐で、道ばたは健気だと\nか言ってたかな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA26S_0007",
+    "original": "単なる花の好みなのかしらね？",
+    "translation": "単なる花の好みなのかしらね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA26S_0008",
+    "original": "さあな",
+    "translation": "さあな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA26S_0009",
+    "original": "俺に聞かれても、鶴屋さんのする\nことはハルヒ並みによくわからん",
+    "translation": "俺に聞かれても、鶴屋さんのする\nことはハルヒ並みによくわからん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA26S_0010",
+    "original": "あたしはどっちも好きだけど、\nキョンは？",
+    "translation": "あたしはどっちも好きだけど、\nキョンは？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA26S_0011",
+    "original": "俺は花のことはさっぱりだ",
+    "translation": "俺は花のことはさっぱりだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA26S_0012",
+    "original": "まあ、そんなところでしょうね",
+    "translation": "まあ、そんなところでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA26S_0013",
+    "original": "古泉くんなら、花言葉とかまで\n知っていそうだけど",
+    "translation": "古泉くんなら、花言葉とかまで\n知っていそうだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA26S_0014",
+    "original": "男は知らないのが普通だろ？",
+    "translation": "男は知らないのが普通だろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA26S_0015",
+    "original": "だからキョンはモテないのよ",
+    "translation": "だからキョンはモテないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA26S_0016",
+    "original": "ほっとけ",
+    "translation": "ほっとけ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA26S_0017",
+    "original": "音楽室の鍵を借りに行った帰りに\n鶴屋さんと会ったんですよ",
+    "translation": "音楽室の鍵を借りに行った帰りに\n鶴屋さんと会ったんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA26S_0018",
+    "original": "ふぅん",
+    "translation": "ふぅん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA26S_0019",
+    "original": "それで鶴屋さんがキョンくんに\n質問していたんですけど",
+    "translation": "それで鶴屋さんがキョンくんに\n質問していたんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA26S_0020",
+    "original": "質問ってどんな？",
+    "translation": "質問ってどんな？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA26S_0021",
+    "original": "キレイな花と道ばたに咲く花の\nどちらが好きかって",
+    "translation": "キレイな花と道ばたに咲く花の\nどちらが好きかって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA26S_0022",
+    "original": "何なのかしら？　心理テスト？",
+    "translation": "何なのかしら？　心理テスト？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA26S_0023",
+    "original": "そうかもしれませんね。ヒントも\nありましたし",
+    "translation": "そうかもしれませんね。ヒントも\nありましたし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA26S_0024",
+    "original": "ヒントってどんなのだったの？",
+    "translation": "ヒントってどんなのだったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA26S_0025",
+    "original": "ええと、確か、キレイな花は思わず\n世話をしたくなるような可憐な花",
+    "translation": "ええと、確か、キレイな花は思わず\n世話をしたくなるような可憐な花",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA26S_0026",
+    "original": "道ばたの花は、小さくて目立たない\nけれど健気な花、だったと思います",
+    "translation": "道ばたの花は、小さくて目立たない\nけれど健気な花、だったと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA26S_0027",
+    "original": "……意味深ねぇ。心理テストに\nしても何を表しているのか疑問だわ",
+    "translation": "……意味深ねぇ。心理テストに\nしても何を表しているのか疑問だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA26S_0028",
+    "original": "鶴屋さんですからねぇ。真意は\nあたしには良くわかりません",
+    "translation": "鶴屋さんですからねぇ。真意は\nあたしには良くわかりません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA26S_0029",
+    "original": "みくるちゃんの友達なのに？",
+    "translation": "みくるちゃんの友達なのに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA26S_0030",
+    "original": "友達でもです。何というか鶴屋さん\nスケールが大きすぎて……",
+    "translation": "友達でもです。何というか鶴屋さん\nスケールが大きすぎて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA26S_0031",
+    "original": "ああ、そんな感じねー。わかるわ",
+    "translation": "ああ、そんな感じねー。わかるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA26S_0032",
+    "original": "[#P06]涼宮さんに少し似てるかも……",
+    "translation": "[#P06]涼宮さんに少し似てるかも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA26S_0033",
+    "original": "え？　何か言った？",
+    "translation": "え？　何か言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA26S_0034",
+    "original": "い、いえっ、何でもありませんっ",
+    "translation": "い、いえっ、何でもありませんっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA26S_0035",
+    "original": "で、キョンはどちらを選んだの？",
+    "translation": "で、キョンはどちらを選んだの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA26S_0036",
+    "original": "ええと、部屋に飾るならキレイな\n花がいいと言いました",
+    "translation": "ええと、部屋に飾るならキレイな\n花がいいと言いました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA26S_0037",
+    "original": "それであたし、今度花を持っていく\n約束をしたんですが",
+    "translation": "それであたし、今度花を持っていく\n約束をしたんですが",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA26S_0038",
+    "original": "心理テストにしては結果を教えて\nくれなかったんですよね",
+    "translation": "心理テストにしては結果を教えて\nくれなかったんですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA26S_0039",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA26S_0040",
+    "original": "単にお花の趣味を聞いてたんで\nしょうか？",
+    "translation": "単にお花の趣味を聞いてたんで\nしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA26S_0041",
+    "original": "ちょっと待って、みくるちゃん\n深読みし過ぎたかもしれないわ",
+    "translation": "ちょっと待って、みくるちゃん\n深読みし過ぎたかもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA26S_0042",
+    "original": "そうなんですか？",
+    "translation": "そうなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA26S_0043",
+    "original": "もっと単純な意味なのかも",
+    "translation": "もっと単純な意味なのかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA26S_0044",
+    "original": "一緒にいたの、キョンと有希よね？",
+    "translation": "一緒にいたの、キョンと有希よね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA26S_0045",
+    "original": "はい、そうです",
+    "translation": "はい、そうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA26S_0046",
+    "original": "みくるちゃんは意味がわからない？",
+    "translation": "みくるちゃんは意味がわからない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA26S_0047",
+    "original": "はぁ……わかりません",
+    "translation": "はぁ……わかりません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA26S_0048",
+    "original": "…………ま、みくるちゃんだものね\nどうせ、有希もわからないだろうし",
+    "translation": "…………ま、みくるちゃんだものね\nどうせ、有希もわからないだろうし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CA26S_0049",
+    "original": "あのぉ……？",
+    "translation": "あのぉ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 50,
+    "key": "evt_CA26S_0050",
+    "original": "どうせキョンも理解できたとは\n思えないしね",
+    "translation": "どうせキョンも理解できたとは\n思えないしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CA26S_0051",
+    "original": "あの……涼宮さん……？",
+    "translation": "あの……涼宮さん……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_CA26S_0052",
+    "original": "そおぉ、キレイな花が好きねぇ……",
+    "translation": "そおぉ、キレイな花が好きねぇ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CA26S_0053",
+    "original": "……よくわからないけど、時間は\nだいぶ稼げましたね",
+    "translation": "……よくわからないけど、時間は\nだいぶ稼げましたね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 54,
+    "key": "evt_CA26S_0054",
+    "original": "キレイな花と道ばたに咲く花の\nどちらが好みかと聞かれていた",
+    "translation": "キレイな花と道ばたに咲く花の\nどちらが好みかと聞かれていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_CA26S_0055",
+    "original": "誰に誰が？",
+    "translation": "誰に誰が？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CA26S_0056",
+    "original": "鶴屋さんに彼が",
+    "translation": "鶴屋さんに彼が",
+    "speaker": "長門"
+  },
+  {
+    "index": 57,
+    "key": "evt_CA26S_0057",
+    "original": "ふうん、鶴屋さんにキョンがね\n何の意味があるのかしら？",
+    "translation": "ふうん、鶴屋さんにキョンがね\n何の意味があるのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CA26S_0058",
+    "original": "キレイは可憐、道ばたは健気",
+    "translation": "キレイは可憐、道ばたは健気",
+    "speaker": "長門"
+  },
+  {
+    "index": 59,
+    "key": "evt_CA26S_0059",
+    "original": "ヒント？　それヒントなの？",
+    "translation": "ヒント？　それヒントなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_CA26S_0060",
+    "original": "彼女がそう言った",
+    "translation": "彼女がそう言った",
+    "speaker": "長門"
+  },
+  {
+    "index": 61,
+    "key": "evt_CA26S_0061",
+    "original": "で、キョンはどっちだって？",
+    "translation": "で、キョンはどっちだって？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CA26S_0062",
+    "original": "可憐な花が好きだと",
+    "translation": "可憐な花が好きだと",
+    "speaker": "長門"
+  },
+  {
+    "index": 63,
+    "key": "evt_CA26S_0063",
+    "original": "ねえ、有希。その時、あなたと\nみくるちゃんがキョンといたのね？",
+    "translation": "ねえ、有希。その時、あなたと\nみくるちゃんがキョンといたのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CA26S_0064",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 65,
+    "key": "evt_CA26S_0065",
+    "original": "ふ～ん、そうなんだ……",
+    "translation": "ふ～ん、そうなんだ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_CA26S_0066",
+    "original": "なぜ、不機嫌？",
+    "translation": "なぜ、不機嫌？",
+    "speaker": "長門"
+  },
+  {
+    "index": 67,
+    "key": "evt_CA26S_0067",
+    "original": "いいこと、有希。あなたは賢くて\nとってもいい娘よ",
+    "translation": "いいこと、有希。あなたは賢くて\nとってもいい娘よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CA26S_0068",
+    "original": "少しだけ無口だけどね",
+    "translation": "少しだけ無口だけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_CA26S_0069",
+    "original": "あたしが断言してあげる！",
+    "translation": "あたしが断言してあげる！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_CA26S_0070",
+    "original": "……？",
+    "translation": "……？",
+    "speaker": "長門"
+  },
+  {
+    "index": 71,
+    "key": "evt_CA26S_0071",
+    "original": "涼宮さんは、可憐な花と健気な花の\nどちらがお好みでしょう？",
+    "translation": "涼宮さんは、可憐な花と健気な花の\nどちらがお好みでしょう？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 72,
+    "key": "evt_CA26S_0072",
+    "original": "なにそれ？　どんな意味で聞いて\nいるの？",
+    "translation": "なにそれ？　どんな意味で聞いて\nいるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 73,
+    "key": "evt_CA26S_0073",
+    "original": "鶴屋さんが彼に訊ねた\nことなのですが",
+    "translation": "鶴屋さんが彼に訊ねた\nことなのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 74,
+    "key": "evt_CA26S_0074",
+    "original": "鶴屋さんが、キョンに？\n……意味深ね",
+    "translation": "鶴屋さんが、キョンに？\n……意味深ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 75,
+    "key": "evt_CA26S_0075",
+    "original": "ええ、ご本人達は気づいてなさそう\nですが、比喩的意味ではないかと",
+    "translation": "ええ、ご本人達は気づいてなさそう\nですが、比喩的意味ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 76,
+    "key": "evt_CA26S_0076",
+    "original": "可憐な花がみくるちゃん？",
+    "translation": "可憐な花がみくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 77,
+    "key": "evt_CA26S_0077",
+    "original": "健気な花が長門さんでは\nないでしょうか",
+    "translation": "健気な花が長門さんでは\nないでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 78,
+    "key": "evt_CA26S_0078",
+    "original": "あの子たち、目の前で言われて\n気づいてないの？",
+    "translation": "あの子たち、目の前で言われて\n気づいてないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 79,
+    "key": "evt_CA26S_0079",
+    "original": "多分",
+    "translation": "多分",
+    "speaker": "古泉"
+  },
+  {
+    "index": 80,
+    "key": "evt_CA26S_0080",
+    "original": "鈍感なんだから",
+    "translation": "鈍感なんだから",
+    "speaker": "ハルヒ"
+  }
+]

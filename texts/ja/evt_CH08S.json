@@ -1,0 +1,415 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH08S_0000",
+    "original": "しかし、こんだけ騒げば良い思い出\nができただろう",
+    "translation": "しかし、こんだけ騒げば良い思い出\nができただろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH08S_0001",
+    "original": "確かに、ちょっとは楽しくなって\nきたけど",
+    "translation": "確かに、ちょっとは楽しくなって\nきたけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH08S_0002",
+    "original": "でも、まだまだだわ",
+    "translation": "でも、まだまだだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH08S_0003",
+    "original": "だって、肝心の幽霊や怪奇現象には\n出会ってないんだもの",
+    "translation": "だって、肝心の幽霊や怪奇現象には\n出会ってないんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH08S_0004",
+    "original": "だから、そんなの本当かどうかも\n分からない代物だろう",
+    "translation": "だから、そんなの本当かどうかも\n分からない代物だろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH08S_0005",
+    "original": "そうよ、わからないからこそ調べる\nんじゃない！",
+    "translation": "そうよ、わからないからこそ調べる\nんじゃない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH08S_0006",
+    "original": "この件はあたしのプランでは絶対に\n外せない項目に該当するんだから",
+    "translation": "この件はあたしのプランでは絶対に\n外せない項目に該当するんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH08S_0007",
+    "original": "ハルヒ的絶対に外せない項目とやら\nは一体いくつあるんだろうね",
+    "translation": "ハルヒ的絶対に外せない項目とやら\nは一体いくつあるんだろうね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH08S_0008",
+    "original": "というわけだから、夏の思い出を\n完璧な物にするべく",
+    "translation": "というわけだから、夏の思い出を\n完璧な物にするべく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH08S_0009",
+    "original": "あんたも死に物狂いで怪奇現象を\n探すのよ！",
+    "translation": "あんたも死に物狂いで怪奇現象を\n探すのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH08S_0010",
+    "original": "探せと言われてもなぁ",
+    "translation": "探せと言われてもなぁ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH08S_0011",
+    "original": "ほら、いつどこに怪異が転がってる\nか分からないのよ！",
+    "translation": "ほら、いつどこに怪異が転がってる\nか分からないのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH08S_0012",
+    "original": "一瞬でも気を抜かない！",
+    "translation": "一瞬でも気を抜かない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH08S_0013",
+    "original": "分かったよ……はぁ",
+    "translation": "分かったよ……はぁ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH08S_0014",
+    "original": "でも、学校に泊まり込むなんて\n楽しい思い出ができましたね",
+    "translation": "でも、学校に泊まり込むなんて\n楽しい思い出ができましたね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH08S_0015",
+    "original": "甘い！　甘いわ、みくるちゃん！",
+    "translation": "甘い！　甘いわ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH08S_0016",
+    "original": "ひあっ！？",
+    "translation": "ひあっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH08S_0017",
+    "original": "この程度で楽しいだなんて\nメープルシロップより甘すぎるわ！",
+    "translation": "この程度で楽しいだなんて\nメープルシロップより甘すぎるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH08S_0018",
+    "original": "考えてもみなさい",
+    "translation": "考えてもみなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH08S_0019",
+    "original": "まだ本物の幽霊にも怪奇現象にも\n遭遇してないのよ？",
+    "translation": "まだ本物の幽霊にも怪奇現象にも\n遭遇してないのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH08S_0020",
+    "original": "それは別に遭遇しなくてもいい\nような……",
+    "translation": "それは別に遭遇しなくてもいい\nような……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH08S_0021",
+    "original": "言ってみれば、今までのことは\nただの前菜",
+    "translation": "言ってみれば、今までのことは\nただの前菜",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH08S_0022",
+    "original": "メインディッシュはやっぱり、本物\nの怪奇現象なんだから",
+    "translation": "メインディッシュはやっぱり、本物\nの怪奇現象なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH08S_0023",
+    "original": "ちゃんと体験するまで家に帰れない\nと思いなさい！",
+    "translation": "ちゃんと体験するまで家に帰れない\nと思いなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH08S_0024",
+    "original": "ええええ！？",
+    "translation": "ええええ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH08S_0025",
+    "original": "でも、できればデザートまで出て\nくれるとうれしいけど",
+    "translation": "でも、できればデザートまで出て\nくれるとうれしいけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH08S_0026",
+    "original": "さあ、しっかり周りを見てるのよ",
+    "translation": "さあ、しっかり周りを見てるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH08S_0027",
+    "original": "いつどこに怪奇現象が転がってるか\n分からないんだからね！",
+    "translation": "いつどこに怪奇現象が転がってるか\n分からないんだからね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH08S_0028",
+    "original": "ふぇぇ、なんだか大変なことに\nなっちゃいましたぁ",
+    "translation": "ふぇぇ、なんだか大変なことに\nなっちゃいましたぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH08S_0029",
+    "original": "夏の思い出",
+    "translation": "夏の思い出",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH08S_0030",
+    "original": "あら、どうしたの有希",
+    "translation": "あら、どうしたの有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH08S_0031",
+    "original": "怪奇現象の探索は夏の思い出",
+    "translation": "怪奇現象の探索は夏の思い出",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH08S_0032",
+    "original": "有希はこういうの初めて？",
+    "translation": "有希はこういうの初めて？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH08S_0033",
+    "original": "初めて",
+    "translation": "初めて",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH08S_0034",
+    "original": "それは光栄だわ",
+    "translation": "それは光栄だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH08S_0035",
+    "original": "有希の初めてをプロデュースでき\nたんだから",
+    "translation": "有希の初めてをプロデュースでき\nたんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH08S_0036",
+    "original": "でもね、まだまだこんなもんじゃ\nないわよ",
+    "translation": "でもね、まだまだこんなもんじゃ\nないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH08S_0037",
+    "original": "夏休みはまだこれからだし、何より\n本来の目的だって未達成なんだから",
+    "translation": "夏休みはまだこれからだし、何より\n本来の目的だって未達成なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH08S_0038",
+    "original": "本来の目的",
+    "translation": "本来の目的",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH08S_0039",
+    "original": "もちろん、本物の幽霊や怪奇現象を\n体験することよ！",
+    "translation": "もちろん、本物の幽霊や怪奇現象を\n体験することよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CH08S_0040",
+    "original": "それこそが合宿のメインイベント！",
+    "translation": "それこそが合宿のメインイベント！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CH08S_0041",
+    "original": "うーん、口に出したらテンションが\n上がってきたわ！",
+    "translation": "うーん、口に出したらテンションが\n上がってきたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CH08S_0042",
+    "original": "有希、この先は注意して色んな場所\nを見ておくのよ",
+    "translation": "有希、この先は注意して色んな場所\nを見ておくのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CH08S_0043",
+    "original": "もしかすると、意外な場所にも怪異\nが隠れてるかもしれないんだから！",
+    "translation": "もしかすると、意外な場所にも怪異\nが隠れてるかもしれないんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CH08S_0044",
+    "original": "了解した",
+    "translation": "了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CH08S_0045",
+    "original": "さあ、出てらっしゃい怪奇現象！",
+    "translation": "さあ、出てらっしゃい怪奇現象！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CH08S_0046",
+    "original": "しかし、今年の夏は予想外に楽しい\nものになりました",
+    "translation": "しかし、今年の夏は予想外に楽しい\nものになりました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CH08S_0047",
+    "original": "あら、気が早いわね。まだ夏休みは\n始まったばかりじゃない",
+    "translation": "あら、気が早いわね。まだ夏休みは\n始まったばかりじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CH08S_0048",
+    "original": "ですが、もうすでに過去のどんな\n夏よりも濃密な時間を過ごしました",
+    "translation": "ですが、もうすでに過去のどんな\n夏よりも濃密な時間を過ごしました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CH08S_0049",
+    "original": "なかなかステキな感想ね",
+    "translation": "なかなかステキな感想ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CH08S_0050",
+    "original": "でも、今年の夏はこんなものじゃ\n終わらないわよ",
+    "translation": "でも、今年の夏はこんなものじゃ\n終わらないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CH08S_0051",
+    "original": "と、いいますと？",
+    "translation": "と、いいますと？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_CH08S_0052",
+    "original": "まだ合宿の目的を達成してないじゃ\nない",
+    "translation": "まだ合宿の目的を達成してないじゃ\nない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CH08S_0053",
+    "original": "本物の幽霊や怪奇現象を体験しない\nことには夏が終わらないわ！",
+    "translation": "本物の幽霊や怪奇現象を体験しない\nことには夏が終わらないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CH08S_0054",
+    "original": "なるほど",
+    "translation": "なるほど",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CH08S_0055",
+    "original": "コンピ研の話を信じて調べたけど\nそんなのアテにしない方がいいかも",
+    "translation": "コンピ研の話を信じて調べたけど\nそんなのアテにしない方がいいかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CH08S_0056",
+    "original": "古泉くんも、目を皿のようにして\n探すのよ",
+    "translation": "古泉くんも、目を皿のようにして\n探すのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CH08S_0057",
+    "original": "意外な場所に怪奇現象が転がってる\nかもしれないんだから",
+    "translation": "意外な場所に怪奇現象が転がってる\nかもしれないんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CH08S_0058",
+    "original": "はい、了解しました",
+    "translation": "はい、了解しました",
+    "speaker": "古泉"
+  }
+]

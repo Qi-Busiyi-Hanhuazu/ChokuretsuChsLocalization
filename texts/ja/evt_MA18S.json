@@ -1,0 +1,460 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA18S_0000",
+    "original": "暗いわねぇ、懐中電灯持ってくれば\n良かったわ",
+    "translation": "暗いわねぇ、懐中電灯持ってくれば\n良かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA18S_0001",
+    "original": "さっさと部室に戻りましょ",
+    "translation": "さっさと部室に戻りましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA18S_0002",
+    "original": "ハルヒ、ちょっと見てみろ",
+    "translation": "ハルヒ、ちょっと見てみろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA18S_0003",
+    "original": "なによ……",
+    "translation": "なによ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA18S_0004",
+    "original": "\nって、アンタ、なにやってんの？",
+    "translation": "\nって、アンタ、なにやってんの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA18S_0005",
+    "original": "影絵だ影絵。ほら、チョウチョだ",
+    "translation": "影絵だ影絵。ほら、チョウチョだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA18S_0006",
+    "original": "なに子どもみたいなことやって\nんのよ",
+    "translation": "なに子どもみたいなことやって\nんのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA18S_0007",
+    "original": "思うんだが、幽霊や何かの正体って\n大抵が見間違えたとかだよな",
+    "translation": "思うんだが、幽霊や何かの正体って\n大抵が見間違えたとかだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA18S_0008",
+    "original": "そりゃ、昔の人はそうだったかも\nしれないでしょうけど",
+    "translation": "そりゃ、昔の人はそうだったかも\nしれないでしょうけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA18S_0009",
+    "original": "それにしても、アンタ、チョウチョ\n以外のレパートリーはないわけ？",
+    "translation": "それにしても、アンタ、チョウチョ\n以外のレパートリーはないわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA18S_0010",
+    "original": "犬ならできるぞ",
+    "translation": "犬ならできるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA18S_0011",
+    "original": "はぁ……ちょっと見てなさい",
+    "translation": "はぁ……ちょっと見てなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA18S_0012",
+    "original": "おお……",
+    "translation": "おお……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA18S_0013",
+    "original": "これがカニで、こっちがキツネ\nこうすると犬にもなるのよ",
+    "translation": "これがカニで、こっちがキツネ\nこうすると犬にもなるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA18S_0014",
+    "original": "おお、すごいな",
+    "translation": "おお、すごいな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA18S_0015",
+    "original": "こんなの常識よ、常識",
+    "translation": "こんなの常識よ、常識",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA18S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_MA18S_0017",
+    "original": "涼宮さん、見てくださいほら",
+    "translation": "涼宮さん、見てくださいほら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA18S_0018",
+    "original": "なに？　影絵？",
+    "translation": "なに？　影絵？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA18S_0019",
+    "original": "そうです。さっき教えてもらった\nんです、ほら、チョウチョ",
+    "translation": "そうです。さっき教えてもらった\nんです、ほら、チョウチョ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA18S_0020",
+    "original": "みくるちゃん、そういうのは子供が\nやる遊びよ",
+    "translation": "みくるちゃん、そういうのは子供が\nやる遊びよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA18S_0021",
+    "original": "でも、あたしあまりしたことなかっ\nたんです",
+    "translation": "でも、あたしあまりしたことなかっ\nたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA18S_0022",
+    "original": "……しょうがないわね\nこういうのもあるわよ",
+    "translation": "……しょうがないわね\nこういうのもあるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA18S_0023",
+    "original": "わあ",
+    "translation": "わあ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA18S_0024",
+    "original": "ほら、カニとかキツネも\nできるわよ",
+    "translation": "ほら、カニとかキツネも\nできるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA18S_0025",
+    "original": "こうすると……ほら",
+    "translation": "こうすると……ほら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA18S_0026",
+    "original": "わあ、すごいすごい！\nウサギですね",
+    "translation": "わあ、すごいすごい！\nウサギですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA18S_0027",
+    "original": "こんなので喜んでもらえるなんて\nいくらでもやってあげるわよ",
+    "translation": "こんなので喜んでもらえるなんて\nいくらでもやってあげるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA18S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_MA18S_0029",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA18S_0030",
+    "original": "有希、なにやってるの？",
+    "translation": "有希、なにやってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA18S_0031",
+    "original": "影絵",
+    "translation": "影絵",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA18S_0032",
+    "original": "それは見れば分かるけど",
+    "translation": "それは見れば分かるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA18S_0033",
+    "original": "さっき教えてもらった",
+    "translation": "さっき教えてもらった",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA18S_0034",
+    "original": "教えてもらったねえ……\nそのチョウチョだけ？",
+    "translation": "教えてもらったねえ……\nそのチョウチョだけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA18S_0035",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA18S_0036",
+    "original": "誰だか知らないけどレパートリーが\n少なすぎるわよ",
+    "translation": "誰だか知らないけどレパートリーが\n少なすぎるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA18S_0037",
+    "original": "見てなさい……ほら",
+    "translation": "見てなさい……ほら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA18S_0038",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA18S_0039",
+    "original": "こうすると犬",
+    "translation": "こうすると犬",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA18S_0040",
+    "original": "\nこっちはニワトリ……どう？",
+    "translation": "\nこっちはニワトリ……どう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA18S_0041",
+    "original": "ユニーク",
+    "translation": "ユニーク",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA18S_0042",
+    "original": "喜んでもらえてよかったわ",
+    "translation": "喜んでもらえてよかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA18S_0043",
+    "original": "他のレパートリーもある？",
+    "translation": "他のレパートリーもある？",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA18S_0044",
+    "original": "しょうがないわねぇ……\nじゃあ、こんなのはどう？",
+    "translation": "しょうがないわねぇ……\nじゃあ、こんなのはどう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA18S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_MA18S_0046",
+    "original": "涼宮さん、見てください",
+    "translation": "涼宮さん、見てください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA18S_0047",
+    "original": "何……？",
+    "translation": "何……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA18S_0048",
+    "original": "ちょうど差し込んだ光で\n廊下に影ができるんです",
+    "translation": "ちょうど差し込んだ光で\n廊下に影ができるんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA18S_0049",
+    "original": "いや、これを使えばもっと効果的な\n仕掛けができたのですが……",
+    "translation": "いや、これを使えばもっと効果的な\n仕掛けができたのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA18S_0050",
+    "original": "後悔先に立たずというわけですね",
+    "translation": "後悔先に立たずというわけですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA18S_0051",
+    "original": "その勤勉さは重要だと思うけど",
+    "translation": "その勤勉さは重要だと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA18S_0052",
+    "original": "いくらなんでもそんなのに驚いたり\nしないわよ",
+    "translation": "いくらなんでもそんなのに驚いたり\nしないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA18S_0053",
+    "original": "上手い方になると、かなり複雑な\n影絵も作れると聞きますが",
+    "translation": "上手い方になると、かなり複雑な\n影絵も作れると聞きますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA18S_0054",
+    "original": "たとえば、こういうの？",
+    "translation": "たとえば、こういうの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA18S_0055",
+    "original": "ウサギですか",
+    "translation": "ウサギですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA18S_0056",
+    "original": "他にも、こんなのとか",
+    "translation": "他にも、こんなのとか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA18S_0057",
+    "original": "おや、今度はニワトリですか",
+    "translation": "おや、今度はニワトリですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA18S_0058",
+    "original": "いや、なかなかお上手ですね",
+    "translation": "いや、なかなかお上手ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA18S_0059",
+    "original": "こんなの誰でもできるわよ",
+    "translation": "こんなの誰でもできるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA18S_0060",
+    "original": "いやいや、今ではなかなか\n知っている方もいないのでは",
+    "translation": "いやいや、今ではなかなか\n知っている方もいないのでは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_MA18S_0061",
+    "original": "そう？",
+    "translation": "そう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA18S_0062",
+    "original": "ええ。さすがは涼宮さん\n博識ですね",
+    "translation": "ええ。さすがは涼宮さん\n博識ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_MA18S_0063",
+    "original": "こんなので褒められても\nしょうがないわ",
+    "translation": "こんなので褒められても\nしょうがないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_MA18S_0064",
+    "original": "それより、早く部室に戻る\nわよっ",
+    "translation": "それより、早く部室に戻る\nわよっ",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA20S_0000",
+    "original": "……あ！　今、誰かそこにいたわ！",
+    "translation": "……あ！　今、誰かそこにいたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA20S_0001",
+    "original": "おい、急にどうしたんだ",
+    "translation": "おい、急にどうしたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA20S_0002",
+    "original": "今、そこに人がいたのよ！",
+    "translation": "今、そこに人がいたのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA20S_0003",
+    "original": "なんだと……？",
+    "translation": "なんだと……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA20S_0004",
+    "original": "追いかけるわよ！",
+    "translation": "追いかけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA20S_0005",
+    "original": "待て待て待て、そりゃ見間違いだ",
+    "translation": "待て待て待て、そりゃ見間違いだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA20S_0006",
+    "original": "どうして分かるのよ",
+    "translation": "どうして分かるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA20S_0007",
+    "original": "それはな、これだ",
+    "translation": "それはな、これだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA20S_0008",
+    "original": "なにこれ……壁のシミ？",
+    "translation": "なにこれ……壁のシミ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA20S_0009",
+    "original": "それが、おまえが見た人影の正体だ",
+    "translation": "それが、おまえが見た人影の正体だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA20S_0010",
+    "original": "なによ、一瞬だけど期待しちゃった\nじゃない",
+    "translation": "なによ、一瞬だけど期待しちゃった\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA20S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA20S_0012",
+    "original": "す、涼宮さん！",
+    "translation": "す、涼宮さん！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA20S_0013",
+    "original": "今、そこに誰かいたわ！",
+    "translation": "今、そこに誰かいたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA20S_0014",
+    "original": "ええ！？",
+    "translation": "ええ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA20S_0015",
+    "original": "追いかけるわよ！\nみくるちゃん！",
+    "translation": "追いかけるわよ！\nみくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA20S_0016",
+    "original": "ま、待ってください",
+    "translation": "ま、待ってください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA20S_0017",
+    "original": "なに、急がないと逃げられて――",
+    "translation": "なに、急がないと逃げられて――",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA20S_0018",
+    "original": "あの、それ、違うと思います",
+    "translation": "あの、それ、違うと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA20S_0019",
+    "original": "見てください、そこの壁",
+    "translation": "見てください、そこの壁",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA20S_0020",
+    "original": "ん……？",
+    "translation": "ん……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA20S_0021",
+    "original": "なにこれ、でっかいシミ",
+    "translation": "なにこれ、でっかいシミ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA20S_0022",
+    "original": "たぶん、涼宮さんが見たのって\nそれじゃないかなって……",
+    "translation": "たぶん、涼宮さんが見たのって\nそれじゃないかなって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA20S_0023",
+    "original": "うーん……言われてみればそうかも\nまったくもう、紛らわしいわね",
+    "translation": "うーん……言われてみればそうかも\nまったくもう、紛らわしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA20S_0024",
+    "original": "ほっ……",
+    "translation": "ほっ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA20S_0025",
+    "original": "追いかけるわよ、有希！",
+    "translation": "追いかけるわよ、有希！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA20S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_MA20S_0027",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA20S_0028",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA20S_0029",
+    "original": "それは、違う",
+    "translation": "それは、違う",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA20S_0030",
+    "original": "どういうことよ",
+    "translation": "どういうことよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA20S_0031",
+    "original": "ここ",
+    "translation": "ここ",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA20S_0032",
+    "original": "ん……？",
+    "translation": "ん……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA20S_0033",
+    "original": "なにこれ、シミになってる\nしかも、なんか見たことある形ね",
+    "translation": "なにこれ、シミになってる\nしかも、なんか見たことある形ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA20S_0034",
+    "original": "おそらく、それが人影",
+    "translation": "おそらく、それが人影",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA20S_0035",
+    "original": "言われてみれば……\nそんな風に見えなくもないけど",
+    "translation": "言われてみれば……\nそんな風に見えなくもないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA20S_0036",
+    "original": "もう、なんか釈然としないわね",
+    "translation": "もう、なんか釈然としないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA20S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_MA20S_0038",
+    "original": "どうしました？",
+    "translation": "どうしました？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA20S_0039",
+    "original": "確かにそこに誰かがいたわ！",
+    "translation": "確かにそこに誰かがいたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA20S_0040",
+    "original": "待って下さい。おそらくそれは\n涼宮さんの見間違いではないかと",
+    "translation": "待って下さい。おそらくそれは\n涼宮さんの見間違いではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA20S_0041",
+    "original": "なんでそう言えるの？",
+    "translation": "なんでそう言えるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA20S_0042",
+    "original": "それは……これです",
+    "translation": "それは……これです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA20S_0043",
+    "original": "なにこれ……？",
+    "translation": "なにこれ……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA20S_0044",
+    "original": "この壁、大きなシミがありますね",
+    "translation": "この壁、大きなシミがありますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA20S_0045",
+    "original": "しかも見ようによっては人の顔に\n見えなくもない",
+    "translation": "しかも見ようによっては人の顔に\n見えなくもない",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA20S_0046",
+    "original": "言われてみれば、確かにそうね",
+    "translation": "言われてみれば、確かにそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA20S_0047",
+    "original": "これが人影の正体ではないで\nしょうか",
+    "translation": "これが人影の正体ではないで\nしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA20S_0048",
+    "original": "うーん……なんだか肩すかしを\n食らった気分だわ",
+    "translation": "うーん……なんだか肩すかしを\n食らった気分だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA20S_0049",
+    "original": "そういうこともあります。こう暗い\nと見間違いもあるでしょう",
+    "translation": "そういうこともあります。こう暗い\nと見間違いもあるでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA20S_0050",
+    "original": "まあいいわ、行きましょ",
+    "translation": "まあいいわ、行きましょ",
+    "speaker": "ハルヒ"
+  }
+]

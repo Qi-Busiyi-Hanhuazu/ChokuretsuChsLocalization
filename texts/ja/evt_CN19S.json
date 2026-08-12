@@ -1,0 +1,254 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN19S_0000",
+    "original": "おいハルヒ、部室でお前が俺に\n言った“夢がない”ってやつだがな",
+    "translation": "おいハルヒ、部室でお前が俺に\n言った“夢がない”ってやつだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN19S_0001",
+    "original": "なに、細かいこと覚えてるわね\nそんなのとっくに忘れたわよ",
+    "translation": "なに、細かいこと覚えてるわね\nそんなのとっくに忘れたわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN19S_0002",
+    "original": "俺は執念深いんだ",
+    "translation": "俺は執念深いんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN19S_0003",
+    "original": "それでな、俺は確かに夢が無いかも\nしれないが、逆に言えば現実的って",
+    "translation": "それでな、俺は確かに夢が無いかも\nしれないが、逆に言えば現実的って",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN19S_0004",
+    "original": "ことだ。夢だか妄想だかばかり追い\nかけてるお前と違ってな",
+    "translation": "ことだ。夢だか妄想だかばかり追い\nかけてるお前と違ってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN19S_0005",
+    "original": "あんたみたいに夢も無いやつばかり\nだから、世の中がつまらないのよ！",
+    "translation": "あんたみたいに夢も無いやつばかり\nだから、世の中がつまらないのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN19S_0006",
+    "original": "有希にはあたしの考えがちゃんと\n通じてたのに、あんたって言ったら",
+    "translation": "有希にはあたしの考えがちゃんと\n通じてたのに、あんたって言ったら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN19S_0007",
+    "original": "ぼーっとして、何も伝わらないんだ\nから！",
+    "translation": "ぼーっとして、何も伝わらないんだ\nから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN19S_0008",
+    "original": "……お前だって、俺の言ったこと覚\nえてるじゃないか",
+    "translation": "……お前だって、俺の言ったこと覚\nえてるじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN19S_0009",
+    "original": "キョンが言ったから思いだしたの！\nああもう、腹が立つわ！",
+    "translation": "キョンが言ったから思いだしたの！\nああもう、腹が立つわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN19S_0010",
+    "original": "怒りながら、ハルヒはずかずかと\n進む",
+    "translation": "怒りながら、ハルヒはずかずかと\n進む",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN19S_0011",
+    "original": "怒らせて気を散らそうと思ったのだ\nが……効果はなかったようだ",
+    "translation": "怒らせて気を散らそうと思ったのだ\nが……効果はなかったようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN19S_0012",
+    "original": "ということは、怒らせ損だな……",
+    "translation": "ということは、怒らせ損だな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN19S_0013",
+    "original": "やれやれ",
+    "translation": "やれやれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN19S_0014",
+    "original": "長門さんって、時々なぞなぞみたい\nなことを言いますよね",
+    "translation": "長門さんって、時々なぞなぞみたい\nなことを言いますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN19S_0015",
+    "original": "その、答が判ってるけど内緒にして\nるみたいな……",
+    "translation": "その、答が判ってるけど内緒にして\nるみたいな……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN19S_0016",
+    "original": "有希は頭の回転の速い娘だから、そ\nういう感じに聞こえるんでしょうね",
+    "translation": "有希は頭の回転の速い娘だから、そ\nういう感じに聞こえるんでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN19S_0017",
+    "original": "キョンなんか、有希の言葉の半分も\n理解できてないと思うわ",
+    "translation": "キョンなんか、有希の言葉の半分も\n理解できてないと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN19S_0018",
+    "original": "そ、そうですか……？",
+    "translation": "そ、そうですか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN19S_0019",
+    "original": "そうよ。絶対そう！",
+    "translation": "そうよ。絶対そう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN19S_0020",
+    "original": "さ、早く戻ってキョンをコケにしま\nしょうか",
+    "translation": "さ、早く戻ってキョンをコケにしま\nしょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN19S_0021",
+    "original": "あ、待ってください～！",
+    "translation": "あ、待ってください～！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN19S_0022",
+    "original": "あなたが言うことが理解できないと\n彼が言うから、ヒントを与えた",
+    "translation": "あなたが言うことが理解できないと\n彼が言うから、ヒントを与えた",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN19S_0023",
+    "original": "でも、まだ判らない様子",
+    "translation": "でも、まだ判らない様子",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN19S_0024",
+    "original": "さっきの部室での話？",
+    "translation": "さっきの部室での話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN19S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN19S_0026",
+    "original": "仕方ないわよ、キョンはほんとうに\n頭の回転が鈍いからね",
+    "translation": "仕方ないわよ、キョンはほんとうに\n頭の回転が鈍いからね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN19S_0027",
+    "original": "ヒントじゃなくて、そのものずばり\n言ったって理解できるかどうか……",
+    "translation": "ヒントじゃなくて、そのものずばり\n言ったって理解できるかどうか……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN19S_0028",
+    "original": "次からはそうする",
+    "translation": "次からはそうする",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN19S_0029",
+    "original": "あ、ちょ、ちょっと待って",
+    "translation": "あ、ちょ、ちょっと待って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN19S_0030",
+    "original": "別に、あたしの言葉を解説しなくて\nも、いいのよ？",
+    "translation": "別に、あたしの言葉を解説しなくて\nも、いいのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN19S_0031",
+    "original": "……判った",
+    "translation": "……判った",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN19S_0032",
+    "original": "長門さんは時折、謎めいた言い方を\nしますね",
+    "translation": "長門さんは時折、謎めいた言い方を\nしますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN19S_0033",
+    "original": "そう？　そりゃ元々無口な有希だか\nら、言葉が足りないこともあるけど",
+    "translation": "そう？　そりゃ元々無口な有希だか\nら、言葉が足りないこともあるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN19S_0034",
+    "original": "言ってる内容はいつだって判りやす\nいと思うわよ",
+    "translation": "言ってる内容はいつだって判りやす\nいと思うわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN19S_0035",
+    "original": "成る程、そういうものですか",
+    "translation": "成る程、そういうものですか",
+    "speaker": "古泉"
+  }
+]

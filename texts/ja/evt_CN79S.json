@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN79S_0000",
+    "original": "そういえば、長門と待ち合わせの\n話をしていた時の事なんだが……",
+    "translation": "そういえば、長門と待ち合わせの\n話をしていた時の事なんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN79S_0001",
+    "original": "有希と待ち合わせですって？\nいつの間にそんなことをしてたのよ",
+    "translation": "有希と待ち合わせですって？\nいつの間にそんなことをしてたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN79S_0002",
+    "original": "特……いや、ついさっき、下調べを\nしに行った時だ",
+    "translation": "特……いや、ついさっき、下調べを\nしに行った時だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN79S_0003",
+    "original": "ひょっとして、有希をサボリに\n荷担させるつもりだったの？",
+    "translation": "ひょっとして、有希をサボリに\n荷担させるつもりだったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN79S_0004",
+    "original": "まったく……有希はいい子だから\nキョンに騙されないか心配だわ",
+    "translation": "まったく……有希はいい子だから\nキョンに騙されないか心配だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN79S_0005",
+    "original": "人聞きの悪いことを言うな",
+    "translation": "人聞きの悪いことを言うな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN79S_0006",
+    "original": "じゃあ、何で待ち合わせをして\nたわけ？",
+    "translation": "じゃあ、何で待ち合わせをして\nたわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN79S_0007",
+    "original": "あたしにちゃんと説明しなさい！",
+    "translation": "あたしにちゃんと説明しなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN79S_0008",
+    "original": "ちょっと待てよ。えぇと……\nなにを話そうとしてたんだっけ？",
+    "translation": "ちょっと待てよ。えぇと……\nなにを話そうとしてたんだっけ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN79S_0009",
+    "original": "なによ誤魔化そうってつもり？\nいいから早く言いなさいよ",
+    "translation": "なによ誤魔化そうってつもり？\nいいから早く言いなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN79S_0010",
+    "original": "ああ、そうだ。昇降口で待ち合わせ\nる相談だったんだ",
+    "translation": "ああ、そうだ。昇降口で待ち合わせ\nる相談だったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN79S_0011",
+    "original": "何分前ぐらいに集まればいいっかて\n相談だ",
+    "translation": "何分前ぐらいに集まればいいっかて\n相談だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN79S_0012",
+    "original": "そんなの早ければ早いだけいいに\n決まってるでしょ！",
+    "translation": "そんなの早ければ早いだけいいに\n決まってるでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN79S_0013",
+    "original": "ほら、早くいくわよ",
+    "translation": "ほら、早くいくわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN79S_0014",
+    "original": "へいへい",
+    "translation": "へいへい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN79S_0015",
+    "original": "長門さんって時間にきっちりとして\nいますよね",
+    "translation": "長門さんって時間にきっちりとして\nいますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN79S_0016",
+    "original": "うちで時間を守らないのはキョン\nだけよっ",
+    "translation": "うちで時間を守らないのはキョン\nだけよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN79S_0017",
+    "original": "キョンくんは最後に来ているだけで\n時間内だと思いますけど……",
+    "translation": "キョンくんは最後に来ているだけで\n時間内だと思いますけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN79S_0018",
+    "original": "その最後がダメなのよ。毎回そう\nなんだから自覚を持って欲しいわ",
+    "translation": "その最後がダメなのよ。毎回そう\nなんだから自覚を持って欲しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN79S_0019",
+    "original": "少し早く来れば済む問題でしょ\n約束の１時間前に来るとか",
+    "translation": "少し早く来れば済む問題でしょ\n約束の１時間前に来るとか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN79S_0020",
+    "original": "あ、あの、そう……ですねぇ",
+    "translation": "あ、あの、そう……ですねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN79S_0021",
+    "original": "私と待ち合わせすると仮定して\n場所はどこが適切？",
+    "translation": "私と待ち合わせすると仮定して\n場所はどこが適切？",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN79S_0022",
+    "original": "そうねえ。図書館……って言うのは\nありきたりね",
+    "translation": "そうねえ。図書館……って言うのは\nありきたりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN79S_0023",
+    "original": "美術館とか郷土資料館なんかは\nちょっと捻りが利いてるかしら",
+    "translation": "美術館とか郷土資料館なんかは\nちょっと捻りが利いてるかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN79S_0024",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN79S_0025",
+    "original": "映画に興味があるなら、映画館でも\nいいかも知れないけど",
+    "translation": "映画に興味があるなら、映画館でも\nいいかも知れないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN79S_0026",
+    "original": "……興味がないわけではない",
+    "translation": "……興味がないわけではない",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN79S_0027",
+    "original": "意外なところだとゲームセンターの\nクレーンゲーム前とかがいいわ！",
+    "translation": "意外なところだとゲームセンターの\nクレーンゲーム前とかがいいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN79S_0028",
+    "original": "クレーンゲーム……",
+    "translation": "クレーンゲーム……",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN79S_0029",
+    "original": "もしもやったことがなかったら\n一度やってみるといいわよ",
+    "translation": "もしもやったことがなかったら\n一度やってみるといいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN79S_0030",
+    "original": "はまると面白いんだからっ",
+    "translation": "はまると面白いんだからっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN79S_0031",
+    "original": "……機会があれば",
+    "translation": "……機会があれば",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN79S_0032",
+    "original": "涼宮さん、参考までに伺いたいの\nですが",
+    "translation": "涼宮さん、参考までに伺いたいの\nですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN79S_0033",
+    "original": "何、古泉くん\n改まってどうしちゃったの？",
+    "translation": "何、古泉くん\n改まってどうしちゃったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN79S_0034",
+    "original": "いえ、長門さんと待ち合わせを\nする場合の事を考えていまして",
+    "translation": "いえ、長門さんと待ち合わせを\nする場合の事を考えていまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN79S_0035",
+    "original": "今後のＳＯＳ団について打ち合わせ\nをする時には……",
+    "translation": "今後のＳＯＳ団について打ち合わせ\nをする時には……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN79S_0036",
+    "original": "どういった場所が相応しいと\n思われますか？",
+    "translation": "どういった場所が相応しいと\n思われますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN79S_0037",
+    "original": "部室ですればいいんじゃないの？\nあとは……有希の場合はそうね",
+    "translation": "部室ですればいいんじゃないの？\nあとは……有希の場合はそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN79S_0038",
+    "original": "図書館とかいいんじゃない？\nでも、有希は本に集中しそうだけど",
+    "translation": "図書館とかいいんじゃない？\nでも、有希は本に集中しそうだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN79S_0039",
+    "original": "確かに……目に浮かびます",
+    "translation": "確かに……目に浮かびます",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK31S_0000",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK31S_0001",
+    "original": "なによ？",
+    "translation": "なによ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK31S_0002",
+    "original": "商店街で買い物した時に福引き券を\nもらったんだよ",
+    "translation": "商店街で買い物した時に福引き券を\nもらったんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK31S_0003",
+    "original": "へえ、賞品は何かしら？　商店街の\nじゃ、たいした物はなさそうだけど",
+    "translation": "へえ、賞品は何かしら？　商店街の\nじゃ、たいした物はなさそうだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK31S_0004",
+    "original": "世界一周旅行くらいあるかしら？",
+    "translation": "世界一周旅行くらいあるかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK31S_0005",
+    "original": "商店街の福引きに、そんな景品が\nあるわけないだろ",
+    "translation": "商店街の福引きに、そんな景品が\nあるわけないだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK31S_0006",
+    "original": "つまんないわね",
+    "translation": "つまんないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK31S_0007",
+    "original": "でもまあ、一応これはもらっとくわ",
+    "translation": "でもまあ、一応これはもらっとくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK31S_0008",
+    "original": "涼宮さん、古泉くんとキョンくんが\nお買い物に行きましたよね",
+    "translation": "涼宮さん、古泉くんとキョンくんが\nお買い物に行きましたよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK31S_0009",
+    "original": "ええ、そうね。それが？",
+    "translation": "ええ、そうね。それが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK31S_0010",
+    "original": "商店街の福引き券をたくさん\n貰ったそうなんですよ",
+    "translation": "商店街の福引き券をたくさん\n貰ったそうなんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK31S_0011",
+    "original": "へぇ、商店街の福引きねぇ",
+    "translation": "へぇ、商店街の福引きねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK31S_0012",
+    "original": "で、一等の賞品はなんなの？",
+    "translation": "で、一等の賞品はなんなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK31S_0013",
+    "original": "さあ、そこまでは……",
+    "translation": "さあ、そこまでは……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK31S_0014",
+    "original": "みくるちゃんったら\nそこが一番重要なんじゃない",
+    "translation": "みくるちゃんったら\nそこが一番重要なんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK31S_0015",
+    "original": "す、すみません",
+    "translation": "す、すみません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK31S_0016",
+    "original": "まあ、いいわ\nあとで古泉くんに聞いてみましょ",
+    "translation": "まあ、いいわ\nあとで古泉くんに聞いてみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK31S_0017",
+    "original": "はい。何があるのかなぁ",
+    "translation": "はい。何があるのかなぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK31S_0018",
+    "original": "買い物で福引き券を貰ったと\n言っていた",
+    "translation": "買い物で福引き券を貰ったと\n言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK31S_0019",
+    "original": "買い物で？　古泉くんとキョンが？",
+    "translation": "買い物で？　古泉くんとキョンが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK31S_0020",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK31S_0021",
+    "original": "ふーん、なんで直接あたしに報告\nしないのかしらね",
+    "translation": "ふーん、なんで直接あたしに報告\nしないのかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK31S_0022",
+    "original": "理由は不明",
+    "translation": "理由は不明",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK31S_0023",
+    "original": "まあいいわ",
+    "translation": "まあいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK31S_0024",
+    "original": "ＳＯＳ団の買い物でもらったものは\n団長であるあたしが預かっておくわ",
+    "translation": "ＳＯＳ団の買い物でもらったものは\n団長であるあたしが預かっておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK31S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK31S_0026",
+    "original": "ところで、賞品はどんなのがあるの\nかしら？",
+    "translation": "ところで、賞品はどんなのがあるの\nかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK31S_0027",
+    "original": "我がＳＯＳ団の活動に役立つものが\nあるといいんだけど",
+    "translation": "我がＳＯＳ団の活動に役立つものが\nあるといいんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK31S_0028",
+    "original": "涼宮さん、先程商店街での買い物で\n福引き券を頂ましたのでどうぞ",
+    "translation": "涼宮さん、先程商店街での買い物で\n福引き券を頂ましたのでどうぞ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK31S_0029",
+    "original": "へえ、賞品はどんなものが用意され\nてるのかしらね？",
+    "translation": "へえ、賞品はどんなものが用意され\nてるのかしらね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK31S_0030",
+    "original": "目玉賞品はあった？　でも、商店街\nの福引き程度じゃ大物はないわよね",
+    "translation": "目玉賞品はあった？　でも、商店街\nの福引き程度じゃ大物はないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK31S_0031",
+    "original": "特賞がディナークルーズの招待券\nだそうですよ",
+    "translation": "特賞がディナークルーズの招待券\nだそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK31S_0032",
+    "original": "自分から『豪華』だなんて書くとこ\nがうさんくさいわね",
+    "translation": "自分から『豪華』だなんて書くとこ\nがうさんくさいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK31S_0033",
+    "original": "まあ、でも一応貰っておくわ",
+    "translation": "まあ、でも一応貰っておくわ",
+    "speaker": "ハルヒ"
+  }
+]

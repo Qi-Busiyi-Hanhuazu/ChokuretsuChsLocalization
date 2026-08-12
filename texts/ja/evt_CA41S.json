@@ -1,0 +1,303 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA41S_0000",
+    "original": "どうも、コンピ研の連中は朝比奈さ\nんに特別な感情を持ってるな……",
+    "translation": "どうも、コンピ研の連中は朝比奈さ\nんに特別な感情を持ってるな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA41S_0001",
+    "original": "どういうこと？",
+    "translation": "どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA41S_0002",
+    "original": "例えば、あの部長氏なんだが",
+    "translation": "例えば、あの部長氏なんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA41S_0003",
+    "original": "朝比奈さんが前に出ると、挙動不審\nというか、妙にしおらしくなる",
+    "translation": "朝比奈さんが前に出ると、挙動不審\nというか、妙にしおらしくなる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA41S_0004",
+    "original": "もしかすると、以前のＰＣ強奪事件\nがトラウマになってるのかもな",
+    "translation": "もしかすると、以前のＰＣ強奪事件\nがトラウマになってるのかもな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA41S_0005",
+    "original": "強奪じゃないわ、れっきとした取引\nだったわよ",
+    "translation": "強奪じゃないわ、れっきとした取引\nだったわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA41S_0006",
+    "original": "……その件に関してはノーコメント\nとしておく",
+    "translation": "……その件に関してはノーコメント\nとしておく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA41S_0007",
+    "original": "ま、コンピ研が挙動不審になる理由\nも分からなくはない",
+    "translation": "ま、コンピ研が挙動不審になる理由\nも分からなくはない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA41S_0008",
+    "original": "みくるちゃんが可愛いからでしょ",
+    "translation": "みくるちゃんが可愛いからでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA41S_0009",
+    "original": "まったくもって、その通りだ",
+    "translation": "まったくもって、その通りだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA41S_0010",
+    "original": "まさかあいつら、みくるちゃんを引\nき抜こうとか考えてないでしょうね",
+    "translation": "まさかあいつら、みくるちゃんを引\nき抜こうとか考えてないでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA41S_0011",
+    "original": "コンピ研の連中が？\nまさにまさかだ",
+    "translation": "コンピ研の連中が？\nまさにまさかだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA41S_0012",
+    "original": "ありえない、とは断言できないわ！",
+    "translation": "ありえない、とは断言できないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA41S_0013",
+    "original": "後で、そんな不埒な考えを起こさな\nいように、釘を刺しておかなきゃ",
+    "translation": "後で、そんな不埒な考えを起こさな\nいように、釘を刺しておかなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA41S_0014",
+    "original": "……どんな太い釘かは知らんが\nこれ以上、刺激するのは止めておけ",
+    "translation": "……どんな太い釘かは知らんが\nこれ以上、刺激するのは止めておけ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA41S_0015",
+    "original": "ただでさえ、今回の合宿でも、迷惑\nを掛けまくってるからな……",
+    "translation": "ただでさえ、今回の合宿でも、迷惑\nを掛けまくってるからな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA41S_0016",
+    "original": "そういえば……コンピ研の方たちの\n話なんですけど",
+    "translation": "そういえば……コンピ研の方たちの\n話なんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA41S_0017",
+    "original": "あいつらがどうしたの？\nまさか、また何かされた！？",
+    "translation": "あいつらがどうしたの？\nまさか、また何かされた！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA41S_0018",
+    "original": "い、いいえっ、そうじゃないんです",
+    "translation": "い、いいえっ、そうじゃないんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA41S_0019",
+    "original": "なんだか、皆さん、あたしを見て\nオドオドされるんです",
+    "translation": "なんだか、皆さん、あたしを見て\nオドオドされるんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA41S_0020",
+    "original": "部長さんは、特にそんな感じで……",
+    "translation": "部長さんは、特にそんな感じで……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA41S_0021",
+    "original": "じーっと、こっちを見てたかと思う\nと、慌てて視線を逸らしたりとか",
+    "translation": "じーっと、こっちを見てたかと思う\nと、慌てて視線を逸らしたりとか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA41S_0022",
+    "original": "もしかすると、みくるちゃんの引き\n抜きを考えてるのかもしれないわね",
+    "translation": "もしかすると、みくるちゃんの引き\n抜きを考えてるのかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA41S_0023",
+    "original": "今度、あたしが釘を刺しておくわ",
+    "translation": "今度、あたしが釘を刺しておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA41S_0024",
+    "original": "そ、そうなのかなぁ……？",
+    "translation": "そ、そうなのかなぁ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA41S_0025",
+    "original": "もし何かされたら、すぐあたしに\n言いなさい",
+    "translation": "もし何かされたら、すぐあたしに\n言いなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA41S_0026",
+    "original": "今度は、コンピ研の部室のパソコン\n全部、もらってきてあげるから",
+    "translation": "今度は、コンピ研の部室のパソコン\n全部、もらってきてあげるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA41S_0027",
+    "original": "そ、それはさすがに、ちょっと……",
+    "translation": "そ、それはさすがに、ちょっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA41S_0028",
+    "original": "コンピ研の部長が、朝比奈みくるに\n視線を送っている",
+    "translation": "コンピ研の部長が、朝比奈みくるに\n視線を送っている",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA41S_0029",
+    "original": "コンピ研の部長が！？",
+    "translation": "コンピ研の部長が！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA41S_0030",
+    "original": "そう聞いた",
+    "translation": "そう聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA41S_0031",
+    "original": "許せないわ。みくるちゃんはＳＯＳ\n団のマスコットキャラなのに！",
+    "translation": "許せないわ。みくるちゃんはＳＯＳ\n団のマスコットキャラなのに！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA41S_0032",
+    "original": "さては、みくるちゃんの可愛さに\n目がくらんだ、引き抜きの画策ね！",
+    "translation": "さては、みくるちゃんの可愛さに\n目がくらんだ、引き抜きの画策ね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA41S_0033",
+    "original": "有希。もし、みくるちゃんに何か\nあったら、徹底抗戦するわよ！",
+    "translation": "有希。もし、みくるちゃんに何か\nあったら、徹底抗戦するわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA41S_0034",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA41S_0035",
+    "original": "まったく……油断も隙もないわね",
+    "translation": "まったく……油断も隙もないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA41S_0036",
+    "original": "朝比奈さんは大変人気があるよう\nですね",
+    "translation": "朝比奈さんは大変人気があるよう\nですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA41S_0037",
+    "original": "どうしたの？　突然",
+    "translation": "どうしたの？　突然",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA41S_0038",
+    "original": "いえ、人づてに聞いた話なのですが",
+    "translation": "いえ、人づてに聞いた話なのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA41S_0039",
+    "original": "コンピ研の部長氏が、朝比奈さんに\n熱い視線を送っているとか……",
+    "translation": "コンピ研の部長氏が、朝比奈さんに\n熱い視線を送っているとか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA41S_0040",
+    "original": "うちのみくるちゃんをコンピ研如き\nに引き抜こうとしてるってこと！？",
+    "translation": "うちのみくるちゃんをコンピ研如き\nに引き抜こうとしてるってこと！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA41S_0041",
+    "original": "だとしたら許せないわ。ＳＯＳ団と\nコンピ研の全面戦争ね",
+    "translation": "だとしたら許せないわ。ＳＯＳ団と\nコンピ研の全面戦争ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA41S_0042",
+    "original": "いえ、そういう意味ではないのです\nが……",
+    "translation": "いえ、そういう意味ではないのです\nが……",
+    "speaker": "古泉"
+  }
+]

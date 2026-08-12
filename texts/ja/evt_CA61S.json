@@ -1,0 +1,268 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA61S_0000",
+    "original": "ハルヒ、例の朝比奈さんの特訓\nなんだがな、本気か？",
+    "translation": "ハルヒ、例の朝比奈さんの特訓\nなんだがな、本気か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA61S_0001",
+    "original": "例の特訓？　ああ、みくるちゃんの\n受け身の訓練の話かしら？",
+    "translation": "例の特訓？　ああ、みくるちゃんの\n受け身の訓練の話かしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA61S_0002",
+    "original": "ああ、それだ。マジでやるのか？",
+    "translation": "ああ、それだ。マジでやるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA61S_0003",
+    "original": "言っておくけど、キョンが練習相手\nになるって言っても不許可だから",
+    "translation": "言っておくけど、キョンが練習相手\nになるって言っても不許可だから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA61S_0004",
+    "original": "大事なみくるちゃんをいかがわしい\n男の手になんて預けられないわ！",
+    "translation": "大事なみくるちゃんをいかがわしい\n男の手になんて預けられないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA61S_0005",
+    "original": "いかがわしいとはなんだ",
+    "translation": "いかがわしいとはなんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA61S_0006",
+    "original": "だいたい、キョンはまともに受け身\nできるわけ？　おこがましいわよ！",
+    "translation": "だいたい、キョンはまともに受け身\nできるわけ？　おこがましいわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA61S_0007",
+    "original": "そこまで言うか、こいつは",
+    "translation": "そこまで言うか、こいつは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA61S_0008",
+    "original": "みくるちゃんはあたしが守らないと\nね、大切な団員なんだから",
+    "translation": "みくるちゃんはあたしが守らないと\nね、大切な団員なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA61S_0009",
+    "original": "その団員のひとりを痴漢扱いするな",
+    "translation": "その団員のひとりを痴漢扱いするな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA61S_0010",
+    "original": "練習は女の先生に頼むからね！\n変な望みは今この場で粉砕よ！",
+    "translation": "練習は女の先生に頼むからね！\n変な望みは今この場で粉砕よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA61S_0011",
+    "original": "誤解が甚だしいぞ。しかしまあ、",
+    "translation": "誤解が甚だしいぞ。しかしまあ、",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA61S_0012",
+    "original": "ハルヒはハルヒなりに朝比奈さんを\n大切に思ってってことだよな",
+    "translation": "ハルヒはハルヒなりに朝比奈さんを\n大切に思ってってことだよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA61S_0013",
+    "original": "あ、あの、前に言ってた特訓って\nジョウダンですよね？",
+    "translation": "あ、あの、前に言ってた特訓って\nジョウダンですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA61S_0014",
+    "original": "特訓？　何のことだっけ……",
+    "translation": "特訓？　何のことだっけ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA61S_0015",
+    "original": "い、いえ、忘れているのなら\nそれでいいんですけど……",
+    "translation": "い、いえ、忘れているのなら\nそれでいいんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA61S_0016",
+    "original": "あぁ、思い出したわ！　みくる\nちゃんを不死身にする計画ねっ！",
+    "translation": "あぁ、思い出したわ！　みくる\nちゃんを不死身にする計画ねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA61S_0017",
+    "original": "ち、ちがいますぅ",
+    "translation": "ち、ちがいますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA61S_0018",
+    "original": "あら、丈夫にする特訓だっけ？\nまあこの際どっちでもいいわよ",
+    "translation": "あら、丈夫にする特訓だっけ？\nまあこの際どっちでもいいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA61S_0019",
+    "original": "ナゾの解明が済んだら早速始める\nから！　カクゴしておいてね",
+    "translation": "ナゾの解明が済んだら早速始める\nから！　カクゴしておいてね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA61S_0020",
+    "original": "そ、そんなぁ、いやですぅぅぅ",
+    "translation": "そ、そんなぁ、いやですぅぅぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA61S_0021",
+    "original": "朝比奈みくるから、受け身の取り方\nについて先ほど質問を受けた",
+    "translation": "朝比奈みくるから、受け身の取り方\nについて先ほど質問を受けた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA61S_0022",
+    "original": "へ？　受け身？\n……ああ、さっきの話ね",
+    "translation": "へ？　受け身？\n……ああ、さっきの話ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA61S_0023",
+    "original": "みくるちゃんって良くなにもない\nトコですっころぶでしょ",
+    "translation": "みくるちゃんって良くなにもない\nトコですっころぶでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA61S_0024",
+    "original": "だから、すっころんでも怪我をしな\nいように、受け身の練習なさいって",
+    "translation": "だから、すっころんでも怪我をしな\nいように、受け身の練習なさいって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA61S_0025",
+    "original": "そう言ったのよ",
+    "translation": "そう言ったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA61S_0026",
+    "original": "有用な助言",
+    "translation": "有用な助言",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA61S_0027",
+    "original": "でしょでしょっ",
+    "translation": "でしょでしょっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA61S_0028",
+    "original": "聞きましたよ。朝比奈さんは不死身\nであるべきだと主張なさったとか",
+    "translation": "聞きましたよ。朝比奈さんは不死身\nであるべきだと主張なさったとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA61S_0029",
+    "original": "ちょっとニュアンスが違うわね",
+    "translation": "ちょっとニュアンスが違うわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA61S_0030",
+    "original": "ドジっ娘である以上、タフな体と心\nが必要だから、不死身であるべき！",
+    "translation": "ドジっ娘である以上、タフな体と心\nが必要だから、不死身であるべき！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA61S_0031",
+    "original": "……とまぁ、そんな話をしたのよ",
+    "translation": "……とまぁ、そんな話をしたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA61S_0032",
+    "original": "ただの冗談だけどね",
+    "translation": "ただの冗談だけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA61S_0033",
+    "original": "その代わり、転んでも対応できる様\nに、受身の特訓が待っているとか",
+    "translation": "その代わり、転んでも対応できる様\nに、受身の特訓が待っているとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA61S_0034",
+    "original": "現在、前向きに検討中だわ",
+    "translation": "現在、前向きに検討中だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA61S_0035",
+    "original": "[#P06]……ご愁傷様です、朝比奈さん",
+    "translation": "[#P06]……ご愁傷様です、朝比奈さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA61S_0036",
+    "original": "なにか言った？",
+    "translation": "なにか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA61S_0037",
+    "original": "いいえ、なんでもありませんよ",
+    "translation": "いいえ、なんでもありませんよ",
+    "speaker": "古泉"
+  }
+]

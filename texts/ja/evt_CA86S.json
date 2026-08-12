@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA86S_0000",
+    "original": "幸運ってのは、どこからが幸運なの\nか考えたことってあるか？",
+    "translation": "幸運ってのは、どこからが幸運なの\nか考えたことってあるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA86S_0001",
+    "original": "何難しく考えてんのよ。幸運だと思\nった時がそうでいいんじゃないの？",
+    "translation": "何難しく考えてんのよ。幸運だと思\nった時がそうでいいんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA86S_0002",
+    "original": "それまでだって幸運かも知れないぞ",
+    "translation": "それまでだって幸運かも知れないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA86S_0003",
+    "original": "不幸中の幸いって言葉があるでしょ",
+    "translation": "不幸中の幸いって言葉があるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA86S_0004",
+    "original": "だから幸運な時って、自分が幸運だ\nとはあんまり思っていないのよ",
+    "translation": "だから幸運な時って、自分が幸運だ\nとはあんまり思っていないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA86S_0005",
+    "original": "ああ、そうかもな",
+    "translation": "ああ、そうかもな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA86S_0006",
+    "original": "あとになって幸運だったなあって\n思う方が多いもの",
+    "translation": "あとになって幸運だったなあって\n思う方が多いもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA86S_0007",
+    "original": "その時は不幸だと思っていても\n後から考えるとラッキーだったりね",
+    "translation": "その時は不幸だと思っていても\n後から考えるとラッキーだったりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA86S_0008",
+    "original": "だから、幸運だと思ったところが\n幸運の始まりなのよ",
+    "translation": "だから、幸運だと思ったところが\n幸運の始まりなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA86S_0009",
+    "original": "ハルヒにしてはまともなことを言う\nな",
+    "translation": "ハルヒにしてはまともなことを言う\nな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA86S_0010",
+    "original": "ちょっと、なによそれ！\nバカ言ってないで急ぐわよっ！",
+    "translation": "ちょっと、なによそれ！\nバカ言ってないで急ぐわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA86S_0011",
+    "original": "涼宮さん、キョンくんって神様に\n愛されてると思いませんか？",
+    "translation": "涼宮さん、キョンくんって神様に\n愛されてると思いませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA86S_0012",
+    "original": "はあ、キョンが神様にねぇ……",
+    "translation": "はあ、キョンが神様にねぇ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA86S_0013",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA86S_0014",
+    "original": "みくるちゃんはそう思うわけ？",
+    "translation": "みくるちゃんはそう思うわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA86S_0015",
+    "original": "……なんとなくですけど",
+    "translation": "……なんとなくですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA86S_0016",
+    "original": "あたしは思わないけどなぁ",
+    "translation": "あたしは思わないけどなぁ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA86S_0017",
+    "original": "そ、そうですか？",
+    "translation": "そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA86S_0018",
+    "original": "キョンはたとえば、自販機の前で小\n銭を落とすと、転がって溝に落ち、",
+    "translation": "キョンはたとえば、自販機の前で小\n銭を落とすと、転がって溝に落ち、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA86S_0019",
+    "original": "買おうと並んでると一人前で、売り\n切れる。そんなタイプだと思うわ！",
+    "translation": "買おうと並んでると一人前で、売り\n切れる。そんなタイプだと思うわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA86S_0020",
+    "original": "うう、微妙に納得してしまいそうな\n意見です……",
+    "translation": "うう、微妙に納得してしまいそうな\n意見です……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA86S_0021",
+    "original": "神様なんてものがいたとして、愛す\nるなら怠け者なダメ男ではないわ！",
+    "translation": "神様なんてものがいたとして、愛す\nるなら怠け者なダメ男ではないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA86S_0022",
+    "original": "みくるちゃんみたいな美少女の方が\n贔屓されて当然じゃないかしら？",
+    "translation": "みくるちゃんみたいな美少女の方が\n贔屓されて当然じゃないかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA86S_0023",
+    "original": "そ、そういう基準じゃないんじゃ？",
+    "translation": "そ、そういう基準じゃないんじゃ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA86S_0024",
+    "original": "だって、見かけだけじゃなく善良さ\nでもみくるちゃんの方が遥かに上よ",
+    "translation": "だって、見かけだけじゃなく善良さ\nでもみくるちゃんの方が遥かに上よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA86S_0025",
+    "original": "これはもう比べるまでもないわね",
+    "translation": "これはもう比べるまでもないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA86S_0026",
+    "original": "あ……ありがとうございます",
+    "translation": "あ……ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA86S_0027",
+    "original": "涼宮ハルヒ認定ラッキーガールと\nしてあげてもいいわ",
+    "translation": "涼宮ハルヒ認定ラッキーガールと\nしてあげてもいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA86S_0028",
+    "original": "その魅力をＳＯＳ団のために磨いて\nちょうだい！",
+    "translation": "その魅力をＳＯＳ団のために磨いて\nちょうだい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA86S_0029",
+    "original": "……が、頑張ります",
+    "translation": "……が、頑張ります",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA86S_0030",
+    "original": "朝比奈みくるはラッキーガール",
+    "translation": "朝比奈みくるはラッキーガール",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA86S_0031",
+    "original": "うーん、それは捉え方次第ね",
+    "translation": "うーん、それは捉え方次第ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA86S_0032",
+    "original": "捉え方の意味",
+    "translation": "捉え方の意味",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA86S_0033",
+    "original": "だって、ドジっ娘メイドなら\nアンラッキーじゃないと！",
+    "translation": "だって、ドジっ娘メイドなら\nアンラッキーじゃないと！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA86S_0034",
+    "original": "みくるちゃんには、その素質が\n充分あるわ！",
+    "translation": "みくるちゃんには、その素質が\n充分あるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA86S_0035",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA86S_0036",
+    "original": "涼宮さんは、朝比奈さんがラッキー\nガールだと思われますか？",
+    "translation": "涼宮さんは、朝比奈さんがラッキー\nガールだと思われますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA86S_0037",
+    "original": "みくるちゃんはラッキーガールよ！",
+    "translation": "みくるちゃんはラッキーガールよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA86S_0038",
+    "original": "おや、断言なさいますか",
+    "translation": "おや、断言なさいますか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA86S_0039",
+    "original": "ええ。みくるちゃんは自分の事を\nそう思ってないだろうけどね",
+    "translation": "ええ。みくるちゃんは自分の事を\nそう思ってないだろうけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA86S_0040",
+    "original": "あの子は周りを幸せにする力がある\n子だと思うのよ",
+    "translation": "あの子は周りを幸せにする力がある\n子だと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA86S_0041",
+    "original": "本人ではなく、周りにとっての\nラッキーガールですか",
+    "translation": "本人ではなく、周りにとっての\nラッキーガールですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA86S_0042",
+    "original": "それは、本人的には複雑なのでは\nないでしょうか？",
+    "translation": "それは、本人的には複雑なのでは\nないでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA86S_0043",
+    "original": "大丈夫！　このあたしに見いだされ\nたこと自体がラッキーなんだから！",
+    "translation": "大丈夫！　このあたしに見いだされ\nたこと自体がラッキーなんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA86S_0044",
+    "original": "なるほど。そうかもしれませんね",
+    "translation": "なるほど。そうかもしれませんね",
+    "speaker": "古泉"
+  }
+]

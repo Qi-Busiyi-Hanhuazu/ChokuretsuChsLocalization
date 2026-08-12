@@ -1,0 +1,1105 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_024S_0000",
+    "original": "ハルヒの指揮のもと、下ごしらえを\nすることになったのだが",
+    "translation": "ハルヒの指揮のもと、下ごしらえを\nすることになったのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_024S_0001",
+    "original": "涼宮さん、下ごしらえなのですが\n何から始めればいいのでしょうか？",
+    "translation": "涼宮さん、下ごしらえなのですが\n何から始めればいいのでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_024S_0002",
+    "original": "団長として、指示をお願いします",
+    "translation": "団長として、指示をお願いします",
+    "speaker": "古泉"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_024S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_024S_0004",
+    "original": "古泉のヨイショに満足げに頷くと\nハルヒが前に進み出てきた",
+    "translation": "古泉のヨイショに満足げに頷くと\nハルヒが前に進み出てきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_024S_0005",
+    "original": "まるで披露宴で挨拶を頼まれた\n新郎の上司とでも言おうか",
+    "translation": "まるで披露宴で挨拶を頼まれた\n新郎の上司とでも言おうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_024S_0006",
+    "original": "そうね、まずはキョンと妹ちゃんで\n野菜を洗ってきて",
+    "translation": "そうね、まずはキョンと妹ちゃんで\n野菜を洗ってきて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_024S_0007",
+    "original": "ここにあるものだけでいいのか？",
+    "translation": "ここにあるものだけでいいのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_024S_0008",
+    "original": "そうねぇ、何かあるかもしれない\nから、他の人にも聞いといて",
+    "translation": "そうねぇ、何かあるかもしれない\nから、他の人にも聞いといて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_024S_0009",
+    "original": "聞けって、誰にだよ\nまあ、とりあえず身近にいる……",
+    "translation": "聞けって、誰にだよ\nまあ、とりあえず身近にいる……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_024S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_024S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_024S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_024S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_024S_0014",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_024S_0015",
+    "original": "長門、他に洗ってくるものは\n無いか？",
+    "translation": "長門、他に洗ってくるものは\n無いか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_024S_0016",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_024S_0017",
+    "original": "長門は考えこむかのように無反応で\nしばし停止していたが",
+    "translation": "長門は考えこむかのように無反応で\nしばし停止していたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_024S_0018",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_024S_0019",
+    "original": "器か？　まあ、洗っておくに\n越したことはないが",
+    "translation": "器か？　まあ、洗っておくに\n越したことはないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_024S_0020",
+    "original": "わかった。預かるよ",
+    "translation": "わかった。預かるよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_024S_0021",
+    "original": "野菜と、長門から預かった器を\n持って水場へ移動することにした",
+    "translation": "野菜と、長門から預かった器を\n持って水場へ移動することにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_024S_0022",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_024S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_024S_0024",
+    "original": "古泉、一応聞くが……",
+    "translation": "古泉、一応聞くが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_024S_0025",
+    "original": "洗って来るようなものは\nあるか？",
+    "translation": "洗って来るようなものは\nあるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_024S_0026",
+    "original": "そうですね。こうも暑いと汗\nばんでしまいますので",
+    "translation": "そうですね。こうも暑いと汗\nばんでしまいますので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_024S_0027",
+    "original": "冷たいシャワーで全身を\n洗いたいものです",
+    "translation": "冷たいシャワーで全身を\n洗いたいものです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_024S_0028",
+    "original": "……合宿が終わったら\n好きなだけ浴びてこい",
+    "translation": "……合宿が終わったら\n好きなだけ浴びてこい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_024S_0029",
+    "original": "聞くだけムダだったと、野菜だけ\nを持って移動することにした",
+    "translation": "聞くだけムダだったと、野菜だけ\nを持って移動することにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_024S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_024S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_024S_0032",
+    "original": "たっだいまー！",
+    "translation": "たっだいまー！",
+    "speaker": "妹"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_024S_0033",
+    "original": "洗ってきてやったぞ",
+    "translation": "洗ってきてやったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_024S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_024S_0035",
+    "original": "手抜きせずにちゃんと洗って\nきたんでしょうね",
+    "translation": "手抜きせずにちゃんと洗って\nきたんでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_024S_0036",
+    "original": "ちゃんと洗ったよー",
+    "translation": "ちゃんと洗ったよー",
+    "speaker": "妹"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_024S_0037",
+    "original": "えらいわね妹ちゃんは。キョンも\nこれくらい素直になりなさいよ",
+    "translation": "えらいわね妹ちゃんは。キョンも\nこれくらい素直になりなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_024S_0038",
+    "original": "その言葉、そっくりそのままお前に\n返してやるよ",
+    "translation": "その言葉、そっくりそのままお前に\n返してやるよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_024S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_024S_0040",
+    "original": "じゃあたしと有希が切るから、野菜\nはそこにおいといて",
+    "translation": "じゃあたしと有希が切るから、野菜\nはそこにおいといて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_024S_0041",
+    "original": "コック長のように偉そうにうなずい\nたハルヒは、包丁を手に取る",
+    "translation": "コック長のように偉そうにうなずい\nたハルヒは、包丁を手に取る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_024S_0042",
+    "original": "運動や勉強は出来るやつだが\n料理まではどうなのかね",
+    "translation": "運動や勉強は出来るやつだが\n料理まではどうなのかね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_024S_0043",
+    "original": "そんな俺の疑問は、すぐに\n解決した",
+    "translation": "そんな俺の疑問は、すぐに\n解決した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_024S_0044",
+    "original": "有希、肉と野菜を均等に切って\nひとくち大にね",
+    "translation": "有希、肉と野菜を均等に切って\nひとくち大にね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_024S_0045",
+    "original": "了解",
+    "translation": "了解",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_024S_0046",
+    "original": "げっ",
+    "translation": "げっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_024S_0047",
+    "original": "なんちゅー早さで切ってるんだ\nこいつは",
+    "translation": "なんちゅー早さで切ってるんだ\nこいつは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_024S_0048",
+    "original": "ここでハルヒは料理下手だと、\nオチが付いたら笑えるんだが",
+    "translation": "ここでハルヒは料理下手だと、\nオチが付いたら笑えるんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_024S_0049",
+    "original": "生意気にも、ハルヒは料理の才能\nまであるらしい",
+    "translation": "生意気にも、ハルヒは料理の才能\nまであるらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_024S_0050",
+    "original": "才能の神はとことん不平等が\nお好きなようだ",
+    "translation": "才能の神はとことん不平等が\nお好きなようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_024S_0051",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_024S_0052",
+    "original": "キョン、ボーっとしてないの！\n次は古泉くんたちを手伝いなさい",
+    "translation": "キョン、ボーっとしてないの！\n次は古泉くんたちを手伝いなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_024S_0053",
+    "original": "うぇ、まだあるのかよ",
+    "translation": "うぇ、まだあるのかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_024S_0054",
+    "original": "ブツブツ言わない！\n文句を言ったら肉の量を減らすわよ",
+    "translation": "ブツブツ言わない！\n文句を言ったら肉の量を減らすわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_024S_0055",
+    "original": "危ないから包丁を突き付けながら\n言うな",
+    "translation": "危ないから包丁を突き付けながら\n言うな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_024S_0056",
+    "original": "わかったよ、やるさ",
+    "translation": "わかったよ、やるさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_024S_0057",
+    "original": "せっかくのバーベキューで、肉が\n食えなくなるのは切ないからな",
+    "translation": "せっかくのバーベキューで、肉が\n食えなくなるのは切ないからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_024S_0058",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_024S_0059",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_024S_0060",
+    "original": "で、手伝いに来てみりゃあ\nコイツらは何をやっているんだ？",
+    "translation": "で、手伝いに来てみりゃあ\nコイツらは何をやっているんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_024S_0061",
+    "original": "な？　ここはこういう風につなげ\nばバッチリだろ？",
+    "translation": "な？　ここはこういう風につなげ\nばバッチリだろ？",
+    "speaker": "谷口"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV3_024S_0062",
+    "original": "えぇっ、そうかなぁ？\nかなりちがう気がするんだけど",
+    "translation": "えぇっ、そうかなぁ？\nかなりちがう気がするんだけど",
+    "speaker": "国木田"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV3_024S_0063",
+    "original": "谷口たちがグリルを組み立てて\nいるらしいのだが",
+    "translation": "谷口たちがグリルを組み立てて\nいるらしいのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV3_024S_0064",
+    "original": "どう見ても奇っ怪なオブジェを\n組立てているようにしか見えん",
+    "translation": "どう見ても奇っ怪なオブジェを\n組立てているようにしか見えん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV3_024S_0065",
+    "original": "おい、谷口。どうやったら\nそんな形になるんだよ",
+    "translation": "おい、谷口。どうやったら\nそんな形になるんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV3_024S_0066",
+    "original": "あぁん？　仕方ねえだろ\n弄ってたらこうなったんだからよ",
+    "translation": "あぁん？　仕方ねえだろ\n弄ってたらこうなったんだからよ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV3_024S_0067",
+    "original": "つまりは、組立て方が分からなかっ\nたってわけだ",
+    "translation": "つまりは、組立て方が分からなかっ\nたってわけだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV3_024S_0068",
+    "original": "それにしても、これはヒドイ\n脚が上に付いてるじゃないか",
+    "translation": "それにしても、これはヒドイ\n脚が上に付いてるじゃないか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV3_024S_0069",
+    "original": "記憶の中にある正しいグリルの姿\nからは、かなりかけはなれている",
+    "translation": "記憶の中にある正しいグリルの姿\nからは、かなりかけはなれている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV3_024S_0070",
+    "original": "これはこれは……見事なものですね\nある意味芸術作品ですね",
+    "translation": "これはこれは……見事なものですね\nある意味芸術作品ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV3_024S_0071",
+    "original": "古泉ものんきに解説なんぞして\nないで、手を貸してやれよ",
+    "translation": "古泉ものんきに解説なんぞして\nないで、手を貸してやれよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV3_024S_0072",
+    "original": "これは失礼。こういうのもまた\n野外活動の醍醐味かと思いまして",
+    "translation": "これは失礼。こういうのもまた\n野外活動の醍醐味かと思いまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV3_024S_0073",
+    "original": "しかし、これじゃいつまで経っても\nメシが食えないぞ",
+    "translation": "しかし、これじゃいつまで経っても\nメシが食えないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV3_024S_0074",
+    "original": "おい谷口、いい加減真面目に\n組み立てろよ",
+    "translation": "おい谷口、いい加減真面目に\n組み立てろよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV3_024S_0075",
+    "original": "なんだよ、俺は真面目にやってる\nんだぞ",
+    "translation": "なんだよ、俺は真面目にやってる\nんだぞ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV3_024S_0076",
+    "original": "それのどこがだ！",
+    "translation": "それのどこがだ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV3_024S_0077",
+    "original": "やっているうちに勝手にこうなった\nんだ",
+    "translation": "やっているうちに勝手にこうなった\nんだ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV3_024S_0078",
+    "original": "つまり怪奇現象ってやつだな！",
+    "translation": "つまり怪奇現象ってやつだな！",
+    "speaker": "谷口"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV3_024S_0079",
+    "original": "おい、よりによって\nなんてことを言いやがる！",
+    "translation": "おい、よりによって\nなんてことを言いやがる！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV3_024S_0080",
+    "original": "ハルヒに聞かれたらどうするんだ！",
+    "translation": "ハルヒに聞かれたらどうするんだ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV3_024S_0081",
+    "original": "んぐぐっ！？",
+    "translation": "んぐぐっ！？",
+    "speaker": "谷口"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV3_024S_0082",
+    "original": "慌てて谷口を羽交い締めにして\n口をふさいだが",
+    "translation": "慌てて谷口を羽交い締めにして\n口をふさいだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV3_024S_0083",
+    "original": "ハルヒに気づかれなかった\nだろうな？",
+    "translation": "ハルヒに気づかれなかった\nだろうな？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV3_024S_0084",
+    "original": "あんたたち、何をバカなことを\nやってるのよ",
+    "translation": "あんたたち、何をバカなことを\nやってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV3_024S_0085",
+    "original": "げっ！　聞いてたのか",
+    "translation": "げっ！　聞いてたのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV3_024S_0086",
+    "original": "まさかさっきの怪奇現象という\n単語に反応したんじゃないだろうな",
+    "translation": "まさかさっきの怪奇現象という\n単語に反応したんじゃないだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV3_024S_0087",
+    "original": "いいからふざけてないでちゃんと\nグリルを組み立てなさいよ",
+    "translation": "いいからふざけてないでちゃんと\nグリルを組み立てなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV3_024S_0088",
+    "original": "ちょっぱやで終わらせないと\nキョンも肉抜きだからね！",
+    "translation": "ちょっぱやで終わらせないと\nキョンも肉抜きだからね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV3_024S_0089",
+    "original": "俺のせいじゃないだろうが！\nくそ、とんだトバッチリだ",
+    "translation": "俺のせいじゃないだろうが！\nくそ、とんだトバッチリだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV3_024S_0090",
+    "original": "だけど、ハルヒがあの単語に反応\nせずに、呆れるだけで良かったぜ",
+    "translation": "だけど、ハルヒがあの単語に反応\nせずに、呆れるだけで良かったぜ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV3_024S_0091",
+    "original": "俺は肉抜きのバーベキューは\nイヤだからな",
+    "translation": "俺は肉抜きのバーベキューは\nイヤだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV3_024S_0092",
+    "original": "古泉、国木田。とっととコレを\n組立てるぞ。谷口はやらんでいい",
+    "translation": "古泉、国木田。とっととコレを\n組立てるぞ。谷口はやらんでいい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV3_024S_0093",
+    "original": "了解しました",
+    "translation": "了解しました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV3_024S_0094",
+    "original": "うん、わかったよキョン",
+    "translation": "うん、わかったよキョン",
+    "speaker": "国木田"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV3_024S_0095",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 96,
+    "key": "evt_EV3_024S_0096",
+    "original": "",
+    "translation": "",
+    "speaker": "国木田",
+    "trash": true
+  },
+  {
+    "index": 97,
+    "key": "evt_EV3_024S_0097",
+    "original": "おい、なんで俺をのけ者にするんだ",
+    "translation": "おい、なんで俺をのけ者にするんだ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV3_024S_0098",
+    "original": "谷口には、火元になりそうなやつを\n探すという重要な役目を任せる",
+    "translation": "谷口には、火元になりそうなやつを\n探すという重要な役目を任せる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV3_024S_0099",
+    "original": "ライターでもマッチでもなんでも\nいい。とにかく火をおこせるヤツだ",
+    "translation": "ライターでもマッチでもなんでも\nいい。とにかく火をおこせるヤツだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV3_024S_0100",
+    "original": "火が無くっちゃ話にならないよな\nわかった、適当に探してくるぜ",
+    "translation": "火が無くっちゃ話にならないよな\nわかった、適当に探してくるぜ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV3_024S_0101",
+    "original": "やれやれ、これで無事に組み立て\nられそうだ",
+    "translation": "やれやれ、これで無事に組み立て\nられそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV3_024S_0102",
+    "original": "あいつがいるとジャマばかり\nされそうだからな",
+    "translation": "あいつがいるとジャマばかり\nされそうだからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV3_024S_0103",
+    "original": "それでは、今のうちに手早く\n済ませてしまいましょう",
+    "translation": "それでは、今のうちに手早く\n済ませてしまいましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV3_024S_0104",
+    "original": "ああ、だけど組立てるにしても\n細部がよく分からないんだよな",
+    "translation": "ああ、だけど組立てるにしても\n細部がよく分からないんだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV3_024S_0105",
+    "original": "説明書があればいいんだが",
+    "translation": "説明書があればいいんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV3_024S_0106",
+    "original": "それでしたら、ありましたよ\nこれです、どうぞ",
+    "translation": "それでしたら、ありましたよ\nこれです、どうぞ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV3_024S_0107",
+    "original": "おい！　あるなら早く出せよ",
+    "translation": "おい！　あるなら早く出せよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV3_024S_0108",
+    "original": "それは失礼しました\n今まで聞かれなかったもので",
+    "translation": "それは失礼しました\n今まで聞かれなかったもので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV3_024S_0109",
+    "original": "そういえば、誰も出してと\n言わなかったもんね",
+    "translation": "そういえば、誰も出してと\n言わなかったもんね",
+    "speaker": "国木田"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV3_024S_0110",
+    "original": "でも、これで一気に組み立て\nられるね",
+    "translation": "でも、これで一気に組み立て\nられるね",
+    "speaker": "国木田"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV3_024S_0111",
+    "original": "まあ、何はともあれ\nこれでグリルは完成するだろう",
+    "translation": "まあ、何はともあれ\nこれでグリルは完成するだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV3_024S_0112",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "evt_EV3_024S_0113",
+    "original": "",
+    "translation": "",
+    "speaker": "国木田",
+    "trash": true
+  },
+  {
+    "index": 114,
+    "key": "evt_EV3_024S_0114",
+    "original": "ラ、ララライター♪　ライターっと\nおう、キョン、探してきたぜ",
+    "translation": "ラ、ララライター♪　ライターっと\nおう、キョン、探してきたぜ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV3_024S_0115",
+    "original": "ちょうどグリルが組み上がった頃",
+    "translation": "ちょうどグリルが組み上がった頃",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV3_024S_0116",
+    "original": "変な歌を歌いながら、谷口が\n戻ってきた",
+    "translation": "変な歌を歌いながら、谷口が\n戻ってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV3_024S_0117",
+    "original": "ご苦労さん。というかそれが\nおまえの言うライターなのか？",
+    "translation": "ご苦労さん。というかそれが\nおまえの言うライターなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV3_024S_0118",
+    "original": "谷口が手にしているのは、\nどう見てもＣＤラジカセだった",
+    "translation": "谷口が手にしているのは、\nどう見てもＣＤラジカセだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV3_024S_0119",
+    "original": "しかも、かなりの年代物らしく\nムダに大きい",
+    "translation": "しかも、かなりの年代物らしく\nムダに大きい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV3_024S_0120",
+    "original": "おいおい、目まで悪くなったのか？\n誰が見てもライターには見えないぜ",
+    "translation": "おいおい、目まで悪くなったのか？\n誰が見てもライターには見えないぜ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV3_024S_0121",
+    "original": "ほら、ライターはこっちだ",
+    "translation": "ほら、ライターはこっちだ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV3_024S_0122",
+    "original": "だったら、先にそっちを渡せよ",
+    "translation": "だったら、先にそっちを渡せよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV3_024S_0123",
+    "original": "なんでそんな物を持ってきたんだよ\n拾ってきたのか？",
+    "translation": "なんでそんな物を持ってきたんだよ\n拾ってきたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV3_024S_0124",
+    "original": "これか？　雰囲気を盛り上げる\nために持って来たに決まってるだろ",
+    "translation": "これか？　雰囲気を盛り上げる\nために持って来たに決まってるだろ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV3_024S_0125",
+    "original": "近所でライターを借りたんだが",
+    "translation": "近所でライターを借りたんだが",
+    "speaker": "谷口"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV3_024S_0126",
+    "original": "要らないラジカセもあるってんで\nついでに引き取ったってわけだ",
+    "translation": "要らないラジカセもあるってんで\nついでに引き取ったってわけだ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV3_024S_0127",
+    "original": "ＢＧＭでもかけるのかよ。変な所\nにばかり気が回るやつだな",
+    "translation": "ＢＧＭでもかけるのかよ。変な所\nにばかり気が回るやつだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV3_024S_0128",
+    "original": "しかし、こんなところで音楽を\nかけたら、近所迷惑にならないか？",
+    "translation": "しかし、こんなところで音楽を\nかけたら、近所迷惑にならないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV3_024S_0129",
+    "original": "だが、ハルヒの気をそらすのにも\n使えそうな気もしないでもない",
+    "translation": "だが、ハルヒの気をそらすのにも\n使えそうな気もしないでもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV3_024S_0130",
+    "original": "谷口に戻しに行かせるべきか？\nどうする？",
+    "translation": "谷口に戻しに行かせるべきか？\nどうする？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV3_024S_0131",
+    "original": "山の中じゃあるまいし、近所迷惑\nになるぞ。元の家に返してこい",
+    "translation": "山の中じゃあるまいし、近所迷惑\nになるぞ。元の家に返してこい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV3_024S_0132",
+    "original": "ちぇっ、せっかくのいいアイデア\nだと思ったんだがなぁ",
+    "translation": "ちぇっ、せっかくのいいアイデア\nだと思ったんだがなぁ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV3_024S_0133",
+    "original": "時と場所を考えてりゃ\nいいアイデアだったんだがな",
+    "translation": "時と場所を考えてりゃ\nいいアイデアだったんだがな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV3_024S_0134",
+    "original": "じゃ、これは返してくるけど、\nこっちなら使ってもいいだろ？",
+    "translation": "じゃ、これは返してくるけど、\nこっちなら使ってもいいだろ？",
+    "speaker": "谷口"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV3_024S_0135",
+    "original": "ついでにもらったんだ",
+    "translation": "ついでにもらったんだ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV3_024S_0136",
+    "original": "そう言って谷口が取り出したのは\n[#P05]“蚊取り線香”[#P01]だった",
+    "translation": "そう言って谷口が取り出したのは\n[#P05]“蚊取り線香”[#P01]だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV3_024S_0137",
+    "original": "これも雰囲気づくり用か？",
+    "translation": "これも雰囲気づくり用か？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV3_024S_0138",
+    "original": "まあ、これなら実用的だし\nいいんじゃないか",
+    "translation": "まあ、これなら実用的だし\nいいんじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV3_024S_0139",
+    "original": "これもまた、夏の野外活動の\n風物詩ってやつだな",
+    "translation": "これもまた、夏の野外活動の\n風物詩ってやつだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV3_024S_0140",
+    "original": "せっかくだし、使うことにするか",
+    "translation": "せっかくだし、使うことにするか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV3_024S_0141",
+    "original": "おっ、話が分かるじゃねぇか\n後で使おうぜ",
+    "translation": "おっ、話が分かるじゃねぇか\n後で使おうぜ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV3_024S_0142",
+    "original": "谷口が[#P05]“ＣＤラジカセ”[#P01]を\n俺に渡した",
+    "translation": "谷口が[#P05]“ＣＤラジカセ”[#P01]を\n俺に渡した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV3_024S_0143",
+    "original": "よっしゃ、流行の音楽でもかけて\nバッチリいい雰囲気を作るぜ！",
+    "translation": "よっしゃ、流行の音楽でもかけて\nバッチリいい雰囲気を作るぜ！",
+    "speaker": "谷口"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV3_024S_0144",
+    "original": "そう意気込むのはいいんだが",
+    "translation": "そう意気込むのはいいんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV3_024S_0145",
+    "original": "谷口、今チェックしたんだが\n肝心の中身が入ってないようだが",
+    "translation": "谷口、今チェックしたんだが\n肝心の中身が入ってないようだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV3_024S_0146",
+    "original": "もちろんＣＤやテープがあるから\nこれを持って来たんだよな？",
+    "translation": "もちろんＣＤやテープがあるから\nこれを持って来たんだよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV3_024S_0147",
+    "original": "うっ、やべぇ、それを忘れてたぜ\n家に戻るわけにもいかねーしなぁ",
+    "translation": "うっ、やべぇ、それを忘れてたぜ\n家に戻るわけにもいかねーしなぁ",
+    "speaker": "谷口"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV3_024S_0148",
+    "original": "おいおい、それじゃあ意味が\n無いだろう",
+    "translation": "おいおい、それじゃあ意味が\n無いだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV3_024S_0149",
+    "original": "まあ、谷口らしいといえばらしい\nがな",
+    "translation": "まあ、谷口らしいといえばらしい\nがな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV3_024S_0150",
+    "original": "お前が持ってきたんだ。お前が責任\n持って返しに行くか持って帰れよ",
+    "translation": "お前が持ってきたんだ。お前が責任\n持って返しに行くか持って帰れよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV3_024S_0151",
+    "original": "長門に声をかける",
+    "translation": "長門に声をかける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV3_024S_0152",
+    "original": "古泉に声をかける",
+    "translation": "古泉に声をかける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV3_024S_0153",
+    "original": "戻しに行かせる",
+    "translation": "戻しに行かせる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV3_024S_0154",
+    "original": "使うことにする",
+    "translation": "使うことにする",
+    "speaker": "CHOICE"
+  }
+]

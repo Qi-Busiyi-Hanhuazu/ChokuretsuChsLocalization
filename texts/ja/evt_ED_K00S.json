@@ -1,0 +1,318 @@
+[
+  {
+    "index": 0,
+    "key": "evt_ED_K00S_0000",
+    "original": "それは、とある放課後",
+    "translation": "それは、とある放課後",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_ED_K00S_0001",
+    "original": "うぃーっす",
+    "translation": "うぃーっす",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_ED_K00S_0002",
+    "original": "やあ、こんにちは",
+    "translation": "やあ、こんにちは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 3,
+    "key": "evt_ED_K00S_0003",
+    "original": "部室の扉を開けた俺を出迎えたのは\n無意味に爽やかな笑顔だった",
+    "translation": "部室の扉を開けた俺を出迎えたのは\n無意味に爽やかな笑顔だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_ED_K00S_0004",
+    "original": "なんだ、おまえだけか",
+    "translation": "なんだ、おまえだけか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_ED_K00S_0005",
+    "original": "ええ。僕が来た時には、まだ誰も\nいませんでしたね",
+    "translation": "ええ。僕が来た時には、まだ誰も\nいませんでしたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 6,
+    "key": "evt_ED_K00S_0006",
+    "original": "そのまま踵を返すわけにもいかず\n俺は手近な位置に腰掛けた",
+    "translation": "そのまま踵を返すわけにもいかず\n俺は手近な位置に腰掛けた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_ED_K00S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_ED_K00S_0008",
+    "original": "見れば古泉は、これ見よがしに\nチェスの駒を並べはじめている",
+    "translation": "見れば古泉は、これ見よがしに\nチェスの駒を並べはじめている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_ED_K00S_0009",
+    "original": "ところで、よろしければチェスの\nお相手など願えませんか？",
+    "translation": "ところで、よろしければチェスの\nお相手など願えませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 10,
+    "key": "evt_ED_K00S_0010",
+    "original": "はぁ？　チェスだと",
+    "translation": "はぁ？　チェスだと",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_ED_K00S_0011",
+    "original": "ルールはお分かりだと思いますが",
+    "translation": "ルールはお分かりだと思いますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 12,
+    "key": "evt_ED_K00S_0012",
+    "original": "未だ、他のメンバーが現れる様子\nなどさっぱりわからず",
+    "translation": "未だ、他のメンバーが現れる様子\nなどさっぱりわからず",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_ED_K00S_0013",
+    "original": "そしてついでに、これといってやる\nことの予定も予約もあいにくない",
+    "translation": "そしてついでに、これといってやる\nことの予定も予約もあいにくない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_ED_K00S_0014",
+    "original": "……ああ、わかった\nつきあってやるよ",
+    "translation": "……ああ、わかった\nつきあってやるよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_ED_K00S_0015",
+    "original": "俺はそう言って、古泉の正面の席に\n移動する",
+    "translation": "俺はそう言って、古泉の正面の席に\n移動する",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_ED_K00S_0016",
+    "original": "よろしいのですか？\nでは、先攻をどうぞ",
+    "translation": "よろしいのですか？\nでは、先攻をどうぞ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 17,
+    "key": "evt_ED_K00S_0017",
+    "original": "いいのか？　古泉\nそんなの譲って",
+    "translation": "いいのか？　古泉\nそんなの譲って",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_ED_K00S_0018",
+    "original": "お気遣いは無用です\n僕も、あれから腕をあげましたから",
+    "translation": "お気遣いは無用です\n僕も、あれから腕をあげましたから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_ED_K00S_0019",
+    "original": "……なら、遠慮無く",
+    "translation": "……なら、遠慮無く",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_ED_K00S_0020",
+    "original": "俺は、最初のポーンを動かした",
+    "translation": "俺は、最初のポーンを動かした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_ED_K00S_0021",
+    "original": "これを見ると、合宿のことを思い出\nしますね",
+    "translation": "これを見ると、合宿のことを思い出\nしますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_ED_K00S_0022",
+    "original": "……ああ、確かに",
+    "translation": "……ああ、確かに",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_ED_K00S_0023",
+    "original": "何かにつけて、重要な役割をしめた\n代物だからな",
+    "translation": "何かにつけて、重要な役割をしめた\n代物だからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_ED_K00S_0024",
+    "original": "しかしその思い出は楽しくも甘酸っ\nぱくもない唯々疲れただけの記憶だ",
+    "translation": "しかしその思い出は楽しくも甘酸っ\nぱくもない唯々疲れただけの記憶だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_ED_K00S_0025",
+    "original": "あれはなかなかスリリングな\n一夜でした",
+    "translation": "あれはなかなかスリリングな\n一夜でした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_ED_K00S_0026",
+    "original": "スリリングねえ、俺は絶体絶命とか\nそっちの方が似合いだと思うが",
+    "translation": "スリリングねえ、俺は絶体絶命とか\nそっちの方が似合いだと思うが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_ED_K00S_0027",
+    "original": "とはいえ、我々はこうして無事に\n日々を過ごしているわけですし",
+    "translation": "とはいえ、我々はこうして無事に\n日々を過ごしているわけですし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_ED_K00S_0028",
+    "original": "過ぎ去りし過去に思いをはせるなら\n多少の美化も必要かと",
+    "translation": "過ぎ去りし過去に思いをはせるなら\n多少の美化も必要かと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_ED_K00S_0029",
+    "original": "あの合宿をどれだけ美化すりゃ\n楽しい思い出になるのやら",
+    "translation": "あの合宿をどれだけ美化すりゃ\n楽しい思い出になるのやら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_ED_K00S_0030",
+    "original": "よっし、いただき",
+    "translation": "よっし、いただき",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_ED_K00S_0031",
+    "original": "俺のナイトが古泉のポーンを一つ\n盤上から叩き出す",
+    "translation": "俺のナイトが古泉のポーンを一つ\n盤上から叩き出す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_ED_K00S_0032",
+    "original": "うーん、やられましたね",
+    "translation": "うーん、やられましたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_ED_K00S_0033",
+    "original": "どこが腕をあげたんだ、どこが",
+    "translation": "どこが腕をあげたんだ、どこが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_ED_K00S_0034",
+    "original": "ここから本気でいきますよ",
+    "translation": "ここから本気でいきますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_ED_K00S_0035",
+    "original": "まるで信憑性のないことをほざいて\n古泉もナイトを進める",
+    "translation": "まるで信憑性のないことをほざいて\n古泉もナイトを進める",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_ED_K00S_0036",
+    "original": "部室には未だに誰もやってこない",
+    "translation": "部室には未だに誰もやってこない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_ED_K00S_0037",
+    "original": "いつの間にか俺は古泉とのチェスに\n熱中していた",
+    "translation": "いつの間にか俺は古泉とのチェスに\n熱中していた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_ED_K00S_0038",
+    "original": "やっぱり古泉は弱くて、多少張り\n合いがないのだが……",
+    "translation": "やっぱり古泉は弱くて、多少張り\n合いがないのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_ED_K00S_0039",
+    "original": "まあ、ほんの少しは腕をあげたかも\nしれない",
+    "translation": "まあ、ほんの少しは腕をあげたかも\nしれない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_ED_K00S_0040",
+    "original": "……たまにはこういうのも悪くない",
+    "translation": "……たまにはこういうのも悪くない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_ED_K00S_0041",
+    "original": "何か言いましたか？",
+    "translation": "何か言いましたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_ED_K00S_0042",
+    "original": "なんでもないさ。ほら、チェックだ",
+    "translation": "なんでもないさ。ほら、チェックだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_ED_K00S_0043",
+    "original": "こうして何気ない放課後が\n過ぎていく",
+    "translation": "こうして何気ない放課後が\n過ぎていく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_ED_K00S_0044",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

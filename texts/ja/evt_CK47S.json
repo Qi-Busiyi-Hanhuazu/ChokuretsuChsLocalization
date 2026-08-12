@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK47S_0000",
+    "original": "聞け、ハルヒ",
+    "translation": "聞け、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK47S_0001",
+    "original": "命令するとは、ずいぶんと偉くなっ\nたものね、雑用係のキョン",
+    "translation": "命令するとは、ずいぶんと偉くなっ\nたものね、雑用係のキョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK47S_0002",
+    "original": "まあいいから聞けよ。俺が野菜を\n洗いに行く前にな",
+    "translation": "まあいいから聞けよ。俺が野菜を\n洗いに行く前にな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK47S_0003",
+    "original": "他に洗うものはないかと周りに\n聞けって言っただろ、おまえ",
+    "translation": "他に洗うものはないかと周りに\n聞けって言っただろ、おまえ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK47S_0004",
+    "original": "言ったわねぇ",
+    "translation": "言ったわねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK47S_0005",
+    "original": "古泉に聞いたらな",
+    "translation": "古泉に聞いたらな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK47S_0006",
+    "original": "古泉くんは何て答えたのよ",
+    "translation": "古泉くんは何て答えたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK47S_0007",
+    "original": "冷たい“シャワー”で全身を洗い\nたいものです",
+    "translation": "冷たい“シャワー”で全身を洗い\nたいものです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK47S_0008",
+    "original": "と抜かしやがったんだ",
+    "translation": "と抜かしやがったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK47S_0009",
+    "original": "ははあ、暑かったもんね",
+    "translation": "ははあ、暑かったもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK47S_0010",
+    "original": "ジョークか？　ジョークだよな？",
+    "translation": "ジョークか？　ジョークだよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK47S_0011",
+    "original": "まあまあ、古泉くんの冗談ベタは\n今に始まったことじゃなし",
+    "translation": "まあまあ、古泉くんの冗談ベタは\n今に始まったことじゃなし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK47S_0012",
+    "original": "あれは真夏の寒風だったな……",
+    "translation": "あれは真夏の寒風だったな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK47S_0013",
+    "original": "涼しくなれて良かったじゃないの",
+    "translation": "涼しくなれて良かったじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK47S_0014",
+    "original": "えーと、キョンくんが野菜を洗いに\n行こうとした時なんですけど",
+    "translation": "えーと、キョンくんが野菜を洗いに\n行こうとした時なんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK47S_0015",
+    "original": "洗う必要があるものを聞きに古泉\nくんのところへいったんだそうです",
+    "translation": "洗う必要があるものを聞きに古泉\nくんのところへいったんだそうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK47S_0016",
+    "original": "ああ、他の人にも聞きなさいって\n言ったからね、あたしが",
+    "translation": "ああ、他の人にも聞きなさいって\n言ったからね、あたしが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK47S_0017",
+    "original": "そしたらですね、古泉くんが\n全身を洗いたいって答えたそうで",
+    "translation": "そしたらですね、古泉くんが\n全身を洗いたいって答えたそうで",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK47S_0018",
+    "original": "……暑かったものね",
+    "translation": "……暑かったものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK47S_0019",
+    "original": "キョンくんそれが冗談なのか本気\nなのか、かなり悩んでました",
+    "translation": "キョンくんそれが冗談なのか本気\nなのか、かなり悩んでました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK47S_0020",
+    "original": "古泉くんのジョークって、笑えない\nことがあるわよね",
+    "translation": "古泉くんのジョークって、笑えない\nことがあるわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK47S_0021",
+    "original": "……そうですか",
+    "translation": "……そうですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK47S_0022",
+    "original": "古泉一樹が全身をシャワーで洗い\nたいと言っていた",
+    "translation": "古泉一樹が全身をシャワーで洗い\nたいと言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK47S_0023",
+    "original": "夏の盛りだもの。汗もかいただろう\nし、しごく当然の意見よね",
+    "translation": "夏の盛りだもの。汗もかいただろう\nし、しごく当然の意見よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK47S_0024",
+    "original": "彼はそうは思わなかったらしい",
+    "translation": "彼はそうは思わなかったらしい",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK47S_0025",
+    "original": "キョンが？　ふーん、なんでかしら",
+    "translation": "キョンが？　ふーん、なんでかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK47S_0026",
+    "original": "状況的判断による違和感",
+    "translation": "状況的判断による違和感",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK47S_0027",
+    "original": "その状況ってどんなだったの？",
+    "translation": "その状況ってどんなだったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK47S_0028",
+    "original": "野菜以外に洗うものがないかと\n訊ねた時にそう返答されたとのこと",
+    "translation": "野菜以外に洗うものがないかと\n訊ねた時にそう返答されたとのこと",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK47S_0029",
+    "original": "……そういうわけね",
+    "translation": "……そういうわけね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK47S_0030",
+    "original": "水場で古泉一樹を丸洗いするため\nの所用時間は",
+    "translation": "水場で古泉一樹を丸洗いするため\nの所用時間は",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK47S_0031",
+    "original": "有希、それ多分古泉くんの\nジョークだったんだと思うわ",
+    "translation": "有希、それ多分古泉くんの\nジョークだったんだと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK47S_0032",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK47S_0033",
+    "original": "ついでに今の所用時間っていうの、\n有希流のジョークよね？",
+    "translation": "ついでに今の所用時間っていうの、\n有希流のジョークよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK47S_0034",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK47S_0035",
+    "original": "彼に冗談を言ったら、呆れた\n目で見られてしまいましたよ",
+    "translation": "彼に冗談を言ったら、呆れた\n目で見られてしまいましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK47S_0036",
+    "original": "ううーん、古泉くんの冗談って\nイマイチだもんね。悪いけど",
+    "translation": "ううーん、古泉くんの冗談って\nイマイチだもんね。悪いけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK47S_0037",
+    "original": "涼宮さんもそう思われますか",
+    "translation": "涼宮さんもそう思われますか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK47S_0038",
+    "original": "でも、まあいいんじゃない\n優秀過ぎるのも鼻につくから",
+    "translation": "でも、まあいいんじゃない\n優秀過ぎるのも鼻につくから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK47S_0039",
+    "original": "そういうささいな欠点は、かえって\nキャラの好感度をアップするのよ！",
+    "translation": "そういうささいな欠点は、かえって\nキャラの好感度をアップするのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK47S_0040",
+    "original": "欠点……ですか",
+    "translation": "欠点……ですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK47S_0041",
+    "original": "で、どんなジョークだったの？",
+    "translation": "で、どんなジョークだったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK47S_0042",
+    "original": "シャワーが[#W15]…[#W20]…[#W30]",
+    "translation": "シャワーが[#W15]…[#W20]…[#W30]",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK47S_0043",
+    "original": "いえ、[#W30]いいです[#W60]\n説明するのもむなしくなりました",
+    "translation": "いえ、[#W30]いいです[#W60]\n説明するのもむなしくなりました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK47S_0044",
+    "original": "そう。ま、元気だしなさい",
+    "translation": "そう。ま、元気だしなさい",
+    "speaker": "ハルヒ"
+  }
+]

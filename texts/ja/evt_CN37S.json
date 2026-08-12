@@ -1,0 +1,331 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN37S_0000",
+    "original": "さっき買い出しの時に、長門にどん\nな料理がいいか聞いたら……",
+    "translation": "さっき買い出しの時に、長門にどん\nな料理がいいか聞いたら……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN37S_0001",
+    "original": "カレーって言うんだぜ\nバーベキューだっていうのにな",
+    "translation": "カレーって言うんだぜ\nバーベキューだっていうのにな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN37S_0002",
+    "original": "有希って、カレー好きなのかしら？",
+    "translation": "有希って、カレー好きなのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN37S_0003",
+    "original": "どうだろうな",
+    "translation": "どうだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN37S_0004",
+    "original": "長門にも好物なんてものがあるのだ\nろうか？",
+    "translation": "長門にも好物なんてものがあるのだ\nろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN37S_0005",
+    "original": "でも、有希とカレーって合わないわ\nよね？",
+    "translation": "でも、有希とカレーって合わないわ\nよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN37S_0006",
+    "original": "ん？　なんでだ？",
+    "translation": "ん？　なんでだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN37S_0007",
+    "original": "だって、カレーが好物の人って太め\nってイメージがあるじゃない",
+    "translation": "だって、カレーが好物の人って太め\nってイメージがあるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN37S_0008",
+    "original": "そんなのはじめて聞いたぞ",
+    "translation": "そんなのはじめて聞いたぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN37S_0009",
+    "original": "カレー好きって言ったらぽっちゃり\nなイエローって決まってるでしょ！",
+    "translation": "カレー好きって言ったらぽっちゃり\nなイエローって決まってるでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN37S_0010",
+    "original": "まてまてまて",
+    "translation": "まてまてまて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN37S_0011",
+    "original": "ぽっちゃりはともかく、その\nイエローってのはなんだ？",
+    "translation": "ぽっちゃりはともかく、その\nイエローってのはなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN37S_0012",
+    "original": "なに言ってるのよ！",
+    "translation": "なに言ってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN37S_0013",
+    "original": "レッド、ブルーは別格としても\nブラックに匹敵するレギュラー色よ",
+    "translation": "レッド、ブルーは別格としても\nブラックに匹敵するレギュラー色よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN37S_0014",
+    "original": "いや、さっぱり分からんのだが",
+    "translation": "いや、さっぱり分からんのだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN37S_0015",
+    "original": "……あんたにはガッカリだわ",
+    "translation": "……あんたにはガッカリだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN37S_0016",
+    "original": "な、なぜガッカリされるんだ",
+    "translation": "な、なぜガッカリされるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN37S_0017",
+    "original": "はぁ……",
+    "translation": "はぁ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN37S_0018",
+    "original": "しかも盛大な溜息まで……",
+    "translation": "しかも盛大な溜息まで……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN37S_0019",
+    "original": "キョンくんが言ってたんですけど",
+    "translation": "キョンくんが言ってたんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN37S_0020",
+    "original": "長門さんってカレーが\n好きなんでしょうか？",
+    "translation": "長門さんってカレーが\n好きなんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN37S_0021",
+    "original": "そんな話は聞いたことないけど……\nカレーは美味しいものね",
+    "translation": "そんな話は聞いたことないけど……\nカレーは美味しいものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN37S_0022",
+    "original": "有希じゃなくても、人類の定番好物\nに違いないわ！",
+    "translation": "有希じゃなくても、人類の定番好物\nに違いないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN37S_0023",
+    "original": "あ、あたしも好きですよ\nあまり辛いのはダメですけど",
+    "translation": "あ、あたしも好きですよ\nあまり辛いのはダメですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN37S_0024",
+    "original": "そう？　でもカレーなんだし\n辛い方がいいじゃない",
+    "translation": "そう？　でもカレーなんだし\n辛い方がいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN37S_0025",
+    "original": "あたしはあれこれ面白そうな\n具材を入れて作ったやつが好きよ",
+    "translation": "あたしはあれこれ面白そうな\n具材を入れて作ったやつが好きよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN37S_0026",
+    "original": "あ、あの、あれこれって……\n何を入れるんですかぁ？",
+    "translation": "あ、あの、あれこれって……\n何を入れるんですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN37S_0027",
+    "original": "それはその辺にあったやつ次第ね\n料理は勢いが大事だから",
+    "translation": "それはその辺にあったやつ次第ね\n料理は勢いが大事だから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN37S_0028",
+    "original": "えぇっ、勢いですかぁ……",
+    "translation": "えぇっ、勢いですかぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN37S_0029",
+    "original": "カレーは優秀な食品",
+    "translation": "カレーは優秀な食品",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN37S_0030",
+    "original": "カレー？　確かに嫌いな人って\nあんまりいないと思うけど",
+    "translation": "カレー？　確かに嫌いな人って\nあんまりいないと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN37S_0031",
+    "original": "具材によって味も栄養もバランスを\n調整できる",
+    "translation": "具材によって味も栄養もバランスを\n調整できる",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN37S_0032",
+    "original": "なんだ、有希もカレー好きなのね",
+    "translation": "なんだ、有希もカレー好きなのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN37S_0033",
+    "original": "嫌いではない",
+    "translation": "嫌いではない",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN37S_0034",
+    "original": "じゃあ、次はみんなでカレーでも\n作りましょうか",
+    "translation": "じゃあ、次はみんなでカレーでも\n作りましょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN37S_0035",
+    "original": "賛成",
+    "translation": "賛成",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN37S_0036",
+    "original": "涼宮さんはカレーはお好きですか？",
+    "translation": "涼宮さんはカレーはお好きですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN37S_0037",
+    "original": "カレー嫌いの人って、めったに聞い\nたことがないわ",
+    "translation": "カレー嫌いの人って、めったに聞い\nたことがないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN37S_0038",
+    "original": "はは、そうでしょうね",
+    "translation": "はは、そうでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN37S_0039",
+    "original": "古泉くんもカレーは好きでしょ？\nカレーは国民食みたいなものだもの",
+    "translation": "古泉くんもカレーは好きでしょ？\nカレーは国民食みたいなものだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN37S_0040",
+    "original": "ええ、人並みに好んでいます",
+    "translation": "ええ、人並みに好んでいます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN37S_0041",
+    "original": "長門さんもカレーがお好きだと聞き\nました",
+    "translation": "長門さんもカレーがお好きだと聞き\nました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN37S_0042",
+    "original": "ほら、やっぱりね",
+    "translation": "ほら、やっぱりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN37S_0043",
+    "original": "有希は辛口好みかしら。それとも\n甘口が好きなのかも",
+    "translation": "有希は辛口好みかしら。それとも\n甘口が好きなのかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN37S_0044",
+    "original": "そこまでは聞いていませんが……",
+    "translation": "そこまでは聞いていませんが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN37S_0045",
+    "original": "甘口はみくるちゃん、有希は中辛が\n好きなのかも知れないわね",
+    "translation": "甘口はみくるちゃん、有希は中辛が\n好きなのかも知れないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN37S_0046",
+    "original": "イメージとしてはそんなところで\nしょうね",
+    "translation": "イメージとしてはそんなところで\nしょうね",
+    "speaker": "古泉"
+  }
+]

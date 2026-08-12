@@ -1,0 +1,415 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK24S_0000",
+    "original": "さっき、言いそびれたことがあるん\nだが……",
+    "translation": "さっき、言いそびれたことがあるん\nだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK24S_0001",
+    "original": "さっきって、いつ？",
+    "translation": "さっきって、いつ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK24S_0002",
+    "original": "音楽室のカギを借りに行ったときの\n話だ",
+    "translation": "音楽室のカギを借りに行ったときの\n話だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK24S_0003",
+    "original": "先生への対応を古泉に任せたんだが\n何の疑いもなく、一発ＯＫだった",
+    "translation": "先生への対応を古泉に任せたんだが\n何の疑いもなく、一発ＯＫだった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK24S_0004",
+    "original": "それがどうかしたの？",
+    "translation": "それがどうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK24S_0005",
+    "original": "古泉のやつ、ずいぶん教師受けが\nいいんだな",
+    "translation": "古泉のやつ、ずいぶん教師受けが\nいいんだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK24S_0006",
+    "original": "絵に描いたような優等生だ",
+    "translation": "絵に描いたような優等生だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK24S_0007",
+    "original": "あんたと比較したら、たいていの\n生徒は優等生だわ",
+    "translation": "あんたと比較したら、たいていの\n生徒は優等生だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK24S_0008",
+    "original": "そりゃどういう意味だ",
+    "translation": "そりゃどういう意味だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK24S_0009",
+    "original": "真面目に勉強しないわ、すぐサボろ\nうとするわ、ダメなとこばかり",
+    "translation": "真面目に勉強しないわ、すぐサボろ\nうとするわ、ダメなとこばかり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK24S_0010",
+    "original": "あたしは勉強嫌いじゃないし、得意\nだもの。まだマシね",
+    "translation": "あたしは勉強嫌いじゃないし、得意\nだもの。まだマシね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK24S_0011",
+    "original": "と、校内一の問題児がおっしゃって\nいるが、自覚はまるで無いらしいな",
+    "translation": "と、校内一の問題児がおっしゃって\nいるが、自覚はまるで無いらしいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK24S_0012",
+    "original": "キョン、あんたも古泉くんを見習っ\nて、少しは真面目に生きなさい",
+    "translation": "キョン、あんたも古泉くんを見習っ\nて、少しは真面目に生きなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK24S_0013",
+    "original": "あいつが真面目かどうか、俺は正直\n疑問なんだが……",
+    "translation": "あいつが真面目かどうか、俺は正直\n疑問なんだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK24S_0014",
+    "original": "涼宮さんは、もう聞きましたか？",
+    "translation": "涼宮さんは、もう聞きましたか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK24S_0015",
+    "original": "みくるちゃん、なんの話？",
+    "translation": "みくるちゃん、なんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK24S_0016",
+    "original": "音楽室のカギを借りたときの話です",
+    "translation": "音楽室のカギを借りたときの話です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK24S_0017",
+    "original": "古泉くんが大活躍だったとか……",
+    "translation": "古泉くんが大活躍だったとか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK24S_0018",
+    "original": "ううん、それ知らないわ。何がどう\n大活躍だったの？",
+    "translation": "ううん、それ知らないわ。何がどう\n大活躍だったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK24S_0019",
+    "original": "ええと、気難しい先生だったらしい\nんですけど……",
+    "translation": "ええと、気難しい先生だったらしい\nんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK24S_0020",
+    "original": "古泉くん、一言二言しゃべっただけ\nで、すんなりカギを借りられたとか",
+    "translation": "古泉くん、一言二言しゃべっただけ\nで、すんなりカギを借りられたとか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK24S_0021",
+    "original": "へえ、古泉くんが……",
+    "translation": "へえ、古泉くんが……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK24S_0022",
+    "original": "それで、キョンくんが、古泉くんの\nこと、教師受けのいい優等生だって",
+    "translation": "それで、キョンくんが、古泉くんの\nこと、教師受けのいい優等生だって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK24S_0023",
+    "original": "あのバカ",
+    "translation": "あのバカ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK24S_0024",
+    "original": "どうしてそう、余計な一言を付けた\nがるのかしら",
+    "translation": "どうしてそう、余計な一言を付けた\nがるのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK24S_0025",
+    "original": "キョンには合宿後、きちんと説教\nしておかなくちゃ",
+    "translation": "キョンには合宿後、きちんと説教\nしておかなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK24S_0026",
+    "original": "そ、それはちょっと……あたしの\nせいになっちゃいますぅ",
+    "translation": "そ、それはちょっと……あたしの\nせいになっちゃいますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK24S_0027",
+    "original": "みくるちゃんから聞いた、なんて\n話はしないから安心しなさい",
+    "translation": "みくるちゃんから聞いた、なんて\n話はしないから安心しなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK24S_0028",
+    "original": "うぅぅ、ごめんなさい\nキョンくぅん",
+    "translation": "うぅぅ、ごめんなさい\nキョンくぅん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK24S_0029",
+    "original": "え？　古泉くんが優等生？",
+    "translation": "え？　古泉くんが優等生？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK24S_0030",
+    "original": "誰がそんなこと言ってたの？\nキョン？",
+    "translation": "誰がそんなこと言ってたの？\nキョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK24S_0031",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK24S_0032",
+    "original": "音楽室のカギを借り受ける際、教師\nとの交渉をスムーズに行った",
+    "translation": "音楽室のカギを借り受ける際、教師\nとの交渉をスムーズに行った",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK24S_0033",
+    "original": "優等生の成せるわざ",
+    "translation": "優等生の成せるわざ",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK24S_0034",
+    "original": "……って、キョンが言ったのね？",
+    "translation": "……って、キョンが言ったのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK24S_0035",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK24S_0036",
+    "original": "きっと、その“優等生”っていうの\nは、悪い意味での優等生ね",
+    "translation": "きっと、その“優等生”っていうの\nは、悪い意味での優等生ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK24S_0037",
+    "original": "その用法に関しては、説明が必要",
+    "translation": "その用法に関しては、説明が必要",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK24S_0038",
+    "original": "真面目ぶってる、って意味よ\nただの、キョンのひがみね",
+    "translation": "真面目ぶってる、って意味よ\nただの、キョンのひがみね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK24S_0039",
+    "original": "後で説教しておかなくちゃ……",
+    "translation": "後で説教しておかなくちゃ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK24S_0040",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK24S_0041",
+    "original": "先程、こんなことを言われましたよ",
+    "translation": "先程、こんなことを言われましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK24S_0042",
+    "original": "僕は“優等生”だと。呆れた顔で",
+    "translation": "僕は“優等生”だと。呆れた顔で",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK24S_0043",
+    "original": "誰に言われたの？　……って、一人\nしかいないわね。キョンでしょ",
+    "translation": "誰に言われたの？　……って、一人\nしかいないわね。キョンでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK24S_0044",
+    "original": "ええ。彼には僕が優等生に見える\nそうです。理由は不明ですが",
+    "translation": "ええ。彼には僕が優等生に見える\nそうです。理由は不明ですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK24S_0045",
+    "original": "でも、そんな感じがしなくもないわ\n古泉くん真面目そうだもの",
+    "translation": "でも、そんな感じがしなくもないわ\n古泉くん真面目そうだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK24S_0046",
+    "original": "真面目な人間が、こうして怪奇現象\nを追ったりはしないものですよ",
+    "translation": "真面目な人間が、こうして怪奇現象\nを追ったりはしないものですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK24S_0047",
+    "original": "確かにそうね。その通りだわ",
+    "translation": "確かにそうね。その通りだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK24S_0048",
+    "original": "何の変哲もない優等生だったら\nＳＯＳ団には必要ないもの",
+    "translation": "何の変哲もない優等生だったら\nＳＯＳ団には必要ないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK24S_0049",
+    "original": "恐れ入ります",
+    "translation": "恐れ入ります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK24S_0050",
+    "original": "涼宮さんにそう言って頂けるのは\n実に嬉しいものです",
+    "translation": "涼宮さんにそう言って頂けるのは\n実に嬉しいものです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK24S_0051",
+    "original": "それにしても、キョンはどうして\nそんなことを言ったのかしら",
+    "translation": "それにしても、キョンはどうして\nそんなことを言ったのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK24S_0052",
+    "original": "僕が、すんなりと先生から音楽室の\nカギを借りてみせたからでしょうね",
+    "translation": "僕が、すんなりと先生から音楽室の\nカギを借りてみせたからでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK24S_0053",
+    "original": "それだけで優等生なの？",
+    "translation": "それだけで優等生なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK24S_0054",
+    "original": "教師受けがいい、という点において\n確かに優等生かもしれません",
+    "translation": "教師受けがいい、という点において\n確かに優等生かもしれません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK24S_0055",
+    "original": "実際には、そうでもないのですが",
+    "translation": "実際には、そうでもないのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK24S_0056",
+    "original": "まあ、キョンのバカな決め付けは\nともかく、カギの件は助かったわ",
+    "translation": "まあ、キョンのバカな決め付けは\nともかく、カギの件は助かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK24S_0057",
+    "original": "さすが古泉くんと褒めて\nあげましょう",
+    "translation": "さすが古泉くんと褒めて\nあげましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK24S_0058",
+    "original": "団長直々のお言葉、光栄です",
+    "translation": "団長直々のお言葉、光栄です",
+    "speaker": "古泉"
+  }
+]

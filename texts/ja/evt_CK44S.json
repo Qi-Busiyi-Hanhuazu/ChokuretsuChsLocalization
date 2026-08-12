@@ -1,0 +1,373 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK44S_0000",
+    "original": "なあ、ウソも方便って言うだろ",
+    "translation": "なあ、ウソも方便って言うだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK44S_0001",
+    "original": "まあ、言うわね",
+    "translation": "まあ、言うわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK44S_0002",
+    "original": "ハルヒ、おまえはそれをどう思う？",
+    "translation": "ハルヒ、おまえはそれをどう思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK44S_0003",
+    "original": "そうね、悪意からではなくウソを\nつくこと？",
+    "translation": "そうね、悪意からではなくウソを\nつくこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK44S_0004",
+    "original": "問題ないんじゃないの？",
+    "translation": "問題ないんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK44S_0005",
+    "original": "善意のウソだから、ウソついてる\nことにはならないとか言わないなら",
+    "translation": "善意のウソだから、ウソついてる\nことにはならないとか言わないなら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK44S_0006",
+    "original": "そうなのか？",
+    "translation": "そうなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK44S_0007",
+    "original": "善意だろうが悪意だろうが、ウソは\nウソだと思うわ",
+    "translation": "善意だろうが悪意だろうが、ウソは\nウソだと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK44S_0008",
+    "original": "それだったら、バレたら責任取る気\nで正々堂々、ウソつけばいいのよ！",
+    "translation": "それだったら、バレたら責任取る気\nで正々堂々、ウソつけばいいのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK44S_0009",
+    "original": "ウソつくのに正々堂々はないだろう",
+    "translation": "ウソつくのに正々堂々はないだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK44S_0010",
+    "original": "あたしハンパは嫌いなの！　ウソ\nつく時は力一杯ついてみせるわよ！",
+    "translation": "あたしハンパは嫌いなの！　ウソ\nつく時は力一杯ついてみせるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK44S_0011",
+    "original": "なんでこうキッパリしてるかな",
+    "translation": "なんでこうキッパリしてるかな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK44S_0012",
+    "original": "涼宮さん、嘘も方便って言います\nよね？",
+    "translation": "涼宮さん、嘘も方便って言います\nよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK44S_0013",
+    "original": "仕方なければ嘘ついてもいいと\n思いますか？",
+    "translation": "仕方なければ嘘ついてもいいと\n思いますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK44S_0014",
+    "original": "んー、みくるちゃんは嘘つかない\n方がいいと思うわ",
+    "translation": "んー、みくるちゃんは嘘つかない\n方がいいと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK44S_0015",
+    "original": "ええっ、やっぱり嘘はダメですか？",
+    "translation": "ええっ、やっぱり嘘はダメですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK44S_0016",
+    "original": "違うわ。みくるちゃんはって限定よ",
+    "translation": "違うわ。みくるちゃんはって限定よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK44S_0017",
+    "original": "あたし限定ですか？",
+    "translation": "あたし限定ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK44S_0018",
+    "original": "だって顔に出るでしょ。不審な行動\nも取りそうだしね",
+    "translation": "だって顔に出るでしょ。不審な行動\nも取りそうだしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK44S_0019",
+    "original": "はぅぅ、そうですね",
+    "translation": "はぅぅ、そうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK44S_0020",
+    "original": "嘘つくなら大胆に、力一杯相手の\n目を見て堂々と言い切るのよ！",
+    "translation": "嘘つくなら大胆に、力一杯相手の\n目を見て堂々と言い切るのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK44S_0021",
+    "original": "コツは自分すらだますつもりで、\n真実を言ってると思いこむことね",
+    "translation": "コツは自分すらだますつもりで、\n真実を言ってると思いこむことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK44S_0022",
+    "original": "ああっ、いつの間にか嘘の付き方\n講座になってますぅ～",
+    "translation": "ああっ、いつの間にか嘘の付き方\n講座になってますぅ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK44S_0023",
+    "original": "ウソも方便という言葉を聞いた",
+    "translation": "ウソも方便という言葉を聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK44S_0024",
+    "original": "ええ、そうね。真実がいつも正解\nとは限らないもの",
+    "translation": "ええ、そうね。真実がいつも正解\nとは限らないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK44S_0025",
+    "original": "正解ではない？",
+    "translation": "正解ではない？",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK44S_0026",
+    "original": "難しいのよ、人の気持ちって\n思いやりの嘘もあるってことね",
+    "translation": "難しいのよ、人の気持ちって\n思いやりの嘘もあるってことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK44S_0027",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK44S_0028",
+    "original": "有希は、ちゃんと嘘がつけなさ\nそうだもの。それにね",
+    "translation": "有希は、ちゃんと嘘がつけなさ\nそうだもの。それにね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK44S_0029",
+    "original": "そんな人がひとりくらいは\nいなくちゃ面白くないでしょ",
+    "translation": "そんな人がひとりくらいは\nいなくちゃ面白くないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK44S_0030",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK44S_0031",
+    "original": "涼宮さんはウソをつく人間を\nどう思われますか？",
+    "translation": "涼宮さんはウソをつく人間を\nどう思われますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK44S_0032",
+    "original": "え？　嘘つきだと思うわよ",
+    "translation": "え？　嘘つきだと思うわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK44S_0033",
+    "original": "それは、そのままですね。嘘つきは\n軽蔑なさいますか？",
+    "translation": "それは、そのままですね。嘘つきは\n軽蔑なさいますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK44S_0034",
+    "original": "たとえばウソも方便と言いますが",
+    "translation": "たとえばウソも方便と言いますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK44S_0035",
+    "original": "状況により悪感情は変化するもの\nでしょうか？",
+    "translation": "状況により悪感情は変化するもの\nでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK44S_0036",
+    "original": "何が聞きたいのか判らないけど、",
+    "translation": "何が聞きたいのか判らないけど、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK44S_0037",
+    "original": "嘘をついたら嘘つきだけど、だから\nって必ずしも軽蔑したりしないわよ",
+    "translation": "嘘をついたら嘘つきだけど、だから\nって必ずしも軽蔑したりしないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK44S_0038",
+    "original": "ああ、この人は嘘つきなんだなって\n思うだけ",
+    "translation": "ああ、この人は嘘つきなんだなって\n思うだけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK44S_0039",
+    "original": "それは、どう考えたらいいの\nでしょう",
+    "translation": "それは、どう考えたらいいの\nでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK44S_0040",
+    "original": "嘘つきは事実、軽蔑は感情\nってところよね",
+    "translation": "嘘つきは事実、軽蔑は感情\nってところよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK44S_0041",
+    "original": "その通りですね",
+    "translation": "その通りですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK44S_0042",
+    "original": "まあ、その嘘が最低な品性下劣\nなら軽蔑する場合もあるかもね",
+    "translation": "まあ、その嘘が最低な品性下劣\nなら軽蔑する場合もあるかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK44S_0043",
+    "original": "……信頼を傷つける訳ですからね",
+    "translation": "……信頼を傷つける訳ですからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK44S_0044",
+    "original": "あのね、古泉くん。人間は嘘つく\n生きものだと思うのよ",
+    "translation": "あのね、古泉くん。人間は嘘つく\n生きものだと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK44S_0045",
+    "original": "古泉くんも、キョンも",
+    "translation": "古泉くんも、キョンも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK44S_0046",
+    "original": "有希は、んー、嘘つくより話さない\n方を選ぶのかしら",
+    "translation": "有希は、んー、嘘つくより話さない\n方を選ぶのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK44S_0047",
+    "original": "毎日とは言わないけど、ちょっと\nずつ嘘言いながら暮らしてるはずよ",
+    "translation": "毎日とは言わないけど、ちょっと\nずつ嘘言いながら暮らしてるはずよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK44S_0048",
+    "original": "嘘つきに天から怒りの雷が落ちるん\nなら",
+    "translation": "嘘つきに天から怒りの雷が落ちるん\nなら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK44S_0049",
+    "original": "いつでもそこら中で雷雨に\nなっちゃうわ",
+    "translation": "いつでもそこら中で雷雨に\nなっちゃうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK44S_0050",
+    "original": "はは、そうですね。天罰は受けた\nことはないですがね",
+    "translation": "はは、そうですね。天罰は受けた\nことはないですがね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK44S_0051",
+    "original": "仕方ないのかもね。嘘までついて\n懸命に毎日生きてるのよ",
+    "translation": "仕方ないのかもね。嘘までついて\n懸命に毎日生きてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK44S_0052",
+    "original": "涼宮さんには、かないませんね……",
+    "translation": "涼宮さんには、かないませんね……",
+    "speaker": "古泉"
+  }
+]

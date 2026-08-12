@@ -1,0 +1,1568 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_012S_0000",
+    "original": "焼くための道具って、どこにあるん\nでしょう？",
+    "translation": "焼くための道具って、どこにあるん\nでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_012S_0001",
+    "original": "探せばどっかにあると思うわ",
+    "translation": "探せばどっかにあると思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_012S_0002",
+    "original": "ありそうな場所を手当たり次第に\n探せばきっと出てくるわよ",
+    "translation": "ありそうな場所を手当たり次第に\n探せばきっと出てくるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_012S_0003",
+    "original": "空き地の下見が終わるなり、道具を\n探しに行くことにはなったのだが",
+    "translation": "空き地の下見が終わるなり、道具を\n探しに行くことにはなったのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_012S_0004",
+    "original": "具体的にどこを探すか、までは\nハルヒも考えてなかったらしい",
+    "translation": "具体的にどこを探すか、までは\nハルヒも考えてなかったらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_012S_0005",
+    "original": "バーベキューをやろうと決めた時点\nで考えなかったのかと",
+    "translation": "バーベキューをやろうと決めた時点\nで考えなかったのかと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_012S_0006",
+    "original": "いつもながらに思うぜ",
+    "translation": "いつもながらに思うぜ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_012S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_012S_0008",
+    "original": "なに呆けてるのよ、キョン",
+    "translation": "なに呆けてるのよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_012S_0009",
+    "original": "道具がないと焼けないでしょ！\nほら、きりきり探すわよ！",
+    "translation": "道具がないと焼けないでしょ！\nほら、きりきり探すわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_012S_0010",
+    "original": "だから、出たとこ勝負で物事を動か\nすのはやめないかと言ってるんだ",
+    "translation": "だから、出たとこ勝負で物事を動か\nすのはやめないかと言ってるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_012S_0011",
+    "original": "だって、もう材料は買いに出ちゃっ\nったのよ",
+    "translation": "だって、もう材料は買いに出ちゃっ\nったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_012S_0012",
+    "original": "ここまできたら、何が何でも見つけ\nなきゃ仕方がないでしょっ！",
+    "translation": "ここまできたら、何が何でも見つけ\nなきゃ仕方がないでしょっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_012S_0013",
+    "original": "キョンくん、はやくさがそうよ",
+    "translation": "キョンくん、はやくさがそうよ",
+    "speaker": "妹"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_012S_0014",
+    "original": "おまえまで言うのか",
+    "translation": "おまえまで言うのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_012S_0015",
+    "original": "だって、すぐおなかがすくんだもん",
+    "translation": "だって、すぐおなかがすくんだもん",
+    "speaker": "妹"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_012S_0016",
+    "original": "こうして並べてみると、ハルヒと妹\nの理屈はほぼ同レベルだと思えるね",
+    "translation": "こうして並べてみると、ハルヒと妹\nの理屈はほぼ同レベルだと思えるね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_012S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_012S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_012S_0019",
+    "original": "キョン、バーベキューセットが\nありそうな場所と言えばどこ？",
+    "translation": "キョン、バーベキューセットが\nありそうな場所と言えばどこ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_012S_0020",
+    "original": "そうだな……",
+    "translation": "そうだな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_012S_0021",
+    "original": "普通に考えると山岳研究会とか\nアウトドア同好会とか……",
+    "translation": "普通に考えると山岳研究会とか\nアウトドア同好会とか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_012S_0022",
+    "original": "そんなとこだろうな",
+    "translation": "そんなとこだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_012S_0023",
+    "original": "そうね……グラウンドで野球部が\n練習してるから、聞いてみましょう",
+    "translation": "そうね……グラウンドで野球部が\n練習してるから、聞いてみましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_012S_0024",
+    "original": "なんで野球部なんだよ",
+    "translation": "なんで野球部なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_012S_0025",
+    "original": "っていうか、俺の意見は無視かよ\n何のために聞いてきたんだ、おい",
+    "translation": "っていうか、俺の意見は無視かよ\n何のために聞いてきたんだ、おい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_012S_0026",
+    "original": "探し回るより、聞いた方がてっとり\n早くていいじゃない",
+    "translation": "探し回るより、聞いた方がてっとり\n早くていいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_012S_0027",
+    "original": "みくるちゃん、野球部に行くから\n一緒について来なさい",
+    "translation": "みくるちゃん、野球部に行くから\n一緒について来なさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_012S_0028",
+    "original": "は、はぁい",
+    "translation": "は、はぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_012S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_012S_0030",
+    "original": "聞くならアウトドア同好会に聞いた\n方が早いだろうに",
+    "translation": "聞くならアウトドア同好会に聞いた\n方が早いだろうに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_012S_0031",
+    "original": "今は夏休みよ？　アウトドア同好会\nの連中がいるか、わからないでしょ",
+    "translation": "今は夏休みよ？　アウトドア同好会\nの連中がいるか、わからないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_012S_0032",
+    "original": "まあ、そうかも知れんが",
+    "translation": "まあ、そうかも知れんが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_012S_0033",
+    "original": "ほらほら\nなにぼさっと突っ立ってるのよ！",
+    "translation": "ほらほら\nなにぼさっと突っ立ってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_012S_0034",
+    "original": "立ってるだけなら駅前の時計の\n方が、ずーっと役に立つわよっ！",
+    "translation": "立ってるだけなら駅前の時計の\n方が、ずーっと役に立つわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_012S_0035",
+    "original": "あーはいはい",
+    "translation": "あーはいはい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_012S_0036",
+    "original": "俺も駅前の時計のような、みんなに\n愛される存在でありたいね",
+    "translation": "俺も駅前の時計のような、みんなに\n愛される存在でありたいね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_012S_0037",
+    "original": "厄介ごとといえば、せいぜい頭に\nとまるハトくらいだろうしな",
+    "translation": "厄介ごとといえば、せいぜい頭に\nとまるハトくらいだろうしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_012S_0038",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_012S_0039",
+    "original": "さっそく野球部に尋問するような\n勢いで聞いたハルヒだったが……",
+    "translation": "さっそく野球部に尋問するような\n勢いで聞いたハルヒだったが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_012S_0040",
+    "original": "みくるちゃんがヒットを打てたら\n貸してくれるって言ってるのよ",
+    "translation": "みくるちゃんがヒットを打てたら\n貸してくれるって言ってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_012S_0041",
+    "original": "ふぇ？　あたしが打つんですか？",
+    "translation": "ふぇ？　あたしが打つんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_012S_0042",
+    "original": "朝比奈さんは突然の話に動揺して\nいらっしゃる。まあ当然だろう",
+    "translation": "朝比奈さんは突然の話に動揺して\nいらっしゃる。まあ当然だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_012S_0043",
+    "original": "やっぱり真っ先にここへ当たって\n正解だったわねっ",
+    "translation": "やっぱり真っ先にここへ当たって\n正解だったわねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_012S_0044",
+    "original": "すっかり打てる気でいるよコイツは",
+    "translation": "すっかり打てる気でいるよコイツは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_012S_0045",
+    "original": "というわけで、みくるちゃん\n準備してね",
+    "translation": "というわけで、みくるちゃん\n準備してね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_012S_0046",
+    "original": "えっ、あ、あの、準備ってなにを\nしたらいいのでしょう？",
+    "translation": "えっ、あ、あの、準備ってなにを\nしたらいいのでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_012S_0047",
+    "original": "相手は野球部だから簡単にヒットは\n打てないわよね",
+    "translation": "相手は野球部だから簡単にヒットは\n打てないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_012S_0048",
+    "original": "は、はいぃ",
+    "translation": "は、はいぃ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_012S_0049",
+    "original": "ヒットを打つ気合いを入れるために\nまずはカタチから入りましょう",
+    "translation": "ヒットを打つ気合いを入れるために\nまずはカタチから入りましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_012S_0050",
+    "original": "えっと、カタチって……",
+    "translation": "えっと、カタチって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_012S_0051",
+    "original": "ユニフォームよ、ユニフォーム",
+    "translation": "ユニフォームよ、ユニフォーム",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_012S_0052",
+    "original": "あのう、今日はジャージを持って\nきてないんですけど",
+    "translation": "あのう、今日はジャージを持って\nきてないんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_012S_0053",
+    "original": "ジャージなんて運動する時に着る\nものよ",
+    "translation": "ジャージなんて運動する時に着る\nものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_012S_0054",
+    "original": "みくるちゃんのユニフォームは\n部室で着てる服に決まってるでしょ",
+    "translation": "みくるちゃんのユニフォームは\n部室で着てる服に決まってるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_012S_0055",
+    "original": "おいおいハルヒ、おまえ、まさか",
+    "translation": "おいおいハルヒ、おまえ、まさか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_012S_0056",
+    "original": "えぇぇっ、コスチュームですか？",
+    "translation": "えぇぇっ、コスチュームですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_012S_0057",
+    "original": "あったり前よ\nそうね、なるべく可愛いのがいいわ",
+    "translation": "あったり前よ\nそうね、なるべく可愛いのがいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_012S_0058",
+    "original": "前はナースだったから、バニーとか\nどうかしら",
+    "translation": "前はナースだったから、バニーとか\nどうかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_012S_0059",
+    "original": "ふぇぇぇっ、それはぁぁっ！",
+    "translation": "ふぇぇぇっ、それはぁぁっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_012S_0060",
+    "original": "そりゃ、なんともシュールな野球\nだな",
+    "translation": "そりゃ、なんともシュールな野球\nだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_012S_0061",
+    "original": "などと思って朝比奈さんを見ると\nすでに涙目になっておいでだ",
+    "translation": "などと思って朝比奈さんを見ると\nすでに涙目になっておいでだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV3_012S_0062",
+    "original": "さすがにここは、フォローするべき\nだろうな",
+    "translation": "さすがにここは、フォローするべき\nだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV3_012S_0063",
+    "original": "ちょっと待て、ハルヒ。ほかの方法\nはないのか？",
+    "translation": "ちょっと待て、ハルヒ。ほかの方法\nはないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV3_012S_0064",
+    "original": "これはみくるちゃんのキュートな姿\nでまいらせる作戦なのよっ",
+    "translation": "これはみくるちゃんのキュートな姿\nでまいらせる作戦なのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV3_012S_0065",
+    "original": "だとしても、あまり感心しないな",
+    "translation": "だとしても、あまり感心しないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV3_012S_0066",
+    "original": "そうね……ほいほい出したら肝心な\n時に効力が弱まるかもね",
+    "translation": "そうね……ほいほい出したら肝心な\n時に効力が弱まるかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV3_012S_0067",
+    "original": "ふぇっ、肝心な時ってなんですかぁ",
+    "translation": "ふぇっ、肝心な時ってなんですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV3_012S_0068",
+    "original": "その肝心な時とやらがこないことを\n祈ってやみません",
+    "translation": "その肝心な時とやらがこないことを\n祈ってやみません",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV3_012S_0069",
+    "original": "いいわ、今回はメイド服でいくわ\nさあ、着替えてらっしゃい",
+    "translation": "いいわ、今回はメイド服でいくわ\nさあ、着替えてらっしゃい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV3_012S_0070",
+    "original": "キョンとあたしはメガホンで\n応援よ！",
+    "translation": "キョンとあたしはメガホンで\n応援よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV3_012S_0071",
+    "original": "メガホンで応援か",
+    "translation": "メガホンで応援か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV3_012S_0072",
+    "original": "まあバニー姿よりはメイド服の方が\n安心して応援出来ると考えよう",
+    "translation": "まあバニー姿よりはメイド服の方が\n安心して応援出来ると考えよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV3_012S_0073",
+    "original": "朝比奈さん、安心して下さい",
+    "translation": "朝比奈さん、安心して下さい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV3_012S_0074",
+    "original": "おいハルヒ、せめてメイド服ぐらい\nにしておけ",
+    "translation": "おいハルヒ、せめてメイド服ぐらい\nにしておけ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV3_012S_0075",
+    "original": "キョンくぅん……",
+    "translation": "キョンくぅん……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV3_012S_0076",
+    "original": "どうしてよ、名案だと思ったのに！",
+    "translation": "どうしてよ、名案だと思ったのに！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV3_012S_0077",
+    "original": "隠し球には使いどころがあるだろ",
+    "translation": "隠し球には使いどころがあるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV3_012S_0078",
+    "original": "……それは一理あるわね。キョンに\nしてはいいこと言うわ",
+    "translation": "……それは一理あるわね。キョンに\nしてはいいこと言うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV3_012S_0079",
+    "original": "じゃあ、みくるちゃんはメイド服に\n着替えていらっしゃい",
+    "translation": "じゃあ、みくるちゃんはメイド服に\n着替えていらっしゃい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV3_012S_0080",
+    "original": "ふえぇぇ……",
+    "translation": "ふえぇぇ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV3_012S_0081",
+    "original": "キョンは[#P05]“ポンポン”[#P00]で応援ね",
+    "translation": "キョンは[#P05]“ポンポン”[#P00]で応援ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV3_012S_0082",
+    "original": "なあ、[#P05]“ポンポン”[#P01]はいくらなん\nでも恥ずかしすぎるだろう",
+    "translation": "なあ、[#P05]“ポンポン”[#P01]はいくらなん\nでも恥ずかしすぎるだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV3_012S_0083",
+    "original": "なんとか朝比奈さんのバニーは却下\n出来たのだが……",
+    "translation": "なんとか朝比奈さんのバニーは却下\n出来たのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV3_012S_0084",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 85,
+    "key": "evt_EV3_012S_0085",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 86,
+    "key": "evt_EV3_012S_0086",
+    "original": "うん、やっぱりこれが一番しっくり\nくるわねっ",
+    "translation": "うん、やっぱりこれが一番しっくり\nくるわねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV3_012S_0087",
+    "original": "これでバットを持つんですかぁ",
+    "translation": "これでバットを持つんですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV3_012S_0088",
+    "original": "持つだけじゃダメよ、みくるちゃん\nちゃんとよく見てかっ飛ばすのっ！",
+    "translation": "持つだけじゃダメよ、みくるちゃん\nちゃんとよく見てかっ飛ばすのっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV3_012S_0089",
+    "original": "みくるちゃん、がんばれーっ",
+    "translation": "みくるちゃん、がんばれーっ",
+    "speaker": "妹"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV3_012S_0090",
+    "original": "は、はいぃぃ……",
+    "translation": "は、はいぃぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV3_012S_0091",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 92,
+    "key": "evt_EV3_012S_0092",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "evt_EV3_012S_0093",
+    "original": "バットを持ったまではよかったが\n握り方がおかしい。あれじゃ逆だ",
+    "translation": "バットを持ったまではよかったが\n握り方がおかしい。あれじゃ逆だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV3_012S_0094",
+    "original": "逆に握っていたら、途中までしか\n振れませんよ、朝比奈さん",
+    "translation": "逆に握っていたら、途中までしか\n振れませんよ、朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV3_012S_0095",
+    "original": "教えるべきか見守るべきか",
+    "translation": "教えるべきか見守るべきか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV3_012S_0096",
+    "original": "ここで口を差し挟むより、見守って\nハルヒに任せた方がいいだろうな",
+    "translation": "ここで口を差し挟むより、見守って\nハルヒに任せた方がいいだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV3_012S_0097",
+    "original": "みくるちゃん、握り方が逆よ、逆！",
+    "translation": "みくるちゃん、握り方が逆よ、逆！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV3_012S_0098",
+    "original": "こ、こうですかぁ……",
+    "translation": "こ、こうですかぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV3_012S_0099",
+    "original": "案の定、ハルヒが教えている",
+    "translation": "案の定、ハルヒが教えている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV3_012S_0100",
+    "original": "ハルヒがちょっとでもほかのことに\n気を取られるのは良いことだ",
+    "translation": "ハルヒがちょっとでもほかのことに\n気を取られるのは良いことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV3_012S_0101",
+    "original": "キョンくん、こんなの拾ってきた",
+    "translation": "キョンくん、こんなの拾ってきた",
+    "speaker": "妹"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV3_012S_0102",
+    "original": "なんだ、片方の手袋か\nもしかして誰かの落とし物か？",
+    "translation": "なんだ、片方の手袋か\nもしかして誰かの落とし物か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV3_012S_0103",
+    "original": "でも、暑いのに手袋ってヘンだよね",
+    "translation": "でも、暑いのに手袋ってヘンだよね",
+    "speaker": "妹"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV3_012S_0104",
+    "original": "……言われてみればそうだな\nしかも見たところ、新品同様だ",
+    "translation": "……言われてみればそうだな\nしかも見たところ、新品同様だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV3_012S_0105",
+    "original": "まあ、一応持っておくとするか",
+    "translation": "まあ、一応持っておくとするか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV3_012S_0106",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 107,
+    "key": "evt_EV3_012S_0107",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 108,
+    "key": "evt_EV3_012S_0108",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "evt_EV3_012S_0109",
+    "original": "ハルヒに任せて気をそらせようとも\n思ったが、見ちゃいられない",
+    "translation": "ハルヒに任せて気をそらせようとも\n思ったが、見ちゃいられない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV3_012S_0110",
+    "original": "朝比奈さん、握り方が逆です",
+    "translation": "朝比奈さん、握り方が逆です",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV3_012S_0111",
+    "original": "え、えっと、こうですか",
+    "translation": "え、えっと、こうですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV3_012S_0112",
+    "original": "それでは辻斬りみたいになりますよ\nこうです、こう",
+    "translation": "それでは辻斬りみたいになりますよ\nこうです、こう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV3_012S_0113",
+    "original": "ああ、こうですね！\nありがとう、キョンくん",
+    "translation": "ああ、こうですね！\nありがとう、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV3_012S_0114",
+    "original": "[#P05]“朝比奈さんの手”[#P00]がふれている",
+    "translation": "[#P05]“朝比奈さんの手”[#P00]がふれている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV3_012S_0115",
+    "original": "直接手を取って教えてあげて本当に\n良かったと心の底から思うね",
+    "translation": "直接手を取って教えてあげて本当に\n良かったと心の底から思うね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV3_012S_0116",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 117,
+    "key": "evt_EV3_012S_0117",
+    "original": "みくるちゃん、脇をしめてしっかり\n狙って打つのよ",
+    "translation": "みくるちゃん、脇をしめてしっかり\n狙って打つのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV3_012S_0118",
+    "original": "は、はいっ",
+    "translation": "は、はいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV3_012S_0119",
+    "original": "バーベキューが懸かってるんだから\n頑張るのよっ！",
+    "translation": "バーベキューが懸かってるんだから\n頑張るのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV3_012S_0120",
+    "original": "え、ええっ、プレッシャーをかけな\nいでくださいっ",
+    "translation": "え、ええっ、プレッシャーをかけな\nいでくださいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV3_012S_0121",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 122,
+    "key": "evt_EV3_012S_0122",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 123,
+    "key": "evt_EV3_012S_0123",
+    "original": "バットの握り方も知らないお方が\nまともにヒットを打てるか",
+    "translation": "バットの握り方も知らないお方が\nまともにヒットを打てるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV3_012S_0124",
+    "original": "毎度のことだが、朝比奈さんが\n気の毒でたまらないね",
+    "translation": "毎度のことだが、朝比奈さんが\n気の毒でたまらないね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV3_012S_0125",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 126,
+    "key": "evt_EV3_012S_0126",
+    "original": "がんばれーみくるちゃーん！",
+    "translation": "がんばれーみくるちゃーん！",
+    "speaker": "妹"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV3_012S_0127",
+    "original": "ホームランよ、ホームラン！",
+    "translation": "ホームランよ、ホームラン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV3_012S_0128",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 129,
+    "key": "evt_EV3_012S_0129",
+    "original": "ひゃんっ",
+    "translation": "ひゃんっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV3_012S_0130",
+    "original": "朝比奈さんはバットを振った勢いで\n目まで回しそうになっておられる",
+    "translation": "朝比奈さんはバットを振った勢いで\n目まで回しそうになっておられる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV3_012S_0131",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 132,
+    "key": "evt_EV3_012S_0132",
+    "original": "あーあー、からぶりだー",
+    "translation": "あーあー、からぶりだー",
+    "speaker": "妹"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV3_012S_0133",
+    "original": "みくるちゃん、ちゃんとボールを\n見るのよっ！",
+    "translation": "みくるちゃん、ちゃんとボールを\n見るのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV3_012S_0134",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 135,
+    "key": "evt_EV3_012S_0135",
+    "original": "は、はいぃ……",
+    "translation": "は、はいぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV3_012S_0136",
+    "original": "怯える朝比奈さんに、ピッチャーは\n少しばかり手加減しているらしい",
+    "translation": "怯える朝比奈さんに、ピッチャーは\n少しばかり手加減しているらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV3_012S_0137",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 138,
+    "key": "evt_EV3_012S_0138",
+    "original": "いいわよ、今のはボールだったわ！\nその調子よ、みくるちゃん！",
+    "translation": "いいわよ、今のはボールだったわ！\nその調子よ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV3_012S_0139",
+    "original": "ボールだから見送ったわけじゃなく\nバットを振れなかっただけだろう",
+    "translation": "ボールだから見送ったわけじゃなく\nバットを振れなかっただけだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV3_012S_0140",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 141,
+    "key": "evt_EV3_012S_0141",
+    "original": "ひゃあっ！",
+    "translation": "ひゃあっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV3_012S_0142",
+    "original": "ああっ、おしいわ、みくるちゃんっ",
+    "translation": "ああっ、おしいわ、みくるちゃんっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV3_012S_0143",
+    "original": "ドキドキするね！",
+    "translation": "ドキドキするね！",
+    "speaker": "妹"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV3_012S_0144",
+    "original": "ドキドキもなにも、このままじゃ\n次も空振り間違いなしだろう",
+    "translation": "ドキドキもなにも、このままじゃ\n次も空振り間違いなしだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV3_012S_0145",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "evt_EV3_012S_0146",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "evt_EV3_012S_0147",
+    "original": "ちょっと待った、タイムだ！",
+    "translation": "ちょっと待った、タイムだ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV3_012S_0148",
+    "original": "なによ、いいところなのにっ",
+    "translation": "なによ、いいところなのにっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV3_012S_0149",
+    "original": "いいところなのにぃ！",
+    "translation": "いいところなのにぃ！",
+    "speaker": "妹"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV3_012S_0150",
+    "original": "あせるなよ。次に空振りしたら\nバーベキューが出来ないぞ？",
+    "translation": "あせるなよ。次に空振りしたら\nバーベキューが出来ないぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV3_012S_0151",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "evt_EV3_012S_0152",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 153,
+    "key": "evt_EV3_012S_0153",
+    "original": "朝比奈さん、ちょっといいですか",
+    "translation": "朝比奈さん、ちょっといいですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV3_012S_0154",
+    "original": "は、はい……なんでしょう",
+    "translation": "は、はい……なんでしょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV3_012S_0155",
+    "original": "あのピッチャー、ほぼ同じところに\n投げているので、きっと打てますよ",
+    "translation": "あのピッチャー、ほぼ同じところに\n投げているので、きっと打てますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV3_012S_0156",
+    "original": "ど、どうすれば打てますか？",
+    "translation": "ど、どうすれば打てますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV3_012S_0157",
+    "original": "ピッチャーが投げたら、朝比奈さん\nの腰の高さにバットを出します",
+    "translation": "ピッチャーが投げたら、朝比奈さん\nの腰の高さにバットを出します",
+    "speaker": "キョン"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV3_012S_0158",
+    "original": "あたしの腰の高さですね……",
+    "translation": "あたしの腰の高さですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV3_012S_0159",
+    "original": "そうです、バットをしっかり持って\n差し出す感じです",
+    "translation": "そうです、バットをしっかり持って\n差し出す感じです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV3_012S_0160",
+    "original": "振らなくていいんですか？",
+    "translation": "振らなくていいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 161,
+    "key": "evt_EV3_012S_0161",
+    "original": "ええ、無理に振らなくていいです\n当てればオッケーですよ",
+    "translation": "ええ、無理に振らなくていいです\n当てればオッケーですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV3_012S_0162",
+    "original": "俺のアドバイスに自信を得たのか\n朝比奈さんは安心したご様子だ",
+    "translation": "俺のアドバイスに自信を得たのか\n朝比奈さんは安心したご様子だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV3_012S_0163",
+    "original": "いいですか、投げるまで構えちゃ\nいけませんよ",
+    "translation": "いいですか、投げるまで構えちゃ\nいけませんよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV3_012S_0164",
+    "original": "はい、キョンくん",
+    "translation": "はい、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV3_012S_0165",
+    "original": "バッターボックスに戻った朝比奈\nさんは、ぎくしゃくしている",
+    "translation": "バッターボックスに戻った朝比奈\nさんは、ぎくしゃくしている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV3_012S_0166",
+    "original": "ピッチャーに悟られなければいいが",
+    "translation": "ピッチャーに悟られなければいいが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV3_012S_0167",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 168,
+    "key": "evt_EV3_012S_0168",
+    "original": "いっけーっ、かっ飛ばすのよーっ！",
+    "translation": "いっけーっ、かっ飛ばすのよーっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV3_012S_0169",
+    "original": "かっとばせー！",
+    "translation": "かっとばせー！",
+    "speaker": "妹"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV3_012S_0170",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 171,
+    "key": "evt_EV3_012S_0171",
+    "original": "あ、当たりましたあ！",
+    "translation": "あ、当たりましたあ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV3_012S_0172",
+    "original": "右のベースに向かって走るんです！",
+    "translation": "右のベースに向かって走るんです！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV3_012S_0173",
+    "original": "は、はいっ！",
+    "translation": "は、はいっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV3_012S_0174",
+    "original": "バントというかポテンヒットだが\nなんとか１塁ベースを踏んだようだ",
+    "translation": "バントというかポテンヒットだが\nなんとか１塁ベースを踏んだようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV3_012S_0175",
+    "original": "やったー！　みくるちゃんえらい！\nよくやったわ！",
+    "translation": "やったー！　みくるちゃんえらい！\nよくやったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV3_012S_0176",
+    "original": "やったやったー！",
+    "translation": "やったやったー！",
+    "speaker": "妹"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV3_012S_0177",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 178,
+    "key": "evt_EV3_012S_0178",
+    "original": "あの、えっ、これでいいんですか？",
+    "translation": "あの、えっ、これでいいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV3_012S_0179",
+    "original": "ヒットはヒット。十分ですとも",
+    "translation": "ヒットはヒット。十分ですとも",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV3_012S_0180",
+    "original": "これで約束のバーベキューセットが\n借りられますからね",
+    "translation": "これで約束のバーベキューセットが\n借りられますからね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV3_012S_0181",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 182,
+    "key": "evt_EV3_012S_0182",
+    "original": "みくるちゃん、ホントによくやった\nわねっ！",
+    "translation": "みくるちゃん、ホントによくやった\nわねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV3_012S_0183",
+    "original": "バーベキューセットを借りられて\nハルヒはかなりゴキゲンなようだ",
+    "translation": "バーベキューセットを借りられて\nハルヒはかなりゴキゲンなようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV3_012S_0184",
+    "original": "あ、あの、あたしじゃなくキョン\nくんのおかげです",
+    "translation": "あ、あの、あたしじゃなくキョン\nくんのおかげです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV3_012S_0185",
+    "original": "そういえばキョン。あんた、みくる\nちゃんにアドバイスしてたわね",
+    "translation": "そういえばキョン。あんた、みくる\nちゃんにアドバイスしてたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV3_012S_0186",
+    "original": "ああ、ちょっとな",
+    "translation": "ああ、ちょっとな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV3_012S_0187",
+    "original": "ハルヒが余計なストレスをためても\n問題なんでな",
+    "translation": "ハルヒが余計なストレスをためても\n問題なんでな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 188,
+    "key": "evt_EV3_012S_0188",
+    "original": "特に食い物関係のストレスは、人の\n心をひどく荒ませるからな",
+    "translation": "特に食い物関係のストレスは、人の\n心をひどく荒ませるからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 189,
+    "key": "evt_EV3_012S_0189",
+    "original": "じゃあ、どっちをほめるべきかしら",
+    "translation": "じゃあ、どっちをほめるべきかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 190,
+    "key": "evt_EV3_012S_0190",
+    "original": "そりゃ朝比奈さんだろ",
+    "translation": "そりゃ朝比奈さんだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 191,
+    "key": "evt_EV3_012S_0191",
+    "original": "でも、キョンくんのアドバイスが\nなかったら打てなかったと思います",
+    "translation": "でも、キョンくんのアドバイスが\nなかったら打てなかったと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 192,
+    "key": "evt_EV3_012S_0192",
+    "original": "ま、みくるちゃんがそう言うなら\nアンタもほめるべきかもね",
+    "translation": "ま、みくるちゃんがそう言うなら\nアンタもほめるべきかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 193,
+    "key": "evt_EV3_012S_0193",
+    "original": "ふたりとも、よくやったわ！",
+    "translation": "ふたりとも、よくやったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 194,
+    "key": "evt_EV3_012S_0194",
+    "original": "キョンくん、ありがとう\nはい、これどうぞ",
+    "translation": "キョンくん、ありがとう\nはい、これどうぞ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 195,
+    "key": "evt_EV3_012S_0195",
+    "original": "朝比奈さんの[#P05]“タオル”[#P01]をもらった\nなんだか、照れくさいね",
+    "translation": "朝比奈さんの[#P05]“タオル”[#P01]をもらった\nなんだか、照れくさいね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 196,
+    "key": "evt_EV3_012S_0196",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 197,
+    "key": "evt_EV3_012S_0197",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "evt_EV3_012S_0198",
+    "original": "そりゃ両方ほめるべきかな",
+    "translation": "そりゃ両方ほめるべきかな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 199,
+    "key": "evt_EV3_012S_0199",
+    "original": "そうね。団員の頑張りは公平に\nねぎらわないとね",
+    "translation": "そうね。団員の頑張りは公平に\nねぎらわないとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 200,
+    "key": "evt_EV3_012S_0200",
+    "original": "おどろいたね。ハルヒの口から\n公平だなんて",
+    "translation": "おどろいたね。ハルヒの口から\n公平だなんて",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 201,
+    "key": "evt_EV3_012S_0201",
+    "original": "二人とも頑張ったわね。よくやった\nってほめてあげるわ",
+    "translation": "二人とも頑張ったわね。よくやった\nってほめてあげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 202,
+    "key": "evt_EV3_012S_0202",
+    "original": "は、はいぃ、ありがとうございます",
+    "translation": "は、はいぃ、ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 203,
+    "key": "evt_EV3_012S_0203",
+    "original": "今回は、素直にねぎらいの言葉を\n受け取っておくとするか",
+    "translation": "今回は、素直にねぎらいの言葉を\n受け取っておくとするか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 204,
+    "key": "evt_EV3_012S_0204",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 205,
+    "key": "evt_EV3_012S_0205",
+    "original": "妹ちゃんも応援ありがとうね",
+    "translation": "妹ちゃんも応援ありがとうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 206,
+    "key": "evt_EV3_012S_0206",
+    "original": "ううん、バーベキューセットを\n借りられてよかったね",
+    "translation": "ううん、バーベキューセットを\n借りられてよかったね",
+    "speaker": "妹"
+  },
+  {
+    "index": 207,
+    "key": "evt_EV3_012S_0207",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 208,
+    "key": "evt_EV3_012S_0208",
+    "original": "しかし、なんで野球部なんだ？",
+    "translation": "しかし、なんで野球部なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 209,
+    "key": "evt_EV3_012S_0209",
+    "original": "なんででもいいでしょ、楽しかった\nんだからそれでよしっ！",
+    "translation": "なんででもいいでしょ、楽しかった\nんだからそれでよしっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 210,
+    "key": "evt_EV3_012S_0210",
+    "original": "もしかしてハルヒのヤツ、最初から\n朝比奈さん対野球部を考えてたのか",
+    "translation": "もしかしてハルヒのヤツ、最初から\n朝比奈さん対野球部を考えてたのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 211,
+    "key": "evt_EV3_012S_0211",
+    "original": "ありえないことじゃないよな",
+    "translation": "ありえないことじゃないよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 212,
+    "key": "evt_EV3_012S_0212",
+    "original": "ハルヒが望めば現実になる……\nこれもそのひとつなのかもな",
+    "translation": "ハルヒが望めば現実になる……\nこれもそのひとつなのかもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 213,
+    "key": "evt_EV3_012S_0213",
+    "original": "ハルヒを説得",
+    "translation": "ハルヒを説得",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 214,
+    "key": "evt_EV3_012S_0214",
+    "original": "みくるをフォロー",
+    "translation": "みくるをフォロー",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 215,
+    "key": "evt_EV3_012S_0215",
+    "original": "見守る",
+    "translation": "見守る",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 216,
+    "key": "evt_EV3_012S_0216",
+    "original": "教える",
+    "translation": "教える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 217,
+    "key": "evt_EV3_012S_0217",
+    "original": "朝比奈さんだろ",
+    "translation": "朝比奈さんだろ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 218,
+    "key": "evt_EV3_012S_0218",
+    "original": "両方ほめるべき",
+    "translation": "両方ほめるべき",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK20S_0000",
+    "original": "ずばり率直に言って、古泉は\n食わせ者だと俺は思うんだが……",
+    "translation": "ずばり率直に言って、古泉は\n食わせ者だと俺は思うんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK20S_0001",
+    "original": "どうだ？",
+    "translation": "どうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK20S_0002",
+    "original": "またいきなり、ワケのわからない話\nを始めたわね",
+    "translation": "またいきなり、ワケのわからない話\nを始めたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK20S_0003",
+    "original": "古泉くんのどこが食わせ者なのよ？",
+    "translation": "古泉くんのどこが食わせ者なのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK20S_0004",
+    "original": "あの笑顔で、さらっと鬼のような\n意見を述べたりするところだ",
+    "translation": "あの笑顔で、さらっと鬼のような\n意見を述べたりするところだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK20S_0005",
+    "original": "ハルヒ、お前は知らないかもしれな\nいが、あいつはそういう所がある",
+    "translation": "ハルヒ、お前は知らないかもしれな\nいが、あいつはそういう所がある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK20S_0006",
+    "original": "もし仮にそうだとしても、食わせ者\nだとは思わないわ",
+    "translation": "もし仮にそうだとしても、食わせ者\nだとは思わないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK20S_0007",
+    "original": "苦笑いばかり浮かべて、グチって\nばかりのキョンよりマシね",
+    "translation": "苦笑いばかり浮かべて、グチって\nばかりのキョンよりマシね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK20S_0008",
+    "original": "俺がいつ、どこでグチってたと\n言うんだ",
+    "translation": "俺がいつ、どこでグチってたと\n言うんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK20S_0009",
+    "original": "なに？　具体的な日時指定が欲しい\nの？　いくらでも出してあげるわよ",
+    "translation": "なに？　具体的な日時指定が欲しい\nの？　いくらでも出してあげるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK20S_0010",
+    "original": "……遠慮しておく。心当たりは無い",
+    "translation": "……遠慮しておく。心当たりは無い",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK20S_0011",
+    "original": "と断言できるほど、潔白じゃないと\nいうか、なんだな……",
+    "translation": "と断言できるほど、潔白じゃないと\nいうか、なんだな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK20S_0012",
+    "original": "自覚があるのは、いいことだわ",
+    "translation": "自覚があるのは、いいことだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK20S_0013",
+    "original": "さ、さっきキョンくんが、こんな\nことを言ってたんですけど……",
+    "translation": "さ、さっきキョンくんが、こんな\nことを言ってたんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK20S_0014",
+    "original": "古泉くんは、食わせ者だー……って",
+    "translation": "古泉くんは、食わせ者だー……って",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK20S_0015",
+    "original": "食わせ者？　どういうこと？",
+    "translation": "食わせ者？　どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK20S_0016",
+    "original": "なんでも、キョンくんが言うには\n笑顔で酷いことを言うとか……",
+    "translation": "なんでも、キョンくんが言うには\n笑顔で酷いことを言うとか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK20S_0017",
+    "original": "ごめん、みくるちゃん。まったく\n意味がわかんない",
+    "translation": "ごめん、みくるちゃん。まったく\n意味がわかんない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK20S_0018",
+    "original": "え、ええと、古泉くんが……",
+    "translation": "え、ええと、古泉くんが……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK20S_0019",
+    "original": "笑顔を浮かべたまま、厳しい意見を\nびしっと出してくるってコト？",
+    "translation": "笑顔を浮かべたまま、厳しい意見を\nびしっと出してくるってコト？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK20S_0020",
+    "original": "そ、そんな感じでしょうか",
+    "translation": "そ、そんな感じでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK20S_0021",
+    "original": "それはキョンの甘えね。古泉くんの\n方が正しいわ",
+    "translation": "それはキョンの甘えね。古泉くんの\n方が正しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK20S_0022",
+    "original": "あとでバカキョンをとっちめて\nやらなきゃ",
+    "translation": "あとでバカキョンをとっちめて\nやらなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK20S_0023",
+    "original": "そ、そんなぁ～",
+    "translation": "そ、そんなぁ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK20S_0024",
+    "original": "大丈夫。みくるちゃんから聞いた\nなんてことは、言わないから",
+    "translation": "大丈夫。みくるちゃんから聞いた\nなんてことは、言わないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK20S_0025",
+    "original": "そういう問題じゃないんですぅ……",
+    "translation": "そういう問題じゃないんですぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK20S_0026",
+    "original": "ほら有希、立ち止まってないで\nちゃきちゃき歩かなきゃ！",
+    "translation": "ほら有希、立ち止まってないで\nちゃきちゃき歩かなきゃ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK20S_0027",
+    "original": "今この瞬間にも、ピアノが鳴り出し\nてるかもしれないでしょ",
+    "translation": "今この瞬間にも、ピアノが鳴り出し\nてるかもしれないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK20S_0028",
+    "original": "古泉一樹に関して",
+    "translation": "古泉一樹に関して",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK20S_0029",
+    "original": "え？　なに？　もう一回言って",
+    "translation": "え？　なに？　もう一回言って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK20S_0030",
+    "original": "古泉一樹に関する風評",
+    "translation": "古泉一樹に関する風評",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK20S_0031",
+    "original": "笑顔を浮かべ、辛辣な意見を述べる",
+    "translation": "笑顔を浮かべ、辛辣な意見を述べる",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK20S_0032",
+    "original": "表情と行動が乖離してる",
+    "translation": "表情と行動が乖離してる",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK20S_0033",
+    "original": "誰が言ってたの、そんなこと？",
+    "translation": "誰が言ってたの、そんなこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK20S_0034",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK20S_0035",
+    "original": "キョンでしょ？　キョンね？\nキョンに決まってるわ",
+    "translation": "キョンでしょ？　キョンね？\nキョンに決まってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK20S_0036",
+    "original": "守秘義務",
+    "translation": "守秘義務",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK20S_0037",
+    "original": "有希がかばうなんて\nやっぱりキョンね",
+    "translation": "有希がかばうなんて\nやっぱりキョンね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK20S_0038",
+    "original": "そうだと思ったわ",
+    "translation": "そうだと思ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK20S_0039",
+    "original": "後で説教しておかなくちゃ",
+    "translation": "後で説教しておかなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK20S_0040",
+    "original": "でも古泉一樹の一面性は捉えている",
+    "translation": "でも古泉一樹の一面性は捉えている",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK20S_0041",
+    "original": "あたしは、古泉くんの辛辣な意見\nなんか聞いたことないけど",
+    "translation": "あたしは、古泉くんの辛辣な意見\nなんか聞いたことないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK20S_0042",
+    "original": "まあ、いいわ。その件は後で詳しく\nキョン本人を問い詰めるから",
+    "translation": "まあ、いいわ。その件は後で詳しく\nキョン本人を問い詰めるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK20S_0043",
+    "original": "今は先を急ぎましょう",
+    "translation": "今は先を急ぎましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK20S_0044",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK20S_0045",
+    "original": "いやはや、参りましたよ",
+    "translation": "いやはや、参りましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK20S_0046",
+    "original": "どうやら僕は、食わせ者だと\n思われているようです",
+    "translation": "どうやら僕は、食わせ者だと\n思われているようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK20S_0047",
+    "original": "古泉くんが、食わせ者？",
+    "translation": "古泉くんが、食わせ者？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK20S_0048",
+    "original": "誰がそんなこと言ったの？",
+    "translation": "誰がそんなこと言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK20S_0049",
+    "original": "個人名は伏せさせて頂きます",
+    "translation": "個人名は伏せさせて頂きます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK20S_0050",
+    "original": "どんな風に言われたの？",
+    "translation": "どんな風に言われたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK20S_0051",
+    "original": "口から出る言葉と表情が一致しない\nと評されました",
+    "translation": "口から出る言葉と表情が一致しない\nと評されました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK20S_0052",
+    "original": "笑顔で、とんでもなくクロいことを\nしゃべるやつだ、とか",
+    "translation": "笑顔で、とんでもなくクロいことを\nしゃべるやつだ、とか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK20S_0053",
+    "original": "……キョンね？　そんなバカなこと\nを古泉くんに言ったのは",
+    "translation": "……キョンね？　そんなバカなこと\nを古泉くんに言ったのは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK20S_0054",
+    "original": "どうでしょうか。ですが自覚が無い\nわけでもありませんので",
+    "translation": "どうでしょうか。ですが自覚が無い\nわけでもありませんので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK20S_0055",
+    "original": "気にしちゃダメよ。キョンには後で\n説教かましておくから",
+    "translation": "気にしちゃダメよ。キョンには後で\n説教かましておくから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK20S_0056",
+    "original": "[#P06]……少し、口が滑りすぎましたね",
+    "translation": "[#P06]……少し、口が滑りすぎましたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK20S_0057",
+    "original": "ん？　なにか言った？",
+    "translation": "ん？　なにか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK20S_0058",
+    "original": "いえ、なにも",
+    "translation": "いえ、なにも",
+    "speaker": "古泉"
+  }
+]

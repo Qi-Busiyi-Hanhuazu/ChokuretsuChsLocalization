@@ -1,0 +1,373 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK14S_0000",
+    "original": "ふと思ったんだが",
+    "translation": "ふと思ったんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK14S_0001",
+    "original": "古泉のやつ、人の提案にケチをつけ\nさせたらＳＯＳ団イチだよな",
+    "translation": "古泉のやつ、人の提案にケチをつけ\nさせたらＳＯＳ団イチだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK14S_0002",
+    "original": "はあ？　なんの話よ？",
+    "translation": "はあ？　なんの話よ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK14S_0003",
+    "original": "例えば俺が、あれこれ提案するだろ",
+    "translation": "例えば俺が、あれこれ提案するだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK14S_0004",
+    "original": "その度に、重箱の隅を突くような\n意見ばかりしてくる",
+    "translation": "その度に、重箱の隅を突くような\n意見ばかりしてくる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK14S_0005",
+    "original": "あれは古泉の性格なんだろうな",
+    "translation": "あれは古泉の性格なんだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK14S_0006",
+    "original": "……何を言いたいのか、さっぱり\nわからないけど",
+    "translation": "……何を言いたいのか、さっぱり\nわからないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK14S_0007",
+    "original": "それは単に、キョン、あんたの提案\nが粗だらけなんじゃないの？",
+    "translation": "それは単に、キョン、あんたの提案\nが粗だらけなんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK14S_0008",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK14S_0009",
+    "original": "ついでに言うと、古泉くんは優秀な\n参謀タイプだわ",
+    "translation": "ついでに言うと、古泉くんは優秀な\n参謀タイプだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK14S_0010",
+    "original": "自分の未熟を、古泉くんのせいにし\nてちゃ、一生ヒラの団員のままね",
+    "translation": "自分の未熟を、古泉くんのせいにし\nてちゃ、一生ヒラの団員のままね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK14S_0011",
+    "original": "ちょっとは古泉くんを見習いなさい",
+    "translation": "ちょっとは古泉くんを見習いなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK14S_0012",
+    "original": "ヤブを突いたら、なんとやらだ……",
+    "translation": "ヤブを突いたら、なんとやらだ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK14S_0013",
+    "original": "ＳＯＳ団って、ほんと、いろんな人\nが集まってますよね、タイプ別に",
+    "translation": "ＳＯＳ団って、ほんと、いろんな人\nが集まってますよね、タイプ別に",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK14S_0014",
+    "original": "また突然、なんの話？",
+    "translation": "また突然、なんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK14S_0015",
+    "original": "ちょっと思ったんです。長門さんの\nような物静かな人もいるし……",
+    "translation": "ちょっと思ったんです。長門さんの\nような物静かな人もいるし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK14S_0016",
+    "original": "古泉くんみたいな、意見派の人も\nいて、バリエーション豊富だなって",
+    "translation": "古泉くんみたいな、意見派の人も\nいて、バリエーション豊富だなって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK14S_0017",
+    "original": "有希は無口キャラだし、古泉くんは\n参謀タイプのキャラだってことね？",
+    "translation": "有希は無口キャラだし、古泉くんは\n参謀タイプのキャラだってことね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK14S_0018",
+    "original": "さ、参謀っていうのは、よくわかり\nませんけど……",
+    "translation": "さ、参謀っていうのは、よくわかり\nませんけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK14S_0019",
+    "original": "トップの提案に、適切なツッコミを\n入れて、作戦の穴を埋める人のこと",
+    "translation": "トップの提案に、適切なツッコミを\n入れて、作戦の穴を埋める人のこと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK14S_0020",
+    "original": "あ、そんな感じのニュアンスです",
+    "translation": "あ、そんな感じのニュアンスです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK14S_0021",
+    "original": "他にも、ぐうたらで文句ばかりの\nキャラとかも、いるけど",
+    "translation": "他にも、ぐうたらで文句ばかりの\nキャラとかも、いるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK14S_0022",
+    "original": "だ、誰のことでしょう……？",
+    "translation": "だ、誰のことでしょう……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK14S_0023",
+    "original": "みくるちゃんみたいな、怖がりな\nドジっ娘キャラもそろってるしね",
+    "translation": "みくるちゃんみたいな、怖がりな\nドジっ娘キャラもそろってるしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK14S_0024",
+    "original": "はぅぅぅ……",
+    "translation": "はぅぅぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK14S_0025",
+    "original": "ほら、無駄口叩いてないで、音楽室\nに急がなきゃ！　ダッシュよ！",
+    "translation": "ほら、無駄口叩いてないで、音楽室\nに急がなきゃ！　ダッシュよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK14S_0026",
+    "original": "は、はぁい",
+    "translation": "は、はぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK14S_0027",
+    "original": "意識調査\n古泉一樹について聞きたい",
+    "translation": "意識調査\n古泉一樹について聞きたい",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK14S_0028",
+    "original": "……どうしたの、急に？",
+    "translation": "……どうしたの、急に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK14S_0029",
+    "original": "なんとなく",
+    "translation": "なんとなく",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK14S_0030",
+    "original": "珍しいわね、有希が思いつきで\n発言するなんて。いいわよ、なに？",
+    "translation": "珍しいわね、有希が思いつきで\n発言するなんて。いいわよ、なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK14S_0031",
+    "original": "古泉一樹は意見派？",
+    "translation": "古泉一樹は意見派？",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK14S_0032",
+    "original": "意見派……って、初耳だわ\nどういう派閥なの？",
+    "translation": "意見派……って、初耳だわ\nどういう派閥なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK14S_0033",
+    "original": "提案に対し、その粗を見抜いて\n辛辣な意見を述べるタイプ",
+    "translation": "提案に対し、その粗を見抜いて\n辛辣な意見を述べるタイプ",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK14S_0034",
+    "original": "ああ、そういう意味。そうね……\n確かに、そんなところあるわよね",
+    "translation": "ああ、そういう意味。そうね……\n確かに、そんなところあるわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK14S_0035",
+    "original": "慣用表現では、重箱の隅を突く\nタイプ？",
+    "translation": "慣用表現では、重箱の隅を突く\nタイプ？",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK14S_0036",
+    "original": "それ、キョンが言ってたんでしょ",
+    "translation": "それ、キョンが言ってたんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK14S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK14S_0038",
+    "original": "まったく、キョンにも困ったものね\n後で説教しておかなきゃ",
+    "translation": "まったく、キョンにも困ったものね\n後で説教しておかなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK14S_0039",
+    "original": "涼宮さんにお聞きしたいことが\nあるのですが……",
+    "translation": "涼宮さんにお聞きしたいことが\nあるのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK14S_0040",
+    "original": "あたしに？　なにかしら？",
+    "translation": "あたしに？　なにかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK14S_0041",
+    "original": "ごく個人的なことになります。先に\nおわびを申し上げておきます",
+    "translation": "ごく個人的なことになります。先に\nおわびを申し上げておきます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK14S_0042",
+    "original": "あまり自覚はないのですが、僕は\n余計な一言を挟む癖があるらしくて",
+    "translation": "あまり自覚はないのですが、僕は\n余計な一言を挟む癖があるらしくて",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK14S_0043",
+    "original": "余計な一言？",
+    "translation": "余計な一言？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK14S_0044",
+    "original": "ええ、余計な一言です",
+    "translation": "ええ、余計な一言です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK14S_0045",
+    "original": "例えば、人の提案に対して、意見を\n述べる際のことですが……",
+    "translation": "例えば、人の提案に対して、意見を\n述べる際のことですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK14S_0046",
+    "original": "平たくいえば、ケチをつけることが\n多いと、そう思われているようです",
+    "translation": "平たくいえば、ケチをつけることが\n多いと、そう思われているようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK14S_0047",
+    "original": "涼宮さんも、そうお思いですか？",
+    "translation": "涼宮さんも、そうお思いですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK14S_0048",
+    "original": "あたし？　あたしは全然、そんな風\nに思ったことはないけど",
+    "translation": "あたし？　あたしは全然、そんな風\nに思ったことはないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK14S_0049",
+    "original": "それを聞いて安心しました",
+    "translation": "それを聞いて安心しました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK14S_0050",
+    "original": "そんなこと言ってるのは、キョンね\nキョン以外に考えられないわ",
+    "translation": "そんなこと言ってるのは、キョンね\nキョン以外に考えられないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK14S_0051",
+    "original": "後で、バシっと説教しとくわね",
+    "translation": "後で、バシっと説教しとくわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK14S_0052",
+    "original": "これは……参りましたね、いやはや",
+    "translation": "これは……参りましたね、いやはや",
+    "speaker": "古泉"
+  }
+]

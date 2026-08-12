@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK42S_0000",
+    "original": "ハルヒは苦労したいのか？",
+    "translation": "ハルヒは苦労したいのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK42S_0001",
+    "original": "はあ、いったい何の話よ？",
+    "translation": "はあ、いったい何の話よ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK42S_0002",
+    "original": "たとえばだが、することなすこと\n何もかもお膳立てされたとしたら？",
+    "translation": "たとえばだが、することなすこと\n何もかもお膳立てされたとしたら？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK42S_0003",
+    "original": "それは、論外ね。そもそも誰かが\nお膳立てできるような案は没よ没",
+    "translation": "それは、論外ね。そもそも誰かが\nお膳立てできるような案は没よ没",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK42S_0004",
+    "original": "いつだって、あたしは先頭を切って\n走るんだから！",
+    "translation": "いつだって、あたしは先頭を切って\n走るんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK42S_0005",
+    "original": "思いつきだけでな",
+    "translation": "思いつきだけでな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK42S_0006",
+    "original": "このあたしにお膳立てできるなんて\n思っただけでも不敬罪だわ！",
+    "translation": "このあたしにお膳立てできるなんて\n思っただけでも不敬罪だわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK42S_0007",
+    "original": "そんなものなくったって、あたしは\n完璧にミッションクリアするわよ！",
+    "translation": "そんなものなくったって、あたしは\n完璧にミッションクリアするわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK42S_0008",
+    "original": "なるほど、今回の『機関』不介入は\n対ハルヒ対策として正しいのかもな",
+    "translation": "なるほど、今回の『機関』不介入は\n対ハルヒ対策として正しいのかもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK42S_0009",
+    "original": "涼宮さん、ちょっといいですか？",
+    "translation": "涼宮さん、ちょっといいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK42S_0010",
+    "original": "なに、みくるちゃん？",
+    "translation": "なに、みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK42S_0011",
+    "original": "えっと、バーベキューのグリルは\n涼宮さんが探しに行きましたよね？",
+    "translation": "えっと、バーベキューのグリルは\n涼宮さんが探しに行きましたよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK42S_0012",
+    "original": "ええ、行ったけどそれが？",
+    "translation": "ええ、行ったけどそれが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK42S_0013",
+    "original": "最初からあれば、探しに行く必要は\nありませんでしたよね？",
+    "translation": "最初からあれば、探しに行く必要は\nありませんでしたよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK42S_0014",
+    "original": "その方が楽だったと思いませんか？",
+    "translation": "その方が楽だったと思いませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK42S_0015",
+    "original": "それとも自分で探すことに意義が\nあるんでしょうか？",
+    "translation": "それとも自分で探すことに意義が\nあるんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK42S_0016",
+    "original": "みくるちゃんの言いたいことは\nよーくわかったわ！",
+    "translation": "みくるちゃんの言いたいことは\nよーくわかったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK42S_0017",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK42S_0018",
+    "original": "ＳＯＳ団にもバーベキューグリルが\nあるといいと思ってるのね！",
+    "translation": "ＳＯＳ団にもバーベキューグリルが\nあるといいと思ってるのね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK42S_0019",
+    "original": "ええっ？",
+    "translation": "ええっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK42S_0020",
+    "original": "楽しかったものね、バーベキュー",
+    "translation": "楽しかったものね、バーベキュー",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK42S_0021",
+    "original": "何とか手に入れる方法を考えて\nおくわ。ええ、任せてなさい",
+    "translation": "何とか手に入れる方法を考えて\nおくわ。ええ、任せてなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK42S_0022",
+    "original": "最高級の道具を調達するわ\n楽しみにしてなさい！",
+    "translation": "最高級の道具を調達するわ\n楽しみにしてなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK42S_0023",
+    "original": "え……あ、ありがとうございます",
+    "translation": "え……あ、ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK42S_0024",
+    "original": "周到に事前の準備をされた冒険は\n望ましいか",
+    "translation": "周到に事前の準備をされた冒険は\n望ましいか",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK42S_0025",
+    "original": "それとも望ましくないか？",
+    "translation": "それとも望ましくないか？",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK42S_0026",
+    "original": "え？　んー、そうね。前準備って\nまどろっこしいじゃない",
+    "translation": "え？　んー、そうね。前準備って\nまどろっこしいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK42S_0027",
+    "original": "当たって砕けろ、現地調達がベスト\nだわ。あたしの場合砕けないけどね",
+    "translation": "当たって砕けろ、現地調達がベスト\nだわ。あたしの場合砕けないけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK42S_0028",
+    "original": "他者に用意された場合の許容範囲は",
+    "translation": "他者に用意された場合の許容範囲は",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK42S_0029",
+    "original": "用意させるのはいいけど、\n用意されるのは腹立たしいわ",
+    "translation": "用意させるのはいいけど、\n用意されるのは腹立たしいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK42S_0030",
+    "original": "主導権の問題？",
+    "translation": "主導権の問題？",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK42S_0031",
+    "original": "そう！　あたしが主導権を握るのが\n世のことわりってものよ！",
+    "translation": "そう！　あたしが主導権を握るのが\n世のことわりってものよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK42S_0032",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK42S_0033",
+    "original": "涼宮さん、例えば、なのですが",
+    "translation": "涼宮さん、例えば、なのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK42S_0034",
+    "original": "何かしら\n何か聞きたいことでもあるの？",
+    "translation": "何かしら\n何か聞きたいことでもあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK42S_0035",
+    "original": "何もかも周到に用意された冒険に\n意味はあるのでしょうか？",
+    "translation": "何もかも周到に用意された冒険に\n意味はあるのでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK42S_0036",
+    "original": "ないに決まってるわよ！\nそもそも、それ冒険と言わないから",
+    "translation": "ないに決まってるわよ！\nそもそも、それ冒険と言わないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK42S_0037",
+    "original": "遊園地のミステリーツアーじゃ\nあるまいし、そんなの意味ないわ",
+    "translation": "遊園地のミステリーツアーじゃ\nあるまいし、そんなの意味ないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK42S_0038",
+    "original": "おっしゃる通りですね",
+    "translation": "おっしゃる通りですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK42S_0039",
+    "original": "しかし、冒険に必要とされる道具等\nが用意されることは不満ですか？",
+    "translation": "しかし、冒険に必要とされる道具等\nが用意されることは不満ですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK42S_0040",
+    "original": "ううーん、そこは微妙ね。早く冒険\nに行きたければ用意された方がいい",
+    "translation": "ううーん、そこは微妙ね。早く冒険\nに行きたければ用意された方がいい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK42S_0041",
+    "original": "でも準備段階から冒険は始まって\nたりするものでもあるしね",
+    "translation": "でも準備段階から冒険は始まって\nたりするものでもあるしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK42S_0042",
+    "original": "なるほど\nさじ加減が必要なのですね",
+    "translation": "なるほど\nさじ加減が必要なのですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK42S_0043",
+    "original": "ところでこれ何の質問なの？",
+    "translation": "ところでこれ何の質問なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK42S_0044",
+    "original": "アルバイトのアンケートです\nお気になさらずに",
+    "translation": "アルバイトのアンケートです\nお気になさらずに",
+    "speaker": "古泉"
+  }
+]

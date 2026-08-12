@@ -1,0 +1,325 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA26S_0000",
+    "original": "ちょっと、キョンはいったいどこに\nいったのよ！？",
+    "translation": "ちょっと、キョンはいったいどこに\nいったのよ！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA26S_0001",
+    "original": "どっかでさぼってんじゃないでしょ\nうね。もしそうならお仕置きだわ",
+    "translation": "どっかでさぼってんじゃないでしょ\nうね。もしそうならお仕置きだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA26S_0002",
+    "original": "ほら、みくるちゃん、しっかり\nついてきなさい",
+    "translation": "ほら、みくるちゃん、しっかり\nついてきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA26S_0003",
+    "original": "涼宮さん、待ってくださぁい",
+    "translation": "涼宮さん、待ってくださぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA26S_0004",
+    "original": "あの、携帯に電話してみたらいいん\nじゃないかと思うんですけど",
+    "translation": "あの、携帯に電話してみたらいいん\nじゃないかと思うんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA26S_0005",
+    "original": "それが、あたしの携帯電話がどこか\nいっちゃってるのよ",
+    "translation": "それが、あたしの携帯電話がどこか\nいっちゃってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA26S_0006",
+    "original": "いったいいつ無くしたのかしら？",
+    "translation": "いったいいつ無くしたのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA26S_0007",
+    "original": "あの、もしかしたらこれですか",
+    "translation": "あの、もしかしたらこれですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA26S_0008",
+    "original": "そう、これよ！\nなんでみくるちゃんが持ってるの？",
+    "translation": "そう、これよ！\nなんでみくるちゃんが持ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA26S_0009",
+    "original": "はい、床に落ちてたのを拾ったん\nです。涼宮さんのだったんですね",
+    "translation": "はい、床に落ちてたのを拾ったん\nです。涼宮さんのだったんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA26S_0010",
+    "original": "素晴らしいわ、みくるちゃん！",
+    "translation": "素晴らしいわ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA26S_0011",
+    "original": "い、いえ……",
+    "translation": "い、いえ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA26S_0012",
+    "original": "それじゃ、さっそくキョンにかけて\nやるわ",
+    "translation": "それじゃ、さっそくキョンにかけて\nやるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA26S_0013",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA26S_0014",
+    "original": "……出ないわね、もうっ\n何やってんのかしら、バカキョンは",
+    "translation": "……出ないわね、もうっ\n何やってんのかしら、バカキョンは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA26S_0015",
+    "original": "きっと、移動中なんですよ",
+    "translation": "きっと、移動中なんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA26S_0016",
+    "original": "車や電車じゃあるまいし\nちゃんと出なさいって言うのよ！",
+    "translation": "車や電車じゃあるまいし\nちゃんと出なさいって言うのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA26S_0017",
+    "original": "しっかりついてきなさい、有希\nはぐれないようにするのよ",
+    "translation": "しっかりついてきなさい、有希\nはぐれないようにするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA26S_0018",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA26S_0019",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA26S_0020",
+    "original": "それ、あたしの携帯じゃない\nどこにあったの？",
+    "translation": "それ、あたしの携帯じゃない\nどこにあったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA26S_0021",
+    "original": "落ちていた",
+    "translation": "落ちていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA26S_0022",
+    "original": "おっかしいわねぇ、どこで落とした\nのかしら",
+    "translation": "おっかしいわねぇ、どこで落とした\nのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA26S_0023",
+    "original": "まあいいわ、有希が拾っておいて\nくれたのなら。ありがと",
+    "translation": "まあいいわ、有希が拾っておいて\nくれたのなら。ありがと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA26S_0024",
+    "original": "じゃ、さっそくキョンに連絡して\n呼び出してやるわ",
+    "translation": "じゃ、さっそくキョンに連絡して\n呼び出してやるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA26S_0025",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA26S_0026",
+    "original": "……出ないわね",
+    "translation": "……出ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA26S_0027",
+    "original": "取り込み中",
+    "translation": "取り込み中",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA26S_0028",
+    "original": "まったく、肝心な時に連絡が\nとれないなんて、たるんでるわね！",
+    "translation": "まったく、肝心な時に連絡が\nとれないなんて、たるんでるわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA26S_0029",
+    "original": "まあいいわ、地道に探しましょ",
+    "translation": "まあいいわ、地道に探しましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA26S_0030",
+    "original": "古泉くん、さっさとあのバカを\n探しに行くわよ",
+    "translation": "古泉くん、さっさとあのバカを\n探しに行くわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA26S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_MA26S_0032",
+    "original": "でしたら、まずは携帯電話に連絡を\nするのがよいのではないかと",
+    "translation": "でしたら、まずは携帯電話に連絡を\nするのがよいのではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA26S_0033",
+    "original": "そうね、そうするわ……あれ？\n携帯、どっかに置いてきちゃった",
+    "translation": "そうね、そうするわ……あれ？\n携帯、どっかに置いてきちゃった",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA26S_0034",
+    "original": "もしかして、この携帯でしょうか？",
+    "translation": "もしかして、この携帯でしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA26S_0035",
+    "original": "そうそう、これよこれ",
+    "translation": "そうそう、これよこれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA26S_0036",
+    "original": "なるほど、先ほど拾った携帯は\n涼宮さんのものでしたか",
+    "translation": "なるほど、先ほど拾った携帯は\n涼宮さんのものでしたか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA26S_0037",
+    "original": "ありがと古泉くん。助かったわ",
+    "translation": "ありがと古泉くん。助かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA26S_0038",
+    "original": "いえいえ。どなたの物かわからずに\nすっかり聞きそびれまして",
+    "translation": "いえいえ。どなたの物かわからずに\nすっかり聞きそびれまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA26S_0039",
+    "original": "とりあえず戻ってきたなら\nなんでもいいわ",
+    "translation": "とりあえず戻ってきたなら\nなんでもいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA26S_0040",
+    "original": "さてと、それじゃキョンを呼び出し\nましょう",
+    "translation": "さてと、それじゃキョンを呼び出し\nましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA26S_0041",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA26S_0042",
+    "original": "……出ないわね",
+    "translation": "……出ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA26S_0043",
+    "original": "おかしいですね、何かあったので\nしょうか",
+    "translation": "おかしいですね、何かあったので\nしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA26S_0044",
+    "original": "まったく、電話に気がつかない\nなんて気がたるんでるわね",
+    "translation": "まったく、電話に気がつかない\nなんて気がたるんでるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA26S_0045",
+    "original": "まあいいわ、だったらこっちから\n探しに行きましょ",
+    "translation": "まあいいわ、だったらこっちから\n探しに行きましょ",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_024S_0000",
+    "original": "ここは……戻ってこれたのか",
+    "translation": "ここは……戻ってこれたのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_024S_0001",
+    "original": "異空間特有の重苦しい雰囲気はなく\nここが現実の世界だと実感できる",
+    "translation": "異空間特有の重苦しい雰囲気はなく\nここが現実の世界だと実感できる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_024S_0002",
+    "original": "異空間は消えた。世界の崩壊なんて\nことにもなっていない",
+    "translation": "異空間は消えた。世界の崩壊なんて\nことにもなっていない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_024S_0003",
+    "original": "全部終わったのか……？",
+    "translation": "全部終わったのか……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_024S_0004",
+    "original": "そうだ！　ハルヒ！",
+    "translation": "そうだ！　ハルヒ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_024S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_024S_0006",
+    "original": "あ……キョン！",
+    "translation": "あ……キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_024S_0007",
+    "original": "教室を飛び出すと、ハルヒが俺の姿\nを見つけて駆け寄ってきた",
+    "translation": "教室を飛び出すと、ハルヒが俺の姿\nを見つけて駆け寄ってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_024S_0008",
+    "original": "その顔が、どことなく安堵した様子\nに見えたのは気のせいじゃない",
+    "translation": "その顔が、どことなく安堵した様子\nに見えたのは気のせいじゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_024S_0009",
+    "original": "ハルヒっ、無事か？",
+    "translation": "ハルヒっ、無事か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_024S_0010",
+    "original": "無事ってなによ、無事って",
+    "translation": "無事ってなによ、無事って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_024S_0011",
+    "original": "あ、いや……",
+    "translation": "あ、いや……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_024S_0012",
+    "original": "そんなことより、他のみんなは見つ\nかったの？",
+    "translation": "そんなことより、他のみんなは見つ\nかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_024S_0013",
+    "original": "いや、まだだ",
+    "translation": "いや、まだだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_024S_0014",
+    "original": "なによ、まだ誰も見つけてないの？",
+    "translation": "なによ、まだ誰も見つけてないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_024S_0015",
+    "original": "ハルヒはたいそうおかんむりである",
+    "translation": "ハルヒはたいそうおかんむりである",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_024S_0016",
+    "original": "あんたが遅いから心配したじゃない\n本当に役に立たないわね、キョン！",
+    "translation": "あんたが遅いから心配したじゃない\n本当に役に立たないわね、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_024S_0017",
+    "original": "人の気も苦労も知らずに好き勝手を\nいいやがる",
+    "translation": "人の気も苦労も知らずに好き勝手を\nいいやがる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_024S_0018",
+    "original": "とにかく部室に戻るぞ、ハルヒ",
+    "translation": "とにかく部室に戻るぞ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_024S_0019",
+    "original": "みんなを探すのが先決よっ！",
+    "translation": "みんなを探すのが先決よっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_024S_0020",
+    "original": "それは後でいいから！",
+    "translation": "それは後でいいから！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_024S_0021",
+    "original": "よくないわよっ！",
+    "translation": "よくないわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_024S_0022",
+    "original": "大丈夫だ。みんなもう部室に戻って\nる。そんな気がするんだ",
+    "translation": "大丈夫だ。みんなもう部室に戻って\nる。そんな気がするんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_024S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_024S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "少女",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_024S_0025",
+    "original": "ハルヒの手を引こうと背後を振り\n返ると、長い髪の少女が見えた",
+    "translation": "ハルヒの手を引こうと背後を振り\n返ると、長い髪の少女が見えた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_024S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "少女",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_024S_0027",
+    "original": "マジで急ぐぞ、ハルヒ",
+    "translation": "マジで急ぐぞ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_024S_0028",
+    "original": "ちょっ、なにするのよっ！",
+    "translation": "ちょっ、なにするのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_024S_0029",
+    "original": "つべこべ言わないでついてこい",
+    "translation": "つべこべ言わないでついてこい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_024S_0030",
+    "original": "手なんか引かなくてもいいわよ！",
+    "translation": "手なんか引かなくてもいいわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_024S_0031",
+    "original": "グズグズするな！",
+    "translation": "グズグズするな！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_024S_0032",
+    "original": "長い髪の少女がこちらに向かって\n来ているのだから、問答無用だ",
+    "translation": "長い髪の少女がこちらに向かって\n来ているのだから、問答無用だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_024S_0033",
+    "original": "走るぞ、ハルヒ",
+    "translation": "走るぞ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_024S_0034",
+    "original": "だからっ、なんなのよっ！",
+    "translation": "だからっ、なんなのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_024S_0035",
+    "original": "ブツブツというハルヒを引っ張って\n渡り廊下へと向かう",
+    "translation": "ブツブツというハルヒを引っ張って\n渡り廊下へと向かう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_024S_0036",
+    "original": "なに急いでるのよっ、キョン！",
+    "translation": "なに急いでるのよっ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_024S_0037",
+    "original": "いいから走れっ！",
+    "translation": "いいから走れっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_024S_0038",
+    "original": "もう、だから引っ張らなくても\nいいって言ってるでしょっ！",
+    "translation": "もう、だから引っ張らなくても\nいいって言ってるでしょっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_024S_0039",
+    "original": "嫌だったら俺より早く走れって！",
+    "translation": "嫌だったら俺より早く走れって！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_024S_0040",
+    "original": "横暴にもほどがあるわよっ！",
+    "translation": "横暴にもほどがあるわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_024S_0041",
+    "original": "横暴ではおまえに勝てないって\nなどとバカ言ってる場合じゃない",
+    "translation": "横暴ではおまえに勝てないって\nなどとバカ言ってる場合じゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_024S_0042",
+    "original": "",
+    "translation": "",
+    "speaker": "少女",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_024S_0043",
+    "original": "すぐ背後まで長い髪の少女が迫って\n来ている",
+    "translation": "すぐ背後まで長い髪の少女が迫って\n来ている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_024S_0044",
+    "original": "しかし、なにかに阻まれたように\n立ち止まっている",
+    "translation": "しかし、なにかに阻まれたように\n立ち止まっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_024S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "少女",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_024S_0046",
+    "original": "一気に走り抜けるぞ、ハルヒ！",
+    "translation": "一気に走り抜けるぞ、ハルヒ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_024S_0047",
+    "original": "もうなんなのよ、バカキョンっ！",
+    "translation": "もうなんなのよ、バカキョンっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_024S_0048",
+    "original": "なんとでも言え！",
+    "translation": "なんとでも言え！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_024S_0049",
+    "original": "ハルヒには見えていないらしいのが\n不幸中の幸いか",
+    "translation": "ハルヒには見えていないらしいのが\n不幸中の幸いか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_024S_0050",
+    "original": "あと少しだ、部室まで走るぞ",
+    "translation": "あと少しだ、部室まで走るぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_024S_0051",
+    "original": "そんなに急がなくたって、部室は\nなくならないわよっ！",
+    "translation": "そんなに急がなくたって、部室は\nなくならないわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_024S_0052",
+    "original": "ああ、部室はそうだろうとも",
+    "translation": "ああ、部室はそうだろうとも",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_024S_0053",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_024S_0054",
+    "original": "なんとか部室に辿り着くと、長門の\n唇が少し動くのを見た",
+    "translation": "なんとか部室に辿り着くと、長門の\n唇が少し動くのを見た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_024S_0055",
+    "original": "……情報連結解除開始",
+    "translation": "……情報連結解除開始",
+    "speaker": "長門"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_024S_0056",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_024S_0057",
+    "original": "長門による空間の正常化が始まった",
+    "translation": "長門による空間の正常化が始まった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_024S_0058",
+    "original": "おそらく……",
+    "translation": "おそらく……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_024S_0059",
+    "original": "これで校舎の異常な状態は元に戻る\nのだろう",
+    "translation": "これで校舎の異常な状態は元に戻る\nのだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_024S_0060",
+    "original": "あの長い髪の少女も、おそらく……",
+    "translation": "あの長い髪の少女も、おそらく……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_024S_0061",
+    "original": "彼女も異空間と共に消滅することを\n祈るほかはない",
+    "translation": "彼女も異空間と共に消滅することを\n祈るほかはない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_024S_0062",
+    "original": "あいつが情報生命体であれば\n彼女も異空間と共に消滅するはずだ",
+    "translation": "あいつが情報生命体であれば\n彼女も異空間と共に消滅するはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_024S_0063",
+    "original": "悪い夢はここまでにしてもらいたい",
+    "translation": "悪い夢はここまでにしてもらいたい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_024S_0064",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

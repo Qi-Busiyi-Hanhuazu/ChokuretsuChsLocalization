@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN77S_0000",
+    "original": "ハルヒ、そんなに急ぐなよ",
+    "translation": "ハルヒ、そんなに急ぐなよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN77S_0001",
+    "original": "急ぐわよ。グズグズしてたら\n時間が来ちゃうでしょ！",
+    "translation": "急ぐわよ。グズグズしてたら\n時間が来ちゃうでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN77S_0002",
+    "original": "それもそうなんだが……まずは\n対応策を練ろうじゃないか",
+    "translation": "それもそうなんだが……まずは\n対応策を練ろうじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN77S_0003",
+    "original": "行き当たりばったりで向かうより\nいいと思うんだが",
+    "translation": "行き当たりばったりで向かうより\nいいと思うんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN77S_0004",
+    "original": "キョン、こういうのは勢いが\n大事なのよ！",
+    "translation": "キョン、こういうのは勢いが\n大事なのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN77S_0005",
+    "original": "のんびりしてて、怪奇現象が起きる\n時間が過ぎたらどうするのよ！",
+    "translation": "のんびりしてて、怪奇現象が起きる\n時間が過ぎたらどうするのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN77S_0006",
+    "original": "おい、だからそう急ぐなって……",
+    "translation": "おい、だからそう急ぐなって……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN77S_0007",
+    "original": "長門さんは、ここぞという時に頼り\nになりますよね",
+    "translation": "長門さんは、ここぞという時に頼り\nになりますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN77S_0008",
+    "original": "そうね、普段は無口だけどよく物事\nを観察してるから",
+    "translation": "そうね、普段は無口だけどよく物事\nを観察してるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN77S_0009",
+    "original": "やっぱり本を読むことは大事なこと\nなんですね",
+    "translation": "やっぱり本を読むことは大事なこと\nなんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN77S_0010",
+    "original": "本を読むだけじゃダメよ、それじゃ\n知識が蓄積されるだけで終わるもの",
+    "translation": "本を読むだけじゃダメよ、それじゃ\n知識が蓄積されるだけで終わるもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN77S_0011",
+    "original": "でも、知識は大切だと思いますけど\n……",
+    "translation": "でも、知識は大切だと思いますけど\n……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN77S_0012",
+    "original": "肝心なのは応用力よっ！",
+    "translation": "肝心なのは応用力よっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN77S_0013",
+    "original": "知識があっても応用力がないと\n使えない貯金みたいなものねっ！",
+    "translation": "知識があっても応用力がないと\n使えない貯金みたいなものねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN77S_0014",
+    "original": "は、はあ……",
+    "translation": "は、はあ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN77S_0015",
+    "original": "使ってこその貯金でしょ、\nみくるちゃんもそう思わない？",
+    "translation": "使ってこその貯金でしょ、\nみくるちゃんもそう思わない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN77S_0016",
+    "original": "そ、そうですねえ",
+    "translation": "そ、そうですねえ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN77S_0017",
+    "original": "怪奇現象も発見されてなんぼなのよ\nさあ、早く行きましょ",
+    "translation": "怪奇現象も発見されてなんぼなのよ\nさあ、早く行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN77S_0018",
+    "original": "あ、あの、待ってくださぁい",
+    "translation": "あ、あの、待ってくださぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN77S_0019",
+    "original": "怪奇現象が現実として起きた場合に\nどう対応する？",
+    "translation": "怪奇現象が現実として起きた場合に\nどう対応する？",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN77S_0020",
+    "original": "そうね、まずは本当に怪奇現象なの\nかを確認する",
+    "translation": "そうね、まずは本当に怪奇現象なの\nかを確認する",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN77S_0021",
+    "original": "その確認方法は",
+    "translation": "その確認方法は",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN77S_0022",
+    "original": "そうね、今回の場合まず手始めに、\n出てきた分身に事情聴取するわ！",
+    "translation": "そうね、今回の場合まず手始めに、\n出てきた分身に事情聴取するわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN77S_0023",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN77S_0024",
+    "original": "涼宮さん、提案があるのですが\n少しよろしいでしょうか？",
+    "translation": "涼宮さん、提案があるのですが\n少しよろしいでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN77S_0025",
+    "original": "何、古泉くん。どうしたの？",
+    "translation": "何、古泉くん。どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN77S_0026",
+    "original": "いえ、現場に着く前に何か対応策を\n考えた方が良いかと思いまして",
+    "translation": "いえ、現場に着く前に何か対応策を\n考えた方が良いかと思いまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN77S_0027",
+    "original": "鏡を見る角度や、距離などに\nよって効果が違うかもしれませんし",
+    "translation": "鏡を見る角度や、距離などに\nよって効果が違うかもしれませんし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN77S_0028",
+    "original": "うーん、言われてみると\nそうかもしれないわね",
+    "translation": "うーん、言われてみると\nそうかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN77S_0029",
+    "original": "では、今、僕と打ち合わせを……",
+    "translation": "では、今、僕と打ち合わせを……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN77S_0030",
+    "original": "やっぱりいいわ。五人もいるんだか\nらなんとかなるわよ、きっと！",
+    "translation": "やっぱりいいわ。五人もいるんだか\nらなんとかなるわよ、きっと！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN77S_0031",
+    "original": "なんとか足止めしたかったのです\nが……なかなか上手く行きませんね",
+    "translation": "なんとか足止めしたかったのです\nが……なかなか上手く行きませんね",
+    "speaker": "古泉"
+  }
+]

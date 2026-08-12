@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA68S_0000",
+    "original": "応援されるとその気になるもんだな",
+    "translation": "応援されるとその気になるもんだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA68S_0001",
+    "original": "良かったわね、みくるちゃんに応援\nしてもらえて",
+    "translation": "良かったわね、みくるちゃんに応援\nしてもらえて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA68S_0002",
+    "original": "なぜに、朝比奈さん限定なんだ？",
+    "translation": "なぜに、朝比奈さん限定なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA68S_0003",
+    "original": "そんなもの初歩的な推理よ！",
+    "translation": "そんなもの初歩的な推理よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA68S_0004",
+    "original": "まず性格的に、他人を応援するのは\nみくるちゃんよね",
+    "translation": "まず性格的に、他人を応援するのは\nみくるちゃんよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA68S_0005",
+    "original": "まあ、そうだな。しかしな……",
+    "translation": "まあ、そうだな。しかしな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA68S_0006",
+    "original": "そして肝心なのは、キョンの態度よ",
+    "translation": "そして肝心なのは、キョンの態度よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA68S_0007",
+    "original": "もしも、古泉くんや有希だったら\nそんなに素直に喜んでないわ！",
+    "translation": "もしも、古泉くんや有希だったら\nそんなに素直に喜んでないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA68S_0008",
+    "original": "そ、そうか……",
+    "translation": "そ、そうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA68S_0009",
+    "original": "このあたしにとけない謎はないの！",
+    "translation": "このあたしにとけない謎はないの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA68S_0010",
+    "original": "って言うか推理ってほどの\nもんでもないだろ、それ",
+    "translation": "って言うか推理ってほどの\nもんでもないだろ、それ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA68S_0011",
+    "original": "涼宮さん、あたしの応援って\n効果があるんでしょうか？",
+    "translation": "涼宮さん、あたしの応援って\n効果があるんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA68S_0012",
+    "original": "みくるちゃん、応援団にでも\n入りたいの？",
+    "translation": "みくるちゃん、応援団にでも\n入りたいの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA68S_0013",
+    "original": "だったらダメよ。あなたは大事な\nＳＯＳ団のマスコットなんだから",
+    "translation": "だったらダメよ。あなたは大事な\nＳＯＳ団のマスコットなんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA68S_0014",
+    "original": "それに、チアリーダーだったらいつ\nでもコスプレさせてあげるわよ",
+    "translation": "それに、チアリーダーだったらいつ\nでもコスプレさせてあげるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA68S_0015",
+    "original": "い、いえいえ、そうじゃなくって",
+    "translation": "い、いえいえ、そうじゃなくって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA68S_0016",
+    "original": "あたしなんかの応援で、元気が出る\nのかなぁって思ったんです",
+    "translation": "あたしなんかの応援で、元気が出る\nのかなぁって思ったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA68S_0017",
+    "original": "案ずることはないわよ、みくるちゃ\nん。その点については保証するわ",
+    "translation": "案ずることはないわよ、みくるちゃ\nん。その点については保証するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA68S_0018",
+    "original": "バニー姿で応援すれば、ヒンシの\nヤツでも一気にふるい立つわよ！",
+    "translation": "バニー姿で応援すれば、ヒンシの\nヤツでも一気にふるい立つわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA68S_0019",
+    "original": "バ、バニー姿でなんて、ムリ\nですぅ",
+    "translation": "バ、バニー姿でなんて、ムリ\nですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA68S_0020",
+    "original": "朝比奈みくるは有事に対処する能力\nを持たないが",
+    "translation": "朝比奈みくるは有事に対処する能力\nを持たないが",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA68S_0021",
+    "original": "その場にいることで、他の者が励ま\nされる",
+    "translation": "その場にいることで、他の者が励ま\nされる",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA68S_0022",
+    "original": "そうね、みくるちゃんの応援は\n元気がでるわね",
+    "translation": "そうね、みくるちゃんの応援は\n元気がでるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA68S_0023",
+    "original": "そう言う意味では、我がＳＯＳ団に\nなくてはならない人材だわ",
+    "translation": "そう言う意味では、我がＳＯＳ団に\nなくてはならない人材だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA68S_0024",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA68S_0025",
+    "original": "ああ、もちろん有希もそうよ\n欠かせないメンバーなのはいっしょ",
+    "translation": "ああ、もちろん有希もそうよ\n欠かせないメンバーなのはいっしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA68S_0026",
+    "original": "そういえば、誰かが言ってました\n朝比奈さんの応援は心に響くと……",
+    "translation": "そういえば、誰かが言ってました\n朝比奈さんの応援は心に響くと……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA68S_0027",
+    "original": "懸命に応援して下さるので、期待を\n裏切れないのだとか",
+    "translation": "懸命に応援して下さるので、期待を\n裏切れないのだとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA68S_0028",
+    "original": "キョンね。もしくは谷口あたりだわ",
+    "translation": "キョンね。もしくは谷口あたりだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA68S_0029",
+    "original": "発言者の素性はともかく、朝比奈さ\nんの一生懸命な姿は心を打ちますね",
+    "translation": "発言者の素性はともかく、朝比奈さ\nんの一生懸命な姿は心を打ちますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA68S_0030",
+    "original": "だから、ちょっとイジワルしたく\nなったりするのよね。可愛いから",
+    "translation": "だから、ちょっとイジワルしたく\nなったりするのよね。可愛いから",
+    "speaker": "ハルヒ"
+  }
+]

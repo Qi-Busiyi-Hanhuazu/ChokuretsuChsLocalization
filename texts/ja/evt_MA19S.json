@@ -1,0 +1,446 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA19S_0000",
+    "original": "みんな、もう部室に戻ってるの\nかしら？",
+    "translation": "みんな、もう部室に戻ってるの\nかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA19S_0001",
+    "original": "だったら、早く戻らないと",
+    "translation": "だったら、早く戻らないと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA19S_0002",
+    "original": "待ってくれ、今そこに誰か\nいたような……",
+    "translation": "待ってくれ、今そこに誰か\nいたような……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA19S_0003",
+    "original": "はぁ？　誰もいないわよ",
+    "translation": "はぁ？　誰もいないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA19S_0004",
+    "original": "確かに人影が立っていた！\nいや、本当だって",
+    "translation": "確かに人影が立っていた！\nいや、本当だって",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA19S_0005",
+    "original": "もう、怖いなら怖いって\n素直に言えばいいのに",
+    "translation": "もう、怖いなら怖いって\n素直に言えばいいのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA19S_0006",
+    "original": "信じないのかよ……",
+    "translation": "信じないのかよ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA19S_0007",
+    "original": "そうだ、だったら写真を撮って\nみたらどうだ？",
+    "translation": "そうだ、だったら写真を撮って\nみたらどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA19S_0008",
+    "original": "写真？",
+    "translation": "写真？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA19S_0009",
+    "original": "ほら、写真の方が霊が写りやすい\nって言うだろ",
+    "translation": "ほら、写真の方が霊が写りやすい\nって言うだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA19S_0010",
+    "original": "いいわ、じゃあ撮ってみなさいよ",
+    "translation": "いいわ、じゃあ撮ってみなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA19S_0011",
+    "original": "俺がやるのか……仕方ない",
+    "translation": "俺がやるのか……仕方ない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA19S_0012",
+    "original": "どう？　何か写ってた？",
+    "translation": "どう？　何か写ってた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA19S_0013",
+    "original": "……いや、真っ黒だ",
+    "translation": "……いや、真っ黒だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA19S_0014",
+    "original": "ほらね、キョン",
+    "translation": "ほらね、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA19S_0015",
+    "original": "これで気も済んだでしょ、さっさと\n行くわよ",
+    "translation": "これで気も済んだでしょ、さっさと\n行くわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA19S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_MA19S_0017",
+    "original": "[#SK0]す、涼宮さん、そ、そこ、そこ、\nそこにっ！",
+    "translation": "[#SK0]す、涼宮さん、そ、そこ、そこ、\nそこにっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA19S_0018",
+    "original": "は？　どうしたの？",
+    "translation": "は？　どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA19S_0019",
+    "original": "[#SK0]い、いま、女の子がそこに……！",
+    "translation": "[#SK0]い、いま、女の子がそこに……！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA19S_0020",
+    "original": "……誰もいないわよ",
+    "translation": "……誰もいないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA19S_0021",
+    "original": "本当です、さっきまでそこにいたん\nです",
+    "translation": "本当です、さっきまでそこにいたん\nです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA19S_0022",
+    "original": "見間違えたんじゃない？",
+    "translation": "見間違えたんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA19S_0023",
+    "original": "そうだ、写真！　写真ですっ",
+    "translation": "そうだ、写真！　写真ですっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA19S_0024",
+    "original": "幽霊は、写真に写りやすいって",
+    "translation": "幽霊は、写真に写りやすいって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA19S_0025",
+    "original": "誰に聞いたの、そんなこと……\nいいわ、じゃあ撮ってみなさい",
+    "translation": "誰に聞いたの、そんなこと……\nいいわ、じゃあ撮ってみなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA19S_0026",
+    "original": "あ、あたしが撮るんですかぁ",
+    "translation": "あ、あたしが撮るんですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA19S_0027",
+    "original": "言いだしっぺがやるのは当たり前\nでしょ",
+    "translation": "言いだしっぺがやるのは当たり前\nでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA19S_0028",
+    "original": "[#SK0]はうう……ほんとに映ったら\nどうしよう……",
+    "translation": "[#SK0]はうう……ほんとに映ったら\nどうしよう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA19S_0029",
+    "original": "どう？　何か写ってた？",
+    "translation": "どう？　何か写ってた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA19S_0030",
+    "original": "……いえ、何も",
+    "translation": "……いえ、何も",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA19S_0031",
+    "original": "ほらね。何もいなかったのよ",
+    "translation": "ほらね。何もいなかったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA19S_0032",
+    "original": "これで気も済んだでしょ、さっさと\n行くわよ",
+    "translation": "これで気も済んだでしょ、さっさと\n行くわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA19S_0033",
+    "original": "はいい……",
+    "translation": "はいい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA19S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_MA19S_0035",
+    "original": "写真を撮って",
+    "translation": "写真を撮って",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA19S_0036",
+    "original": "はぁ？　有希、急にどうしたの",
+    "translation": "はぁ？　有希、急にどうしたの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA19S_0037",
+    "original": "幽霊は写真で撮ればいいと聞いた",
+    "translation": "幽霊は写真で撮ればいいと聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA19S_0038",
+    "original": "なにそれ",
+    "translation": "なにそれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA19S_0039",
+    "original": "その場所を撮って",
+    "translation": "その場所を撮って",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA19S_0040",
+    "original": "まあ、有希がそこまで言うなら……",
+    "translation": "まあ、有希がそこまで言うなら……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA19S_0041",
+    "original": "……何も写ってないわよ",
+    "translation": "……何も写ってないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA19S_0042",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA19S_0043",
+    "original": "これで気が済んだ？",
+    "translation": "これで気が済んだ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA19S_0044",
+    "original": "いい",
+    "translation": "いい",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA19S_0045",
+    "original": "そう、なら行きましょ",
+    "translation": "そう、なら行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA19S_0046",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "evt_MA19S_0047",
+    "original": "おや……今、そこに……",
+    "translation": "おや……今、そこに……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA19S_0048",
+    "original": "どうしたの？　古泉くん",
+    "translation": "どうしたの？　古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA19S_0049",
+    "original": "今、女の子がそこに立っていた\nような気がしまして",
+    "translation": "今、女の子がそこに立っていた\nような気がしまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA19S_0050",
+    "original": "ほんと？　それってまさか……",
+    "translation": "ほんと？　それってまさか……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA19S_0051",
+    "original": "いえ、確証はありません\nそんな気がしただけですから",
+    "translation": "いえ、確証はありません\nそんな気がしただけですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA19S_0052",
+    "original": "それでもいいわ、調べてみましょう",
+    "translation": "それでもいいわ、調べてみましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA19S_0053",
+    "original": "でしたら、写真を撮ってみては？",
+    "translation": "でしたら、写真を撮ってみては？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA19S_0054",
+    "original": "写真？",
+    "translation": "写真？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA19S_0055",
+    "original": "こういう時にこそ、心霊写真という\nものが生まれるのではないかと",
+    "translation": "こういう時にこそ、心霊写真という\nものが生まれるのではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA19S_0056",
+    "original": "なるほど、それは一理あるわね",
+    "translation": "なるほど、それは一理あるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA19S_0057",
+    "original": "じゃあ、さっそく……",
+    "translation": "じゃあ、さっそく……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA19S_0058",
+    "original": "うーん……",
+    "translation": "うーん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA19S_0059",
+    "original": "いかがですか？",
+    "translation": "いかがですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA19S_0060",
+    "original": "何も写ってないわね\nただ真っ暗なだけだわ",
+    "translation": "何も写ってないわね\nただ真っ暗なだけだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_MA19S_0061",
+    "original": "そうですか。やはり僕の見間違い\nだったのかもしれませんね",
+    "translation": "そうですか。やはり僕の見間違い\nだったのかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA19S_0062",
+    "original": "残念、今度こそって思ったんだけど",
+    "translation": "残念、今度こそって思ったんだけど",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA24S_0000",
+    "original": "結局、昇降口の鏡の件も外れ\nだったから",
+    "translation": "結局、昇降口の鏡の件も外れ\nだったから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA24S_0001",
+    "original": "これで証言は全部ガセ、全滅って\nわけね……",
+    "translation": "これで証言は全部ガセ、全滅って\nわけね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA24S_0002",
+    "original": "もう！　こんなんじゃ、ぜんぜん\n気が収まらないわっ",
+    "translation": "もう！　こんなんじゃ、ぜんぜん\n気が収まらないわっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA24S_0003",
+    "original": "今からでも、他に何かそれっぽい\nものがないか探索しようかしら",
+    "translation": "今からでも、他に何かそれっぽい\nものがないか探索しようかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA24S_0004",
+    "original": "それは勘弁してくれ",
+    "translation": "それは勘弁してくれ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA24S_0005",
+    "original": "今や、校内のいたるところが\n異空間になってるんだ",
+    "translation": "今や、校内のいたるところが\n異空間になってるんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA24S_0006",
+    "original": "時間を稼ぐために、できるだけ遠く\nへハルヒを連れて行きたいが……",
+    "translation": "時間を稼ぐために、できるだけ遠く\nへハルヒを連れて行きたいが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA24S_0007",
+    "original": "そうだ、チェスの駒！\nあれが少し足りないみたいなんだ",
+    "translation": "そうだ、チェスの駒！\nあれが少し足りないみたいなんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA24S_0008",
+    "original": "チェスの駒？　もしかして肝試しの\n時に使ったやつ？",
+    "translation": "チェスの駒？　もしかして肝試しの\n時に使ったやつ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA24S_0009",
+    "original": "そう、それだ",
+    "translation": "そう、それだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA24S_0010",
+    "original": "ほら、ありゃ古泉の私物なわけだし\n無くすのはさすがに悪いだろう",
+    "translation": "ほら、ありゃ古泉の私物なわけだし\n無くすのはさすがに悪いだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA24S_0011",
+    "original": "だから、念のためにちょっと踊り場\nまで行って探してきたいんだが",
+    "translation": "だから、念のためにちょっと踊り場\nまで行って探してきたいんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA24S_0012",
+    "original": "まあ、いいわ。そのくらいなら\n付き合って行ってあげる",
+    "translation": "まあ、いいわ。そのくらいなら\n付き合って行ってあげる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA24S_0013",
+    "original": "やれやれ、これで時間を稼げるか",
+    "translation": "やれやれ、これで時間を稼げるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA24S_0014",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "evt_MA24S_0015",
+    "original": "あの、踊り場の方から探索して\nいきませんか？",
+    "translation": "あの、踊り場の方から探索して\nいきませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA24S_0016",
+    "original": "踊り場？\n何か心当たりでもあるの？",
+    "translation": "踊り場？\n何か心当たりでもあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA24S_0017",
+    "original": "古泉くんのチェスの駒、ナイトが\nひとつ足りないみたいなんです",
+    "translation": "古泉くんのチェスの駒、ナイトが\nひとつ足りないみたいなんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA24S_0018",
+    "original": "たぶん、肝試しの時にどこかに\n行っちゃったんだと……",
+    "translation": "たぶん、肝試しの時にどこかに\n行っちゃったんだと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA24S_0019",
+    "original": "なるほどね。あれって、古泉くんの\n私物だものね",
+    "translation": "なるほどね。あれって、古泉くんの\n私物だものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA24S_0020",
+    "original": "いいわ、じゃあ先に踊り場の方から\nまわっていきましょ",
+    "translation": "いいわ、じゃあ先に踊り場の方から\nまわっていきましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA24S_0021",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "evt_MA24S_0022",
+    "original": "チェスの駒が足りない",
+    "translation": "チェスの駒が足りない",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA24S_0023",
+    "original": "チェスの駒？",
+    "translation": "チェスの駒？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA24S_0024",
+    "original": "肝試しの後から、チェスの駒が\n一つ欠けている",
+    "translation": "肝試しの後から、チェスの駒が\n一つ欠けている",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA24S_0025",
+    "original": "そうなの？　うーん、ちゃんと全部\n回収したはずなんだけどなあ",
+    "translation": "そうなの？　うーん、ちゃんと全部\n回収したはずなんだけどなあ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA24S_0026",
+    "original": "だから、探しに行く",
+    "translation": "だから、探しに行く",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA24S_0027",
+    "original": "そうね、そうしましょ",
+    "translation": "そうね、そうしましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA24S_0028",
+    "original": "古泉くんの私物を無くしたら\n可哀想だものね",
+    "translation": "古泉くんの私物を無くしたら\n可哀想だものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA24S_0029",
+    "original": "一番疑わしいのはやっぱ踊り場よね",
+    "translation": "一番疑わしいのはやっぱ踊り場よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA24S_0030",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA24S_0031",
+    "original": "じゃあ、さっそく踊り場へ行き\nましょ",
+    "translation": "じゃあ、さっそく踊り場へ行き\nましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA24S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_MA24S_0033",
+    "original": "申し訳ありません。踊り場へ向かい\nたいのですがよろしいでしょうか？",
+    "translation": "申し訳ありません。踊り場へ向かい\nたいのですがよろしいでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA24S_0034",
+    "original": "踊り場？　なんでまた、そんな\nところに？",
+    "translation": "踊り場？　なんでまた、そんな\nところに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA24S_0035",
+    "original": "実は、肝試しの直後から黒のナイト\nが行方不明なのです",
+    "translation": "実は、肝試しの直後から黒のナイト\nが行方不明なのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA24S_0036",
+    "original": "ある意味、双子の片割れですので\n欠けるとどうも落ち着きません",
+    "translation": "ある意味、双子の片割れですので\n欠けるとどうも落ち着きません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA24S_0037",
+    "original": "そうよね。それに足りないままじゃ\nゲームにならないものね",
+    "translation": "そうよね。それに足りないままじゃ\nゲームにならないものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA24S_0038",
+    "original": "いいわ、じゃ、探しに行きましょ",
+    "translation": "いいわ、じゃ、探しに行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA24S_0039",
+    "original": "ありがとうございます",
+    "translation": "ありがとうございます",
+    "speaker": "古泉"
+  }
+]

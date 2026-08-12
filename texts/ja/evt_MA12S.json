@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA12S_0000",
+    "original": "いま、体育館の方から何か聞こえ\nなかった！？",
+    "translation": "いま、体育館の方から何か聞こえ\nなかった！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA12S_0001",
+    "original": "聞こえたって何がだ？",
+    "translation": "聞こえたって何がだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA12S_0002",
+    "original": "何か、歌みたいなのよ！",
+    "translation": "何か、歌みたいなのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA12S_0003",
+    "original": "これはもしかすると……！？",
+    "translation": "これはもしかすると……！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA12S_0004",
+    "original": "体育館へ急ぐわよ！　キョン",
+    "translation": "体育館へ急ぐわよ！　キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA12S_0005",
+    "original": "待て待て、聞こえたってのは\nきっとあれだ",
+    "translation": "待て待て、聞こえたってのは\nきっとあれだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA12S_0006",
+    "original": "あれ？　あれって何よ\nアンタ、なんか知ってるの？",
+    "translation": "あれ？　あれって何よ\nアンタ、なんか知ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA12S_0007",
+    "original": "まあ、いいからちょっと来い",
+    "translation": "まあ、いいからちょっと来い",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA12S_0008",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_MA12S_0009",
+    "original": "見ろ、あれが歌の正体だ",
+    "translation": "見ろ、あれが歌の正体だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA12S_0010",
+    "original": "どっかの部活の子たち？　帰り支度\nしてるみたいだけど……あっ",
+    "translation": "どっかの部活の子たち？　帰り支度\nしてるみたいだけど……あっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA12S_0011",
+    "original": "あれ、ウチのクラスの佐伯と阪中\nじゃない",
+    "translation": "あれ、ウチのクラスの佐伯と阪中\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA12S_0012",
+    "original": "そう言えばコーラス部に仮入部した\nとき、あの二人を見かけたわ",
+    "translation": "そう言えばコーラス部に仮入部した\nとき、あの二人を見かけたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA12S_0013",
+    "original": "俺も、コーラス部が夏休みに部活が\nあるって話を聞いてたんだ",
+    "translation": "俺も、コーラス部が夏休みに部活が\nあるって話を聞いてたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA12S_0014",
+    "original": "つまり、さっきおまえが聞いたのは\n連中の歌声ってことだ",
+    "translation": "つまり、さっきおまえが聞いたのは\n連中の歌声ってことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA12S_0015",
+    "original": "……まったく、紛らわしいわね",
+    "translation": "……まったく、紛らわしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA12S_0016",
+    "original": "やれやれ、なんとか誤魔化せたか",
+    "translation": "やれやれ、なんとか誤魔化せたか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA12S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_MA12S_0018",
+    "original": "え？　え？",
+    "translation": "え？　え？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA12S_0019",
+    "original": "何か、歌みたいな……",
+    "translation": "何か、歌みたいな……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA12S_0020",
+    "original": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "translation": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA12S_0021",
+    "original": "あ、あの、たぶん違うと思います",
+    "translation": "あ、あの、たぶん違うと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA12S_0022",
+    "original": "違うって？\nみくるちゃん、何か知ってるの？",
+    "translation": "違うって？\nみくるちゃん、何か知ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA12S_0023",
+    "original": "えと、お昼に聞いたんですけど",
+    "translation": "えと、お昼に聞いたんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA12S_0024",
+    "original": "今日はコーラス部の人達が練習\nしてるって",
+    "translation": "今日はコーラス部の人達が練習\nしてるって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA12S_0025",
+    "original": "コーラス部……？",
+    "translation": "コーラス部……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA12S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_MA12S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_MA12S_0028",
+    "original": "あそこにいるのは……\nウチのクラスの佐伯と阪中じゃない",
+    "translation": "あそこにいるのは……\nウチのクラスの佐伯と阪中じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA12S_0029",
+    "original": "確か、あの２人はコーラス部だった\nわね。仮入部の時に見たわ",
+    "translation": "確か、あの２人はコーラス部だった\nわね。仮入部の時に見たわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA12S_0030",
+    "original": "歌は、あたしも聞こえたんです\nけど、方向が違うかなって思って",
+    "translation": "歌は、あたしも聞こえたんです\nけど、方向が違うかなって思って",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA12S_0031",
+    "original": "みくるちゃんも聞こえてたなら\nそうなのかもね",
+    "translation": "みくるちゃんも聞こえてたなら\nそうなのかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA12S_0032",
+    "original": "それにしても、この忙しい時に\n紛らわしいわね",
+    "translation": "それにしても、この忙しい時に\n紛らわしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA12S_0033",
+    "original": "ほっ……",
+    "translation": "ほっ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA12S_0034",
+    "original": "行くわよ、みくるちゃん",
+    "translation": "行くわよ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA12S_0035",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA12S_0036",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "evt_MA12S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA12S_0038",
+    "original": "何か、歌みたいな……",
+    "translation": "何か、歌みたいな……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA12S_0039",
+    "original": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "translation": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA12S_0040",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA12S_0041",
+    "original": "なによ、有希\n急がないと、見逃しちゃうわ！",
+    "translation": "なによ、有希\n急がないと、見逃しちゃうわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA12S_0042",
+    "original": "それは違う",
+    "translation": "それは違う",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA12S_0043",
+    "original": "違う？",
+    "translation": "違う？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA12S_0044",
+    "original": "ついて来て",
+    "translation": "ついて来て",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA12S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_MA12S_0046",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "evt_MA12S_0047",
+    "original": "どっかの部活の子たち？　帰り支度\nしてるみたいだけど……あっ",
+    "translation": "どっかの部活の子たち？　帰り支度\nしてるみたいだけど……あっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA12S_0048",
+    "original": "あれ、ウチのクラスの佐伯と阪中\nじゃない",
+    "translation": "あれ、ウチのクラスの佐伯と阪中\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA12S_0049",
+    "original": "コーラス部\n練習をしていた",
+    "translation": "コーラス部\n練習をしていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA12S_0050",
+    "original": "じゃあ、歌声って……",
+    "translation": "じゃあ、歌声って……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA12S_0051",
+    "original": "彼女たち",
+    "translation": "彼女たち",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA12S_0052",
+    "original": "なんだ……紛らわしいわね、もう",
+    "translation": "なんだ……紛らわしいわね、もう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA12S_0053",
+    "original": "さあ行きましょ、有希",
+    "translation": "さあ行きましょ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA12S_0054",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA12S_0055",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 56,
+    "key": "evt_MA12S_0056",
+    "original": "聞こえたというのは？",
+    "translation": "聞こえたというのは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA12S_0057",
+    "original": "何か、歌みたいなのよ",
+    "translation": "何か、歌みたいなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA12S_0058",
+    "original": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "translation": "間違いないわ！　今度こそ本物の\n怪奇現象よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA12S_0059",
+    "original": "いえ、それは人間の声なのではない\nかと思われます",
+    "translation": "いえ、それは人間の声なのではない\nかと思われます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA12S_0060",
+    "original": "……どういうこと？",
+    "translation": "……どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_MA12S_0061",
+    "original": "少し、寄り道をさせてください",
+    "translation": "少し、寄り道をさせてください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA12S_0062",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 63,
+    "key": "evt_MA12S_0063",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 64,
+    "key": "evt_MA12S_0064",
+    "original": "あれをご覧下さい",
+    "translation": "あれをご覧下さい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_MA12S_0065",
+    "original": "あれは……どこかの部活の人たち？",
+    "translation": "あれは……どこかの部活の人たち？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_MA12S_0066",
+    "original": "あ、ウチのクラスの佐伯と阪中も\nいるじゃない",
+    "translation": "あ、ウチのクラスの佐伯と阪中も\nいるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_MA12S_0067",
+    "original": "おそらく、コーラス部ではないかと",
+    "translation": "おそらく、コーラス部ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 68,
+    "key": "evt_MA12S_0068",
+    "original": "コーラス部？",
+    "translation": "コーラス部？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_MA12S_0069",
+    "original": "はい。昼間、練習しているという話\nを耳にしたもので",
+    "translation": "はい。昼間、練習しているという話\nを耳にしたもので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 70,
+    "key": "evt_MA12S_0070",
+    "original": "じゃあ、さっきの歌声って……",
+    "translation": "じゃあ、さっきの歌声って……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 71,
+    "key": "evt_MA12S_0071",
+    "original": "おそらく彼女たちかと",
+    "translation": "おそらく彼女たちかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 72,
+    "key": "evt_MA12S_0072",
+    "original": "なんだ……もう紛らわしいわね",
+    "translation": "なんだ……もう紛らわしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 73,
+    "key": "evt_MA12S_0073",
+    "original": "行きましょ、古泉くん",
+    "translation": "行きましょ、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 74,
+    "key": "evt_MA12S_0074",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "古泉"
+  }
+]

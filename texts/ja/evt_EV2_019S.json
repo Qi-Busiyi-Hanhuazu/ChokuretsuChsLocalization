@@ -1,0 +1,1134 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_019S_0000",
+    "original": "長門と２人で音楽室の\nカギを借りに行くことにした",
+    "translation": "長門と２人で音楽室の\nカギを借りに行くことにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_019S_0001",
+    "original": "スムーズに借りられるといいのだが",
+    "translation": "スムーズに借りられるといいのだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_019S_0002",
+    "original": "教師達から見れば、校内唯一の\n文芸部員と",
+    "translation": "教師達から見れば、校内唯一の\n文芸部員と",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_019S_0003",
+    "original": "プラスアルファ（俺）だからな",
+    "translation": "プラスアルファ（俺）だからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_019S_0004",
+    "original": "うさん臭がられてあれこれ\n聞かれると面倒だ",
+    "translation": "うさん臭がられてあれこれ\n聞かれると面倒だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_019S_0005",
+    "original": "問題ない。簡単に借りる方法はある",
+    "translation": "問題ない。簡単に借りる方法はある",
+    "speaker": "長門"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_019S_0006",
+    "original": "ん？　そうなのか？",
+    "translation": "ん？　そうなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_019S_0007",
+    "original": "ミリ単位で頭を動かす\n長門流の肯定のサインだ",
+    "translation": "ミリ単位で頭を動かす\n長門流の肯定のサインだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_019S_0008",
+    "original": "長門、どうすればいいんだ？",
+    "translation": "長門、どうすればいいんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_019S_0009",
+    "original": "簡単",
+    "translation": "簡単",
+    "speaker": "長門"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_019S_0010",
+    "original": "それだけ告げ、長門は重力を無視\nしたかのような軽い足取りで",
+    "translation": "それだけ告げ、長門は重力を無視\nしたかのような軽い足取りで",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_019S_0011",
+    "original": "職員室に入っていった",
+    "translation": "職員室に入っていった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_019S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_019S_0013",
+    "original": "しばらく後、職員室の扉を開けて\n長門がゆっくりと姿を現す",
+    "translation": "しばらく後、職員室の扉を開けて\n長門がゆっくりと姿を現す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_019S_0014",
+    "original": "戻ってくるなり、長門は\n１枚の用紙を俺に差し出してきた",
+    "translation": "戻ってくるなり、長門は\n１枚の用紙を俺に差し出してきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_019S_0015",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_019S_0016",
+    "original": "ん？　なんだこの紙は",
+    "translation": "ん？　なんだこの紙は",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_019S_0017",
+    "original": "なになに……\n校内施設利用の申請書？",
+    "translation": "なになに……\n校内施設利用の申請書？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_019S_0018",
+    "original": "えっと、これを書けばいいのか？",
+    "translation": "えっと、これを書けばいいのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_019S_0019",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_019S_0020",
+    "original": "なるほど、部屋を利用するには\n申請書が必要だったのか",
+    "translation": "なるほど、部屋を利用するには\n申請書が必要だったのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_019S_0021",
+    "original": "長門にしては、正攻法だな",
+    "translation": "長門にしては、正攻法だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_019S_0022",
+    "original": "正規の手続きで借りられるのなら\n何ら問題はない",
+    "translation": "正規の手続きで借りられるのなら\n何ら問題はない",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_019S_0023",
+    "original": "そりゃそうだ",
+    "translation": "そりゃそうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_019S_0024",
+    "original": "じゃあ、怪しまれないように\n適当に理由をでっち上げて……と",
+    "translation": "じゃあ、怪しまれないように\n適当に理由をでっち上げて……と",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_019S_0025",
+    "original": "長門、これを当番の教師に\n渡せばいいんだな？",
+    "translation": "長門、これを当番の教師に\n渡せばいいんだな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_019S_0026",
+    "original": "またもやわずかに頭を動かす長門\nだったが",
+    "translation": "またもやわずかに頭を動かす長門\nだったが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_019S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_019S_0028",
+    "original": "他に何かあるのだろうか？",
+    "translation": "他に何かあるのだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_019S_0029",
+    "original": "無機質の様な長門の瞳が気になる",
+    "translation": "無機質の様な長門の瞳が気になる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_019S_0030",
+    "original": "長門、どうかしたのか？",
+    "translation": "長門、どうかしたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_019S_0031",
+    "original": "……もう１枚いる？",
+    "translation": "……もう１枚いる？",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_019S_0032",
+    "original": "長門の手には、予備分らしき\n申請書が握られている",
+    "translation": "長門の手には、予備分らしき\n申請書が握られている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_019S_0033",
+    "original": "ああ、じゃあ一応もらっておくよ",
+    "translation": "ああ、じゃあ一応もらっておくよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_019S_0034",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_019S_0035",
+    "original": "長門が俺に申請書を差し出してきた",
+    "translation": "長門が俺に申請書を差し出してきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_019S_0036",
+    "original": "予備の申請書か……",
+    "translation": "予備の申請書か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_019S_0037",
+    "original": "また必要になるかもしれないしな",
+    "translation": "また必要になるかもしれないしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_019S_0038",
+    "original": "いや、いらない\n使うのは今回だけだしな",
+    "translation": "いや、いらない\n使うのは今回だけだしな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_019S_0039",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_019S_0040",
+    "original": "長門は用が済んだとばかりに\n申請書を元に戻した",
+    "translation": "長門は用が済んだとばかりに\n申請書を元に戻した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_019S_0041",
+    "original": "さて、書類も書き終わったし\n俺はカギを借りてくるよ",
+    "translation": "さて、書類も書き終わったし\n俺はカギを借りてくるよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_019S_0042",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_019S_0043",
+    "original": "長門に見送られながら\n教師の元へ行った",
+    "translation": "長門に見送られながら\n教師の元へ行った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_019S_0044",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_019S_0045",
+    "original": "カギを借りられたのはいいけど\nずいぶん時間が余っちまったな",
+    "translation": "カギを借りられたのはいいけど\nずいぶん時間が余っちまったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_019S_0046",
+    "original": "長門のアドバイスで申請書を\n出して教師に頼んだら",
+    "translation": "長門のアドバイスで申請書を\n出して教師に頼んだら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_019S_0047",
+    "original": "あっさりと音楽室の使用許可が\n下りてしまった",
+    "translation": "あっさりと音楽室の使用許可が\n下りてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_019S_0048",
+    "original": "こうも簡単に許可が下りるとは\n思ってなかったんで拍子抜けだ",
+    "translation": "こうも簡単に許可が下りるとは\n思ってなかったんで拍子抜けだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_019S_0049",
+    "original": "うーん、合流するまでには\nまだ時間があるし",
+    "translation": "うーん、合流するまでには\nまだ時間があるし",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_019S_0050",
+    "original": "せっかく長門と２人だけだし",
+    "translation": "せっかく長門と２人だけだし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_019S_0051",
+    "original": "ハルヒの前じゃ言えないことを\n聞くチャンスかもな",
+    "translation": "ハルヒの前じゃ言えないことを\n聞くチャンスかもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_019S_0052",
+    "original": "長門、北高内に特異点が出来ている\nと言っていたが",
+    "translation": "長門、北高内に特異点が出来ている\nと言っていたが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_019S_0053",
+    "original": "それはこの周りにどれくらい\nあるんだ？",
+    "translation": "それはこの周りにどれくらい\nあるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_019S_0054",
+    "original": "正確な数値は計測不能\n時間が経つ毎にその数を増している",
+    "translation": "正確な数値は計測不能\n時間が経つ毎にその数を増している",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_019S_0055",
+    "original": "げっ、増えてるのかよ\nあまりそうは見えないんだがなぁ",
+    "translation": "げっ、増えてるのかよ\nあまりそうは見えないんだがなぁ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_019S_0056",
+    "original": "あたりを見ても、普通に見えるし",
+    "translation": "あたりを見ても、普通に見えるし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_019S_0057",
+    "original": "特異点が表に現われた時のみ\n目視することが可能",
+    "translation": "特異点が表に現われた時のみ\n目視することが可能",
+    "speaker": "長門"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_019S_0058",
+    "original": "あなたの目に見えないだけで\n情報結合の歪みは拡大している",
+    "translation": "あなたの目に見えないだけで\n情報結合の歪みは拡大している",
+    "speaker": "長門"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_019S_0059",
+    "original": "そんなに広がっているのか\n俺にも見られたらなぁ",
+    "translation": "そんなに広がっているのか\n俺にも見られたらなぁ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_019S_0060",
+    "original": "……それは、あなたの要望？",
+    "translation": "……それは、あなたの要望？",
+    "speaker": "長門"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_019S_0061",
+    "original": "あ、ああそうだ",
+    "translation": "あ、ああそうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_019S_0062",
+    "original": "見られるのならこの目で\n確認してみたい",
+    "translation": "見られるのならこの目で\n確認してみたい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_019S_0063",
+    "original": "それがあなたにとって必要なこと\nなら、わたしがサポートする",
+    "translation": "それがあなたにとって必要なこと\nなら、わたしがサポートする",
+    "speaker": "長門"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_019S_0064",
+    "original": "本当か？　じゃあ、ぜひとも頼む",
+    "translation": "本当か？　じゃあ、ぜひとも頼む",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_019S_0065",
+    "original": "了承した\n……着いてきて",
+    "translation": "了承した\n……着いてきて",
+    "speaker": "長門"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_019S_0066",
+    "original": "俺を先導するように、長門が\n歩き始める",
+    "translation": "俺を先導するように、長門が\n歩き始める",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_019S_0067",
+    "original": "その様は、宇宙人というよりも\n幽界の案内人のような雰囲気だった",
+    "translation": "その様は、宇宙人というよりも\n幽界の案内人のような雰囲気だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_019S_0068",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_019S_0069",
+    "original": "階段の前までやってくると\n長門がぴたりと足を止めた",
+    "translation": "階段の前までやってくると\n長門がぴたりと足を止めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_019S_0070",
+    "original": "ん？　何か見つけたのか？",
+    "translation": "ん？　何か見つけたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_019S_0071",
+    "original": "そこ",
+    "translation": "そこ",
+    "speaker": "長門"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_019S_0072",
+    "original": "長門がゆるりと指した先には……",
+    "translation": "長門がゆるりと指した先には……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_019S_0073",
+    "original": "げっ！",
+    "translation": "げっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_019S_0074",
+    "original": "目の前を身長２０センチくらいの\nラグビー部員たちが駆け抜けた",
+    "translation": "目の前を身長２０センチくらいの\nラグビー部員たちが駆け抜けた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_019S_0075",
+    "original": "な、なんだ今のは？\nどこから出てきたんだ？",
+    "translation": "な、なんだ今のは？\nどこから出てきたんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_019S_0076",
+    "original": "情報結合の歪みから出現している\nイメージを具現化したもの",
+    "translation": "情報結合の歪みから出現している\nイメージを具現化したもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_019S_0077",
+    "original": "そ、そうか……\nというかどこから来たイメージだよ",
+    "translation": "そ、そうか……\nというかどこから来たイメージだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_019S_0078",
+    "original": "涼宮ハルヒが、思い浮かべたことが\n立体映像として出現したもの",
+    "translation": "涼宮ハルヒが、思い浮かべたことが\n立体映像として出現したもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_019S_0079",
+    "original": "ハルヒが考えていたのかよ\nよりによってこんな暑苦しいものを",
+    "translation": "ハルヒが考えていたのかよ\nよりによってこんな暑苦しいものを",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_019S_0080",
+    "original": "しかも見事にパスを決めて\n駆け抜けていきやがった",
+    "translation": "しかも見事にパスを決めて\n駆け抜けていきやがった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_019S_0081",
+    "original": "こんなのが他にもあるのか？",
+    "translation": "こんなのが他にもあるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_019S_0082",
+    "original": "たくさん、ある\nそこの教室にも……",
+    "translation": "たくさん、ある\nそこの教室にも……",
+    "speaker": "長門"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_019S_0083",
+    "original": "ここか？",
+    "translation": "ここか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_019S_0084",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_019S_0085",
+    "original": "長門が指した近くの教室の\nドアを開けると",
+    "translation": "長門が指した近くの教室の\nドアを開けると",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_019S_0086",
+    "original": "うわっ！",
+    "translation": "うわっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_019S_0087",
+    "original": "教室の床一面に、なぜかスイカ畑\nが出現していた",
+    "translation": "教室の床一面に、なぜかスイカ畑\nが出現していた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_019S_0088",
+    "original": "しかもよく熟れて美味そうだ",
+    "translation": "しかもよく熟れて美味そうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_019S_0089",
+    "original": "……って、なんで教室に\nスイカの山があるんだよ！",
+    "translation": "……って、なんで教室に\nスイカの山があるんだよ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_019S_0090",
+    "original": "これも、涼宮ハルヒのイメージが\n具現化されたもの",
+    "translation": "これも、涼宮ハルヒのイメージが\n具現化されたもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_019S_0091",
+    "original": "なるほどな",
+    "translation": "なるほどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_019S_0092",
+    "original": "ハルヒがなにげにスイカを死ぬほど\n食いたいとか考えたってことか",
+    "translation": "ハルヒがなにげにスイカを死ぬほど\n食いたいとか考えたってことか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_019S_0093",
+    "original": "……これは、本物か？",
+    "translation": "……これは、本物か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_019S_0094",
+    "original": "試しにスイカに触ってみたが",
+    "translation": "試しにスイカに触ってみたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_019S_0095",
+    "original": "おなじみのあのつるりとした\n皮の感触が伝わってきた",
+    "translation": "おなじみのあのつるりとした\n皮の感触が伝わってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_019S_0096",
+    "original": "本物ではないが、それに限りなく\n近いもの",
+    "translation": "本物ではないが、それに限りなく\n近いもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_019S_0097",
+    "original": "実体化しているから、接触も可能",
+    "translation": "実体化しているから、接触も可能",
+    "speaker": "長門"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_019S_0098",
+    "original": "……ってことは",
+    "translation": "……ってことは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_019S_0099",
+    "original": "つまり、こんなのが校内の\nあちこちに出没してるのか？",
+    "translation": "つまり、こんなのが校内の\nあちこちに出没してるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_019S_0100",
+    "original": "さっきのミニラグビー部員といい\nまるでどこぞの百鬼夜行だな",
+    "translation": "さっきのミニラグビー部員といい\nまるでどこぞの百鬼夜行だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_019S_0101",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_019S_0102",
+    "original": "他にも長門と共に校舎内を回ったが",
+    "translation": "他にも長門と共に校舎内を回ったが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_019S_0103",
+    "original": "足が生えて走り回る黒板消しだとか\n自動ドア状態になった窓とか",
+    "translation": "足が生えて走り回る黒板消しだとか\n自動ドア状態になった窓とか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_019S_0104",
+    "original": "とにかくありえないものばかりを\n目にすることになった",
+    "translation": "とにかくありえないものばかりを\n目にすることになった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_019S_0105",
+    "original": "最初に見たいと言ったのは俺だが\nさすがにお腹一杯だ",
+    "translation": "最初に見たいと言ったのは俺だが\nさすがにお腹一杯だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_019S_0106",
+    "original": "まさか、他のやつもうっかり\nこんなのを見たりしているのか？",
+    "translation": "まさか、他のやつもうっかり\nこんなのを見たりしているのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_019S_0107",
+    "original": "通常の人間には目視出来ない",
+    "translation": "通常の人間には目視出来ない",
+    "speaker": "長門"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_019S_0108",
+    "original": "……良かった",
+    "translation": "……良かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_019S_0109",
+    "original": "でもそれも時間の問題",
+    "translation": "でもそれも時間の問題",
+    "speaker": "長門"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_019S_0110",
+    "original": "時間の問題かよ！",
+    "translation": "時間の問題かよ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_019S_0111",
+    "original": "いずれハルヒの目にも留まるように\nなるってことか？",
+    "translation": "いずれハルヒの目にも留まるように\nなるってことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_019S_0112",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_019S_0113",
+    "original": "それはマズイ。非常にマズイ",
+    "translation": "それはマズイ。非常にマズイ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_019S_0114",
+    "original": "これがまだ平和的なものならいいが",
+    "translation": "これがまだ平和的なものならいいが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_019S_0115",
+    "original": "ハルヒが平和をおびやかすような\n想像を始めたら、ヤバすぎるぞ！",
+    "translation": "ハルヒが平和をおびやかすような\n想像を始めたら、ヤバすぎるぞ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_019S_0116",
+    "original": "つまり、ハルヒが怪談妄想をすれば\nそれが現実になるってわけか？",
+    "translation": "つまり、ハルヒが怪談妄想をすれば\nそれが現実になるってわけか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_019S_0117",
+    "original": "そう\nいずれそうなる可能性が高い",
+    "translation": "そう\nいずれそうなる可能性が高い",
+    "speaker": "長門"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_019S_0118",
+    "original": "長門も冷静に解説している\n場合じゃないぞ！",
+    "translation": "長門も冷静に解説している\n場合じゃないぞ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_019S_0119",
+    "original": "俺もそこまで北高内が危険地帯に\nなっているとは思わなかったな",
+    "translation": "俺もそこまで北高内が危険地帯に\nなっているとは思わなかったな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_019S_0120",
+    "original": "今、あなたの横にまた出現した",
+    "translation": "今、あなたの横にまた出現した",
+    "speaker": "長門"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_019S_0121",
+    "original": "な、なにっ？",
+    "translation": "な、なにっ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_019S_0122",
+    "original": "言われた方を見ると、消しゴムが\n勝手にぴょんぴょんと跳ねていた",
+    "translation": "言われた方を見ると、消しゴムが\n勝手にぴょんぴょんと跳ねていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_019S_0123",
+    "original": "……やけに活きのいい消しゴムだな",
+    "translation": "……やけに活きのいい消しゴムだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV2_019S_0124",
+    "original": "呆れる俺をよそに、長門は\n気軽にそいつをつまみ上げる",
+    "translation": "呆れる俺をよそに、長門は\n気軽にそいつをつまみ上げる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV2_019S_0125",
+    "original": "長門の指から逃れようと、そいつは\nジタバタともがいている",
+    "translation": "長門の指から逃れようと、そいつは\nジタバタともがいている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV2_019S_0126",
+    "original": "お座り",
+    "translation": "お座り",
+    "speaker": "長門"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV2_019S_0127",
+    "original": "暴れ回る消しゴムにむかって\n長門は身も蓋もない命令を下す",
+    "translation": "暴れ回る消しゴムにむかって\n長門は身も蓋もない命令を下す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV2_019S_0128",
+    "original": "すると消しゴムはピタリとその動き\n止めて大人しくなる",
+    "translation": "すると消しゴムはピタリとその動き\n止めて大人しくなる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV2_019S_0129",
+    "original": "……いる？",
+    "translation": "……いる？",
+    "speaker": "長門"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV2_019S_0130",
+    "original": "お、おい、大丈夫なのかよ",
+    "translation": "お、おい、大丈夫なのかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV2_019S_0131",
+    "original": "情報結合は解除した\n今はただの消しゴムに戻っている",
+    "translation": "情報結合は解除した\n今はただの消しゴムに戻っている",
+    "speaker": "長門"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV2_019S_0132",
+    "original": "そういうことなら、安心か",
+    "translation": "そういうことなら、安心か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV2_019S_0133",
+    "original": "しかし、なんで[#P05]“お座り”[#P00]なんだ？",
+    "translation": "しかし、なんで[#P05]“お座り”[#P00]なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV2_019S_0134",
+    "original": "こうすれば、動物は大人しくなると\n聞いた",
+    "translation": "こうすれば、動物は大人しくなると\n聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV2_019S_0135",
+    "original": "それは主に犬限定のしつけだと\n思うが",
+    "translation": "それは主に犬限定のしつけだと\n思うが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV2_019S_0136",
+    "original": "実際、長門なら猛獣の類ですら\nその一言で従わせるだろう",
+    "translation": "実際、長門なら猛獣の類ですら\nその一言で従わせるだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV2_019S_0137",
+    "original": "無数の獣を従える長門――",
+    "translation": "無数の獣を従える長門――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV2_019S_0138",
+    "original": "なんとも言えない光景だ",
+    "translation": "なんとも言えない光景だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV2_019S_0139",
+    "original": "い、いや、いい",
+    "translation": "い、いや、いい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV2_019S_0140",
+    "original": "うかつに見て恐ろしいものだったら\n困るしな",
+    "translation": "うかつに見て恐ろしいものだったら\n困るしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV2_019S_0141",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV2_019S_0142",
+    "original": "長門がちょっぴり残念そうに\n見えたのは気のせいだろうか",
+    "translation": "長門がちょっぴり残念そうに\n見えたのは気のせいだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV2_019S_0143",
+    "original": "そうしているうちに、俺の横を\n何かが通り過ぎて去っていった",
+    "translation": "そうしているうちに、俺の横を\n何かが通り過ぎて去っていった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV2_019S_0144",
+    "original": "俺たちには見えてないってだけで\n校内中どこもこんな状態なのか？",
+    "translation": "俺たちには見えてないってだけで\n校内中どこもこんな状態なのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV2_019S_0145",
+    "original": "場所によってレベルに差はある",
+    "translation": "場所によってレベルに差はある",
+    "speaker": "長門"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV2_019S_0146",
+    "original": "あなたを案内した場所は\n比較的問題ないところだけ",
+    "translation": "あなたを案内した場所は\n比較的問題ないところだけ",
+    "speaker": "長門"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV2_019S_0147",
+    "original": "このレベルで比較的問題ないだと？",
+    "translation": "このレベルで比較的問題ないだと？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV2_019S_0148",
+    "original": "ひどい場所っていうのは\n想像もしたくないね",
+    "translation": "ひどい場所っていうのは\n想像もしたくないね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV2_019S_0149",
+    "original": "ちなみに、今一番マズイのは\nどこなんだ？",
+    "translation": "ちなみに、今一番マズイのは\nどこなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV2_019S_0150",
+    "original": "音楽室\n現在、そこに歪みが集中しつつある",
+    "translation": "音楽室\n現在、そこに歪みが集中しつつある",
+    "speaker": "長門"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV2_019S_0151",
+    "original": "よりによってそこかよ！\n洒落にならないだろうが",
+    "translation": "よりによってそこかよ！\n洒落にならないだろうが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV2_019S_0152",
+    "original": "……やっぱ、放置するわけには\nいかないだろうな",
+    "translation": "……やっぱ、放置するわけには\nいかないだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV2_019S_0153",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV2_019S_0154",
+    "original": "長門の表情は変わらないが",
+    "translation": "長門の表情は変わらないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV2_019S_0155",
+    "original": "なんとなくそうだと言っている\nようにも見えた",
+    "translation": "なんとなくそうだと言っている\nようにも見えた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV2_019S_0156",
+    "original": "ハルヒのところに戻るとするか\n……やれやれ",
+    "translation": "ハルヒのところに戻るとするか\n……やれやれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV2_019S_0157",
+    "original": "もらっておく",
+    "translation": "もらっておく",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV2_019S_0158",
+    "original": "いらない",
+    "translation": "いらない",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV2_019S_0159",
+    "original": "そっちを見る",
+    "translation": "そっちを見る",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV2_019S_0160",
+    "original": "怖いから見ない",
+    "translation": "怖いから見ない",
+    "speaker": "CHOICE"
+  }
+]

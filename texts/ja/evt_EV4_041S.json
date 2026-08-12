@@ -1,0 +1,570 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV4_041S_0000",
+    "original": "とりあえず、校内をうろついていた\n犠牲者の方々は拘束できました",
+    "translation": "とりあえず、校内をうろついていた\n犠牲者の方々は拘束できました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV4_041S_0001",
+    "original": "一応、全員無事です",
+    "translation": "一応、全員無事です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV4_041S_0002",
+    "original": "まったく、谷口や国木田までやられ\nてるとは思わなかったな",
+    "translation": "まったく、谷口や国木田までやられ\nてるとは思わなかったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV4_041S_0003",
+    "original": "どうしてまた学校に戻ってきたん\nでしょう？",
+    "translation": "どうしてまた学校に戻ってきたん\nでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV4_041S_0004",
+    "original": "もしかするとバーベキューの時点で\nこうなっていたのかもしれません",
+    "translation": "もしかするとバーベキューの時点で\nこうなっていたのかもしれません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV4_041S_0005",
+    "original": "そんな様子は微塵もなかったぞ",
+    "translation": "そんな様子は微塵もなかったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV4_041S_0006",
+    "original": "確かに、その通りですが……",
+    "translation": "確かに、その通りですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV4_041S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV4_041S_0008",
+    "original": "長門さん、あの花について、なにか\n判りましたか？",
+    "translation": "長門さん、あの花について、なにか\n判りましたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV4_041S_0009",
+    "original": "これはただの受信部",
+    "translation": "これはただの受信部",
+    "speaker": "長門"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV4_041S_0010",
+    "original": "受信部？",
+    "translation": "受信部？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV4_041S_0011",
+    "original": "本体から分離した一部であり、宿主\nと本体を結ぶもの",
+    "translation": "本体から分離した一部であり、宿主\nと本体を結ぶもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV4_041S_0012",
+    "original": "よく分からんが、宿主ってのは谷口\nやコンピ研の連中のことか",
+    "translation": "よく分からんが、宿主ってのは谷口\nやコンピ研の連中のことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV4_041S_0013",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV4_041S_0014",
+    "original": "じゃあ、本体ってのはなんだ……？",
+    "translation": "じゃあ、本体ってのはなんだ……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV4_041S_0015",
+    "original": "……そうか、分かりましたよ",
+    "translation": "……そうか、分かりましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV4_041S_0016",
+    "original": "この花は、一種のアンテナのような\nものなのですね",
+    "translation": "この花は、一種のアンテナのような\nものなのですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV4_041S_0017",
+    "original": "本体からの指令を受信し、それを\n彼らの脳に送信する――",
+    "translation": "本体からの指令を受信し、それを\n彼らの脳に送信する――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV4_041S_0018",
+    "original": "そういうことですか？",
+    "translation": "そういうことですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV4_041S_0019",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV4_041S_0020",
+    "original": "アンテナ……なるほどね",
+    "translation": "アンテナ……なるほどね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV4_041S_0021",
+    "original": "そう言われれば、頭の上に花が咲い\nている姿は",
+    "translation": "そう言われれば、頭の上に花が咲い\nている姿は",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV4_041S_0022",
+    "original": "パラボラアンテナか何かに見えなく\nもない",
+    "translation": "パラボラアンテナか何かに見えなく\nもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV4_041S_0023",
+    "original": "しかし、なんで花なんだ？",
+    "translation": "しかし、なんで花なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV4_041S_0024",
+    "original": "どうせならもっとらしい姿形って\nもんがあるだろう",
+    "translation": "どうせならもっとらしい姿形って\nもんがあるだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV4_041S_0025",
+    "original": "犠牲になったやつらには悪いが\n正直、失笑を禁じ得ない",
+    "translation": "犠牲になったやつらには悪いが\n正直、失笑を禁じ得ない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV4_041S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_EV4_041S_0027",
+    "original": "でも、よく見ると可愛いですよ？",
+    "translation": "でも、よく見ると可愛いですよ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV4_041S_0028",
+    "original": "あの姿を『可愛い』と言えてしまう\n朝比奈さんの感性は気になるが",
+    "translation": "あの姿を『可愛い』と言えてしまう\n朝比奈さんの感性は気になるが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV4_041S_0029",
+    "original": "きっと、未来人のセンスでは、あれ\nは可愛いものなんだ、としておこう",
+    "translation": "きっと、未来人のセンスでは、あれ\nは可愛いものなんだ、としておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV4_041S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_EV4_041S_0031",
+    "original": "植物の形を模しているのは本体の\n構成情報に影響を受けているため",
+    "translation": "植物の形を模しているのは本体の\n構成情報に影響を受けているため",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV4_041S_0032",
+    "original": "その本体とやらはどこにあるんだ？",
+    "translation": "その本体とやらはどこにあるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV4_041S_0033",
+    "original": "……そういうことですか",
+    "translation": "……そういうことですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV4_041S_0034",
+    "original": "古泉……？",
+    "translation": "古泉……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV4_041S_0035",
+    "original": "植物のようなアンテナ端末\nそして、元凶たる本体の存在",
+    "translation": "植物のようなアンテナ端末\nそして、元凶たる本体の存在",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV4_041S_0036",
+    "original": "この２つを結びつける、情報を我々\nはすでに持っています",
+    "translation": "この２つを結びつける、情報を我々\nはすでに持っています",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV4_041S_0037",
+    "original": "どういうことだ……？",
+    "translation": "どういうことだ……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV4_041S_0038",
+    "original": "思い出してください。肝試しをはじ\nめる際、涼宮さんが言ったことを",
+    "translation": "思い出してください。肝試しをはじ\nめる際、涼宮さんが言ったことを",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV4_041S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_EV4_041S_0040",
+    "original": "あ……中庭の……",
+    "translation": "あ……中庭の……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV4_041S_0041",
+    "original": "そう、中庭の木が、夜中ひとりでに\n歩き出すというあの話です",
+    "translation": "そう、中庭の木が、夜中ひとりでに\n歩き出すというあの話です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV4_041S_0042",
+    "original": "おそらく、本体というのは中庭の\n木のことでしょう",
+    "translation": "おそらく、本体というのは中庭の\n木のことでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV4_041S_0043",
+    "original": "なら、その本体ってのをなんとかす\nれば、みんな元に戻るってことか",
+    "translation": "なら、その本体ってのをなんとかす\nれば、みんな元に戻るってことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV4_041S_0044",
+    "original": "ええ",
+    "translation": "ええ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV4_041S_0045",
+    "original": "なら、ハルヒに見つかる前に中庭の\n元凶をなんとかしよう",
+    "translation": "なら、ハルヒに見つかる前に中庭の\n元凶をなんとかしよう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV4_041S_0046",
+    "original": "あのハルヒがいつまでも大人しく\n部室に止まっているはずがない",
+    "translation": "あのハルヒがいつまでも大人しく\n部室に止まっているはずがない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV4_041S_0047",
+    "original": "そのうち痺れを切らして飛び出して\nくるに決まっている",
+    "translation": "そのうち痺れを切らして飛び出して\nくるに決まっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV4_041S_0048",
+    "original": "あ、あのう……",
+    "translation": "あ、あのう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV4_041S_0049",
+    "original": "出発しようとした時、朝比奈さんが\nおずおずと俺たちを呼び止めた",
+    "translation": "出発しようとした時、朝比奈さんが\nおずおずと俺たちを呼び止めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV4_041S_0050",
+    "original": "どうしたんです？",
+    "translation": "どうしたんです？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV4_041S_0051",
+    "original": "チェスの駒を取ってこないと\n涼宮さんに怒られるんじゃ……",
+    "translation": "チェスの駒を取ってこないと\n涼宮さんに怒られるんじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV4_041S_0052",
+    "original": "そういえば、それを忘れていた",
+    "translation": "そういえば、それを忘れていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV4_041S_0053",
+    "original": "だったら、中庭に向かう前に\nそっちを回収してこよう",
+    "translation": "だったら、中庭に向かう前に\nそっちを回収してこよう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV4_041S_0054",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 55,
+    "key": "evt_EV4_041S_0055",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 56,
+    "key": "evt_EV4_041S_0056",
+    "original": "よし、これで安心だ",
+    "translation": "よし、これで安心だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV4_041S_0057",
+    "original": "踊り場からチェスの駒を回収して\n俺たちは改めて中庭へと向かった",
+    "translation": "踊り場からチェスの駒を回収して\n俺たちは改めて中庭へと向かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV4_041S_0058",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 59,
+    "key": "evt_EV4_041S_0059",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 60,
+    "key": "evt_EV4_041S_0060",
+    "original": "中庭にやってきた俺たちが目の当た\nりにしたものは――",
+    "translation": "中庭にやってきた俺たちが目の当た\nりにしたものは――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV4_041S_0061",
+    "original": "考えた中でも、最悪の状況だった",
+    "translation": "考えた中でも、最悪の状況だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV4_041S_0062",
+    "original": "おい、こりゃあ一体どういうことだ\n……！？",
+    "translation": "おい、こりゃあ一体どういうことだ\n……！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV4_041S_0063",
+    "original": "あ、ありませんよう……！？",
+    "translation": "あ、ありませんよう……！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV4_041S_0064",
+    "original": "中庭、木が植えられているはずの場\n所にはぽっかりと穴が開いていた",
+    "translation": "中庭、木が植えられているはずの場\n所にはぽっかりと穴が開いていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV4_041S_0065",
+    "original": "まるで――",
+    "translation": "まるで――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV4_041S_0066",
+    "original": "『木が自ら抜け出して、どこかへ\n歩いて行ったかのように……』",
+    "translation": "『木が自ら抜け出して、どこかへ\n歩いて行ったかのように……』",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV4_041S_0067",
+    "original": "これは、一足遅かったということ\nですね",
+    "translation": "これは、一足遅かったということ\nですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV4_041S_0068",
+    "original": "さすがに古泉も深刻そうだ",
+    "translation": "さすがに古泉も深刻そうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV4_041S_0069",
+    "original": "長門、これも情報生命体だかの仕業\nなんだろ？",
+    "translation": "長門、これも情報生命体だかの仕業\nなんだろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV4_041S_0070",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV4_041S_0071",
+    "original": "なら、木がどこへ行っちまったか\n分からないか？",
+    "translation": "なら、木がどこへ行っちまったか\n分からないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV4_041S_0072",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV4_041S_0073",
+    "original": "長門はコンマ１秒ほど目をふせたか\nと思うと",
+    "translation": "長門はコンマ１秒ほど目をふせたか\nと思うと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV4_041S_0074",
+    "original": "あそこ",
+    "translation": "あそこ",
+    "speaker": "長門"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV4_041S_0075",
+    "original": "背後にある建物の一角を指差した",
+    "translation": "背後にある建物の一角を指差した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV4_041S_0076",
+    "original": "って、あそこは……",
+    "translation": "って、あそこは……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV4_041S_0077",
+    "original": "長門が示した場所、そこは今まさに\nハルヒがいる部室棟の３階だった",
+    "translation": "長門が示した場所、そこは今まさに\nハルヒがいる部室棟の３階だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV4_041S_0078",
+    "original": "仮・駒を未回収",
+    "translation": "仮・駒を未回収",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV4_041S_0079",
+    "original": "仮・回収済み",
+    "translation": "仮・回収済み",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_022S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_022S_0001",
+    "original": "特異点をすべて起動することに成功\nし、ハルヒを連れ出すことが出来た",
+    "translation": "特異点をすべて起動することに成功\nし、ハルヒを連れ出すことが出来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_022S_0002",
+    "original": "あとは正常化するのを待つだけ……",
+    "translation": "あとは正常化するのを待つだけ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_022S_0003",
+    "original": "……",
+    "translation": "……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_022S_0004",
+    "original": "だったはずなのだが",
+    "translation": "だったはずなのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_022S_0005",
+    "original": "一緒にいたはずの長門や古泉、それ\nに朝比奈さんの姿が見えない",
+    "translation": "一緒にいたはずの長門や古泉、それ\nに朝比奈さんの姿が見えない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_022S_0006",
+    "original": "しかもこの霧はなんだ？",
+    "translation": "しかもこの霧はなんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_022S_0007",
+    "original": "朝靄にしちゃ、ちょっとやりすぎ\nだろうが",
+    "translation": "朝靄にしちゃ、ちょっとやりすぎ\nだろうが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_022S_0008",
+    "original": "キョン、ちょっと待ちなさい",
+    "translation": "キョン、ちょっと待ちなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_022S_0009",
+    "original": "なんだよ？",
+    "translation": "なんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_022S_0010",
+    "original": "キョン、あんた何でそんなもの持ち\n歩いてるわけ？",
+    "translation": "キョン、あんた何でそんなもの持ち\n歩いてるわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_022S_0011",
+    "original": "何でって……",
+    "translation": "何でって……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_022S_0012",
+    "original": "特異点を消滅させるためのモップで\nございます、とは言えないよな",
+    "translation": "特異点を消滅させるためのモップで\nございます、とは言えないよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_022S_0013",
+    "original": "そのモップはなんなのかと聞いて\nるのよ",
+    "translation": "そのモップはなんなのかと聞いて\nるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_022S_0014",
+    "original": "いや、合宿であちこち汚したんで\n掃除しながら歩いてるんだ",
+    "translation": "いや、合宿であちこち汚したんで\n掃除しながら歩いてるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_022S_0015",
+    "original": "ふ～ん\nキョンにしては立派な心構えね",
+    "translation": "ふ～ん\nキョンにしては立派な心構えね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_022S_0016",
+    "original": "しっかり掃除しなさいよ",
+    "translation": "しっかり掃除しなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_022S_0017",
+    "original": "えらくあっさりと納得しやがったな",
+    "translation": "えらくあっさりと納得しやがったな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_022S_0018",
+    "original": "さっきまでみくるちゃんたちと一緒\nだったんでしょ？",
+    "translation": "さっきまでみくるちゃんたちと一緒\nだったんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_022S_0019",
+    "original": "一体どこに行ったのかしら？",
+    "translation": "一体どこに行ったのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_022S_0020",
+    "original": "いくらモヤが濃いっていったって、\nそりゃあおかしいって気付くよな",
+    "translation": "いくらモヤが濃いっていったって、\nそりゃあおかしいって気付くよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_022S_0021",
+    "original": "このモヤで見失ったんじゃないのか",
+    "translation": "このモヤで見失ったんじゃないのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_022S_0022",
+    "original": "みくるちゃーん！　有希ーっ！",
+    "translation": "みくるちゃーん！　有希ーっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_022S_0023",
+    "original": "古泉ーっ",
+    "translation": "古泉ーっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_022S_0024",
+    "original": "呼んでみたものの、誰からも返事が\nない",
+    "translation": "呼んでみたものの、誰からも返事が\nない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_022S_0025",
+    "original": "霧が濃くなってきたわね",
+    "translation": "霧が濃くなってきたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_022S_0026",
+    "original": "ああ、朝もやってより濃霧だな",
+    "translation": "ああ、朝もやってより濃霧だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_022S_0027",
+    "original": "みんなともはぐれてしまったし\nちょっとイヤな予感がする",
+    "translation": "みんなともはぐれてしまったし\nちょっとイヤな予感がする",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_022S_0028",
+    "original": "ハルヒ、いったん外に出た方が\nよさそうな気がするんだ",
+    "translation": "ハルヒ、いったん外に出た方が\nよさそうな気がするんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_022S_0029",
+    "original": "学校の外に出ちゃったら、みくる\nちゃんたちと合流出来ないじゃない",
+    "translation": "学校の外に出ちゃったら、みくる\nちゃんたちと合流出来ないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_022S_0030",
+    "original": "この霧じゃあ、どこにいても同じ\nだろうけどな……",
+    "translation": "この霧じゃあ、どこにいても同じ\nだろうけどな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_022S_0031",
+    "original": "ここにいるより学校の外の方が\nずっと安全なはずだ",
+    "translation": "ここにいるより学校の外の方が\nずっと安全なはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_022S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_022S_0033",
+    "original": "……ん？",
+    "translation": "……ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_022S_0034",
+    "original": "すりガラスを張り巡らせたような\n濃霧の中にうっすらと人影が見えた",
+    "translation": "すりガラスを張り巡らせたような\n濃霧の中にうっすらと人影が見えた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_022S_0035",
+    "original": "朝比奈さ……",
+    "translation": "朝比奈さ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_022S_0036",
+    "original": "いや、違う。あれは朝比奈さんじゃ\nない……",
+    "translation": "いや、違う。あれは朝比奈さんじゃ\nない……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_022S_0037",
+    "original": "自分の手もまともに見えない濃霧で\n人が見えるわけがない……",
+    "translation": "自分の手もまともに見えない濃霧で\n人が見えるわけがない……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_022S_0038",
+    "original": "もしや……長い髪の少女か！？",
+    "translation": "もしや……長い髪の少女か！？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_022S_0039",
+    "original": "もう、みんなどこに行っちゃったの\nかしら……",
+    "translation": "もう、みんなどこに行っちゃったの\nかしら……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_022S_0040",
+    "original": "ハルヒは長い髪の少女に気付いて\nいないらしい",
+    "translation": "ハルヒは長い髪の少女に気付いて\nいないらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_022S_0041",
+    "original": "どんどん霧が濃くなるわね",
+    "translation": "どんどん霧が濃くなるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_022S_0042",
+    "original": "ああ、なんか尋常じゃないな",
+    "translation": "ああ、なんか尋常じゃないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_022S_0043",
+    "original": "霧に紛れてあの少女が現れるとはな",
+    "translation": "霧に紛れてあの少女が現れるとはな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_022S_0044",
+    "original": "グラウンドでこの霧だ。学校外に出\nても安全とも言い切れない",
+    "translation": "グラウンドでこの霧だ。学校外に出\nても安全とも言い切れない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_022S_0045",
+    "original": "……どうすればいいんだ？",
+    "translation": "……どうすればいいんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_022S_0046",
+    "original": "おかしいわね。ケータイに連絡が\nつかないわ",
+    "translation": "おかしいわね。ケータイに連絡が\nつかないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_022S_0047",
+    "original": "圏外にいるとか？",
+    "translation": "圏外にいるとか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_022S_0048",
+    "original": "コールはしてるからそれはないわ\nみくるちゃんも有希も出ないのよ",
+    "translation": "コールはしてるからそれはないわ\nみくるちゃんも有希も出ないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_022S_0049",
+    "original": "……そうか",
+    "translation": "……そうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_022S_0050",
+    "original": "やっぱりこの霧は異常だ\nどこか絶対に安全な場所は……",
+    "translation": "やっぱりこの霧は異常だ\nどこか絶対に安全な場所は……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_022S_0051",
+    "original": "もうっ、古泉くんも電話に出ない\nじゃない",
+    "translation": "もうっ、古泉くんも電話に出ない\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_022S_0052",
+    "original": "古泉……か",
+    "translation": "古泉……か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_022S_0053",
+    "original": "……そうだ！",
+    "translation": "……そうだ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_022S_0054",
+    "original": "前に古泉が、部室はすでに異空間化\nしていると言っていたな",
+    "translation": "前に古泉が、部室はすでに異空間化\nしていると言っていたな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_022S_0055",
+    "original": "様々な力がせめぎ合って飽和状態で\nだから特になにも起こらないって",
+    "translation": "様々な力がせめぎ合って飽和状態で\nだから特になにも起こらないって",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_022S_0056",
+    "original": "つまり、一番安全なのは部室だ",
+    "translation": "つまり、一番安全なのは部室だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_022S_0057",
+    "original": "ハルヒ。行くぞ",
+    "translation": "ハルヒ。行くぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_022S_0058",
+    "original": "ちょっと、何よキョン、いきなり\n人の手を引っ張らないでよっ！",
+    "translation": "ちょっと、何よキョン、いきなり\n人の手を引っ張らないでよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_022S_0059",
+    "original": "いいから、俺についてこい",
+    "translation": "いいから、俺についてこい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_022S_0060",
+    "original": "なによっ、キョンのくせにっ！",
+    "translation": "なによっ、キョンのくせにっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_022S_0061",
+    "original": "なんとでも言え",
+    "translation": "なんとでも言え",
+    "speaker": "キョン"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_022S_0062",
+    "original": "まったく……いきなりレディの手を\n握るなんて……",
+    "translation": "まったく……いきなりレディの手を\n握るなんて……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_022S_0063",
+    "original": "……",
+    "translation": "……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_022S_0064",
+    "original": "……",
+    "translation": "……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_022S_0065",
+    "original": "ブツブツと文句を言っていたハルヒ\nだが、やがて黙ってついてくる",
+    "translation": "ブツブツと文句を言っていたハルヒ\nだが、やがて黙ってついてくる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_022S_0066",
+    "original": "俺は片手にモップ、片手にハルヒを\n引いて壁伝いに歩いた",
+    "translation": "俺は片手にモップ、片手にハルヒを\n引いて壁伝いに歩いた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_022S_0067",
+    "original": "こういうのも、両手になんとかって\n言うのかね……",
+    "translation": "こういうのも、両手になんとかって\n言うのかね……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_022S_0068",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

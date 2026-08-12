@@ -1,0 +1,871 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_007S_0000",
+    "original": "朝比奈さん、少しお話が……",
+    "translation": "朝比奈さん、少しお話が……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_007S_0001",
+    "original": "へ？　なんですか？",
+    "translation": "へ？　なんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_007S_0002",
+    "original": "長門、おまえもいいか？",
+    "translation": "長門、おまえもいいか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_007S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_007S_0004",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_007S_0005",
+    "original": "このまま音楽室で張り込むのは\n得策じゃないと思うんです",
+    "translation": "このまま音楽室で張り込むのは\n得策じゃないと思うんです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_007S_0006",
+    "original": "でも、涼宮さんが、あたしたちに\n張り込みしなさいって",
+    "translation": "でも、涼宮さんが、あたしたちに\n張り込みしなさいって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_007S_0007",
+    "original": "そのハルヒですよ",
+    "translation": "そのハルヒですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_007S_0008",
+    "original": "状況を洗い直しましょう",
+    "translation": "状況を洗い直しましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_007S_0009",
+    "original": "コンピ研で聞いた、誰もいないはず\nの音楽室からピアノが聞こえた件",
+    "translation": "コンピ研で聞いた、誰もいないはず\nの音楽室からピアノが聞こえた件",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_007S_0010",
+    "original": "あの部員の様子は、ただごとじゃ\nないでしょう",
+    "translation": "あの部員の様子は、ただごとじゃ\nないでしょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_007S_0011",
+    "original": "確かに、ちょっと怖かったですね",
+    "translation": "確かに、ちょっと怖かったですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_007S_0012",
+    "original": "それに、俺が見た“長い髪の少女”",
+    "translation": "それに、俺が見た“長い髪の少女”",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_007S_0013",
+    "original": "俺にはどうしてもあれが見間違い\nだとは思えないんです",
+    "translation": "俺にはどうしてもあれが見間違い\nだとは思えないんです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_007S_0014",
+    "original": "通常空間から姿を消すことは\n普通の人間には不可能",
+    "translation": "通常空間から姿を消すことは\n普通の人間には不可能",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_007S_0015",
+    "original": "だろ？　俺だってあれが美少女\nピアニストの幽霊だなんて",
+    "translation": "だろ？　俺だってあれが美少女\nピアニストの幽霊だなんて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_007S_0016",
+    "original": "言う気はありませんよ",
+    "translation": "言う気はありませんよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_007S_0017",
+    "original": "言う気はないけど、やっぱりあれは\n何て言うか……おかしなモノです",
+    "translation": "言う気はないけど、やっぱりあれは\n何て言うか……おかしなモノです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_007S_0018",
+    "original": "そう、決してハルヒに見せては\nならない類のものだ",
+    "translation": "そう、決してハルヒに見せては\nならない類のものだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_007S_0019",
+    "original": "あの『人喰い教室』だってそうです",
+    "translation": "あの『人喰い教室』だってそうです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_007S_0020",
+    "original": "この学校で、何かが起きていると\n俺は思います",
+    "translation": "この学校で、何かが起きていると\n俺は思います",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_007S_0021",
+    "original": "そ、そうですね\nあたしも、その意見には賛成です",
+    "translation": "そ、そうですね\nあたしも、その意見には賛成です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_007S_0022",
+    "original": "じゃあ俺たちが一番しなければ\nならないことって、何でしょう",
+    "translation": "じゃあ俺たちが一番しなければ\nならないことって、何でしょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_007S_0023",
+    "original": "え？　あたしたちが一番しなければ\nならないこと、ですか？",
+    "translation": "え？　あたしたちが一番しなければ\nならないこと、ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_007S_0024",
+    "original": "ハルヒの言う通りに現場で張り込ん\nでていいんでしょうか",
+    "translation": "ハルヒの言う通りに現場で張り込ん\nでていいんでしょうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_007S_0025",
+    "original": "そのおかしな現象を確かめることが\n俺達のすべきことじゃないでしょう",
+    "translation": "そのおかしな現象を確かめることが\n俺達のすべきことじゃないでしょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_007S_0026",
+    "original": "それは……、う～ん",
+    "translation": "それは……、う～ん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_007S_0027",
+    "original": "俺達がすべきなのは、ハルヒにその\nトンチキな現象を見せないことです",
+    "translation": "俺達がすべきなのは、ハルヒにその\nトンチキな現象を見せないことです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_007S_0028",
+    "original": "あ、そうか、そうですよね",
+    "translation": "あ、そうか、そうですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_007S_0029",
+    "original": "この馬鹿げた合宿を一刻も早く中止\nして、ハルヒを学校から追い出せば",
+    "translation": "この馬鹿げた合宿を一刻も早く中止\nして、ハルヒを学校から追い出せば",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_007S_0030",
+    "original": "そのトンチキな現象は後回しでいい\n俺はそう思うんですが",
+    "translation": "そのトンチキな現象は後回しでいい\n俺はそう思うんですが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_007S_0031",
+    "original": "確かにキョンくんの言う通りです\nでも……",
+    "translation": "確かにキョンくんの言う通りです\nでも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_007S_0032",
+    "original": "ハルヒに合宿を中止するように\n説得しようと思います",
+    "translation": "ハルヒに合宿を中止するように\n説得しようと思います",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_007S_0033",
+    "original": "朝比奈さんと、それに長門も\n協力してもらえませんか？",
+    "translation": "朝比奈さんと、それに長門も\n協力してもらえませんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_007S_0034",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_007S_0035",
+    "original": "私の役割は、涼宮ハルヒの観察",
+    "translation": "私の役割は、涼宮ハルヒの観察",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_007S_0036",
+    "original": "ああ、そうだった",
+    "translation": "ああ、そうだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_007S_0037",
+    "original": "長門の目的はあくまでハルヒの\n観察だけであって",
+    "translation": "長門の目的はあくまでハルヒの\n観察だけであって",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_007S_0038",
+    "original": "直接的な介入はしたくはない\nということだった",
+    "translation": "直接的な介入はしたくはない\nということだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_007S_0039",
+    "original": "仕方がないか",
+    "translation": "仕方がないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_007S_0040",
+    "original": "ま、もともと説得も得意じゃ\nないだろうしな",
+    "translation": "ま、もともと説得も得意じゃ\nないだろうしな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_007S_0041",
+    "original": "気にしないでくれ、長門",
+    "translation": "気にしないでくれ、長門",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_007S_0042",
+    "original": "この件は、俺と朝比奈さんで\n何とかする",
+    "translation": "この件は、俺と朝比奈さんで\n何とかする",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_007S_0043",
+    "original": "キョンくん、あの\nごめんなさいっ！",
+    "translation": "キョンくん、あの\nごめんなさいっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_007S_0044",
+    "original": "あたしも同じように\n協力はできません",
+    "translation": "あたしも同じように\n協力はできません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_007S_0045",
+    "original": "あ、朝比奈さんもですか？",
+    "translation": "あ、朝比奈さんもですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_007S_0046",
+    "original": "必要以上の積極的な介入は、未来を\n思わぬ方向に変えることに",
+    "translation": "必要以上の積極的な介入は、未来を\n思わぬ方向に変えることに",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_007S_0047",
+    "original": "なってしまいます",
+    "translation": "なってしまいます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_007S_0048",
+    "original": "緊急事態なら、あたしにも\n何らかの連絡があるはずですし",
+    "translation": "緊急事態なら、あたしにも\n何らかの連絡があるはずですし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_007S_0049",
+    "original": "それが涼宮さんの意志であったと\nしたら",
+    "translation": "それが涼宮さんの意志であったと\nしたら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_007S_0050",
+    "original": "勝手なことは、あたしには出来ない\nんです",
+    "translation": "勝手なことは、あたしには出来ない\nんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_007S_0051",
+    "original": "キョンくん、本当にごめんなさい！",
+    "translation": "キョンくん、本当にごめんなさい！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_007S_0052",
+    "original": "いや、いいんです\n俺も無理を言いました",
+    "translation": "いや、いいんです\n俺も無理を言いました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_007S_0053",
+    "original": "協力を断られたのはショックだが",
+    "translation": "協力を断られたのはショックだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_007S_0054",
+    "original": "二人とも、それぞれの立場がある\nということだ",
+    "translation": "二人とも、それぞれの立場がある\nということだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_007S_0055",
+    "original": "ただ、俺の立場だって尊重して\n欲しいもんだね",
+    "translation": "ただ、俺の立場だって尊重して\n欲しいもんだね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_007S_0056",
+    "original": "長門、ハルヒの説得はしなくても\nいい。お前の役割を守ってくれ",
+    "translation": "長門、ハルヒの説得はしなくても\nいい。お前の役割を守ってくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_007S_0057",
+    "original": "それと同じように、俺のしようと\nすることも邪魔しないよな？",
+    "translation": "それと同じように、俺のしようと\nすることも邪魔しないよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_007S_0058",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_007S_0059",
+    "original": "もっと言うなら、俺のすることに\n協力してくれないか？",
+    "translation": "もっと言うなら、俺のすることに\n協力してくれないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_007S_0060",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_007S_0061",
+    "original": "……許容の範囲でなら",
+    "translation": "……許容の範囲でなら",
+    "speaker": "長門"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_007S_0062",
+    "original": "そうか。助かるよ\n頼りにしてるぜ",
+    "translation": "そうか。助かるよ\n頼りにしてるぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_007S_0063",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_007S_0064",
+    "original": "朝比奈さん。朝比奈さんの立場は\n分かります",
+    "translation": "朝比奈さん。朝比奈さんの立場は\n分かります",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_007S_0065",
+    "original": "無理を言ってすみませんでした",
+    "translation": "無理を言ってすみませんでした",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_007S_0066",
+    "original": "ううん。そんな",
+    "translation": "ううん。そんな",
+    "speaker": "みくる"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_007S_0067",
+    "original": "ハルヒの説得をしろとは言いません",
+    "translation": "ハルヒの説得をしろとは言いません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_007S_0068",
+    "original": "でも、俺のすることを手伝ってくれ\nませんか？",
+    "translation": "でも、俺のすることを手伝ってくれ\nませんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_007S_0069",
+    "original": "あたしに何が出来るかは分からない\nけど",
+    "translation": "あたしに何が出来るかは分からない\nけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_007S_0070",
+    "original": "『禁則事項』に触れない限りは\nお手伝いします",
+    "translation": "『禁則事項』に触れない限りは\nお手伝いします",
+    "speaker": "みくる"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_007S_0071",
+    "original": "それを聞いて、安心しました",
+    "translation": "それを聞いて、安心しました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_007S_0072",
+    "original": "朝比奈さんが一緒なら、どんな難局\nでも乗り切れそうな気がするな",
+    "translation": "朝比奈さんが一緒なら、どんな難局\nでも乗り切れそうな気がするな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_007S_0073",
+    "original": "キョンくん\n何かいい考えでもあるんですか？",
+    "translation": "キョンくん\n何かいい考えでもあるんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_007S_0074",
+    "original": "問題はそこなんですよ",
+    "translation": "問題はそこなんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_007S_0075",
+    "original": "いい考えがまるで思いつかん\n何をどうしたらいいものか……",
+    "translation": "いい考えがまるで思いつかん\n何をどうしたらいいものか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_007S_0076",
+    "original": "……なんでしょう？\nオルゴールの音？",
+    "translation": "……なんでしょう？\nオルゴールの音？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_007S_0077",
+    "original": "あっちの方から聞こえるみたい\nですね。行ってみましょう",
+    "translation": "あっちの方から聞こえるみたい\nですね。行ってみましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_007S_0078",
+    "original": "こんなところにオルゴールなんて\n置いてあったか？",
+    "translation": "こんなところにオルゴールなんて\n置いてあったか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_007S_0079",
+    "original": "終業式の日以前には\n存在は認められない",
+    "translation": "終業式の日以前には\n存在は認められない",
+    "speaker": "長門"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_007S_0080",
+    "original": "ってことは、最近ここに置かれた\nってことだよな",
+    "translation": "ってことは、最近ここに置かれた\nってことだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_007S_0081",
+    "original": "なんだか、すごくすてきなメロディ\nですね～",
+    "translation": "なんだか、すごくすてきなメロディ\nですね～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_007S_0082",
+    "original": "ずっと聴いていたくなるような……",
+    "translation": "ずっと聴いていたくなるような……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_007S_0083",
+    "original": "誰もいない音楽室……\nピアノの音……",
+    "translation": "誰もいない音楽室……\nピアノの音……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_007S_0084",
+    "original": "こいつの音を聴いた奴が\n勘違いしたんじゃないのか？",
+    "translation": "こいつの音を聴いた奴が\n勘違いしたんじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_007S_0085",
+    "original": "いや、この際、真相はどうでもいい",
+    "translation": "いや、この際、真相はどうでもいい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_007S_0086",
+    "original": "音楽室でこのオルゴールが\n鳴っていたことにしてしまおう",
+    "translation": "音楽室でこのオルゴールが\n鳴っていたことにしてしまおう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_007S_0087",
+    "original": "なるほどぉ",
+    "translation": "なるほどぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_007S_0088",
+    "original": "それなら涼宮さんを納得させられる\nかも知れませんね",
+    "translation": "それなら涼宮さんを納得させられる\nかも知れませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_007S_0089",
+    "original": "よし、ハルヒが来る前に、こいつを\n音楽室へ運んじまおう",
+    "translation": "よし、ハルヒが来る前に、こいつを\n音楽室へ運んじまおう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_007S_0090",
+    "original": "よっこらせ……",
+    "translation": "よっこらせ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_007S_0091",
+    "original": "おわっ！",
+    "translation": "おわっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_007S_0092",
+    "original": "長門さん！？",
+    "translation": "長門さん！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_007S_0093",
+    "original": "俺が持ち上げようとしたオルゴール\nを、長門が壊してしまった",
+    "translation": "俺が持ち上げようとしたオルゴール\nを、長門が壊してしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_007S_0094",
+    "original": "長門、何でこんなことをしたんだ？",
+    "translation": "長門、何でこんなことをしたんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_007S_0095",
+    "original": "俺がハルヒの邪魔をしようとした事\nが、そんなに気にくわなかったのか",
+    "translation": "俺がハルヒの邪魔をしようとした事\nが、そんなに気にくわなかったのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_007S_0096",
+    "original": "だったら、そう言ってくれれば\n俺だって考え直したものを",
+    "translation": "だったら、そう言ってくれれば\n俺だって考え直したものを",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_007S_0097",
+    "original": "そのオルゴールの音を長く聴いて\nいるのは危険",
+    "translation": "そのオルゴールの音を長く聴いて\nいるのは危険",
+    "speaker": "長門"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_007S_0098",
+    "original": "……なに？",
+    "translation": "……なに？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_007S_0099",
+    "original": "その音は、人間の脳に行動プログラ\nムを強制的に書き込む効果がある",
+    "translation": "その音は、人間の脳に行動プログラ\nムを強制的に書き込む効果がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_007S_0100",
+    "original": "あ、あのコンピ研の部員さん！",
+    "translation": "あ、あのコンピ研の部員さん！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_007S_0101",
+    "original": "もしかしてあいつ、このオルゴール\nに操られていたのか……",
+    "translation": "もしかしてあいつ、このオルゴール\nに操られていたのか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_007S_0102",
+    "original": "このオルゴールが事件の真相だって\n推理は、あながち間違いでも",
+    "translation": "このオルゴールが事件の真相だって\n推理は、あながち間違いでも",
+    "speaker": "キョン"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_007S_0103",
+    "original": "なかったみたいですね",
+    "translation": "なかったみたいですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_007S_0104",
+    "original": "このオルゴール、どうしましょうか",
+    "translation": "このオルゴール、どうしましょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_007S_0105",
+    "original": "壊れたとは言え、こんなものを\n放置しておくのは危険だな……",
+    "translation": "壊れたとは言え、こんなものを\n放置しておくのは危険だな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_007S_0106",
+    "original": "こいつは回収しておきましょう",
+    "translation": "こいつは回収しておきましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_007S_0107",
+    "original": "壊れたとは言え、どんな危険性が\nあるか、分かったもんじゃないな",
+    "translation": "壊れたとは言え、どんな危険性が\nあるか、分かったもんじゃないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_007S_0108",
+    "original": "とりあえす、触らずにおきましょう",
+    "translation": "とりあえす、触らずにおきましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_007S_0109",
+    "original": "誰かが触ると危ないかも\nしれませんね",
+    "translation": "誰かが触ると危ないかも\nしれませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_007S_0110",
+    "original": "メモの切れ端に『触るなキケン』と\nでも書いて貼っておきましょうか",
+    "translation": "メモの切れ端に『触るなキケン』と\nでも書いて貼っておきましょうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_007S_0111",
+    "original": "……いや、待てよ",
+    "translation": "……いや、待てよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_007S_0112",
+    "original": "ハルヒみたいなのがメモを見たら\n却って好奇心をあおりかねないな",
+    "translation": "ハルヒみたいなのがメモを見たら\n却って好奇心をあおりかねないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_007S_0113",
+    "original": "はあ、そんな気もします\n難しいですね……",
+    "translation": "はあ、そんな気もします\n難しいですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_007S_0114",
+    "original": "やっぱりメモはやめておきましょう",
+    "translation": "やっぱりメモはやめておきましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_007S_0115",
+    "original": "このオルゴールを仕掛けた、対象\nが存在する",
+    "translation": "このオルゴールを仕掛けた、対象\nが存在する",
+    "speaker": "長門"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_007S_0116",
+    "original": "長門の言う通りだな\n真犯人がどこかにいるってことだ",
+    "translation": "長門の言う通りだな\n真犯人がどこかにいるってことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_007S_0117",
+    "original": "やっぱり怪しいのは、音楽室\nでしょうか……",
+    "translation": "やっぱり怪しいのは、音楽室\nでしょうか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_007S_0118",
+    "original": "音楽室へ乗り込む前に、古泉を\n呼びましょう",
+    "translation": "音楽室へ乗り込む前に、古泉を\n呼びましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_007S_0119",
+    "original": "あいつは怪しいヤツだが\nこういう時には頼りになる",
+    "translation": "あいつは怪しいヤツだが\nこういう時には頼りになる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_007S_0120",
+    "original": "長門に確認",
+    "translation": "長門に確認",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_007S_0121",
+    "original": "みくるに確認",
+    "translation": "みくるに確認",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_007S_0122",
+    "original": "オルゴールを回収する",
+    "translation": "オルゴールを回収する",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_007S_0123",
+    "original": "オルゴールを回収しない",
+    "translation": "オルゴールを回収しない",
+    "speaker": "CHOICE"
+  }
+]

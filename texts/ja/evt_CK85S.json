@@ -1,0 +1,289 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK85S_0000",
+    "original": "あなたならやれますよ、って無責任\nな意見だよなぁ",
+    "translation": "あなたならやれますよ、って無責任\nな意見だよなぁ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK85S_0001",
+    "original": "自分に火の粉がかからないよう\nにしてるというか",
+    "translation": "自分に火の粉がかからないよう\nにしてるというか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK85S_0002",
+    "original": "古泉くんに言われたのね？",
+    "translation": "古泉くんに言われたのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK85S_0003",
+    "original": "ああ",
+    "translation": "ああ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK85S_0004",
+    "original": "たまにはひねて取らずに、信頼され\nていると受け止めたらどうかしら？",
+    "translation": "たまにはひねて取らずに、信頼され\nていると受け止めたらどうかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK85S_0005",
+    "original": "古泉くんが気の毒になってくるわよ",
+    "translation": "古泉くんが気の毒になってくるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK85S_0006",
+    "original": "この場合、気の毒なのは任された\n俺の方じゃないのか？",
+    "translation": "この場合、気の毒なのは任された\n俺の方じゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK85S_0007",
+    "original": "キョンに任せれば大丈夫だと\n思ってくれたんでしょ？",
+    "translation": "キョンに任せれば大丈夫だと\n思ってくれたんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK85S_0008",
+    "original": "それを人は信頼していると言うのよ",
+    "translation": "それを人は信頼していると言うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK85S_0009",
+    "original": "それは違うと……",
+    "translation": "それは違うと……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK85S_0010",
+    "original": "言うのよ！",
+    "translation": "言うのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK85S_0011",
+    "original": "俺の答弁は許して貰えなかった……",
+    "translation": "俺の答弁は許して貰えなかった……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK85S_0012",
+    "original": "そういえばさっきキョンくんが、\n古泉くんに後押しされたみたいです",
+    "translation": "そういえばさっきキョンくんが、\n古泉くんに後押しされたみたいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK85S_0013",
+    "original": "古泉くんにされると、安心できそう\nですね",
+    "translation": "古泉くんにされると、安心できそう\nですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK85S_0014",
+    "original": "ふぅん、キョンのくせに一人前に\n何か悩み事でもあったのかしら",
+    "translation": "ふぅん、キョンのくせに一人前に\n何か悩み事でもあったのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK85S_0015",
+    "original": "さ、さあ？",
+    "translation": "さ、さあ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK85S_0016",
+    "original": "それよりも、みくるちゃんは\n何か悩んでることはない？",
+    "translation": "それよりも、みくるちゃんは\n何か悩んでることはない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK85S_0017",
+    "original": "ふへっ！？",
+    "translation": "ふへっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK85S_0018",
+    "original": "団長のあたしが、ガンガン後押し\nしてあげるわよ！",
+    "translation": "団長のあたしが、ガンガン後押し\nしてあげるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK85S_0019",
+    "original": "い、今のところはないですぅ",
+    "translation": "い、今のところはないですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK85S_0020",
+    "original": "後押しは役立つものとされている",
+    "translation": "後押しは役立つものとされている",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK85S_0021",
+    "original": "役立つ場合もあるわよ",
+    "translation": "役立つ場合もあるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK85S_0022",
+    "original": "何の役にも立ちませんって場合も\n多いけどね",
+    "translation": "何の役にも立ちませんって場合も\n多いけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK85S_0023",
+    "original": "されると嬉しい",
+    "translation": "されると嬉しい",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK85S_0024",
+    "original": "場合によっては嬉しいわよ",
+    "translation": "場合によっては嬉しいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK85S_0025",
+    "original": "彼は嬉しくないと言っていた",
+    "translation": "彼は嬉しくないと言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK85S_0026",
+    "original": "それはキョンかしら？",
+    "translation": "それはキョンかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK85S_0027",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK85S_0028",
+    "original": "誰の後押しが嬉しくないって……\n言わなくてもいいわ、有希",
+    "translation": "誰の後押しが嬉しくないって……\n言わなくてもいいわ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK85S_0029",
+    "original": "わかっちゃったわ。古泉くんね",
+    "translation": "わかっちゃったわ。古泉くんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK85S_0030",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK85S_0031",
+    "original": "まったく、キョンってどうして古泉\nくんにはきついのかしらね",
+    "translation": "まったく、キョンってどうして古泉\nくんにはきついのかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK85S_0032",
+    "original": "人からの後押しというものがあると\n頑張れる気がするものですね",
+    "translation": "人からの後押しというものがあると\n頑張れる気がするものですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK85S_0033",
+    "original": "応援とか後押しされると、期待に\n応えたくなるものね",
+    "translation": "応援とか後押しされると、期待に\n応えたくなるものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK85S_0034",
+    "original": "推したのがどなたであれ、気持ちに\n添いたいと思いますからね",
+    "translation": "推したのがどなたであれ、気持ちに\n添いたいと思いますからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK85S_0035",
+    "original": "中には後押しされても微妙な気持ち\nになる相手だっているわよ",
+    "translation": "中には後押しされても微妙な気持ち\nになる相手だっているわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK85S_0036",
+    "original": "ははは、それは否定しませんが、買\nわれていると思えば嬉しいものです",
+    "translation": "ははは、それは否定しませんが、買\nわれていると思えば嬉しいものです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK85S_0037",
+    "original": "そうね、悪い気はしないけどね",
+    "translation": "そうね、悪い気はしないけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK85S_0038",
+    "original": "特に、仲間からの後押しは嬉しい\nものですよ",
+    "translation": "特に、仲間からの後押しは嬉しい\nものですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK85S_0039",
+    "original": "それじゃ早速後押ししてあげるわ！\n古泉くんには期待してるからねっ",
+    "translation": "それじゃ早速後押ししてあげるわ！\n古泉くんには期待してるからねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK85S_0040",
+    "original": "有難うございます、精進します",
+    "translation": "有難うございます、精進します",
+    "speaker": "古泉"
+  }
+]

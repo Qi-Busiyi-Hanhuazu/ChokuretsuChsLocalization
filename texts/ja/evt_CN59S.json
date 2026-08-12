@@ -1,0 +1,268 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN59S_0000",
+    "original": "俺は時々思うんだが",
+    "translation": "俺は時々思うんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN59S_0001",
+    "original": "あたしへの不満なら却下よ",
+    "translation": "あたしへの不満なら却下よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN59S_0002",
+    "original": "ハルヒへの不満は今さら言う気にも\nならん",
+    "translation": "ハルヒへの不満は今さら言う気にも\nならん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN59S_0003",
+    "original": "それは殊勝な心掛けね、キョン",
+    "translation": "それは殊勝な心掛けね、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN59S_0004",
+    "original": "長門のことなんだが、あいつはいつ\nも黙っていて、考えがよくわからん",
+    "translation": "長門のことなんだが、あいつはいつ\nも黙っていて、考えがよくわからん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN59S_0005",
+    "original": "それは有希の個性でしょ。それに\nあたしは別に問題ないわ",
+    "translation": "それは有希の個性でしょ。それに\nあたしは別に問題ないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN59S_0006",
+    "original": "黙っているかと思えば、行動で言い\nたいことを示してくることがある",
+    "translation": "黙っているかと思えば、行動で言い\nたいことを示してくることがある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN59S_0007",
+    "original": "それって無口な子がとる普通の行動\nじゃない",
+    "translation": "それって無口な子がとる普通の行動\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN59S_0008",
+    "original": "普通の子か……そりゃあそうだな",
+    "translation": "普通の子か……そりゃあそうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN59S_0009",
+    "original": "なにワケの分からないことをいって\nるの、サッサと行くわよっ！",
+    "translation": "なにワケの分からないことをいって\nるの、サッサと行くわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN59S_0010",
+    "original": "キョンくんが言ってたんですけど、\n長門さんから手鏡を見せられたとか",
+    "translation": "キョンくんが言ってたんですけど、\n長門さんから手鏡を見せられたとか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN59S_0011",
+    "original": "手鏡？　手鏡を見せるって、キョン\nの顔にゴミでもついてたのかしら？",
+    "translation": "手鏡？　手鏡を見せるって、キョン\nの顔にゴミでもついてたのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN59S_0012",
+    "original": "意味は良く判らなかったみたいです\n説明してもらえなかったとかで",
+    "translation": "意味は良く判らなかったみたいです\n説明してもらえなかったとかで",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN59S_0013",
+    "original": "うーん、有希は無口だからね\nにしても有希が鏡ねえ。意外だわ",
+    "translation": "うーん、有希は無口だからね\nにしても有希が鏡ねえ。意外だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN59S_0014",
+    "original": "そ、そうですか？",
+    "translation": "そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN59S_0015",
+    "original": "ほら、有希ってあんまりそういうの\n気にしてないっぽいじゃない",
+    "translation": "ほら、有希ってあんまりそういうの\n気にしてないっぽいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN59S_0016",
+    "original": "えぇっと……そうでしょうか？",
+    "translation": "えぇっと……そうでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN59S_0017",
+    "original": "でも安心したわっ。有希もちゃんと\n女の子らしい物持ってるじゃない",
+    "translation": "でも安心したわっ。有希もちゃんと\n女の子らしい物持ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN59S_0018",
+    "original": "手鏡は女の子の身だしなみですよね",
+    "translation": "手鏡は女の子の身だしなみですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN59S_0019",
+    "original": "ってことは、長門さんも女の子\nらしいところがあるってことです！",
+    "translation": "ってことは、長門さんも女の子\nらしいところがあるってことです！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN59S_0020",
+    "original": "それ、そんなに強調するところかし\nら？",
+    "translation": "それ、そんなに強調するところかし\nら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN59S_0021",
+    "original": "有希はあれで女の子らしいところも\nあるのよ……多分",
+    "translation": "有希はあれで女の子らしいところも\nあるのよ……多分",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN59S_0022",
+    "original": "あたしが気付かなかっただけで、\n長門さんは女の子らしいですよね",
+    "translation": "あたしが気付かなかっただけで、\n長門さんは女の子らしいですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN59S_0023",
+    "original": "あたし、誤解してたかも\n悪いことしちゃったかも……",
+    "translation": "あたし、誤解してたかも\n悪いことしちゃったかも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN59S_0024",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN59S_0025",
+    "original": "なに？　手鏡？　へえ、有希もこう\nいうの持ち歩いてるのね",
+    "translation": "なに？　手鏡？　へえ、有希もこう\nいうの持ち歩いてるのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN59S_0026",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN59S_0027",
+    "original": "で、これがどうかしたの？",
+    "translation": "で、これがどうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN59S_0028",
+    "original": "見ると、顔が映る",
+    "translation": "見ると、顔が映る",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN59S_0029",
+    "original": "そりゃそうよ、鏡だもん\nって、それ以外に何に使うの？",
+    "translation": "そりゃそうよ、鏡だもん\nって、それ以外に何に使うの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN59S_0030",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN59S_0031",
+    "original": "長門さんは、手鏡をお持ちだとか",
+    "translation": "長門さんは、手鏡をお持ちだとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN59S_0032",
+    "original": "女の子だもの。そのくらい持ってる\nでしょ。ブラシとか鏡とか",
+    "translation": "女の子だもの。そのくらい持ってる\nでしょ。ブラシとか鏡とか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN59S_0033",
+    "original": "そう……ですね、一般的にはそれが\n普通なんでしょうね",
+    "translation": "そう……ですね、一般的にはそれが\n普通なんでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN59S_0034",
+    "original": "男子には、そういう習慣ないの？",
+    "translation": "男子には、そういう習慣ないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN59S_0035",
+    "original": "ハンカチとティッシュ、くらいの\nものでしょうか",
+    "translation": "ハンカチとティッシュ、くらいの\nものでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN59S_0036",
+    "original": "手軽でいいわね。キョンもそうなの\nかしら",
+    "translation": "手軽でいいわね。キョンもそうなの\nかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN59S_0037",
+    "original": "さあ、どうでしょうか……？",
+    "translation": "さあ、どうでしょうか……？",
+    "speaker": "古泉"
+  }
+]

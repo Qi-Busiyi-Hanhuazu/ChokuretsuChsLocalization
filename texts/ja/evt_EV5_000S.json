@@ -1,0 +1,328 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_000S_0000",
+    "original": "[$16]午前２時２２分２２秒――",
+    "translation": "[$16]午前２時２２分２２秒――",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_000S_0001",
+    "original": "[$10]その時間に[#W30]鏡の中から[#W20]自分そっくり\nの分身が現れるそうよ",
+    "translation": "[$10]その時間に[#W30]鏡の中から[#W20]自分そっくり\nの分身が現れるそうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_000S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_000S_0003",
+    "original": "[$8]このままでは、[#W30]確実に涼宮さんの\n目の前で[#W30]分身が現れてしまいます",
+    "translation": "[$8]このままでは、[#W30]確実に涼宮さんの\n目の前で[#W30]分身が現れてしまいます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_000S_0004",
+    "original": "[$8]どうするんだ？　[#W20]言ってきくような\n相手じゃないぞ",
+    "translation": "[$8]どうするんだ？　[#W20]言ってきくような\n相手じゃないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_000S_0005",
+    "original": "[$10]なんせ、[#W30]ハルヒだからな",
+    "translation": "[$10]なんせ、[#W30]ハルヒだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_000S_0006",
+    "original": "[$10]ご心配なく[#W60]\n[$8]ちゃんと考えてありますよ",
+    "translation": "[$10]ご心配なく[#W60]\n[$8]ちゃんと考えてありますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_000S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_000S_0008",
+    "original": "[$10]ふっ……[$8]それでこのあたしを追いつ\nめたつもりかしら",
+    "translation": "[$10]ふっ……[$8]それでこのあたしを追いつ\nめたつもりかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_000S_0009",
+    "original": "[$8]余裕しゃくしゃくってか[#W10]…[#W10]…[#W10]くそっ[#W40]\n[$9]絶対にほえ面かかせてやるからな",
+    "translation": "[$8]余裕しゃくしゃくってか[#W10]…[#W10]…[#W10]くそっ[#W40]\n[$9]絶対にほえ面かかせてやるからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_000S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_000S_0011",
+    "original": "[$9]情報結合の綻びが強い箇所に[#W30]特異点\nを設置していく",
+    "translation": "[$9]情報結合の綻びが強い箇所に[#W30]特異点\nを設置していく",
+    "speaker": "長門"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_000S_0012",
+    "original": "[$9]それだけでいいのか？",
+    "translation": "[$9]それだけでいいのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_000S_0013",
+    "original": "[$9]いい。[#W40]あとは、任せて",
+    "translation": "[$9]いい。[#W40]あとは、任せて",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_000S_0014",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_000S_0015",
+    "original": "[$8]ウソだろ[#W20]…[#W10]…[#W20]朝比奈さんが２人！？",
+    "translation": "[$8]ウソだろ[#W20]…[#W10]…[#W20]朝比奈さんが２人！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_000S_0016",
+    "original": "[$10]あ、[#W10]あたしが本物ですぅ！",
+    "translation": "[$10]あ、[#W10]あたしが本物ですぅ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_000S_0017",
+    "original": "[$7]気をつけてください！[#W40]\n鏡に姿が映れば、[#W20]我々も――！",
+    "translation": "[$7]気をつけてください！[#W40]\n鏡に姿が映れば、[#W20]我々も――！",
+    "speaker": "古泉"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_000S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_000S_0019",
+    "original": "[$10]新・七不思議、[#W20][$8]最後の一つを\n調査しに行くわ",
+    "translation": "[$10]新・七不思議、[#W20][$8]最後の一つを\n調査しに行くわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_000S_0020",
+    "original": "[$10]ま、[#W20]待てハルヒ",
+    "translation": "[$10]ま、[#W20]待てハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_000S_0021",
+    "original": "[$8]なによ、[#W30]夜明けまでもう時間が\nないのよ？",
+    "translation": "[$8]なによ、[#W30]夜明けまでもう時間が\nないのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_000S_0022",
+    "original": "[$10]だったら……[$8]そうだ！[#W20]\n日の出を見に行かないか！",
+    "translation": "[$10]だったら……[$8]そうだ！[#W20]\n日の出を見に行かないか！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_000S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_000S_0024",
+    "original": "[$10]現在、[#W30][$8]学校全体が[#W30]異空間と化し\nつつあります",
+    "translation": "[$10]現在、[#W30][$8]学校全体が[#W30]異空間と化し\nつつあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_000S_0025",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_000S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_000S_0027",
+    "original": "[$9]悪いな、長門。[#W40][$8]いつもながら面倒な\nことを押しつけちまったみたいで",
+    "translation": "[$9]悪いな、長門。[#W40][$8]いつもながら面倒な\nことを押しつけちまったみたいで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_000S_0028",
+    "original": "[$10]問題ない[#W20]…[#W10]…[#W10]これがわたしの役目",
+    "translation": "[$10]問題ない[#W20]…[#W10]…[#W10]これがわたしの役目",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_000S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_000S_0030",
+    "original": "[$10]涼宮ハルヒを[#W30]校舎の外に",
+    "translation": "[$10]涼宮ハルヒを[#W30]校舎の外に",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_000S_0031",
+    "original": "[$10]見て、[#W20]あれが北斗七星、[#W25]それから[#W20]\nあっちが夏の大三角形よ",
+    "translation": "[$10]見て、[#W20]あれが北斗七星、[#W25]それから[#W20]\nあっちが夏の大三角形よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_000S_0032",
+    "original": "[$9]ハルヒ、[#W20]星に詳しいんだな、[#W20]意外と",
+    "translation": "[$9]ハルヒ、[#W20]星に詳しいんだな、[#W20]意外と",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_000S_0033",
+    "original": "[$10]常識よ、こんなの！",
+    "translation": "[$10]常識よ、こんなの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_000S_0034",
+    "original": "[$8]そうだわ、[#W30][$7]みくるちゃんたちも\n呼んできましょう！",
+    "translation": "[$8]そうだわ、[#W30][$7]みくるちゃんたちも\n呼んできましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_000S_0035",
+    "original": "[$10]待てハルヒ！[#W20]\n今、校舎に入ったら――！？",
+    "translation": "[$10]待てハルヒ！[#W20]\n今、校舎に入ったら――！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_000S_0036",
+    "original": "[$10]なんてこった[#W20]…[#W10]…",
+    "translation": "[$10]なんてこった[#W20]…[#W10]…",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_000S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_000S_0038",
+    "original": "[$8]ちょっと[#W20]キョン、[#W30]痛いってばっ[#W20]\nそんなに引っ張らないでよ！",
+    "translation": "[$8]ちょっと[#W20]キョン、[#W30]痛いってばっ[#W20]\nそんなに引っ張らないでよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_000S_0039",
+    "original": "[$8]我慢しろ！[#W50]\n部室棟に着くまでの辛抱だ！",
+    "translation": "[$8]我慢しろ！[#W50]\n部室棟に着くまでの辛抱だ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_000S_0040",
+    "original": "[$10]もう少し！　[#W30][$8]もう少しで――",
+    "translation": "[$10]もう少し！　[#W30][$8]もう少しで――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_000S_0041",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_000S_0042",
+    "original": "[$12]そうか[#W20]…[#W20]…[#W30]そういうことかよ",
+    "translation": "[$12]そうか[#W20]…[#W20]…[#W30]そういうことかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_000S_0043",
+    "original": "[$10]要するに、[#W50]全部[$9][#W10]…[#W10]…[#W10]\nおまえの仕業だったのか",
+    "translation": "[$10]要するに、[#W50]全部[$9][#W10]…[#W10]…[#W10]\nおまえの仕業だったのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_000S_0044",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

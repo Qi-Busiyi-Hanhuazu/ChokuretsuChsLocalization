@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA48S_0000",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA48S_0001",
+    "original": "無駄話してる時じゃないでしょ\nなに？　くだらない話なら死刑よ",
+    "translation": "無駄話してる時じゃないでしょ\nなに？　くだらない話なら死刑よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA48S_0002",
+    "original": "……くだらない話だ",
+    "translation": "……くだらない話だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA48S_0003",
+    "original": "そう。でも一応、聞いてあげるわ",
+    "translation": "そう。でも一応、聞いてあげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA48S_0004",
+    "original": "朝比奈さんたちと、アイスを食う\n約束をしてるんだが",
+    "translation": "朝比奈さんたちと、アイスを食う\n約束をしてるんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA48S_0005",
+    "original": "おまえもくるか？",
+    "translation": "おまえもくるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA48S_0006",
+    "original": "それって、キョンのおごりよね？",
+    "translation": "それって、キョンのおごりよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA48S_0007",
+    "original": "まあ、そうだな\nおごってやってもいい",
+    "translation": "まあ、そうだな\nおごってやってもいい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA48S_0008",
+    "original": "じゃあ行くわ。勝手に二人で行っ\nちゃダメよ！　わかったわね！",
+    "translation": "じゃあ行くわ。勝手に二人で行っ\nちゃダメよ！　わかったわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA48S_0009",
+    "original": "……はいはい",
+    "translation": "……はいはい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA48S_0010",
+    "original": "キョンくんと、一緒にアイスを食べ\nようって約束をしたんですけど……",
+    "translation": "キョンくんと、一緒にアイスを食べ\nようって約束をしたんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA48S_0011",
+    "original": "涼宮さんは、どんなアイスが食べた\nいですか？",
+    "translation": "涼宮さんは、どんなアイスが食べた\nいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA48S_0012",
+    "original": "みんなでアイスを食べようって話？",
+    "translation": "みんなでアイスを食べようって話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA48S_0013",
+    "original": "はい。夜になっても、夏は暑いし\nアイスで涼もうってことになって",
+    "translation": "はい。夜になっても、夏は暑いし\nアイスで涼もうってことになって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA48S_0014",
+    "original": "そうね、アイスよりカキ氷が食べた\nいわね。たっぷり蜜をかけて",
+    "translation": "そうね、アイスよりカキ氷が食べた\nいわね。たっぷり蜜をかけて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA48S_0015",
+    "original": "カキ氷もいいですねぇ",
+    "translation": "カキ氷もいいですねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA48S_0016",
+    "original": "ま、その相談は後でゆっくりね\n今はみんなと合流しなきゃ",
+    "translation": "ま、その相談は後でゆっくりね\n今はみんなと合流しなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA48S_0017",
+    "original": "そ、そうですね……",
+    "translation": "そ、そうですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA48S_0018",
+    "original": "アイスを食べる約束をしてる",
+    "translation": "アイスを食べる約束をしてる",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA48S_0019",
+    "original": "誰と？　キョン？　みくるちゃん？",
+    "translation": "誰と？　キョン？　みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA48S_0020",
+    "original": "二人とも",
+    "translation": "二人とも",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA48S_0021",
+    "original": "いいわね、アイス。暑い夏の夜には\nもってこいのデザートだわ",
+    "translation": "いいわね、アイス。暑い夏の夜には\nもってこいのデザートだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA48S_0022",
+    "original": "当然、あたしも一緒に食べるから\nちゃんと二人に伝えておいてね",
+    "translation": "当然、あたしも一緒に食べるから\nちゃんと二人に伝えておいてね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA48S_0023",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA48S_0024",
+    "original": "何味にしようかしら。カキ氷っての\nもいいわね",
+    "translation": "何味にしようかしら。カキ氷っての\nもいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA48S_0025",
+    "original": "涼宮さん、アイスはお好きですか？",
+    "translation": "涼宮さん、アイスはお好きですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA48S_0026",
+    "original": "唐突に……なに？　好きだけど？",
+    "translation": "唐突に……なに？　好きだけど？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA48S_0027",
+    "original": "いえ、朝比奈さんたちが、後でアイ\nスを食べようと相談していたので",
+    "translation": "いえ、朝比奈さんたちが、後でアイ\nスを食べようと相談していたので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA48S_0028",
+    "original": "涼宮さんも、いかがですか？",
+    "translation": "涼宮さんも、いかがですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA48S_0029",
+    "original": "そうね、まだまだ夜はこれからだし\n冷たい物でリフレッシュしましょう",
+    "translation": "そうね、まだまだ夜はこれからだし\n冷たい物でリフレッシュしましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA48S_0030",
+    "original": "いいですね、そうしましょう",
+    "translation": "いいですね、そうしましょう",
+    "speaker": "古泉"
+  }
+]

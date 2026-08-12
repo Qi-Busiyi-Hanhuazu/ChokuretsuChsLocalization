@@ -1,0 +1,471 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_017S_0000",
+    "original": "失礼しまーす",
+    "translation": "失礼しまーす",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_017S_0001",
+    "original": "音楽室のカギを借りるため\n職員室へとやって来た",
+    "translation": "音楽室のカギを借りるため\n職員室へとやって来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_017S_0002",
+    "original": "岡部教諭あたりに捕まりでもしたら\n無駄に話が長くなりそうだ",
+    "translation": "岡部教諭あたりに捕まりでもしたら\n無駄に話が長くなりそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_017S_0003",
+    "original": "さっさと用事を済ませて\n退散したいところだが……",
+    "translation": "さっさと用事を済ませて\n退散したいところだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_017S_0004",
+    "original": "ん？　なんだこりゃ\n作曲コンテストだって？",
+    "translation": "ん？　なんだこりゃ\n作曲コンテストだって？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_017S_0005",
+    "original": "こんなコンテストがあるなんて\n全然知らなかったな",
+    "translation": "こんなコンテストがあるなんて\n全然知らなかったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_017S_0006",
+    "original": "と言うより、職員室の中にポスター\nを貼ったところで、誰が見るんだ",
+    "translation": "と言うより、職員室の中にポスター\nを貼ったところで、誰が見るんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_017S_0007",
+    "original": "本当に募集する気があるのかね？",
+    "translation": "本当に募集する気があるのかね？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_017S_0008",
+    "original": "音楽室のカギを借りるついでに\nコンテストについても聞いておくか",
+    "translation": "音楽室のカギを借りるついでに\nコンテストについても聞いておくか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_017S_0009",
+    "original": "…………\nそうですか、ありがとうございます",
+    "translation": "…………\nそうですか、ありがとうございます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_017S_0010",
+    "original": "先生たちの間をたらい回しにされた\n結果……",
+    "translation": "先生たちの間をたらい回しにされた\n結果……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_017S_0011",
+    "original": "なんとか無事に音楽室のカギを\n借りることが出来た",
+    "translation": "なんとか無事に音楽室のカギを\n借りることが出来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_017S_0012",
+    "original": "またＳＯＳ団が何か企んでるんじゃ\nないかとさんざん疑われたが",
+    "translation": "またＳＯＳ団が何か企んでるんじゃ\nないかとさんざん疑われたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_017S_0013",
+    "original": "まったく否定できないのが悲しいね\n先生の推理は見事的中だ",
+    "translation": "まったく否定できないのが悲しいね\n先生の推理は見事的中だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_017S_0014",
+    "original": "ついでに、過去の生徒で作曲コンテ\nストに応募した生徒がいたかどうか",
+    "translation": "ついでに、過去の生徒で作曲コンテ\nストに応募した生徒がいたかどうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_017S_0015",
+    "original": "聞いて回ってみたのだが、これが見\n事にゼロ",
+    "translation": "聞いて回ってみたのだが、これが見\n事にゼロ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_017S_0016",
+    "original": "そんな生徒は存在しなかったという\nことだ",
+    "translation": "そんな生徒は存在しなかったという\nことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_017S_0017",
+    "original": "これでハルヒへの説明としては完璧\nだろう",
+    "translation": "これでハルヒへの説明としては完璧\nだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_017S_0018",
+    "original": "そんな生徒はいなかったんだから\n幽霊だって存在するはずがない",
+    "translation": "そんな生徒はいなかったんだから\n幽霊だって存在するはずがない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_017S_0019",
+    "original": "ダメ押しに吹奏楽部のＯＢ名簿でも\n借りていって見せてやれば",
+    "translation": "ダメ押しに吹奏楽部のＯＢ名簿でも\n借りていって見せてやれば",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_017S_0020",
+    "original": "さすがのハルヒも文句のいいようが\nないだろう",
+    "translation": "さすがのハルヒも文句のいいようが\nないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_017S_0021",
+    "original": "ただ、我がＳＯＳ団は信用がないか\nらな",
+    "translation": "ただ、我がＳＯＳ団は信用がないか\nらな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_017S_0022",
+    "original": "余計なことをして、音楽室のカギま\nで取り上げられたら元の木阿弥だ",
+    "translation": "余計なことをして、音楽室のカギま\nで取り上げられたら元の木阿弥だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_017S_0023",
+    "original": "さて、どうするかね",
+    "translation": "さて、どうするかね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_017S_0024",
+    "original": "断られるのを覚悟で、吹奏楽部の顧\n問に頼んでみたところ",
+    "translation": "断られるのを覚悟で、吹奏楽部の顧\n問に頼んでみたところ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_017S_0025",
+    "original": "あっさりと[#P05]“ＯＢ名簿”[#P01]を\n借りることが出来た",
+    "translation": "あっさりと[#P05]“ＯＢ名簿”[#P01]を\n借りることが出来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_017S_0026",
+    "original": "案ずるより産むが易しと言う奴だな",
+    "translation": "案ずるより産むが易しと言う奴だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_017S_0027",
+    "original": "余計なことはやめておこう",
+    "translation": "余計なことはやめておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_017S_0028",
+    "original": "吹奏楽部のＯＢ名簿を何に使うかと\n聞かれた時点でアウトだからな",
+    "translation": "吹奏楽部のＯＢ名簿を何に使うかと\n聞かれた時点でアウトだからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_017S_0029",
+    "original": "ハルヒには、代わりに夏休みの補習\nの予定表でも持って行ってやろう",
+    "translation": "ハルヒには、代わりに夏休みの補習\nの予定表でも持って行ってやろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_017S_0030",
+    "original": "これで馬鹿げた合宿をあきらめて\nくれるとも思えないが",
+    "translation": "これで馬鹿げた合宿をあきらめて\nくれるとも思えないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_017S_0031",
+    "original": "話のタネくらいにはなるかも知れな\nい",
+    "translation": "話のタネくらいにはなるかも知れな\nい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_017S_0032",
+    "original": "もう職員室に用はないんだが……",
+    "translation": "もう職員室に用はないんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_017S_0033",
+    "original": "さっき見た、作曲コンテストの募集\nポスターが、どうしても気になる",
+    "translation": "さっき見た、作曲コンテストの募集\nポスターが、どうしても気になる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_017S_0034",
+    "original": "よく考えてみよう",
+    "translation": "よく考えてみよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_017S_0035",
+    "original": "過去、作曲コンテストを目指すよう\nな生徒はいなかった",
+    "translation": "過去、作曲コンテストを目指すよう\nな生徒はいなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_017S_0036",
+    "original": "つまり謎の少女は、ハルヒが言うよ\nうな生徒の幽霊ではない",
+    "translation": "つまり謎の少女は、ハルヒが言うよ\nうな生徒の幽霊ではない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_017S_0037",
+    "original": "ここまではいい",
+    "translation": "ここまではいい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_017S_0038",
+    "original": "じゃあ、聞こえてきたピアノの音は\nどういうことなのか……",
+    "translation": "じゃあ、聞こえてきたピアノの音は\nどういうことなのか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_017S_0039",
+    "original": "結局は、そこが解決されていない\n話が振り出しに戻っただけだ",
+    "translation": "結局は、そこが解決されていない\n話が振り出しに戻っただけだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_017S_0040",
+    "original": "作曲コンテストか……",
+    "translation": "作曲コンテストか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_017S_0041",
+    "original": "だったら、今現在、このコンテスト\nを目指している生徒がいることに",
+    "translation": "だったら、今現在、このコンテスト\nを目指している生徒がいることに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_017S_0042",
+    "original": "してしまうというのは、どうだ？",
+    "translation": "してしまうというのは、どうだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_017S_0043",
+    "original": "ピアノの音は、その生徒が練習を\nしていただけで謎などどこにもない",
+    "translation": "ピアノの音は、その生徒が練習を\nしていただけで謎などどこにもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_017S_0044",
+    "original": "完璧な作戦だ\nと思ったのだが",
+    "translation": "完璧な作戦だ\nと思ったのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_017S_0045",
+    "original": "げ、応募期日が過ぎてやがる……",
+    "translation": "げ、応募期日が過ぎてやがる……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_017S_0046",
+    "original": "流石にここに気付かれたら\n論理的に危うい気がするな",
+    "translation": "流石にここに気付かれたら\n論理的に危うい気がするな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_017S_0047",
+    "original": "どうする？\nポスターを持っていくか？",
+    "translation": "どうする？\nポスターを持っていくか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_017S_0048",
+    "original": "先生に頼んでみたところ、快く\n[#P05]“ポスター”[#P01]をもらうことができた",
+    "translation": "先生に頼んでみたところ、快く\n[#P05]“ポスター”[#P01]をもらうことができた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_017S_0049",
+    "original": "そりゃそうだ、応募期日がとっくに\n過ぎているんだからな",
+    "translation": "そりゃそうだ、応募期日がとっくに\n過ぎているんだからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_017S_0050",
+    "original": "とにかく、こいつでハルヒを説得で\nきればいいのだが……",
+    "translation": "とにかく、こいつでハルヒを説得で\nきればいいのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_017S_0051",
+    "original": "やめておこう",
+    "translation": "やめておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_017S_0052",
+    "original": "ハルヒはあれでなかなか鋭い\nからな",
+    "translation": "ハルヒはあれでなかなか鋭い\nからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_017S_0053",
+    "original": "ヤブを突いてヘビが出るような\nことになりかねない",
+    "translation": "ヤブを突いてヘビが出るような\nことになりかねない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_017S_0054",
+    "original": "ついでに先生にポスターの応募期日\nが過ぎていることを教えてやったら",
+    "translation": "ついでに先生にポスターの応募期日\nが過ぎていることを教えてやったら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_017S_0055",
+    "original": "[#P05]“健康診断のお知らせ”[#P01]をくれた\nお礼のつもりなのだろうか",
+    "translation": "[#P05]“健康診断のお知らせ”[#P01]をくれた\nお礼のつもりなのだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_017S_0056",
+    "original": "解釈に悩むところだ",
+    "translation": "解釈に悩むところだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_017S_0057",
+    "original": "今度こそ、もうここには用事は\nないな",
+    "translation": "今度こそ、もうここには用事は\nないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_017S_0058",
+    "original": "この材料でハルヒを説得しつつ\n事件の真相を何とかしなければ",
+    "translation": "この材料でハルヒを説得しつつ\n事件の真相を何とかしなければ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_017S_0059",
+    "original": "ならない",
+    "translation": "ならない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_017S_0060",
+    "original": "甚だ不安ではあるが、今はこうする\n他あるまい",
+    "translation": "甚だ不安ではあるが、今はこうする\n他あるまい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_017S_0061",
+    "original": "凡人である俺に出来るのは\nこれが限界だ",
+    "translation": "凡人である俺に出来るのは\nこれが限界だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_017S_0062",
+    "original": "あとはみんなの活躍に期待しよう",
+    "translation": "あとはみんなの活躍に期待しよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_017S_0063",
+    "original": "ＯＢ名簿を借りる",
+    "translation": "ＯＢ名簿を借りる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_017S_0064",
+    "original": "ＯＢ名簿を借りない",
+    "translation": "ＯＢ名簿を借りない",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_017S_0065",
+    "original": "持っていく",
+    "translation": "持っていく",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_017S_0066",
+    "original": "持っていかない",
+    "translation": "持っていかない",
+    "speaker": "CHOICE"
+  }
+]

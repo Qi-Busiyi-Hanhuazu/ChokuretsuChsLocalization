@@ -1,0 +1,199 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK62S_0000",
+    "original": "……いや、現在進行中の怪奇現象を\nハルヒに語るのはマズイだろう",
+    "translation": "……いや、現在進行中の怪奇現象を\nハルヒに語るのはマズイだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK62S_0001",
+    "original": "ここは一つ、別の話で足止めを――",
+    "translation": "ここは一つ、別の話で足止めを――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK62S_0002",
+    "original": "キョン、ペースが落ちてるわ",
+    "translation": "キョン、ペースが落ちてるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK62S_0003",
+    "original": "ダラダラ歩くのなら、ここに置いて\n先に行っちゃうわよ！？",
+    "translation": "ダラダラ歩くのなら、ここに置いて\n先に行っちゃうわよ！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK62S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_CK62S_0005",
+    "original": "あ……おいっ、待てハルヒ！",
+    "translation": "あ……おいっ、待てハルヒ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK62S_0006",
+    "original": "……ったく、自由奔放だなアイツは",
+    "translation": "……ったく、自由奔放だなアイツは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK62S_0007",
+    "original": "古泉くんって、観察した物から仮説\nを立てるのが上手ですよね",
+    "translation": "古泉くんって、観察した物から仮説\nを立てるのが上手ですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK62S_0008",
+    "original": "そうね。発想力が優れてるんだと思\nうわ",
+    "translation": "そうね。発想力が優れてるんだと思\nうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK62S_0009",
+    "original": "あたし、察しが悪いとか良く言われ\nるから、うらやましくて……",
+    "translation": "あたし、察しが悪いとか良く言われ\nるから、うらやましくて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK62S_0010",
+    "original": "あたしは、みくるちゃんはそれでも\nいいと思うけど。でもそうね、",
+    "translation": "あたしは、みくるちゃんはそれでも\nいいと思うけど。でもそうね、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK62S_0011",
+    "original": "みくるちゃんも色々と注意して観察\nすれば古泉くんみたいになれるかも",
+    "translation": "みくるちゃんも色々と注意して観察\nすれば古泉くんみたいになれるかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK62S_0012",
+    "original": "は、はいっ",
+    "translation": "は、はいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK62S_0013",
+    "original": "古泉一樹は仮説を立てる事が得意",
+    "translation": "古泉一樹は仮説を立てる事が得意",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK62S_0014",
+    "original": "古泉くんって、頭がいいものね\nじつに探偵向きだわ",
+    "translation": "古泉くんって、頭がいいものね\nじつに探偵向きだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK62S_0015",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK62S_0016",
+    "original": "そうよ。有希も頭はいいけど、",
+    "translation": "そうよ。有希も頭はいいけど、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK62S_0017",
+    "original": "大人しいから、探偵には向いてるか\nどうかわからないわね",
+    "translation": "大人しいから、探偵には向いてるか\nどうかわからないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK62S_0018",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK62S_0019",
+    "original": "何かを推理する時には、とりあえず\n仮説を立てますよね",
+    "translation": "何かを推理する時には、とりあえず\n仮説を立てますよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK62S_0020",
+    "original": "僕の仮説は信憑性がない\nのでしょうか？",
+    "translation": "僕の仮説は信憑性がない\nのでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK62S_0021",
+    "original": "え？　そんなことはないでしょ",
+    "translation": "え？　そんなことはないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK62S_0022",
+    "original": "古泉くんは現実と違う突拍子もない\nこととか言い出したりしないもの",
+    "translation": "古泉くんは現実と違う突拍子もない\nこととか言い出したりしないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK62S_0023",
+    "original": "そうでしょうか？　何か信用されて\nいない気がします",
+    "translation": "そうでしょうか？　何か信用されて\nいない気がします",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK62S_0024",
+    "original": "それ、キョンに信用されてないって\nことかしら？",
+    "translation": "それ、キョンに信用されてないって\nことかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK62S_0025",
+    "original": "認めたくはありませんが",
+    "translation": "認めたくはありませんが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK62S_0026",
+    "original": "うーん、あれは信用されてないって\nいうより反発してるだけに見えるわ",
+    "translation": "うーん、あれは信用されてないって\nいうより反発してるだけに見えるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK62S_0027",
+    "original": "反発、ですか。それもそれで考え\nものなのですが……",
+    "translation": "反発、ですか。それもそれで考え\nものなのですが……",
+    "speaker": "古泉"
+  }
+]

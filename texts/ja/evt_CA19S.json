@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA19S_0000",
+    "original": "そう言えば、本をぶつけた頭は\n大丈夫だったのか？",
+    "translation": "そう言えば、本をぶつけた頭は\n大丈夫だったのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA19S_0001",
+    "original": "本をぶつけた頭？",
+    "translation": "本をぶつけた頭？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA19S_0002",
+    "original": "こぶになってたりしないか？",
+    "translation": "こぶになってたりしないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA19S_0003",
+    "original": "ああ、さっきぶつけたところね\nちょっと痛かったけど平気よ",
+    "translation": "ああ、さっきぶつけたところね\nちょっと痛かったけど平気よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA19S_0004",
+    "original": "頑丈な頭で良かったな",
+    "translation": "頑丈な頭で良かったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA19S_0005",
+    "original": "それ、石頭だと言いたいわけ？",
+    "translation": "それ、石頭だと言いたいわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA19S_0006",
+    "original": "いやいや、文字どおりの意味だ\n気にするな",
+    "translation": "いやいや、文字どおりの意味だ\n気にするな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA19S_0007",
+    "original": "……疑わしいわ。ま、でもけっこう\n面白かったわよね",
+    "translation": "……疑わしいわ。ま、でもけっこう\n面白かったわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA19S_0008",
+    "original": "おいおい、朝比奈さんはたいそう\nへこんでたのにそれはないだろう",
+    "translation": "おいおい、朝比奈さんはたいそう\nへこんでたのにそれはないだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA19S_0009",
+    "original": "平然としてたら可愛くもなんとも\nないでしょ？",
+    "translation": "平然としてたら可愛くもなんとも\nないでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA19S_0010",
+    "original": "長門みたいなのか？",
+    "translation": "長門みたいなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA19S_0011",
+    "original": "有希はあれでいいの。クールな\nキャラが売りなんだから",
+    "translation": "有希はあれでいいの。クールな\nキャラが売りなんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA19S_0012",
+    "original": "我ながら、良い人材を集めたものね\nさすがあたしだわ！",
+    "translation": "我ながら、良い人材を集めたものね\nさすがあたしだわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA19S_0013",
+    "original": "はいはい",
+    "translation": "はいはい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA19S_0014",
+    "original": "涼宮さん、さっきはすみませんでし\nた本をぶつけてしまって……",
+    "translation": "涼宮さん、さっきはすみませんでし\nた本をぶつけてしまって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA19S_0015",
+    "original": "あの、こぶにとかなってません\nよね？",
+    "translation": "あの、こぶにとかなってません\nよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA19S_0016",
+    "original": "ん……別になってないから平気よ",
+    "translation": "ん……別になってないから平気よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA19S_0017",
+    "original": "あたしに気を使って我慢したり\nしないでくださいね",
+    "translation": "あたしに気を使って我慢したり\nしないでくださいね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA19S_0018",
+    "original": "あ、そうだ！　保健室で治療した\n方がいいかもしれません",
+    "translation": "あ、そうだ！　保健室で治療した\n方がいいかもしれません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA19S_0019",
+    "original": "後で腫れてくるかもしれないし",
+    "translation": "後で腫れてくるかもしれないし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA19S_0020",
+    "original": "ホントに大丈夫よ……",
+    "translation": "ホントに大丈夫よ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA19S_0021",
+    "original": "でも、くくっ",
+    "translation": "でも、くくっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA19S_0022",
+    "original": "す、涼宮さん？",
+    "translation": "す、涼宮さん？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA19S_0023",
+    "original": "面白かったわ、みくるちゃんのドジ\nっぷり",
+    "translation": "面白かったわ、みくるちゃんのドジ\nっぷり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA19S_0024",
+    "original": "ドジっ娘免許皆伝って感じ！",
+    "translation": "ドジっ娘免許皆伝って感じ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA19S_0025",
+    "original": "ううっ、そんな免許いりません～",
+    "translation": "ううっ、そんな免許いりません～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA19S_0026",
+    "original": "朝比奈みくるが失敗した",
+    "translation": "朝比奈みくるが失敗した",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA19S_0027",
+    "original": "ああ、うん。したわね、失敗\nそれも、連鎖的に",
+    "translation": "ああ、うん。したわね、失敗\nそれも、連鎖的に",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA19S_0028",
+    "original": "本人は落ち込んで反省していた",
+    "translation": "本人は落ち込んで反省していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA19S_0029",
+    "original": "あたしの頭に本がぶつかったのは\n痛かったけどね",
+    "translation": "あたしの頭に本がぶつかったのは\n痛かったけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA19S_0030",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA19S_0031",
+    "original": "もう平気よ。心配しなくても\nいいわよ、有希",
+    "translation": "もう平気よ。心配しなくても\nいいわよ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA19S_0032",
+    "original": "朝比奈みくるを責めている？",
+    "translation": "朝比奈みくるを責めている？",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA19S_0033",
+    "original": "責めてないわよ。あたしの心は\nそんなに狭くないわ",
+    "translation": "責めてないわよ。あたしの心は\nそんなに狭くないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA19S_0034",
+    "original": "そう。良かった",
+    "translation": "そう。良かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA19S_0035",
+    "original": "涼宮さん、本をぶつけたという\n頭部は、大丈夫なのですか？",
+    "translation": "涼宮さん、本をぶつけたという\n頭部は、大丈夫なのですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA19S_0036",
+    "original": "ああ、あれね。平気よ、こぶにも\nならなかったしね",
+    "translation": "ああ、あれね。平気よ、こぶにも\nならなかったしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA19S_0037",
+    "original": "それならいいんですが",
+    "translation": "それならいいんですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA19S_0038",
+    "original": "みくるちゃんのドジを聞いたの？",
+    "translation": "みくるちゃんのドジを聞いたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA19S_0039",
+    "original": "聞かせてもらいました",
+    "translation": "聞かせてもらいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA19S_0040",
+    "original": "申し訳ないのですが、僕も居合わせ\nたかったですね",
+    "translation": "申し訳ないのですが、僕も居合わせ\nたかったですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA19S_0041",
+    "original": "うん、ハタからみてたらお笑い番組\nみたいだったと思うわ",
+    "translation": "うん、ハタからみてたらお笑い番組\nみたいだったと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA19S_0042",
+    "original": "あれを素でやっちゃうみくるちゃん\nってすごいわよ",
+    "translation": "あれを素でやっちゃうみくるちゃん\nってすごいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA19S_0043",
+    "original": "みくるちゃんには悪いんだけど\n面白かったわ！",
+    "translation": "みくるちゃんには悪いんだけど\n面白かったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA19S_0044",
+    "original": "その場にいなかったのが\n本当に惜しいです",
+    "translation": "その場にいなかったのが\n本当に惜しいです",
+    "speaker": "古泉"
+  }
+]

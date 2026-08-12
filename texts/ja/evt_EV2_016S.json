@@ -1,0 +1,1056 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_016S_0000",
+    "original": "カギを借りに行った朝比奈さんを\n除いた全員で図書室に来た",
+    "translation": "カギを借りに行った朝比奈さんを\n除いた全員で図書室に来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_016S_0001",
+    "original": "ハルヒを調べ物に熱中させておけば\n音楽室に行かずに済むかもしれない",
+    "translation": "ハルヒを調べ物に熱中させておけば\n音楽室に行かずに済むかもしれない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_016S_0002",
+    "original": "さあ、手分けして音楽室のことや\n音楽家についての情報を探すわよ！",
+    "translation": "さあ、手分けして音楽室のことや\n音楽家についての情報を探すわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_016S_0003",
+    "original": "俺が盛り上げるまでもなく、ハルヒ\nは勝手にテンションを上げている",
+    "translation": "俺が盛り上げるまでもなく、ハルヒ\nは勝手にテンションを上げている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_016S_0004",
+    "original": "そんな情報ならネットで検索すれば\n簡単に得られるだろうが",
+    "translation": "そんな情報ならネットで検索すれば\n簡単に得られるだろうが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_016S_0005",
+    "original": "ハルヒはその事に気が付いていない",
+    "translation": "ハルヒはその事に気が付いていない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_016S_0006",
+    "original": "ここで資料を探していれば、いずれ\n音楽室のことを忘れるかもな",
+    "translation": "ここで資料を探していれば、いずれ\n音楽室のことを忘れるかもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_016S_0007",
+    "original": "キョンくん、あたしもお手伝いする",
+    "translation": "キョンくん、あたしもお手伝いする",
+    "speaker": "妹"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_016S_0008",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_016S_0009",
+    "original": "妹ちゃんはあたしと一緒に本を探し\nてくれる？",
+    "translation": "妹ちゃんはあたしと一緒に本を探し\nてくれる？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_016S_0010",
+    "original": "うん、手伝う！",
+    "translation": "うん、手伝う！",
+    "speaker": "妹"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_016S_0011",
+    "original": "朝比奈さんになら安心して妹を\nまかせられるが、ハルヒだと不安だ",
+    "translation": "朝比奈さんになら安心して妹を\nまかせられるが、ハルヒだと不安だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_016S_0012",
+    "original": "いや、おまえはそのへんで本でも\n読んでなさい",
+    "translation": "いや、おまえはそのへんで本でも\n読んでなさい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_016S_0013",
+    "original": "ハルにゃんを手伝うのっ",
+    "translation": "ハルにゃんを手伝うのっ",
+    "speaker": "妹"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_016S_0014",
+    "original": "ほら、妹ちゃんはあたしが見てる\nから、キョンは調べものをして！",
+    "translation": "ほら、妹ちゃんはあたしが見てる\nから、キョンは調べものをして！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_016S_0015",
+    "original": "へいへい",
+    "translation": "へいへい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_016S_0016",
+    "original": "有希は奥から順番に、古泉くんは\n右側から、キョンは左から調べて",
+    "translation": "有希は奥から順番に、古泉くんは\n右側から、キョンは左から調べて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_016S_0017",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_016S_0018",
+    "original": "あたしは妹ちゃんと一緒に、中央\nからせめていくわ",
+    "translation": "あたしは妹ちゃんと一緒に、中央\nからせめていくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_016S_0019",
+    "original": "わかりました、涼宮さん",
+    "translation": "わかりました、涼宮さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_016S_0020",
+    "original": "ということは、ハルヒの目を盗んで\n古泉や長門と作戦会議ができるか",
+    "translation": "ということは、ハルヒの目を盗んで\n古泉や長門と作戦会議ができるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_016S_0021",
+    "original": "どっちに声を掛けるかな",
+    "translation": "どっちに声を掛けるかな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_016S_0022",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_016S_0023",
+    "original": "長門、これからどう展開するつもり\nか、考えを聞かせてもらえないか？",
+    "translation": "長門、これからどう展開するつもり\nか、考えを聞かせてもらえないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_016S_0024",
+    "original": "涼宮ハルヒの動向をみて臨機応変に\n対応するのが望ましい",
+    "translation": "涼宮ハルヒの動向をみて臨機応変に\n対応するのが望ましい",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_016S_0025",
+    "original": "それしかないんだろうけど……\nハルヒのヤツ、気まぐれだからな",
+    "translation": "それしかないんだろうけど……\nハルヒのヤツ、気まぐれだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_016S_0026",
+    "original": "いきなり方針を変えたりするから\nいつもこっちが慌てる羽目になる",
+    "translation": "いきなり方針を変えたりするから\nいつもこっちが慌てる羽目になる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_016S_0027",
+    "original": "……これを渡しておく",
+    "translation": "……これを渡しておく",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_016S_0028",
+    "original": "[#P05]“メモ帳”[#P00]？　これでどうする？",
+    "translation": "[#P05]“メモ帳”[#P00]？　これでどうする？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_016S_0029",
+    "original": "情報が混乱するなら、これに書き\n留めればいい",
+    "translation": "情報が混乱するなら、これに書き\n留めればいい",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_016S_0030",
+    "original": "ああ、ありがとよ",
+    "translation": "ああ、ありがとよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_016S_0031",
+    "original": "もらってもなにを書けばいいのか",
+    "translation": "もらってもなにを書けばいいのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_016S_0032",
+    "original": "ハルヒのえんま帳にでもするか",
+    "translation": "ハルヒのえんま帳にでもするか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_016S_0033",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_016S_0034",
+    "original": "古泉、これからどうするか聞かせて\nもらえないか？",
+    "translation": "古泉、これからどうするか聞かせて\nもらえないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_016S_0035",
+    "original": "涼宮さんの興味を引きそうな本を\n探すと言ったところでしょうか",
+    "translation": "涼宮さんの興味を引きそうな本を\n探すと言ったところでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_016S_0036",
+    "original": "まあ、半ばそのためにここにいる\nわけだが、もっと具体的な案は？",
+    "translation": "まあ、半ばそのためにここにいる\nわけだが、もっと具体的な案は？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_016S_0037",
+    "original": "いまは涼宮さんの動向を見ながら\n興味を引く本探しでしょうね",
+    "translation": "いまは涼宮さんの動向を見ながら\n興味を引く本探しでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_016S_0038",
+    "original": "そうだ、これを差し上げますよ",
+    "translation": "そうだ、これを差し上げますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_016S_0039",
+    "original": "[#P05]“付せん”[#P00]か？\nこれをどうするんだ？",
+    "translation": "[#P05]“付せん”[#P00]か？\nこれをどうするんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_016S_0040",
+    "original": "面白そうな文面を見つけたら\n貼っておくといいです",
+    "translation": "面白そうな文面を見つけたら\n貼っておくといいです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_016S_0041",
+    "original": "そうだな、折り目を付けたり破る\nわけにもいかないからな……",
+    "translation": "そうだな、折り目を付けたり破る\nわけにもいかないからな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_016S_0042",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_016S_0043",
+    "original": "こらキョン！",
+    "translation": "こらキョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_016S_0044",
+    "original": "な、なんだよ？",
+    "translation": "な、なんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_016S_0045",
+    "original": "なにをゴチャゴチャやってるのよ！",
+    "translation": "なにをゴチャゴチャやってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_016S_0046",
+    "original": "だから資料を探してだなあ……",
+    "translation": "だから資料を探してだなあ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_016S_0047",
+    "original": "あんたの担当はそっちじゃないわ！",
+    "translation": "あんたの担当はそっちじゃないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_016S_0048",
+    "original": "まったく、ちょっとは落ち着いて\n資料を探しなさいよねっ",
+    "translation": "まったく、ちょっとは落ち着いて\n資料を探しなさいよねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_016S_0049",
+    "original": "はいはい、図書室では静かにか",
+    "translation": "はいはい、図書室では静かにか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_016S_0050",
+    "original": "そうよ、うるさくしたら迷惑よ",
+    "translation": "そうよ、うるさくしたら迷惑よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_016S_0051",
+    "original": "そういうおまえも大声でうるさいぞ",
+    "translation": "そういうおまえも大声でうるさいぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_016S_0052",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_016S_0053",
+    "original": "ハルにゃん、あそこの壁に、静かに\nって書いてるよ",
+    "translation": "ハルにゃん、あそこの壁に、静かに\nって書いてるよ",
+    "speaker": "妹"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_016S_0054",
+    "original": "あ、そっか……静かにしなくちゃね",
+    "translation": "あ、そっか……静かにしなくちゃね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_016S_0055",
+    "original": "なぜかやけにあっさり従ったな？",
+    "translation": "なぜかやけにあっさり従ったな？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_016S_0056",
+    "original": "この場合、ハルヒの良心云々という\nより興味が本に向いているからか？",
+    "translation": "この場合、ハルヒの良心云々という\nより興味が本に向いているからか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_016S_0057",
+    "original": "ほら、さっさと資料を探しなさいっ",
+    "translation": "ほら、さっさと資料を探しなさいっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_016S_0058",
+    "original": "はいはい",
+    "translation": "はいはい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_016S_0059",
+    "original": "ハルヒのささやきというのに慣れて\nいないせいか、背筋がゾクッとする",
+    "translation": "ハルヒのささやきというのに慣れて\nいないせいか、背筋がゾクッとする",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_016S_0060",
+    "original": "さてと、資料探しといわれてもなあ",
+    "translation": "さてと、資料探しといわれてもなあ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_016S_0061",
+    "original": "音楽室からほかのことに興味を示せ\nばいいんだろうが……",
+    "translation": "音楽室からほかのことに興味を示せ\nばいいんだろうが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_016S_0062",
+    "original": "興味が移ったことで、ほかの厄介な\n現象に巻き込まれてもかなわん",
+    "translation": "興味が移ったことで、ほかの厄介な\n現象に巻き込まれてもかなわん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_016S_0063",
+    "original": "こちらを立てればあちらが立たずだ",
+    "translation": "こちらを立てればあちらが立たずだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_016S_0064",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_016S_0065",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_016S_0066",
+    "original": "適当に本を探して見るものの、有益\nな情報は見つからない",
+    "translation": "適当に本を探して見るものの、有益\nな情報は見つからない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_016S_0067",
+    "original": "だいいち、俺が担当する棚は社会だ\nの人文科学で音楽とはまず無関係だ",
+    "translation": "だいいち、俺が担当する棚は社会だ\nの人文科学で音楽とはまず無関係だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_016S_0068",
+    "original": "……長門や古泉はめぼしい情報を\n手に入れただろうか？",
+    "translation": "……長門や古泉はめぼしい情報を\n手に入れただろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_016S_0069",
+    "original": "こっそり聞いてみるか",
+    "translation": "こっそり聞いてみるか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_016S_0070",
+    "original": "長門、良さそうな情報はあったか？",
+    "translation": "長門、良さそうな情報はあったか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_016S_0071",
+    "original": "興味深い文献を選出し、メモに\n書いておいた",
+    "translation": "興味深い文献を選出し、メモに\n書いておいた",
+    "speaker": "長門"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_016S_0072",
+    "original": "そりゃいいな。音楽家の情報か？",
+    "translation": "そりゃいいな。音楽家の情報か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_016S_0073",
+    "original": "怪談。涼宮ハルヒの興味が学校以外\nの怪奇現象に向けばそれでいい",
+    "translation": "怪談。涼宮ハルヒの興味が学校以外\nの怪奇現象に向けばそれでいい",
+    "speaker": "長門"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_016S_0074",
+    "original": "そっちに移動して合宿なんてことは\nないんだろうな？",
+    "translation": "そっちに移動して合宿なんてことは\nないんだろうな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_016S_0075",
+    "original": "都市伝説的な情報だから場所の特定\nは困難",
+    "translation": "都市伝説的な情報だから場所の特定\nは困難",
+    "speaker": "長門"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_016S_0076",
+    "original": "なるほど",
+    "translation": "なるほど",
+    "speaker": "キョン"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_016S_0077",
+    "original": "これがまとめておいたメモ",
+    "translation": "これがまとめておいたメモ",
+    "speaker": "長門"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_016S_0078",
+    "original": "[#P05]“短編怪談メモ”[#P00]か……\nもらってもいいのか？",
+    "translation": "[#P05]“短編怪談メモ”[#P00]か……\nもらってもいいのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_016S_0079",
+    "original": "いい。わたしは記憶しているから",
+    "translation": "いい。わたしは記憶しているから",
+    "speaker": "長門"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_016S_0080",
+    "original": "長門の言う通りだと思うが、ハルヒ\nの興味がこれに向くかは微妙だな",
+    "translation": "長門の言う通りだと思うが、ハルヒ\nの興味がこれに向くかは微妙だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_016S_0081",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_016S_0082",
+    "original": "古泉、めぼしい情報は見つかったか",
+    "translation": "古泉、めぼしい情報は見つかったか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_016S_0083",
+    "original": "いえ、お手上げですね",
+    "translation": "いえ、お手上げですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_016S_0084",
+    "original": "いつもソツのないおまえがお手上げ\nってのは珍しいな",
+    "translation": "いつもソツのないおまえがお手上げ\nってのは珍しいな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_016S_0085",
+    "original": "余計なところでソツがないだけか",
+    "translation": "余計なところでソツがないだけか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_016S_0086",
+    "original": "怪奇現象にはＳＦをぶつけるのも\nアリかと思いまして、これを",
+    "translation": "怪奇現象にはＳＦをぶつけるのも\nアリかと思いまして、これを",
+    "speaker": "古泉"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_016S_0087",
+    "original": "[#P05]“ＳＦ短編メモ”[#P00]？　なんだ？",
+    "translation": "[#P05]“ＳＦ短編メモ”[#P00]？　なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_016S_0088",
+    "original": "ＳＦ本から涼宮さんが面白がるよう\nな部分を抜粋したメモです",
+    "translation": "ＳＦ本から涼宮さんが面白がるよう\nな部分を抜粋したメモです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_016S_0089",
+    "original": "怪談に怪談をぶつけても同じような\n気がしたので、ＳＦなら良いかと",
+    "translation": "怪談に怪談をぶつけても同じような\n気がしたので、ＳＦなら良いかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_016S_0090",
+    "original": "ありえない世界観でカウンターでも\n食らわせるつもりか？",
+    "translation": "ありえない世界観でカウンターでも\n食らわせるつもりか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_016S_0091",
+    "original": "問題は涼宮さんの興味を学校内から\nほかへ向ければいいのですから",
+    "translation": "問題は涼宮さんの興味を学校内から\nほかへ向ければいいのですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_016S_0092",
+    "original": "まあ、もっともな話だが、そんな手\nがあっさり通用するとも思えない",
+    "translation": "まあ、もっともな話だが、そんな手\nがあっさり通用するとも思えない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_016S_0093",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_016S_0094",
+    "original": "ちょっとキョン！　あんたはさっき\nからウロチョロとしてばっかりね！",
+    "translation": "ちょっとキョン！　あんたはさっき\nからウロチョロとしてばっかりね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_016S_0095",
+    "original": "調べものはちゃんと進んでるの？",
+    "translation": "調べものはちゃんと進んでるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_016S_0096",
+    "original": "いや、雲を掴むような話で\nまるで進んでないね",
+    "translation": "いや、雲を掴むような話で\nまるで進んでないね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_016S_0097",
+    "original": "やっぱりキョンはキョンねっ！",
+    "translation": "やっぱりキョンはキョンねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_016S_0098",
+    "original": "そりゃあ俺はどこまでも俺だが\n何か問題でもありそうな言い草だな",
+    "translation": "そりゃあ俺はどこまでも俺だが\n何か問題でもありそうな言い草だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_016S_0099",
+    "original": "あたしはいくつか面白そうな情報を\n手に入れたのよっ！",
+    "translation": "あたしはいくつか面白そうな情報を\n手に入れたのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_016S_0100",
+    "original": "おいおい、ここは図書室だぞ……\nもう少し静かにしろ",
+    "translation": "おいおい、ここは図書室だぞ……\nもう少し静かにしろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_016S_0101",
+    "original": "ほかに誰もいないんだし良いでしょ\nだってホントに面白い情報なのよ！",
+    "translation": "ほかに誰もいないんだし良いでしょ\nだってホントに面白い情報なのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_016S_0102",
+    "original": "なにを見つけたのかは知らないが\nえらくボルテージが上がってるな",
+    "translation": "なにを見つけたのかは知らないが\nえらくボルテージが上がってるな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_016S_0103",
+    "original": "あんまり騒ぐと、生徒がいなくても\n司書の先生が飛んでくるぞ？",
+    "translation": "あんまり騒ぐと、生徒がいなくても\n司書の先生が飛んでくるぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_016S_0104",
+    "original": "だって、北高から有名な音楽家が\n何人か出ているって情報があるのよ",
+    "translation": "だって、北高から有名な音楽家が\n何人か出ているって情報があるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_016S_0105",
+    "original": "それは確かな情報か？",
+    "translation": "それは確かな情報か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_016S_0106",
+    "original": "おそらくね",
+    "translation": "おそらくね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_016S_0107",
+    "original": "おそらくって、どこからが事実で\nどこまでがハルヒの思い込みなんだ",
+    "translation": "おそらくって、どこからが事実で\nどこまでがハルヒの思い込みなんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_016S_0108",
+    "original": "ねえハルにゃん。この本の写真は\nここの学校と似てるよ",
+    "translation": "ねえハルにゃん。この本の写真は\nここの学校と似てるよ",
+    "speaker": "妹"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_016S_0109",
+    "original": "えらいわ、妹ちゃん！　これは\nまさしく北高の写真よ！",
+    "translation": "えらいわ、妹ちゃん！　これは\nまさしく北高の写真よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_016S_0110",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_016S_0111",
+    "original": "妹が見つけた本を見て、団長殿は\n有頂天になっておいでだ",
+    "translation": "妹が見つけた本を見て、団長殿は\n有頂天になっておいでだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_016S_0112",
+    "original": "とはいえ、司書のブースから静かに\nしろというオーラが伝わってくる",
+    "translation": "とはいえ、司書のブースから静かに\nしろというオーラが伝わってくる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_016S_0113",
+    "original": "こういうピリピリとした空気は\n俺としては遠慮したい",
+    "translation": "こういうピリピリとした空気は\n俺としては遠慮したい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_016S_0114",
+    "original": "これ、すごいわ、キョン！",
+    "translation": "これ、すごいわ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_016S_0115",
+    "original": "な、なんだよ",
+    "translation": "な、なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_016S_0116",
+    "original": "２０年前の情報を見つけたのよ！",
+    "translation": "２０年前の情報を見つけたのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_016S_0117",
+    "original": "それで、なんて書いてあるんだ？",
+    "translation": "それで、なんて書いてあるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_016S_0118",
+    "original": "記事じゃなくて写真なんだけど\n校舎がすっごくキレイよ！",
+    "translation": "記事じゃなくて写真なんだけど\n校舎がすっごくキレイよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_016S_0119",
+    "original": "無意味な記事で大声を出すな\n司書のピリピリ濃度が増してるぞ",
+    "translation": "無意味な記事で大声を出すな\n司書のピリピリ濃度が増してるぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_016S_0120",
+    "original": "いっそ叱りつけられた方が気が楽だ",
+    "translation": "いっそ叱りつけられた方が気が楽だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_016S_0121",
+    "original": "ハルにゃん、こんなのもあったよ",
+    "translation": "ハルにゃん、こんなのもあったよ",
+    "speaker": "妹"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_016S_0122",
+    "original": "すごいわ、大発見よ！　キョン\nあんたも妹ちゃんを見習うべきだわ",
+    "translation": "すごいわ、大発見よ！　キョン\nあんたも妹ちゃんを見習うべきだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_016S_0123",
+    "original": "あーはいはい\nそれより静かにしろよ",
+    "translation": "あーはいはい\nそれより静かにしろよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV2_016S_0124",
+    "original": "ハルヒからはムダにけなされるし\n司書のピリピリは臨界点突破寸前だ",
+    "translation": "ハルヒからはムダにけなされるし\n司書のピリピリは臨界点突破寸前だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV2_016S_0125",
+    "original": "針のムシロとはよく言ったものだと\n昔の人を尊敬するね",
+    "translation": "針のムシロとはよく言ったものだと\n昔の人を尊敬するね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV2_016S_0126",
+    "original": "あれえ？　向こうから来るのは\nみくるちゃんじゃないかな？",
+    "translation": "あれえ？　向こうから来るのは\nみくるちゃんじゃないかな？",
+    "speaker": "妹"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV2_016S_0127",
+    "original": "あっ、みくるちゃん！　えらいわっ\nカギを借りてきたのねっ！",
+    "translation": "あっ、みくるちゃん！　えらいわっ\nカギを借りてきたのねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV2_016S_0128",
+    "original": "大声を出すな、いきなり立ち上がる\nから椅子が倒れて大音響だ",
+    "translation": "大声を出すな、いきなり立ち上がる\nから椅子が倒れて大音響だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV2_016S_0129",
+    "original": "みくるちゃーん、こっちこっち！！",
+    "translation": "みくるちゃーん、こっちこっち！！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV2_016S_0130",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 131,
+    "key": "evt_EV2_016S_0131",
+    "original": "いかん、司書のブースから禍々しい\n気配がたなびいてきた",
+    "translation": "いかん、司書のブースから禍々しい\n気配がたなびいてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV2_016S_0132",
+    "original": "ここに長居すると息が詰まって\nしまいそうだ",
+    "translation": "ここに長居すると息が詰まって\nしまいそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV2_016S_0133",
+    "original": "そろそろ音楽室に移動するか",
+    "translation": "そろそろ音楽室に移動するか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV2_016S_0134",
+    "original": "……いいの？",
+    "translation": "……いいの？",
+    "speaker": "長門"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV2_016S_0135",
+    "original": "あなたのお気持ちは察しますが……",
+    "translation": "あなたのお気持ちは察しますが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV2_016S_0136",
+    "original": "これ以上ここにいたら、胃に穴が\nあきそうだ",
+    "translation": "これ以上ここにいたら、胃に穴が\nあきそうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV2_016S_0137",
+    "original": "みくるちゃーん、こっちよ！",
+    "translation": "みくるちゃーん、こっちよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV2_016S_0138",
+    "original": "一刻も早くこの騒音発生装置を連れ\n出さないとまずいことになる",
+    "translation": "一刻も早くこの騒音発生装置を連れ\n出さないとまずいことになる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV2_016S_0139",
+    "original": "司書から出入り禁止にされそうだ",
+    "translation": "司書から出入り禁止にされそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV2_016S_0140",
+    "original": "ここを出るぞ、古泉",
+    "translation": "ここを出るぞ、古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV2_016S_0141",
+    "original": "了解しました",
+    "translation": "了解しました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV2_016S_0142",
+    "original": "ハルヒ、音楽室に行くぞ",
+    "translation": "ハルヒ、音楽室に行くぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV2_016S_0143",
+    "original": "この決断が吉と出るか凶と出るか",
+    "translation": "この決断が吉と出るか凶と出るか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV2_016S_0144",
+    "original": "せっかくだから占いの本でも読んで\nおくべきだったかも知れない",
+    "translation": "せっかくだから占いの本でも読んで\nおくべきだったかも知れない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV2_016S_0145",
+    "original": "長門に声を掛ける",
+    "translation": "長門に声を掛ける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV2_016S_0146",
+    "original": "古泉に声を掛ける",
+    "translation": "古泉に声を掛ける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV2_016S_0147",
+    "original": "長門に聞く",
+    "translation": "長門に聞く",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV2_016S_0148",
+    "original": "古泉に聞く",
+    "translation": "古泉に聞く",
+    "speaker": "CHOICE"
+  }
+]

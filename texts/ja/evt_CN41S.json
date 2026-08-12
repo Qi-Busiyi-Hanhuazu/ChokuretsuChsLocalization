@@ -1,0 +1,359 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN41S_0000",
+    "original": "長門はパソコンに興味とかあるの\nかね？",
+    "translation": "長門はパソコンに興味とかあるの\nかね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN41S_0001",
+    "original": "どうかしらね",
+    "translation": "どうかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN41S_0002",
+    "original": "あたしやキョンが触ってるときも\n別に興味無さそうに本読んでるけど",
+    "translation": "あたしやキョンが触ってるときも\n別に興味無さそうに本読んでるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN41S_0003",
+    "original": "そうだよなあ……",
+    "translation": "そうだよなあ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN41S_0004",
+    "original": "そのわりにコンピ研のパソコンの\n不調をぴたりと当ててたな",
+    "translation": "そのわりにコンピ研のパソコンの\n不調をぴたりと当ててたな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN41S_0005",
+    "original": "ふうん、それがどうかしたの？",
+    "translation": "ふうん、それがどうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN41S_0006",
+    "original": "いや、ちょっと気になっただけだ",
+    "translation": "いや、ちょっと気になっただけだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN41S_0007",
+    "original": "変なの。そんなことよりほら、\nさっさと行きましょ",
+    "translation": "変なの。そんなことよりほら、\nさっさと行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN41S_0008",
+    "original": "あ、あのバーベキュー道具を借りた\n時のことなんですけど",
+    "translation": "あ、あのバーベキュー道具を借りた\n時のことなんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN41S_0009",
+    "original": "コンピ研の人たちが困っていて",
+    "translation": "コンピ研の人たちが困っていて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN41S_0010",
+    "original": "その時、長門さんがすごく頼りに\nなったんですよ",
+    "translation": "その時、長門さんがすごく頼りに\nなったんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN41S_0011",
+    "original": "へぇ、有希がねぇ\n大人しい子なのに、意外だわね",
+    "translation": "へぇ、有希がねぇ\n大人しい子なのに、意外だわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN41S_0012",
+    "original": "パソコンが動かなくなった時に……",
+    "translation": "パソコンが動かなくなった時に……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN41S_0013",
+    "original": "長門さんが、接触不良だって\nトラブルの指摘をしたら",
+    "translation": "長門さんが、接触不良だって\nトラブルの指摘をしたら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN41S_0014",
+    "original": "まさにそのとおりだったんですよ",
+    "translation": "まさにそのとおりだったんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN41S_0015",
+    "original": "ありがちなミスよね",
+    "translation": "ありがちなミスよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN41S_0016",
+    "original": "小むずかしい原因ばかり考えてる\nと、初歩的なミスに気づかない",
+    "translation": "小むずかしい原因ばかり考えてる\nと、初歩的なミスに気づかない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN41S_0017",
+    "original": "だから、有希みたいな素直な子が\n先に気づくってわけね",
+    "translation": "だから、有希みたいな素直な子が\n先に気づくってわけね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN41S_0018",
+    "original": "え、ええ、あたしもそう思いますぅ",
+    "translation": "え、ええ、あたしもそう思いますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN41S_0019",
+    "original": "それにしても、一緒に行ったはずの\nキョンは気づかなかったの？",
+    "translation": "それにしても、一緒に行ったはずの\nキョンは気づかなかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN41S_0020",
+    "original": "えっ？　あ、あの……その……",
+    "translation": "えっ？　あ、あの……その……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN41S_0021",
+    "original": "パソコンが苦手なみくるちゃんなら\nともかく",
+    "translation": "パソコンが苦手なみくるちゃんなら\nともかく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN41S_0022",
+    "original": "キョンが気づかないなんて、\nＳＯＳ団員としてはずかしいわ",
+    "translation": "キョンが気づかないなんて、\nＳＯＳ団員としてはずかしいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN41S_0023",
+    "original": "は、はぅぅ",
+    "translation": "は、はぅぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN41S_0024",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN41S_0025",
+    "original": "どうかした？",
+    "translation": "どうかした？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN41S_0026",
+    "original": "そこ\n濡れていて危険",
+    "translation": "そこ\n濡れていて危険",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN41S_0027",
+    "original": "あ……ほんとだわ、ありがと\n暗いから気付かなかったわ",
+    "translation": "あ……ほんとだわ、ありがと\n暗いから気付かなかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN41S_0028",
+    "original": "迂回するべき\n転倒すれば怪我をする",
+    "translation": "迂回するべき\n転倒すれば怪我をする",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN41S_0029",
+    "original": "そうね……こんなの踏んづけたら\n転んで怪我するわね",
+    "translation": "そうね……こんなの踏んづけたら\n転んで怪我するわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN41S_0030",
+    "original": "それにしても……有希、良く気が\nついたわね",
+    "translation": "それにしても……有希、良く気が\nついたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN41S_0031",
+    "original": "明かりの反射で発見した",
+    "translation": "明かりの反射で発見した",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN41S_0032",
+    "original": "なるほどね……それにしても、有希\nはたいしたものだわ",
+    "translation": "なるほどね……それにしても、有希\nはたいしたものだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN41S_0033",
+    "original": "トラブルの原因を見付けて指摘する\nことにかけてはエキスパートね",
+    "translation": "トラブルの原因を見付けて指摘する\nことにかけてはエキスパートね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN41S_0034",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN41S_0035",
+    "original": "そうね、有希のことを今日からＳＯ\nＳ団の危機管理委員に任命するわ",
+    "translation": "そうね、有希のことを今日からＳＯ\nＳ団の危機管理委員に任命するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN41S_0036",
+    "original": "どう？　なかなかの役職でしょ？",
+    "translation": "どう？　なかなかの役職でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN41S_0037",
+    "original": "……辞退を希望",
+    "translation": "……辞退を希望",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN41S_0038",
+    "original": "あ、あら？　そう？",
+    "translation": "あ、あら？　そう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN41S_0039",
+    "original": "……いいアイディアだと思ったんだ\nけどなあ",
+    "translation": "……いいアイディアだと思ったんだ\nけどなあ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN41S_0040",
+    "original": "コンピ研で長門さんが\nコンピューターのトラブルを",
+    "translation": "コンピ研で長門さんが\nコンピューターのトラブルを",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN41S_0041",
+    "original": "指摘したそうですよ",
+    "translation": "指摘したそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN41S_0042",
+    "original": "どうせ接触不良かなにかでトラブっ\nてただけしょ",
+    "translation": "どうせ接触不良かなにかでトラブっ\nてただけしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN41S_0043",
+    "original": "……驚きました、涼宮さん",
+    "translation": "……驚きました、涼宮さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN41S_0044",
+    "original": "まさに、その接触不良が原因だった\nそうですよ。よく分かりましたね",
+    "translation": "まさに、その接触不良が原因だった\nそうですよ。よく分かりましたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN41S_0045",
+    "original": "簡単なことよ。専門家って難しく\n考えすぎて根っこが抜けてるのよね",
+    "translation": "簡単なことよ。専門家って難しく\n考えすぎて根っこが抜けてるのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN41S_0046",
+    "original": "確かにそうした傾向はあるようです",
+    "translation": "確かにそうした傾向はあるようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN41S_0047",
+    "original": "トンネルに屋根がつかえて動けなく\nなったトラックの話があるでしょ",
+    "translation": "トンネルに屋根がつかえて動けなく\nなったトラックの話があるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN41S_0048",
+    "original": "タイヤの空気を抜けば通ることが\n出来ると子供が言った話ですね",
+    "translation": "タイヤの空気を抜けば通ることが\n出来ると子供が言った話ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN41S_0049",
+    "original": "あれと同じよ。凝り固まった視野\nじゃあ本質は見抜けないのよねっ",
+    "translation": "あれと同じよ。凝り固まった視野\nじゃあ本質は見抜けないのよねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN41S_0050",
+    "original": "いや、恐れ入りました",
+    "translation": "いや、恐れ入りました",
+    "speaker": "古泉"
+  }
+]

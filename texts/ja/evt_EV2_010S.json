@@ -1,0 +1,366 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_010S_0000",
+    "original": "さあ、始めるわよ！",
+    "translation": "さあ、始めるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_010S_0001",
+    "original": "目の前には、図書室から運び込んだ\n山のような資料が積まれている",
+    "translation": "目の前には、図書室から運び込んだ\n山のような資料が積まれている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_010S_0002",
+    "original": "これを、全部調べるのか？",
+    "translation": "これを、全部調べるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_010S_0003",
+    "original": "当ったり前でしょ\n何のために運び込んだのよ？",
+    "translation": "当ったり前でしょ\n何のために運び込んだのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_010S_0004",
+    "original": "そりゃそうだが……",
+    "translation": "そりゃそうだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_010S_0005",
+    "original": "こりゃ一朝一夕で終わる量じゃ\nないぞ？",
+    "translation": "こりゃ一朝一夕で終わる量じゃ\nないぞ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_010S_0006",
+    "original": "ほらほら、喋ってばかりいないで\n手を動かしなさい！",
+    "translation": "ほらほら、喋ってばかりいないで\n手を動かしなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_010S_0007",
+    "original": "いくらキョンでも、何を調べるかは\n判ってるわよね？",
+    "translation": "いくらキョンでも、何を調べるかは\n判ってるわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_010S_0008",
+    "original": "……この学校の記録だろ",
+    "translation": "……この学校の記録だろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_010S_0009",
+    "original": "過去に音楽で賞を取った生徒がいる\nかどうか、探せばいいんだよな",
+    "translation": "過去に音楽で賞を取った生徒がいる\nかどうか、探せばいいんだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_010S_0010",
+    "original": "判ってるなら、さっさと取りかかり\nなさい！",
+    "translation": "判ってるなら、さっさと取りかかり\nなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_010S_0011",
+    "original": "あたしは向こうを調べるから、キョ\nンはこっちの山を調べるのよ",
+    "translation": "あたしは向こうを調べるから、キョ\nンはこっちの山を調べるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_010S_0012",
+    "original": "へいへい",
+    "translation": "へいへい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_010S_0013",
+    "original": "気の抜けた返事をする俺をにらんで\nから、ハルヒは向こうに行った",
+    "translation": "気の抜けた返事をする俺をにらんで\nから、ハルヒは向こうに行った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_010S_0014",
+    "original": "さて、俺はどうするかな\n真面目にやるか、それとも？",
+    "translation": "さて、俺はどうするかな\n真面目にやるか、それとも？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_010S_0015",
+    "original": "仕方ない、とりあえずハルヒに\n付き合ってやるとするか",
+    "translation": "仕方ない、とりあえずハルヒに\n付き合ってやるとするか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_010S_0016",
+    "original": "えーと、まずはこの辺から調べて\nみるとするか……",
+    "translation": "えーと、まずはこの辺から調べて\nみるとするか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_010S_0017",
+    "original": "とりあえず目の前にあった、北高の\n歴史に関する資料を俺は手に取った",
+    "translation": "とりあえず目の前にあった、北高の\n歴史に関する資料を俺は手に取った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_010S_0018",
+    "original": "どれどれ……うわ、字が小さくて\n読みづらいな、こりゃ",
+    "translation": "どれどれ……うわ、字が小さくて\n読みづらいな、こりゃ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_010S_0019",
+    "original": "……",
+    "translation": "……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_010S_0020",
+    "original": "小一時間も資料を読みふけっていた\nワケなのだが……",
+    "translation": "小一時間も資料を読みふけっていた\nワケなのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_010S_0021",
+    "original": "良く考えると、そもそもの話が\nハルヒの妄想なわけで",
+    "translation": "良く考えると、そもそもの話が\nハルヒの妄想なわけで",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_010S_0022",
+    "original": "その証拠なんか探しても、出てくる\nワケがないんじゃないか？",
+    "translation": "その証拠なんか探しても、出てくる\nワケがないんじゃないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_010S_0023",
+    "original": "……時間を無駄につぶしたような\n気がするんだが……",
+    "translation": "……時間を無駄につぶしたような\n気がするんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_010S_0024",
+    "original": "ハルヒに付き合って本腰を入れる\n必要もないよな",
+    "translation": "ハルヒに付き合って本腰を入れる\n必要もないよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_010S_0025",
+    "original": "適当に手を抜きつつ、探すフリでも\nしておこう",
+    "translation": "適当に手を抜きつつ、探すフリでも\nしておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_010S_0026",
+    "original": "逆に、ハルヒの思いこみを打ち消す\nようなネタが見つからないかね",
+    "translation": "逆に、ハルヒの思いこみを打ち消す\nようなネタが見つからないかね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_010S_0027",
+    "original": "そうすれば、この肝試し大会も\nすぐに終了になるんじゃないか？",
+    "translation": "そうすれば、この肝試し大会も\nすぐに終了になるんじゃないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_010S_0028",
+    "original": "俺は意気込んで、オカルトを否定\nするようなテーマの本を探し始めた",
+    "translation": "俺は意気込んで、オカルトを否定\nするようなテーマの本を探し始めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_010S_0029",
+    "original": "うむ、なかなか勉強になったかも\nしれん",
+    "translation": "うむ、なかなか勉強になったかも\nしれん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_010S_0030",
+    "original": "“心霊現象は全てプラズマで解説で\nきる！”というようなテーマの本を",
+    "translation": "“心霊現象は全てプラズマで解説で\nきる！”というようなテーマの本を",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_010S_0031",
+    "original": "読み終えて、俺はすっかり満足した",
+    "translation": "読み終えて、俺はすっかり満足した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_010S_0032",
+    "original": "これはこれで偏っているような気も\nするのだが",
+    "translation": "これはこれで偏っているような気も\nするのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_010S_0033",
+    "original": "ハルヒを説得する材料としては充分\nすぎる内容だろう",
+    "translation": "ハルヒを説得する材料としては充分\nすぎる内容だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_010S_0034",
+    "original": "ここに書かれていることが本当か\nどうかじゃなくて",
+    "translation": "ここに書かれていることが本当か\nどうかじゃなくて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_010S_0035",
+    "original": "ハルヒを諦めさせる材料になれば\nそれでいいんだからな",
+    "translation": "ハルヒを諦めさせる材料になれば\nそれでいいんだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_010S_0036",
+    "original": "キョン、終わった？",
+    "translation": "キョン、終わった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_010S_0037",
+    "original": "担当部分の調査があらかた終わった\nらしいハルヒが、俺に尋ねた",
+    "translation": "担当部分の調査があらかた終わった\nらしいハルヒが、俺に尋ねた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_010S_0038",
+    "original": "ああ、めぼしいところは大体調べた\nぜ",
+    "translation": "ああ、めぼしいところは大体調べた\nぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_010S_0039",
+    "original": "収穫はあった？",
+    "translation": "収穫はあった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_010S_0040",
+    "original": "うーむ、微妙って感じだな",
+    "translation": "うーむ、微妙って感じだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_010S_0041",
+    "original": "俺は調べていた内容を微妙にぼかし\nながら、ハルヒに答える",
+    "translation": "俺は調べていた内容を微妙にぼかし\nながら、ハルヒに答える",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_010S_0042",
+    "original": "そっちこそ、なにか役に立つ情報は\nあったのか？",
+    "translation": "そっちこそ、なにか役に立つ情報は\nあったのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_010S_0043",
+    "original": "まあね、結構面白かったわ。学校の\n蔵書も捨てたもんじゃないわね",
+    "translation": "まあね、結構面白かったわ。学校の\n蔵書も捨てたもんじゃないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_010S_0044",
+    "original": "ハルヒは意外と上機嫌だ",
+    "translation": "ハルヒは意外と上機嫌だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_010S_0045",
+    "original": "なにかハルヒ的に面白いものでも\n見付けた、ということだろうか",
+    "translation": "なにかハルヒ的に面白いものでも\n見付けた、ということだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_010S_0046",
+    "original": "それはみんなで集まってから話すわ\nとりあえず、集合場所に戻りましょ",
+    "translation": "それはみんなで集まってから話すわ\nとりあえず、集合場所に戻りましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_010S_0047",
+    "original": "ハルヒはそう言って、後ろも振り返\nらずに行ってしまう",
+    "translation": "ハルヒはそう言って、後ろも振り返\nらずに行ってしまう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_010S_0048",
+    "original": "おい、待てよハルヒ！",
+    "translation": "おい、待てよハルヒ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_010S_0049",
+    "original": "あいつが面倒を起こす前に\nあとを追いかけなければ",
+    "translation": "あいつが面倒を起こす前に\nあとを追いかけなければ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_010S_0050",
+    "original": "真面目に探す",
+    "translation": "真面目に探す",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_010S_0051",
+    "original": "手を抜きつつ探す",
+    "translation": "手を抜きつつ探す",
+    "speaker": "CHOICE"
+  }
+]

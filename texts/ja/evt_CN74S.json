@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN74S_0000",
+    "original": "キョン、なにをとろとろ歩いてるの\nしゃきしゃき歩きなさいっ！",
+    "translation": "キョン、なにをとろとろ歩いてるの\nしゃきしゃき歩きなさいっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN74S_0001",
+    "original": "すまんすまん。ちょっと考え事を\nしていたんだ",
+    "translation": "すまんすまん。ちょっと考え事を\nしていたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN74S_0002",
+    "original": "そんなものはすべて解明してから\nにしなさいよねっ！",
+    "translation": "そんなものはすべて解明してから\nにしなさいよねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN74S_0003",
+    "original": "いや、だからその解明のために\n俺なりに考えているわけでだなあ",
+    "translation": "いや、だからその解明のために\n俺なりに考えているわけでだなあ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN74S_0004",
+    "original": "考えてもムダよ。バカの考え休むに\n似たりっていうでしょ",
+    "translation": "考えてもムダよ。バカの考え休むに\n似たりっていうでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN74S_0005",
+    "original": "出たよ、ハルヒのシュンサツが",
+    "translation": "出たよ、ハルヒのシュンサツが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN74S_0006",
+    "original": "なによキョン、人聞きの悪い！",
+    "translation": "なによキョン、人聞きの悪い！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN74S_0007",
+    "original": "あたしがいつ誰をシュンサツしたの\n何月何日何曜の何時何分のことよっ",
+    "translation": "あたしがいつ誰をシュンサツしたの\n何月何日何曜の何時何分のことよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN74S_0008",
+    "original": "小学生か、おまえは",
+    "translation": "小学生か、おまえは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN74S_0009",
+    "original": "ウダウダ言ってないでさっさと\n歩きなさいよね、バカキョン！",
+    "translation": "ウダウダ言ってないでさっさと\n歩きなさいよね、バカキョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN74S_0010",
+    "original": "はいはい、自分の都合が悪くなると\nすぐこれだよ、まいっちまうね",
+    "translation": "はいはい、自分の都合が悪くなると\nすぐこれだよ、まいっちまうね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN74S_0011",
+    "original": "なんか言った！？",
+    "translation": "なんか言った！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN74S_0012",
+    "original": "いや、こっちのことだ",
+    "translation": "いや、こっちのことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN74S_0013",
+    "original": "ええと、涼宮さん、あのぉ……",
+    "translation": "ええと、涼宮さん、あのぉ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN74S_0014",
+    "original": "なに、みくるちゃん？",
+    "translation": "なに、みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN74S_0015",
+    "original": "長門さんって運動神経いいですね",
+    "translation": "長門さんって運動神経いいですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN74S_0016",
+    "original": "文学少女風なのに意外よね\nで、それがどうしたの？",
+    "translation": "文学少女風なのに意外よね\nで、それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN74S_0017",
+    "original": "鬼ごっこしたんですけど、シュン\nサツだったので驚いてしまって",
+    "translation": "鬼ごっこしたんですけど、シュン\nサツだったので驚いてしまって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN74S_0018",
+    "original": "鬼ごっこ……肝試しの時？\nあなた達いったい何してたのよ",
+    "translation": "鬼ごっこ……肝試しの時？\nあなた達いったい何してたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN74S_0019",
+    "original": "す、すいません",
+    "translation": "す、すいません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN74S_0020",
+    "original": "……ねえ、暗闇でなにかが動いてる\nような気がするんだけど……",
+    "translation": "……ねえ、暗闇でなにかが動いてる\nような気がするんだけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN74S_0021",
+    "original": "まさかっ、怪奇現象？",
+    "translation": "まさかっ、怪奇現象？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN74S_0022",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN74S_0023",
+    "original": "ん？　有希、今なんかした？",
+    "translation": "ん？　有希、今なんかした？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN74S_0024",
+    "original": "なにも",
+    "translation": "なにも",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN74S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN74S_0026",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN74S_0027",
+    "original": "それより、あそこに……",
+    "translation": "それより、あそこに……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN74S_0028",
+    "original": "あら？\nなにもないわね……",
+    "translation": "あら？\nなにもないわね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN74S_0029",
+    "original": "みんなを待たせている\n先を急ぐべき",
+    "translation": "みんなを待たせている\n先を急ぐべき",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN74S_0030",
+    "original": "そうね。うーん、なにか動いてる\nような気がしたんだけど……",
+    "translation": "そうね。うーん、なにか動いてる\nような気がしたんだけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN74S_0031",
+    "original": "涼宮さん、実はこんな話があるの\nですが――",
+    "translation": "涼宮さん、実はこんな話があるの\nですが――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN74S_0032",
+    "original": "後で聞くわ。今は忙しいから",
+    "translation": "後で聞くわ。今は忙しいから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN74S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN74S_0034",
+    "original": "……なるほど、これもシュンサツと\nいうやつでしょうかね",
+    "translation": "……なるほど、これもシュンサツと\nいうやつでしょうかね",
+    "speaker": "古泉"
+  }
+]

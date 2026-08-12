@@ -1,0 +1,345 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK22S_0000",
+    "original": "そういや、古泉からこんな物を\nもらったんだが……",
+    "translation": "そういや、古泉からこんな物を\nもらったんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK22S_0001",
+    "original": "なにそれ？　付せん？",
+    "translation": "なにそれ？　付せん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK22S_0002",
+    "original": "ああ。調べ物をした時に\nぜひ使ってくれと渡された",
+    "translation": "ああ。調べ物をした時に\nぜひ使ってくれと渡された",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK22S_0003",
+    "original": "それで、ちゃんと使って、役に立ち\nそうなページに挟んだの？",
+    "translation": "それで、ちゃんと使って、役に立ち\nそうなページに挟んだの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK22S_0004",
+    "original": "いや、結局使わなかったが……",
+    "translation": "いや、結局使わなかったが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK22S_0005",
+    "original": "あんたって、本当にサボり魔よね\n何のためにもらったのよ、それ",
+    "translation": "あんたって、本当にサボり魔よね\n何のためにもらったのよ、それ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK22S_0006",
+    "original": "そう言われても困る",
+    "translation": "そう言われても困る",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK22S_0007",
+    "original": "欲しかったら、プレゼントするぞ",
+    "translation": "欲しかったら、プレゼントするぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK22S_0008",
+    "original": "いらないわよ、今はそれどころじゃ\nないでしょうが",
+    "translation": "いらないわよ、今はそれどころじゃ\nないでしょうが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK22S_0009",
+    "original": "ああもうっ、無駄話で余計な時間を\n使っちゃったわ、急ぐわよキョン！",
+    "translation": "ああもうっ、無駄話で余計な時間を\n使っちゃったわ、急ぐわよキョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK22S_0010",
+    "original": "はいはい、仰せのままに",
+    "translation": "はいはい、仰せのままに",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK22S_0011",
+    "original": "これ、キョンくんからもらったんで\nすけど……使いますか？",
+    "translation": "これ、キョンくんからもらったんで\nすけど……使いますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK22S_0012",
+    "original": "付せん？　なんでキョンがこれを？",
+    "translation": "付せん？　なんでキョンがこれを？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK22S_0013",
+    "original": "さっき調べ物をしてたとき\n古泉くんにもらったとか……",
+    "translation": "さっき調べ物をしてたとき\n古泉くんにもらったとか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK22S_0014",
+    "original": "でも、一枚も使わなかったそうです",
+    "translation": "でも、一枚も使わなかったそうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK22S_0015",
+    "original": "バカキョン、一枚くらいどこかの\nページに挟みなさいよ、まったく",
+    "translation": "バカキョン、一枚くらいどこかの\nページに挟みなさいよ、まったく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK22S_0016",
+    "original": "きっと役に立ちそうな本が無かった\nんでしょうね",
+    "translation": "きっと役に立ちそうな本が無かった\nんでしょうね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK22S_0017",
+    "original": "そうかしら。ただサボってただけか\nもしれないわよ。きっとそうよ",
+    "translation": "そうかしら。ただサボってただけか\nもしれないわよ。きっとそうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK22S_0018",
+    "original": "後できっちり、問い詰めてみせるわ",
+    "translation": "後できっちり、問い詰めてみせるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK22S_0019",
+    "original": "はぅぅぅ、ごめんなさいキョンくん",
+    "translation": "はぅぅぅ、ごめんなさいキョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK22S_0020",
+    "original": "これ、使って",
+    "translation": "これ、使って",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK22S_0021",
+    "original": "なにこれ？　付せん？",
+    "translation": "なにこれ？　付せん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK22S_0022",
+    "original": "本や冊子のページに貼って使用する",
+    "translation": "本や冊子のページに貼って使用する",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK22S_0023",
+    "original": "それは知ってるけど、でもいきなり\nなんで付せんが出てきたの？",
+    "translation": "それは知ってるけど、でもいきなり\nなんで付せんが出てきたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK22S_0024",
+    "original": "もらったから",
+    "translation": "もらったから",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK22S_0025",
+    "original": "誰に？　キョン？",
+    "translation": "誰に？　キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK22S_0026",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK22S_0027",
+    "original": "元々は古泉一樹の所有物",
+    "translation": "元々は古泉一樹の所有物",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK22S_0028",
+    "original": "ふうん……でも今もらっても使い道\nが無いわね",
+    "translation": "ふうん……でも今もらっても使い道\nが無いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK22S_0029",
+    "original": "さっき調べ物してたときにあれば\nば便利だったけど",
+    "translation": "さっき調べ物してたときにあれば\nば便利だったけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK22S_0030",
+    "original": "不必要？",
+    "translation": "不必要？",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK22S_0031",
+    "original": "そうね。今はもらっても意味ないし\nそれは有希が持ってなさい",
+    "translation": "そうね。今はもらっても意味ないし\nそれは有希が持ってなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK22S_0032",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK22S_0033",
+    "original": "有希は読書好きなんだから、気に\nいったページに貼るといいわ",
+    "translation": "有希は読書好きなんだから、気に\nいったページに貼るといいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK22S_0034",
+    "original": "気に入ったページ……",
+    "translation": "気に入ったページ……",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK22S_0035",
+    "original": "そうする",
+    "translation": "そうする",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK22S_0036",
+    "original": "おっと、忘れてました",
+    "translation": "おっと、忘れてました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK22S_0037",
+    "original": "せっかく用意したのですが、結局\n一枚も使いませんでしたね",
+    "translation": "せっかく用意したのですが、結局\n一枚も使いませんでしたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK22S_0038",
+    "original": "なにそれ？　付せん？",
+    "translation": "なにそれ？　付せん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK22S_0039",
+    "original": "先程、調べ物をしていた時\n使おうと思っていたのですが……",
+    "translation": "先程、調べ物をしていた時\n使おうと思っていたのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK22S_0040",
+    "original": "何か、面白い本でも見つけてたの？",
+    "translation": "何か、面白い本でも見つけてたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK22S_0041",
+    "original": "ええ。ですが今回の怪奇現象には\n無関係なゴシップばかりです",
+    "translation": "ええ。ですが今回の怪奇現象には\n無関係なゴシップばかりです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK22S_0042",
+    "original": "昼食後の談笑のネタにでも出来れば\nと思っていたんですけど",
+    "translation": "昼食後の談笑のネタにでも出来れば\nと思っていたんですけど",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK22S_0043",
+    "original": "さすが古泉くんね、そこま\nで考えてるなんて、偉いわ",
+    "translation": "さすが古泉くんね、そこま\nで考えてるなんて、偉いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK22S_0044",
+    "original": "キョンも、そのくらいの気遣いを\n見せればいいのに。まったく",
+    "translation": "キョンも、そのくらいの気遣いを\n見せればいいのに。まったく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK22S_0045",
+    "original": "もしそうなってしまうと、僕は涼宮\nさんの信頼を受ける立場を",
+    "translation": "もしそうなってしまうと、僕は涼宮\nさんの信頼を受ける立場を",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK22S_0046",
+    "original": "脅かされますね",
+    "translation": "脅かされますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK22S_0047",
+    "original": "キョンに限って、ありえない話ね",
+    "translation": "キョンに限って、ありえない話ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK22S_0048",
+    "original": "さあ、急ぎましょう。話は後で！",
+    "translation": "さあ、急ぎましょう。話は後で！",
+    "speaker": "ハルヒ"
+  }
+]

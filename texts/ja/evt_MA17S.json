@@ -1,0 +1,290 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA17S_0000",
+    "original": "今、プールの方が光らなかった！？",
+    "translation": "今、プールの方が光らなかった！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA17S_0001",
+    "original": "ここからじゃよく見えないわね\nとにかく急ぎましょ！",
+    "translation": "ここからじゃよく見えないわね\nとにかく急ぎましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA17S_0002",
+    "original": "今、ハルヒの気をそらさないと\nもう一度見られたら完全にアウトだ",
+    "translation": "今、ハルヒの気をそらさないと\nもう一度見られたら完全にアウトだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA17S_0003",
+    "original": "……そうだ！　確か、コンビニで\n買ったビーチボールが……",
+    "translation": "……そうだ！　確か、コンビニで\n買ったビーチボールが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA17S_0004",
+    "original": "おい、ハルヒ！",
+    "translation": "おい、ハルヒ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA17S_0005",
+    "original": "あれ……今、何か跳ねて\nいかなかった？",
+    "translation": "あれ……今、何か跳ねて\nいかなかった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA17S_0006",
+    "original": "あ、ああ、俺も見たぞ",
+    "translation": "あ、ああ、俺も見たぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA17S_0007",
+    "original": "何かしら……？",
+    "translation": "何かしら……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA17S_0008",
+    "original": "怪奇現象かもしれないな",
+    "translation": "怪奇現象かもしれないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA17S_0009",
+    "original": "気になるわね。ちょっと調べる\nわよ",
+    "translation": "気になるわね。ちょっと調べる\nわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA17S_0010",
+    "original": "よし、プールの光を見られなくて\nすんだぞ",
+    "translation": "よし、プールの光を見られなくて\nすんだぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA17S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA17S_0012",
+    "original": "[#P06]えと、えと……ど、どうしたら……\nあっ！？　そ、そうだ",
+    "translation": "[#P06]えと、えと……ど、どうしたら……\nあっ！？　そ、そうだ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA17S_0013",
+    "original": "ちょっとみくるちゃんも見なさいよ\n今、確かにプールが……",
+    "translation": "ちょっとみくるちゃんも見なさいよ\n今、確かにプールが……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA17S_0014",
+    "original": "……みくるちゃん？",
+    "translation": "……みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA17S_0015",
+    "original": "いきなりビーチボールを投げつける\nなんて、どうしたの？",
+    "translation": "いきなりビーチボールを投げつける\nなんて、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA17S_0016",
+    "original": "ドッヂボールでも始めるつもり\nなの？",
+    "translation": "ドッヂボールでも始めるつもり\nなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA17S_0017",
+    "original": "[#SK0]えっと、そ、その……",
+    "translation": "[#SK0]えっと、そ、その……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA17S_0018",
+    "original": "これは宣戦布告と見ていいわね？\nなら、容赦しないわ！　いくわよ！",
+    "translation": "これは宣戦布告と見ていいわね？\nなら、容赦しないわ！　いくわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA17S_0019",
+    "original": "[#SK0]ひ、ひぇぇぇっ！？\nち、違いますうぅ……",
+    "translation": "[#SK0]ひ、ひぇぇぇっ！？\nち、違いますうぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA17S_0020",
+    "original": "ちょっと、有希もこっち来て\n見てみなさいよ",
+    "translation": "ちょっと、有希もこっち来て\n見てみなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA17S_0021",
+    "original": "さっき、確かにプールが光って\nたんだから",
+    "translation": "さっき、確かにプールが光って\nたんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA17S_0022",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA17S_0023",
+    "original": "……なに？　なんでビーチボール\nを投げつけてくるの？",
+    "translation": "……なに？　なんでビーチボール\nを投げつけてくるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA17S_0024",
+    "original": "プールで使う予定",
+    "translation": "プールで使う予定",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA17S_0025",
+    "original": "それ、答えになってないわよ",
+    "translation": "それ、答えになってないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA17S_0026",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA17S_0027",
+    "original": "まあ、とにかくどっかに転がって\n行ったから拾いに行かなきゃ",
+    "translation": "まあ、とにかくどっかに転がって\n行ったから拾いに行かなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA17S_0028",
+    "original": "その辺に転がしておくわけにも\nいかないわ",
+    "translation": "その辺に転がしておくわけにも\nいかないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA17S_0029",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA17S_0030",
+    "original": "さっき、確かに光ったような\n気がするのよ",
+    "translation": "さっき、確かに光ったような\n気がするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA17S_0031",
+    "original": "うーん、ここからじゃよく\n見えないわね",
+    "translation": "うーん、ここからじゃよく\n見えないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA17S_0032",
+    "original": "仕方ありませんね……",
+    "translation": "仕方ありませんね……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA17S_0033",
+    "original": "あれ？　今、何か飛んで\n行かなかった？",
+    "translation": "あれ？　今、何か飛んで\n行かなかった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA17S_0034",
+    "original": "おや、そうですか？",
+    "translation": "おや、そうですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA17S_0035",
+    "original": "そうよ、なんか軽いものがポーン\nポーンって跳ねてったわ",
+    "translation": "そうよ、なんか軽いものがポーン\nポーンって跳ねてったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA17S_0036",
+    "original": "僕は気づきませんでしたが",
+    "translation": "僕は気づきませんでしたが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA17S_0037",
+    "original": "おかしいわねえ……",
+    "translation": "おかしいわねえ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA17S_0038",
+    "original": "それでは、そちらの方を調べてみま\nしょうか",
+    "translation": "それでは、そちらの方を調べてみま\nしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA17S_0039",
+    "original": "そうね、気になるから見てみま\nしょう",
+    "translation": "そうね、気になるから見てみま\nしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA17S_0040",
+    "original": "[#P06]……やれやれ、なんとか誤魔化せた\nようですね",
+    "translation": "[#P06]……やれやれ、なんとか誤魔化せた\nようですね",
+    "speaker": "古泉"
+  }
+]

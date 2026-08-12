@@ -1,0 +1,342 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV4_000S_0000",
+    "original": "[$9]わかったわ！[#W20]\n[$8]きっとこれは[#W10][$9]宇宙人の仕業よ！",
+    "translation": "[$9]わかったわ！[#W20]\n[$8]きっとこれは[#W10][$9]宇宙人の仕業よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV4_000S_0001",
+    "original": "[$10]思い描いた[#W20]新七不思議完成には[#W20]\nほど遠い結末ばかり――",
+    "translation": "[$10]思い描いた[#W20]新七不思議完成には[#W20]\nほど遠い結末ばかり――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV4_000S_0002",
+    "original": "[$8]けっきょくのところ、[#W10]ハルヒには\n不満が溜まっていたのだ",
+    "translation": "[$8]けっきょくのところ、[#W10]ハルヒには\n不満が溜まっていたのだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV4_000S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_EV4_000S_0004",
+    "original": "[$9]みくるちゃん、[#W10]もっと腰を入れて！",
+    "translation": "[$9]みくるちゃん、[#W10]もっと腰を入れて！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV4_000S_0005",
+    "original": "[$14]ええっと、[#W20]こ、[#W20]こうですかぁ",
+    "translation": "[$14]ええっと、[#W20]こ、[#W20]こうですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV4_000S_0006",
+    "original": "[$10]ああ、もう！\nそうじゃないってば！",
+    "translation": "[$10]ああ、もう！\nそうじゃないってば！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV4_000S_0007",
+    "original": "[$16]はうう～",
+    "translation": "[$16]はうう～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV4_000S_0008",
+    "original": "[$9]さあ、みくるちゃん[#W10]\nしっかりと唱えなさい！",
+    "translation": "[$9]さあ、みくるちゃん[#W10]\nしっかりと唱えなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV4_000S_0009",
+    "original": "[$7]宇宙人とのファーストコンタクトは[#W10]\nみくるちゃんにかかってるのよ！",
+    "translation": "[$7]宇宙人とのファーストコンタクトは[#W10]\nみくるちゃんにかかってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV4_000S_0010",
+    "original": "[$16]ひえええっ",
+    "translation": "[$16]ひえええっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV4_000S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV4_000S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV4_000S_0013",
+    "original": "[$8]プールが光るとは聞いていたが[#W10]\nこんなのが出るとは聞いてないぞ！",
+    "translation": "[$8]プールが光るとは聞いていたが[#W10]\nこんなのが出るとは聞いてないぞ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV4_000S_0014",
+    "original": "[$9]一度、[#W10]夜中に学校のプールで泳いで\nみたかったのよね",
+    "translation": "[$9]一度、[#W10]夜中に学校のプールで泳いで\nみたかったのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV4_000S_0015",
+    "original": "[$10]まったく、[#W40][$8]見つかったらただじゃ\nすまないぞ[#W20]…[#W10]…",
+    "translation": "[$10]まったく、[#W40][$8]見つかったらただじゃ\nすまないぞ[#W20]…[#W10]…",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV4_000S_0016",
+    "original": "[$10]でも、[#W40][$9]こういうモラトリアムも\n悪くないか",
+    "translation": "[$10]でも、[#W40][$9]こういうモラトリアムも\n悪くないか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV4_000S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_EV4_000S_0018",
+    "original": "[$10]ひとつ、[#W40][$8]気になることがあります",
+    "translation": "[$10]ひとつ、[#W40][$8]気になることがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV4_000S_0019",
+    "original": "[$8]なんだ？　古泉",
+    "translation": "[$8]なんだ？　古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV4_000S_0020",
+    "original": "[$8]この際、[#W30]ひとつと言わず[#W20]全部聞かせ\nてもらいたい気分だけどな",
+    "translation": "[$8]この際、[#W30]ひとつと言わず[#W20]全部聞かせ\nてもらいたい気分だけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV4_000S_0021",
+    "original": "[$10]今回のこの事態、[#W80][$8]涼宮さんのチカラ\nだけでは[#W30]どうしても説明しきれない",
+    "translation": "[$10]今回のこの事態、[#W80][$8]涼宮さんのチカラ\nだけでは[#W30]どうしても説明しきれない",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV4_000S_0022",
+    "original": "[$8]何か、[#W50]別の存在が関与している\nような気がするのです",
+    "translation": "[$8]何か、[#W50]別の存在が関与している\nような気がするのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV4_000S_0023",
+    "original": "[$14]別の存在……だって？",
+    "translation": "[$14]別の存在……だって？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV4_000S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_EV4_000S_0025",
+    "original": "[$9]そうだ、[#W20]肝試しをしましょう！",
+    "translation": "[$9]そうだ、[#W20]肝試しをしましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV4_000S_0026",
+    "original": "[$9]本館の踊り場に、[#W10]この駒を置い\nてあるわ",
+    "translation": "[$9]本館の踊り場に、[#W10]この駒を置い\nてあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV4_000S_0027",
+    "original": "[$9]一人ずつ、[#W20]そうね[#W10]…[#W10]…[#W10]１５分くらい\n間隔を空けてスタートして",
+    "translation": "[$9]一人ずつ、[#W20]そうね[#W10]…[#W10]…[#W10]１５分くらい\n間隔を空けてスタートして",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV4_000S_0028",
+    "original": "[$9]この駒を持って帰ってくるの",
+    "translation": "[$9]この駒を持って帰ってくるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV4_000S_0029",
+    "original": "[$9]ひ、[#W20]ひとりで校舎の中を[#W20]歩いていく\nんですかぁ",
+    "translation": "[$9]ひ、[#W20]ひとりで校舎の中を[#W20]歩いていく\nんですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV4_000S_0030",
+    "original": "[$8]せめて、ペアとかにしないか？",
+    "translation": "[$8]せめて、ペアとかにしないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV4_000S_0031",
+    "original": "[$16]ダメよ",
+    "translation": "[$16]ダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV4_000S_0032",
+    "original": "[$9]暗いのをいいことに妙な気をおこす\nバカが出るかもしれないじゃない",
+    "translation": "[$9]暗いのをいいことに妙な気をおこす\nバカが出るかもしれないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV4_000S_0033",
+    "original": "[$8]ちょっと待て、[#W20]なぜそこで俺を睨む",
+    "translation": "[$8]ちょっと待て、[#W20]なぜそこで俺を睨む",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV4_000S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV4_000S_0035",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "evt_EV4_000S_0036",
+    "original": "",
+    "translation": "",
+    "speaker": "谷口",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "evt_EV4_000S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "国木田",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV4_000S_0038",
+    "original": "[$10]おい、谷口！　俺だ！",
+    "translation": "[$10]おい、谷口！　俺だ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV4_000S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "国木田",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_EV4_000S_0040",
+    "original": "[$24]うううう～",
+    "translation": "[$24]うううう～",
+    "speaker": "谷口"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV4_000S_0041",
+    "original": "[$8]無駄ですね。[#W80]彼らには[#W20]我々の言葉は\n届いていないようです",
+    "translation": "[$8]無駄ですね。[#W80]彼らには[#W20]我々の言葉は\n届いていないようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV4_000S_0042",
+    "original": "[$8]くそっ、[#W30]どうしてこんなことに！",
+    "translation": "[$8]くそっ、[#W30]どうしてこんなことに！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV4_000S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_EV4_000S_0044",
+    "original": "[$10]ひぁぁっ！　た、助けてくださいー",
+    "translation": "[$10]ひぁぁっ！　た、助けてくださいー",
+    "speaker": "みくる"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV4_000S_0045",
+    "original": "[$10]朝比奈さーん！？",
+    "translation": "[$10]朝比奈さーん！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV4_000S_0046",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

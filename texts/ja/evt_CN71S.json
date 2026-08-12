@@ -1,0 +1,485 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN71S_0000",
+    "original": "長門の手ってちっちゃくてひんやり\nしてたなあ",
+    "translation": "長門の手ってちっちゃくてひんやり\nしてたなあ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN71S_0001",
+    "original": "ちょっとキョン！　有希に変なこと\nしたんじゃないでしょうね！？",
+    "translation": "ちょっとキョン！　有希に変なこと\nしたんじゃないでしょうね！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN71S_0002",
+    "original": "するわけないだろ。長門の方から\n俺の手をにぎったんだよ",
+    "translation": "するわけないだろ。長門の方から\n俺の手をにぎったんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN71S_0003",
+    "original": "ふうぅーん。有希も女の子だから\n怖くなったのかも知れないわね",
+    "translation": "ふうぅーん。有希も女の子だから\n怖くなったのかも知れないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN71S_0004",
+    "original": "そこまで俺にはわからん",
+    "translation": "そこまで俺にはわからん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN71S_0005",
+    "original": "キョン、女の子が怖がったりしたら\nちゃんとかばってあげるのよ",
+    "translation": "キョン、女の子が怖がったりしたら\nちゃんとかばってあげるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN71S_0006",
+    "original": "女の子を怖がらせるようなハルヒに\n言われたくないね",
+    "translation": "女の子を怖がらせるようなハルヒに\n言われたくないね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN71S_0007",
+    "original": "なによ、あたしは面白がってるわけ\nじゃないのよっ",
+    "translation": "なによ、あたしは面白がってるわけ\nじゃないのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN71S_0008",
+    "original": "面白がってたじゃないか\nあからさまに",
+    "translation": "面白がってたじゃないか\nあからさまに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN71S_0009",
+    "original": "みんなが少しでも楽しめればと思っ\nてるだけよ",
+    "translation": "みんなが少しでも楽しめればと思っ\nてるだけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN71S_0010",
+    "original": "あれ。俺はてっきり、ハルヒは\nサディストかと思ってた",
+    "translation": "あれ。俺はてっきり、ハルヒは\nサディストかと思ってた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN71S_0011",
+    "original": "キョン、アンタは痛い目に合いたい\nらしいわね",
+    "translation": "キョン、アンタは痛い目に合いたい\nらしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN71S_0012",
+    "original": "ほらみろ、やっぱりサディストだろ",
+    "translation": "ほらみろ、やっぱりサディストだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN71S_0013",
+    "original": "そうじゃないわよ、バカにされて\n黙っているわけないじゃないっ！",
+    "translation": "そうじゃないわよ、バカにされて\n黙っているわけないじゃないっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN71S_0014",
+    "original": "まあそう怒るな。女性には優しく\nってのは、俺も同感だ",
+    "translation": "まあそう怒るな。女性には優しく\nってのは、俺も同感だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN71S_0015",
+    "original": "なに、急に改まっちゃって\nアンタ熱でも沸いてるんじゃないの",
+    "translation": "なに、急に改まっちゃって\nアンタ熱でも沸いてるんじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN71S_0016",
+    "original": "うるせえ。女の子に優しくするのは\n当然のことだろ",
+    "translation": "うるせえ。女の子に優しくするのは\n当然のことだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN71S_0017",
+    "original": "ふーん。どうだかね",
+    "translation": "ふーん。どうだかね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN71S_0018",
+    "original": "おまえに対しても、ちょっとは\n気を遣っているつもりだが？",
+    "translation": "おまえに対しても、ちょっとは\n気を遣っているつもりだが？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN71S_0019",
+    "original": "どこがよ！　どういう神経してんの\nかしらコイツって",
+    "translation": "どこがよ！　どういう神経してんの\nかしらコイツって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN71S_0020",
+    "original": "もういいわ、さっさと行くわよっ！",
+    "translation": "もういいわ、さっさと行くわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN71S_0021",
+    "original": "なんだよ、人が話してるのに……",
+    "translation": "なんだよ、人が話してるのに……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN71S_0022",
+    "original": "うるさいわねえ、キリキリ歩く！",
+    "translation": "うるさいわねえ、キリキリ歩く！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN71S_0023",
+    "original": "はいはい……",
+    "translation": "はいはい……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN71S_0024",
+    "original": "長門さんの手って少しひんやり\nしてるんだそうです",
+    "translation": "長門さんの手って少しひんやり\nしてるんだそうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN71S_0025",
+    "original": "握ったら気持ち良さそうですよね",
+    "translation": "握ったら気持ち良さそうですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN71S_0026",
+    "original": "でも、長門さんがイヤがるかな？\n急に手を握ったら驚きますよね",
+    "translation": "でも、長門さんがイヤがるかな？\n急に手を握ったら驚きますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN71S_0027",
+    "original": "女の子同士だもの、手ぐらい\n握っても問題ないでしょ、",
+    "translation": "女の子同士だもの、手ぐらい\n握っても問題ないでしょ、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN71S_0028",
+    "original": "ところで",
+    "translation": "ところで",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN71S_0029",
+    "original": "はい、何でしょう",
+    "translation": "はい、何でしょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN71S_0030",
+    "original": "有希の手がひんやりしてるって言っ\nてたのはキョン？　キョンなのね？",
+    "translation": "有希の手がひんやりしてるって言っ\nてたのはキョン？　キョンなのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN71S_0031",
+    "original": "はうっ……",
+    "translation": "はうっ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN71S_0032",
+    "original": "それは早急に問い詰める必要がある\nわね。急ぐわよ、みくるちゃん！",
+    "translation": "それは早急に問い詰める必要がある\nわね。急ぐわよ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN71S_0033",
+    "original": "キョンくん、ごめんなさーーい",
+    "translation": "キョンくん、ごめんなさーーい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN71S_0034",
+    "original": "階段は足元が不安定\n手を",
+    "translation": "階段は足元が不安定\n手を",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN71S_0035",
+    "original": "あ、ありがと……",
+    "translation": "あ、ありがと……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN71S_0036",
+    "original": "って、有希\nあんたの手、すごく冷たいわ！",
+    "translation": "って、有希\nあんたの手、すごく冷たいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN71S_0037",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN71S_0038",
+    "original": "そうよ、こんなに蒸し暑いのに、\nなんでそんなに冷たいわけ？",
+    "translation": "そうよ、こんなに蒸し暑いのに、\nなんでそんなに冷たいわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN71S_0039",
+    "original": "……血行が悪い",
+    "translation": "……血行が悪い",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN71S_0040",
+    "original": "だからって、冷たすぎよ……\nいいわ、しばらく握っててあげる",
+    "translation": "だからって、冷たすぎよ……\nいいわ、しばらく握っててあげる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN71S_0041",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN71S_0042",
+    "original": "そうだ。手の冷たい人は心が\n温かいっていうのよ。知ってた？",
+    "translation": "そうだ。手の冷たい人は心が\n温かいっていうのよ。知ってた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN71S_0043",
+    "original": "特に根拠はない\n単なるレトリック",
+    "translation": "特に根拠はない\n単なるレトリック",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN71S_0044",
+    "original": "そうかもしれないけど、でもあたし\nは有希が優しいって知ってるわよ",
+    "translation": "そうかもしれないけど、でもあたし\nは有希が優しいって知ってるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN71S_0045",
+    "original": "……心配",
+    "translation": "……心配",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN71S_0046",
+    "original": "そ、有希が誰かに誤解されそうに\nなった時とか、",
+    "translation": "そ、有希が誰かに誤解されそうに\nなった時とか、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN71S_0047",
+    "original": "あたしが守ってあげるわ",
+    "translation": "あたしが守ってあげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN71S_0048",
+    "original": "あたしだけじゃなくて、ＳＯＳ団の\n総力を結集することになるわね",
+    "translation": "あたしだけじゃなくて、ＳＯＳ団の\n総力を結集することになるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN71S_0049",
+    "original": "……彼も、朝比奈みくるも、古泉\n一樹も",
+    "translation": "……彼も、朝比奈みくるも、古泉\n一樹も",
+    "speaker": "長門"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN71S_0050",
+    "original": "そりゃそうよ、だって、古泉くんも\nみくるちゃんも、キョンだって",
+    "translation": "そりゃそうよ、だって、古泉くんも\nみくるちゃんも、キョンだって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CN71S_0051",
+    "original": "みんな、あなたの仲間なんだから",
+    "translation": "みんな、あなたの仲間なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CN71S_0052",
+    "original": "仲間",
+    "translation": "仲間",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_CN71S_0053",
+    "original": "だから、あたしたちに遠慮とかした\nらダメだからね",
+    "translation": "だから、あたしたちに遠慮とかした\nらダメだからね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CN71S_0054",
+    "original": "思ったことは溜め込まないで全部\n言うの。判った？",
+    "translation": "思ったことは溜め込まないで全部\n言うの。判った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CN71S_0055",
+    "original": "了解した。そうする",
+    "translation": "了解した。そうする",
+    "speaker": "長門"
+  },
+  {
+    "index": 56,
+    "key": "evt_CN71S_0056",
+    "original": "うん、充分あったまったわね\nそれじゃ、行きましょっか",
+    "translation": "うん、充分あったまったわね\nそれじゃ、行きましょっか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CN71S_0057",
+    "original": "……待って",
+    "translation": "……待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 58,
+    "key": "evt_CN71S_0058",
+    "original": "ん、なに？",
+    "translation": "ん、なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CN71S_0059",
+    "original": "……手の冷たい人は心が温かい\nと、いうのなら……",
+    "translation": "……手の冷たい人は心が温かい\nと、いうのなら……",
+    "speaker": "長門"
+  },
+  {
+    "index": 60,
+    "key": "evt_CN71S_0060",
+    "original": "逆命題である“手の温かいひとは\n心が冷たい”は成立する？",
+    "translation": "逆命題である“手の温かいひとは\n心が冷たい”は成立する？",
+    "speaker": "長門"
+  },
+  {
+    "index": 61,
+    "key": "evt_CN71S_0061",
+    "original": "へ？　そうね、面白い問題ね\nもしかしたら、成立するかも",
+    "translation": "へ？　そうね、面白い問題ね\nもしかしたら、成立するかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CN71S_0062",
+    "original": "そうだわ！　あとでキョンの手を\n握って、",
+    "translation": "そうだわ！　あとでキョンの手を\n握って、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_CN71S_0063",
+    "original": "あったかかったらお前は冷たいヤツ\nだって責めてやりましょう！",
+    "translation": "あったかかったらお前は冷たいヤツ\nだって責めてやりましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CN71S_0064",
+    "original": "長門さんの話なのですが……",
+    "translation": "長門さんの話なのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_CN71S_0065",
+    "original": "ちょっと待って！　今、あっちで\n何か物音がしたような気がするわ！",
+    "translation": "ちょっと待って！　今、あっちで\n何か物音がしたような気がするわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_CN71S_0066",
+    "original": "そうですか？　僕の耳には何も……",
+    "translation": "そうですか？　僕の耳には何も……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 67,
+    "key": "evt_CN71S_0067",
+    "original": "キョンたちのいる場所かもしれない\nわね！　もっと急ぎましょう！",
+    "translation": "キョンたちのいる場所かもしれない\nわね！　もっと急ぎましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CN71S_0068",
+    "original": "ツイていませんね、どうも……",
+    "translation": "ツイていませんね、どうも……",
+    "speaker": "古泉"
+  }
+]

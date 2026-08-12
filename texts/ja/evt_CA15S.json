@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA15S_0000",
+    "original": "朝比奈さんが手伝いをしてくれた\nんだがな",
+    "translation": "朝比奈さんが手伝いをしてくれた\nんだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA15S_0001",
+    "original": "何を手伝ってもらったのよ？",
+    "translation": "何を手伝ってもらったのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA15S_0002",
+    "original": "何ってそりゃ、音楽室の見張りだ",
+    "translation": "何ってそりゃ、音楽室の見張りだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA15S_0003",
+    "original": "みくるちゃんとふたりで見張りを\nしていたんだ。ふううん楽しそうね",
+    "translation": "みくるちゃんとふたりで見張りを\nしていたんだ。ふううん楽しそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA15S_0004",
+    "original": "これはマズイ話題だったかもしれん",
+    "translation": "これはマズイ話題だったかもしれん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA15S_0005",
+    "original": "いや、ふたりじゃない、長門もだ\nそれに何も起きなくて退屈だった",
+    "translation": "いや、ふたりじゃない、長門もだ\nそれに何も起きなくて退屈だった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA15S_0006",
+    "original": "それは残念だったわね",
+    "translation": "それは残念だったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA15S_0007",
+    "original": "口調にサボテン並みのトゲがあるな",
+    "translation": "口調にサボテン並みのトゲがあるな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA15S_0008",
+    "original": "あたし、役に立ってるんで\nしょうか？",
+    "translation": "あたし、役に立ってるんで\nしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA15S_0009",
+    "original": "みくるちゃんは十分役に立ってるわ\n方向性は多少限られるけど",
+    "translation": "みくるちゃんは十分役に立ってるわ\n方向性は多少限られるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA15S_0010",
+    "original": "そっち方面では抜群の威力が\nあるもの",
+    "translation": "そっち方面では抜群の威力が\nあるもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA15S_0011",
+    "original": "あの、どっち方面のお話でしょう？",
+    "translation": "あの、どっち方面のお話でしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA15S_0012",
+    "original": "自覚がないところが最強ね",
+    "translation": "自覚がないところが最強ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA15S_0013",
+    "original": "……ええと、よくわかりませんけど\n自信を持っていいんでしょうか？",
+    "translation": "……ええと、よくわかりませんけど\n自信を持っていいんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA15S_0014",
+    "original": "ええ、あたしが保証するわ",
+    "translation": "ええ、あたしが保証するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA15S_0015",
+    "original": "はい、がんばってお手伝いします",
+    "translation": "はい、がんばってお手伝いします",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA15S_0016",
+    "original": "で、何の手伝いなの？",
+    "translation": "で、何の手伝いなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA15S_0017",
+    "original": "はうぅ……い、色々です",
+    "translation": "はうぅ……い、色々です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA15S_0018",
+    "original": "まあ、頑張ってちょうだい",
+    "translation": "まあ、頑張ってちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA15S_0019",
+    "original": "朝比奈みくるが手伝いすると\n言っていた",
+    "translation": "朝比奈みくるが手伝いすると\n言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA15S_0020",
+    "original": "キョンにお手伝いって、具体的に\nは何をするのかしら？",
+    "translation": "キョンにお手伝いって、具体的に\nは何をするのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA15S_0021",
+    "original": "……手助け？",
+    "translation": "……手助け？",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA15S_0022",
+    "original": "有希、言ってることがわからない\nんだけど？",
+    "translation": "有希、言ってることがわからない\nんだけど？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA15S_0023",
+    "original": "……どうやら話題の選択を\n誤ったらしい",
+    "translation": "……どうやら話題の選択を\n誤ったらしい",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA15S_0024",
+    "original": "そうみたいね",
+    "translation": "そうみたいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA15S_0025",
+    "original": "朝比奈さんに手伝っていただく\nことはありますか？",
+    "translation": "朝比奈さんに手伝っていただく\nことはありますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA15S_0026",
+    "original": "みくるちゃんなら、お役立ちよね",
+    "translation": "みくるちゃんなら、お役立ちよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA15S_0027",
+    "original": "可愛くて好感度が高いから、交渉\nには最適じゃないかしら",
+    "translation": "可愛くて好感度が高いから、交渉\nには最適じゃないかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA15S_0028",
+    "original": "むろん、古泉くんも交渉向きだけど\n男性陣を籠絡するなら、彼女でしょ",
+    "translation": "むろん、古泉くんも交渉向きだけど\n男性陣を籠絡するなら、彼女でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA15S_0029",
+    "original": "ええ、彼女は得難い人材ですよね",
+    "translation": "ええ、彼女は得難い人材ですよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA15S_0030",
+    "original": "まったくね。ＳＯＳ団に勧誘した\nあたしの眼力は素晴らしいわ！",
+    "translation": "まったくね。ＳＯＳ団に勧誘した\nあたしの眼力は素晴らしいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA15S_0031",
+    "original": "まったくその通りです",
+    "translation": "まったくその通りです",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA06S_0000",
+    "original": "急ぎましょう、今度こそ本当に\n怪奇現象と遭遇できるかも！",
+    "translation": "急ぎましょう、今度こそ本当に\n怪奇現象と遭遇できるかも！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA06S_0001",
+    "original": "ほら、吹奏楽部のＯＢ名簿だ",
+    "translation": "ほら、吹奏楽部のＯＢ名簿だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA06S_0002",
+    "original": "ＯＢ名簿？　なんでそんなものを",
+    "translation": "ＯＢ名簿？　なんでそんなものを",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA06S_0003",
+    "original": "受賞歴なんかも書いてあるらしい",
+    "translation": "受賞歴なんかも書いてあるらしい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA06S_0004",
+    "original": "おまえの言う美少女ピアニストが\n実在してたか調べられるだろう",
+    "translation": "おまえの言う美少女ピアニストが\n実在してたか調べられるだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA06S_0005",
+    "original": "なるほど……\nキョンにしてはいい考えね",
+    "translation": "なるほど……\nキョンにしてはいい考えね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA06S_0006",
+    "original": "見せなさい\nふむふむ……？",
+    "translation": "見せなさい\nふむふむ……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA06S_0007",
+    "original": "俺にしてはってのが気になるが\nこれで少しは時間が稼げるか……",
+    "translation": "俺にしてはってのが気になるが\nこれで少しは時間が稼げるか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA06S_0008",
+    "original": "ほら、急ぐわよ、みくるちゃん",
+    "translation": "ほら、急ぐわよ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA06S_0009",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_MA06S_0010",
+    "original": "あの、これを……",
+    "translation": "あの、これを……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA06S_0011",
+    "original": "なあに、これ",
+    "translation": "なあに、これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA06S_0012",
+    "original": "吹奏楽部のＯＢ名簿ですっ",
+    "translation": "吹奏楽部のＯＢ名簿ですっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA06S_0013",
+    "original": "キョンくんが、涼宮さんに渡して\nほしいって",
+    "translation": "キョンくんが、涼宮さんに渡して\nほしいって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA06S_0014",
+    "original": "これで、涼宮さんの言っていた\n学生が本当にいたのか調べれば……",
+    "translation": "これで、涼宮さんの言っていた\n学生が本当にいたのか調べれば……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA06S_0015",
+    "original": "なるほどね、キョンにしては\n考えたじゃない",
+    "translation": "なるほどね、キョンにしては\n考えたじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA06S_0016",
+    "original": "ありがと、みくるちゃん\nさっそく調べてみるわ",
+    "translation": "ありがと、みくるちゃん\nさっそく調べてみるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA06S_0017",
+    "original": "は、はいっ",
+    "translation": "は、はいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA06S_0018",
+    "original": "それじゃ有希、急ぎましょう",
+    "translation": "それじゃ有希、急ぎましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA06S_0019",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "evt_MA06S_0020",
+    "original": "これを……",
+    "translation": "これを……",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA06S_0021",
+    "original": "なに？　これ……あっ、これって\n吹奏楽部のＯＢ名簿じゃない",
+    "translation": "なに？　これ……あっ、これって\n吹奏楽部のＯＢ名簿じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA06S_0022",
+    "original": "渡すように頼まれたから",
+    "translation": "渡すように頼まれたから",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA06S_0023",
+    "original": "頼まれたって、キョンに？",
+    "translation": "頼まれたって、キョンに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA06S_0024",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA06S_0025",
+    "original": "ふーん……キョンにしては\n手際がいいじゃない",
+    "translation": "ふーん……キョンにしては\n手際がいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA06S_0026",
+    "original": "いいわ、さっそく調べてみましょう",
+    "translation": "いいわ、さっそく調べてみましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA06S_0027",
+    "original": "急ぐわよ、古泉くん",
+    "translation": "急ぐわよ、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA06S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_MA06S_0029",
+    "original": "何か役に立つかと思い吹奏楽部の\nＯＢ名簿を借りておきました",
+    "translation": "何か役に立つかと思い吹奏楽部の\nＯＢ名簿を借りておきました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA06S_0030",
+    "original": "さすが古泉くん、用意がいいわね",
+    "translation": "さすが古泉くん、用意がいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA06S_0031",
+    "original": "ありがとうございます",
+    "translation": "ありがとうございます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA06S_0032",
+    "original": "あらかじめ僕の方で調べておけば\nよかったのですが……",
+    "translation": "あらかじめ僕の方で調べておけば\nよかったのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA06S_0033",
+    "original": "あいにくそこまで手がまわり\nませんでした",
+    "translation": "あいにくそこまで手がまわり\nませんでした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA06S_0034",
+    "original": "いいわ、今ここでぱぱーっと\n調べちゃうから。貸してちょうだい",
+    "translation": "いいわ、今ここでぱぱーっと\n調べちゃうから。貸してちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA06S_0035",
+    "original": "どうぞ、心行くまで調べてください",
+    "translation": "どうぞ、心行くまで調べてください",
+    "speaker": "古泉"
+  }
+]

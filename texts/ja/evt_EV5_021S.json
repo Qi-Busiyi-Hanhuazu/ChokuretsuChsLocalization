@@ -1,0 +1,316 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_021S_0000",
+    "original": "今の光はなんだったんだ？",
+    "translation": "今の光はなんだったんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_021S_0001",
+    "original": "もしかして、ハルヒが校舎内に\n移動したせいか？",
+    "translation": "もしかして、ハルヒが校舎内に\n移動したせいか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_021S_0002",
+    "original": "長門の言っていた“エラー”って\nのが起こったのか……？",
+    "translation": "長門の言っていた“エラー”って\nのが起こったのか……？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_021S_0003",
+    "original": "くそっ……なんてこった！",
+    "translation": "くそっ……なんてこった！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_021S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_021S_0005",
+    "original": "キョンくん！　無事だったんですね\nよかったぁ……",
+    "translation": "キョンくん！　無事だったんですね\nよかったぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_021S_0006",
+    "original": "ええ、これからハルヒを追いかけよ\nうとしていたところです",
+    "translation": "ええ、これからハルヒを追いかけよ\nうとしていたところです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_021S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_021S_0008",
+    "original": "残念ながら、追いかけるのは困難な\n状況のようです",
+    "translation": "残念ながら、追いかけるのは困難な\n状況のようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_021S_0009",
+    "original": "どういうことだ？",
+    "translation": "どういうことだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_021S_0010",
+    "original": "正常化が完了する直前に涼宮ハルヒ\nが影響範囲内へ侵入した",
+    "translation": "正常化が完了する直前に涼宮ハルヒ\nが影響範囲内へ侵入した",
+    "speaker": "長門"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_021S_0011",
+    "original": "正常化のシーケンス中にエラーが\n発生し強制停止を余儀なくされた",
+    "translation": "正常化のシーケンス中にエラーが\n発生し強制停止を余儀なくされた",
+    "speaker": "長門"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_021S_0012",
+    "original": "やっぱりそうか……",
+    "translation": "やっぱりそうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_021S_0013",
+    "original": "それで、被害とか影響とかは？\nハルヒは無事なのか？",
+    "translation": "それで、被害とか影響とかは？\nハルヒは無事なのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_021S_0014",
+    "original": "涼宮ハルヒは無事。今のところ彼女\nの身に問題は発生していない",
+    "translation": "涼宮ハルヒは無事。今のところ彼女\nの身に問題は発生していない",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_021S_0015",
+    "original": "しかし、校舎内のいたるところで\n異空間が発生している",
+    "translation": "しかし、校舎内のいたるところで\n異空間が発生している",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_021S_0016",
+    "original": "……ということは",
+    "translation": "……ということは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_021S_0017",
+    "original": "これまでの努力がすべて水泡に帰し\nてしまった、ということです",
+    "translation": "これまでの努力がすべて水泡に帰し\nてしまった、ということです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_021S_0018",
+    "original": "それはつまり、ハルヒを留めて\nおけなかった俺の責任なのか",
+    "translation": "それはつまり、ハルヒを留めて\nおけなかった俺の責任なのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_021S_0019",
+    "original": "不幸中の幸いは、涼宮さんが空間の\n修正に巻き込まれなかったことです",
+    "translation": "不幸中の幸いは、涼宮さんが空間の\n修正に巻き込まれなかったことです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_021S_0020",
+    "original": "でも今のままだと、いつ涼宮さんが\n異空間と遭遇するかわかりません",
+    "translation": "でも今のままだと、いつ涼宮さんが\n異空間と遭遇するかわかりません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_021S_0021",
+    "original": "たしかに朝比奈さんの言う通りだ\nまだやることは残ってるんだ",
+    "translation": "たしかに朝比奈さんの言う通りだ\nまだやることは残ってるんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_021S_0022",
+    "original": "まず、なにから手をつけるかだな",
+    "translation": "まず、なにから手をつけるかだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_021S_0023",
+    "original": "先ほど各所に配置した特異点で\n停止しているものだけを探し出す",
+    "translation": "先ほど各所に配置した特異点で\n停止しているものだけを探し出す",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_021S_0024",
+    "original": "停止した特異点を再起動して正常化\nを再開する必要がある",
+    "translation": "停止した特異点を再起動して正常化\nを再開する必要がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_021S_0025",
+    "original": "それが最優先か",
+    "translation": "それが最優先か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_021S_0026",
+    "original": "それと",
+    "translation": "それと",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_021S_0027",
+    "original": "なんだ、長門？",
+    "translation": "なんだ、長門？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_021S_0028",
+    "original": "これまで怪異が起きた場所すべてに\n異空間が再発生している",
+    "translation": "これまで怪異が起きた場所すべてに\n異空間が再発生している",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_021S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_021S_0030",
+    "original": "涼宮さんが異空間と接触する前に\n再起動しなくてはなりませんね",
+    "translation": "涼宮さんが異空間と接触する前に\n再起動しなくてはなりませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_021S_0031",
+    "original": "ハルヒを無理矢理にでも外に連れ出\nして、特異点を再起動ってことか",
+    "translation": "ハルヒを無理矢理にでも外に連れ出\nして、特異点を再起動ってことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_021S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_021S_0033",
+    "original": "そのためには全員で頑張らないと\nいけませんね",
+    "translation": "そのためには全員で頑張らないと\nいけませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_021S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_021S_0035",
+    "original": "ここまで来て失敗は許されないな",
+    "translation": "ここまで来て失敗は許されないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_021S_0036",
+    "original": "みんなで慎重にことを運ばないと\nえらいことになりそうだからな",
+    "translation": "みんなで慎重にことを運ばないと\nえらいことになりそうだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_021S_0037",
+    "original": "気を引き締めていきましょう",
+    "translation": "気を引き締めていきましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_021S_0038",
+    "original": "ああ、ハルヒが異空間と接触する\nまでが勝負だからな",
+    "translation": "ああ、ハルヒが異空間と接触する\nまでが勝負だからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_021S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_021S_0040",
+    "original": "あまり時間がない",
+    "translation": "あまり時間がない",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_021S_0041",
+    "original": "あたしも頑張りますっ",
+    "translation": "あたしも頑張りますっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_021S_0042",
+    "original": "よし、みんなでなんとかしよう",
+    "translation": "よし、みんなでなんとかしよう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_021S_0043",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

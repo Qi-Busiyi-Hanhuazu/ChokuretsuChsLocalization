@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK75S_0000",
+    "original": "さっき、古泉に肩を叩かれたんだが",
+    "translation": "さっき、古泉に肩を叩かれたんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK75S_0001",
+    "original": "肩を叩かれた？　どっちの意味？",
+    "translation": "肩を叩かれた？　どっちの意味？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK75S_0002",
+    "original": "あー、そうか。マッサージの方だ\n挨拶代わりに叩かれたわけじゃない",
+    "translation": "あー、そうか。マッサージの方だ\n挨拶代わりに叩かれたわけじゃない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK75S_0003",
+    "original": "ふうん、優しいじゃない古泉くん",
+    "translation": "ふうん、優しいじゃない古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK75S_0004",
+    "original": "どうだかな。俺は逆に不気味だった\nが……",
+    "translation": "どうだかな。俺は逆に不気味だった\nが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK75S_0005",
+    "original": "あたしも、後でみくるちゃんの肩を\n叩いてあげることにするわ",
+    "translation": "あたしも、後でみくるちゃんの肩を\n叩いてあげることにするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK75S_0006",
+    "original": "……別に、その役目は俺が代わって\nやってもいいぞ。無料で",
+    "translation": "……別に、その役目は俺が代わって\nやってもいいぞ。無料で",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK75S_0007",
+    "original": "その後で、アンタはあたしの肩を\nたたきなさい",
+    "translation": "その後で、アンタはあたしの肩を\nたたきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK75S_0008",
+    "original": "みくるちゃんは有希で、有希は古泉\nくんね。そしたらちょうど一周よ",
+    "translation": "みくるちゃんは有希で、有希は古泉\nくんね。そしたらちょうど一周よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK75S_0009",
+    "original": "とん、とん、とん……ふぅ",
+    "translation": "とん、とん、とん……ふぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK75S_0010",
+    "original": "ん、どうしたの？\n自分の肩なんて叩いて",
+    "translation": "ん、どうしたの？\n自分の肩なんて叩いて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK75S_0011",
+    "original": "あ、いえ……なんだか、肩がこって\nるみたいで",
+    "translation": "あ、いえ……なんだか、肩がこって\nるみたいで",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK75S_0012",
+    "original": "あー、それだけ大きいんだから、\nそりゃ凝るわよねえ",
+    "translation": "あー、それだけ大きいんだから、\nそりゃ凝るわよねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK75S_0013",
+    "original": "そ、そういう話なんですか……？",
+    "translation": "そ、そういう話なんですか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK75S_0014",
+    "original": "そういう話じゃなかったの？",
+    "translation": "そういう話じゃなかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK75S_0015",
+    "original": "あうう……ど、どうなんでしょう",
+    "translation": "あうう……ど、どうなんでしょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK75S_0016",
+    "original": "肩たたきという言葉について疑問に\n思うことがある",
+    "translation": "肩たたきという言葉について疑問に\n思うことがある",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK75S_0017",
+    "original": "母さんお肩を叩きましょうって\n肩たたきのことでしょ",
+    "translation": "母さんお肩を叩きましょうって\n肩たたきのことでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK75S_0018",
+    "original": "肩の筋肉をほぐす意味と、上司が\n部下に退社をほのめかす意味がある",
+    "translation": "肩の筋肉をほぐす意味と、上司が\n部下に退社をほのめかす意味がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK75S_0019",
+    "original": "たしかに、そんな意味もあるわね",
+    "translation": "たしかに、そんな意味もあるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK75S_0020",
+    "original": "彼が古泉一樹に肩を叩かれたのは\nどちらの意味なのか疑問",
+    "translation": "彼が古泉一樹に肩を叩かれたのは\nどちらの意味なのか疑問",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK75S_0021",
+    "original": "古泉くんがキョンに退部を勧めたと\nは考えにくいでしょ？",
+    "translation": "古泉くんがキョンに退部を勧めたと\nは考えにくいでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK75S_0022",
+    "original": "しかし、彼の肩はそれほどこって\nいない",
+    "translation": "しかし、彼の肩はそれほどこって\nいない",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK75S_0023",
+    "original": "それはキョンがなにかヘマをやって\n古泉くんがなぐさめたんじゃない",
+    "translation": "それはキョンがなにかヘマをやって\n古泉くんがなぐさめたんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK75S_0024",
+    "original": "頑張れよって意味ね",
+    "translation": "頑張れよって意味ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK75S_0025",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK75S_0026",
+    "original": "苦労を労おうと彼の肩を叩いてみた\nのですが、何故かイヤがられました",
+    "translation": "苦労を労おうと彼の肩を叩いてみた\nのですが、何故かイヤがられました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK75S_0027",
+    "original": "キョンの？　古泉くんも苦労してる\nわねぇ",
+    "translation": "キョンの？　古泉くんも苦労してる\nわねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK75S_0028",
+    "original": "あの手この手で信頼を勝ち取ろうと\n努力してみているのですよ",
+    "translation": "あの手この手で信頼を勝ち取ろうと\n努力してみているのですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK75S_0029",
+    "original": "ＳＯＳ団で男子は彼と僕だけですか\nら。仲良くしたいじゃないですか",
+    "translation": "ＳＯＳ団で男子は彼と僕だけですか\nら。仲良くしたいじゃないですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK75S_0030",
+    "original": "今でも十分仲は良いと思うけど\nキョンが認めようとしないだけ",
+    "translation": "今でも十分仲は良いと思うけど\nキョンが認めようとしないだけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK75S_0031",
+    "original": "それが本当だと信じられれば\n気が楽なのですが……",
+    "translation": "それが本当だと信じられれば\n気が楽なのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK75S_0032",
+    "original": "大丈夫よ、あたしを信じなさいっ！",
+    "translation": "大丈夫よ、あたしを信じなさいっ！",
+    "speaker": "ハルヒ"
+  }
+]

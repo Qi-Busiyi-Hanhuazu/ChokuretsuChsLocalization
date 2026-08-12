@@ -1,0 +1,289 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK87S_0000",
+    "original": "簡単な推理ですよってセリフ、\nむかつかないか？",
+    "translation": "簡単な推理ですよってセリフ、\nむかつかないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK87S_0001",
+    "original": "ホームズからの伝統じゃない\nいまさら何を言うやらだわ",
+    "translation": "ホームズからの伝統じゃない\nいまさら何を言うやらだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK87S_0002",
+    "original": "その傲慢な上から目線が気に\nならないのか？",
+    "translation": "その傲慢な上から目線が気に\nならないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK87S_0003",
+    "original": "おまえ上からモノ言われるの嫌い\nなクセにこれは許すのか？",
+    "translation": "おまえ上からモノ言われるの嫌い\nなクセにこれは許すのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK87S_0004",
+    "original": "キョンの場合、言ってるのが古泉\nくんだからっていう個人感情よ",
+    "translation": "キョンの場合、言ってるのが古泉\nくんだからっていう個人感情よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK87S_0005",
+    "original": "あたしは古泉くんに見下されてる\nと思わないから平気だわ",
+    "translation": "あたしは古泉くんに見下されてる\nと思わないから平気だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK87S_0006",
+    "original": "そうかよ",
+    "translation": "そうかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK87S_0007",
+    "original": "うーん、うーん",
+    "translation": "うーん、うーん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK87S_0008",
+    "original": "みくるちゃん、何を唸ってるのよ",
+    "translation": "みくるちゃん、何を唸ってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK87S_0009",
+    "original": "え？　あの……推理について\n考えていたんです",
+    "translation": "え？　あの……推理について\n考えていたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK87S_0010",
+    "original": "なに、推理小説でも読んでたの？",
+    "translation": "なに、推理小説でも読んでたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK87S_0011",
+    "original": "い、いえ、違いますけど\n推理って、難しいですよねぇ",
+    "translation": "い、いえ、違いますけど\n推理って、難しいですよねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK87S_0012",
+    "original": "簡単な推理だとか言われても、\nあたしにはさっぱりです",
+    "translation": "簡単な推理だとか言われても、\nあたしにはさっぱりです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK87S_0013",
+    "original": "ふぅん？　でもそれって、最初から\n難しいって思ってるからじゃない",
+    "translation": "ふぅん？　でもそれって、最初から\n難しいって思ってるからじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK87S_0014",
+    "original": "そ、そうですか？",
+    "translation": "そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK87S_0015",
+    "original": "そうよ。考え方次第で難しい推理\nも簡単になるのよ",
+    "translation": "そうよ。考え方次第で難しい推理\nも簡単になるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK87S_0016",
+    "original": "さすが涼宮さんですねぇ",
+    "translation": "さすが涼宮さんですねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK87S_0017",
+    "original": "簡単な推理ですよ、と古泉一樹は\n言う",
+    "translation": "簡単な推理ですよ、と古泉一樹は\n言う",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK87S_0018",
+    "original": "では複雑な推理とは、どの程度の\nものを示すのか",
+    "translation": "では複雑な推理とは、どの程度の\nものを示すのか",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK87S_0019",
+    "original": "どこまでが簡単で、どこからが複雑\nと分類されるものなのか",
+    "translation": "どこまでが簡単で、どこからが複雑\nと分類されるものなのか",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK87S_0020",
+    "original": "有希？　いったいどうしたの？",
+    "translation": "有希？　いったいどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK87S_0021",
+    "original": "努力してみた",
+    "translation": "努力してみた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK87S_0022",
+    "original": "いっぱいしゃべること？",
+    "translation": "いっぱいしゃべること？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK87S_0023",
+    "original": "違う。スムーズな会話を目指した",
+    "translation": "違う。スムーズな会話を目指した",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK87S_0024",
+    "original": "有希は説明ならいっぱい話すものね\nでも会話にはなってないでしょ",
+    "translation": "有希は説明ならいっぱい話すものね\nでも会話にはなってないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK87S_0025",
+    "original": "キャッチボールじゃないもの",
+    "translation": "キャッチボールじゃないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK87S_0026",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK87S_0027",
+    "original": "でも、落ち込まなくてもいいのよ\nそれが有希のカラーなんだから",
+    "translation": "でも、落ち込まなくてもいいのよ\nそれが有希のカラーなんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK87S_0028",
+    "original": "……了解した",
+    "translation": "……了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK87S_0029",
+    "original": "ＳＯＳ団で活動していると、簡単な\n推理が必要なことが多いです",
+    "translation": "ＳＯＳ団で活動していると、簡単な\n推理が必要なことが多いです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK87S_0030",
+    "original": "生きていくうえで、推理とか手探り\nはいつも必要なものでしょ",
+    "translation": "生きていくうえで、推理とか手探り\nはいつも必要なものでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK87S_0031",
+    "original": "人生ってなんでも思い通りになる\nわけじゃないもの",
+    "translation": "人生ってなんでも思い通りになる\nわけじゃないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK87S_0032",
+    "original": "仰る通りですが、その頻度が増えた\nような気がします",
+    "translation": "仰る通りですが、その頻度が増えた\nような気がします",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK87S_0033",
+    "original": "それは退屈しない人生で楽しいと\n思うわよ",
+    "translation": "それは退屈しない人生で楽しいと\n思うわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK87S_0034",
+    "original": "まったくです。前向きに考えれば\n苦難でさえも楽しく思えますからね",
+    "translation": "まったくです。前向きに考えれば\n苦難でさえも楽しく思えますからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK87S_0035",
+    "original": "古泉くんは、今回の合宿の顛末を\nどう推理しているのかしら？",
+    "translation": "古泉くんは、今回の合宿の顛末を\nどう推理しているのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK87S_0036",
+    "original": "それはまだ見えません。結末は\n楽しくあって欲しいとは思いますが",
+    "translation": "それはまだ見えません。結末は\n楽しくあって欲しいとは思いますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK87S_0037",
+    "original": "そうね、怪奇現象のどれもが\n勘違いでも、楽しければアリねっ！",
+    "translation": "そうね、怪奇現象のどれもが\n勘違いでも、楽しければアリねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK87S_0038",
+    "original": "ええ、それが一番です",
+    "translation": "ええ、それが一番です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK87S_0039",
+    "original": "でも、推理よりも面白い現象に\n遭遇できればもっと楽しいわよ",
+    "translation": "でも、推理よりも面白い現象に\n遭遇できればもっと楽しいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK87S_0040",
+    "original": "ええ……そうですね",
+    "translation": "ええ……そうですね",
+    "speaker": "古泉"
+  }
+]

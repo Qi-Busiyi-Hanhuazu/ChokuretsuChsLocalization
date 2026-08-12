@@ -1,0 +1,1119 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_001S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_001S_0001",
+    "original": "ハルヒの肝試しに散々振り回された\nわけだが、それもようやく終わった ",
+    "translation": "ハルヒの肝試しに散々振り回された\nわけだが、それもようやく終わった ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_001S_0002",
+    "original": "ほんの少しだが、ハルヒのご機嫌も\n上を向いたように見える",
+    "translation": "ほんの少しだが、ハルヒのご機嫌も\n上を向いたように見える",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_001S_0003",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_001S_0004",
+    "original": "ただいま戻りました",
+    "translation": "ただいま戻りました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_001S_0005",
+    "original": "遅かったわね、古泉くん",
+    "translation": "遅かったわね、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_001S_0006",
+    "original": "後片づけに、少々手間取りまして",
+    "translation": "後片づけに、少々手間取りまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_001S_0007",
+    "original": "そう……まあ、後でうるさい先生\nたちに文句言われても面倒だわ",
+    "translation": "そう……まあ、後でうるさい先生\nたちに文句言われても面倒だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_001S_0008",
+    "original": "きちんとかたしておくに越したこと\nはないわね",
+    "translation": "きちんとかたしておくに越したこと\nはないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_001S_0009",
+    "original": "肝試しが終わった後、俺たちは校舎\nに残る騒ぎの痕跡を消していった",
+    "translation": "肝試しが終わった後、俺たちは校舎\nに残る騒ぎの痕跡を消していった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_001S_0010",
+    "original": "ハルヒにはあくまで“片付け”と\nいうことにして、だ",
+    "translation": "ハルヒにはあくまで“片付け”と\nいうことにして、だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_001S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_001S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_001S_0013",
+    "original": "古泉……どうだ？",
+    "translation": "古泉……どうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_001S_0014",
+    "original": "みなさんには、丁重にご帰宅いただ\nきました",
+    "translation": "みなさんには、丁重にご帰宅いただ\nきました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_001S_0015",
+    "original": "コンピューター研の方々も\nあなたのご友人たちもね",
+    "translation": "コンピューター研の方々も\nあなたのご友人たちもね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_001S_0016",
+    "original": "そうか……",
+    "translation": "そうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_001S_0017",
+    "original": "一番の問題は、情報生命体に操られ\nていた谷口たちの処遇だった",
+    "translation": "一番の問題は、情報生命体に操られ\nていた谷口たちの処遇だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_001S_0018",
+    "original": "学校内に残らせるわけにもいかず\nかといってそのまま放り出せない",
+    "translation": "学校内に残らせるわけにもいかず\nかといってそのまま放り出せない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_001S_0019",
+    "original": "そんな時に古泉が\n『お任せください』などと",
+    "translation": "そんな時に古泉が\n『お任せください』などと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_001S_0020",
+    "original": "言い出したのだが……\nいったい、どんな手を使ったのやら",
+    "translation": "言い出したのだが……\nいったい、どんな手を使ったのやら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_001S_0021",
+    "original": "また、例のお仲間たちの出番か？",
+    "translation": "また、例のお仲間たちの出番か？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_001S_0022",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_001S_0023",
+    "original": "あとは鏡から自分の分身が出てくる\nって話だけよ！",
+    "translation": "あとは鏡から自分の分身が出てくる\nって話だけよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_001S_0024",
+    "original": "ハルヒが鼻息荒くのたまう\nどうやら忘れてなかったらしい",
+    "translation": "ハルヒが鼻息荒くのたまう\nどうやら忘れてなかったらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_001S_0025",
+    "original": "良く言えば情熱的だが、悪く言えば\n執拗な性格……",
+    "translation": "良く言えば情熱的だが、悪く言えば\n執拗な性格……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_001S_0026",
+    "original": "俺としては後者の表現が相応しい\nと思うがね",
+    "translation": "俺としては後者の表現が相応しい\nと思うがね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_001S_0027",
+    "original": "たしか、午前２時２２分２２秒に\n昇降口の鏡でって話だったな",
+    "translation": "たしか、午前２時２２分２２秒に\n昇降口の鏡でって話だったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_001S_0028",
+    "original": "あら、ちゃんと覚えていたの",
+    "translation": "あら、ちゃんと覚えていたの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_001S_0029",
+    "original": "忘れたくても、忘れさせてくれない\nやつが目の前にいるからな",
+    "translation": "忘れたくても、忘れさせてくれない\nやつが目の前にいるからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_001S_0030",
+    "original": "だったら、何らかの手を考えてる\nはずよね、キョン？",
+    "translation": "だったら、何らかの手を考えてる\nはずよね、キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_001S_0031",
+    "original": "何らかの手って、なんだ？",
+    "translation": "何らかの手って、なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_001S_0032",
+    "original": "手はずの事よ\nなにか準備したんでしょ？",
+    "translation": "手はずの事よ\nなにか準備したんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_001S_0033",
+    "original": "いや、特に何も考えてないぞ？",
+    "translation": "いや、特に何も考えてないぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_001S_0034",
+    "original": "はあ……やっぱりキョンはキョンね\nまあ、期待もしていなかったけど",
+    "translation": "はあ……やっぱりキョンはキョンね\nまあ、期待もしていなかったけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_001S_0035",
+    "original": "そもそも、俺たちとしては準備どこ\nろではなかったんだ",
+    "translation": "そもそも、俺たちとしては準備どこ\nろではなかったんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_001S_0036",
+    "original": "期待されても困るが、とはいえこの\n理不尽な態度も納得がいかん",
+    "translation": "期待されても困るが、とはいえこの\n理不尽な態度も納得がいかん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_001S_0037",
+    "original": "いいわ、あたしは時間が来るまで\n鏡の前で待機するから",
+    "translation": "いいわ、あたしは時間が来るまで\n鏡の前で待機するから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_001S_0038",
+    "original": "お、おい、それはちょっと……",
+    "translation": "お、おい、それはちょっと……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_001S_0039",
+    "original": "なによキョン、あんたに見張れって\n言ってるわけじゃないでしょ",
+    "translation": "なによキョン、あんたに見張れって\n言ってるわけじゃないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_001S_0040",
+    "original": "それはそうだが……午前２時まで\nまだだいぶ時間があるぞ",
+    "translation": "それはそうだが……午前２時まで\nまだだいぶ時間があるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_001S_0041",
+    "original": "早めに行って兆候を探るのよ",
+    "translation": "早めに行って兆候を探るのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_001S_0042",
+    "original": "もしかしたら、気が早くて時間より\n前に起こるかもしれないじゃない",
+    "translation": "もしかしたら、気が早くて時間より\n前に起こるかもしれないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_001S_0043",
+    "original": "そんなアバウトな怪奇現象があって\nたまるか",
+    "translation": "そんなアバウトな怪奇現象があって\nたまるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_001S_0044",
+    "original": "なんにしても、ひとつも怪奇現象を\n体験してないのよ",
+    "translation": "なんにしても、ひとつも怪奇現象を\n体験してないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_001S_0045",
+    "original": "こうなったらなにがなんでも\nこの目で拝んでやるわ",
+    "translation": "こうなったらなにがなんでも\nこの目で拝んでやるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_001S_0046",
+    "original": "というわけだから、あたし自ら\n鏡の前に張り込むわ",
+    "translation": "というわけだから、あたし自ら\n鏡の前に張り込むわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_001S_0047",
+    "original": "みくるちゃん、あんパンと牛乳！",
+    "translation": "みくるちゃん、あんパンと牛乳！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_001S_0048",
+    "original": "へ？　あ、あんパンと牛乳ですか？",
+    "translation": "へ？　あ、あんパンと牛乳ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_001S_0049",
+    "original": "張り込みの基本はあんパンと牛乳よ",
+    "translation": "張り込みの基本はあんパンと牛乳よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_001S_0050",
+    "original": "今時、どこの刑事ドラマでもそんな\nことやってないと思うが",
+    "translation": "今時、どこの刑事ドラマでもそんな\nことやってないと思うが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_001S_0051",
+    "original": "あの、でも涼宮さん、今日はあんパ\nンも牛乳も買ってないんです",
+    "translation": "あの、でも涼宮さん、今日はあんパ\nンも牛乳も買ってないんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_001S_0052",
+    "original": "欲しいなら自分で買いに行け",
+    "translation": "欲しいなら自分で買いに行け",
+    "speaker": "キョン"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_001S_0053",
+    "original": "仕方ないわね。ちょっと残念だけど\n今回は諦めるわ",
+    "translation": "仕方ないわね。ちょっと残念だけど\n今回は諦めるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_001S_0054",
+    "original": "今回はってことは、次は必ずやると\nいう意思表示だろうか",
+    "translation": "今回はってことは、次は必ずやると\nいう意思表示だろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_001S_0055",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_001S_0056",
+    "original": "じゃ、あたしは昇降口に行って\n張り込んでるわねっ",
+    "translation": "じゃ、あたしは昇降口に行って\n張り込んでるわねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_001S_0057",
+    "original": "えらい勢いでいっちまった……",
+    "translation": "えらい勢いでいっちまった……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_001S_0058",
+    "original": "まさに、止める間もないという\n勢いでしたね",
+    "translation": "まさに、止める間もないという\n勢いでしたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_001S_0059",
+    "original": "ああ……しかし、まずいことに\nなったな",
+    "translation": "ああ……しかし、まずいことに\nなったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_001S_0060",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_001S_0061",
+    "original": "どうしましょう、キョンくん",
+    "translation": "どうしましょう、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_001S_0062",
+    "original": "……いったん連れ戻す方がいい",
+    "translation": "……いったん連れ戻す方がいい",
+    "speaker": "長門"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_001S_0063",
+    "original": "そうだな、長門の言う通りだ",
+    "translation": "そうだな、長門の言う通りだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_001S_0064",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_001S_0065",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_001S_0066",
+    "original": "問題は、どうやってハルヒを部室に\n連れ戻すかだな",
+    "translation": "問題は、どうやってハルヒを部室に\n連れ戻すかだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_001S_0067",
+    "original": "そうですね。少し作戦を練った方が\nよいかと",
+    "translation": "そうですね。少し作戦を練った方が\nよいかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_001S_0068",
+    "original": "ハルヒの目の前で、ハルヒの分身と\nやらが現れたら大変だからな",
+    "translation": "ハルヒの目の前で、ハルヒの分身と\nやらが現れたら大変だからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV5_001S_0069",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "evt_EV5_001S_0070",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 71,
+    "key": "evt_EV5_001S_0071",
+    "original": "古泉たちが言うには、ハルヒが世界\nの異常を目撃してしまうと",
+    "translation": "古泉たちが言うには、ハルヒが世界\nの異常を目撃してしまうと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV5_001S_0072",
+    "original": "それは現実として広く認識されてし\nまうと言う。それは要するに――",
+    "translation": "それは現実として広く認識されてし\nまうと言う。それは要するに――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV5_001S_0073",
+    "original": "未来人や宇宙人や超能力者が、当た\nり前にいる世界になるって事らしい",
+    "translation": "未来人や宇宙人や超能力者が、当た\nり前にいる世界になるって事らしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV5_001S_0074",
+    "original": "それはある意味、現実世界の崩壊と\n同義だろう",
+    "translation": "それはある意味、現実世界の崩壊と\n同義だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV5_001S_0075",
+    "original": "まあ、世界の崩壊がどうのって言わ\nれてもピンと来ないが",
+    "translation": "まあ、世界の崩壊がどうのって言わ\nれてもピンと来ないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV5_001S_0076",
+    "original": "少なくとも、１人でも厄介なハルヒ\nがふたりに増えたりしたら……",
+    "translation": "少なくとも、１人でも厄介なハルヒ\nがふたりに増えたりしたら……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV5_001S_0077",
+    "original": "そう考えるだけでゾッとするね",
+    "translation": "そう考えるだけでゾッとするね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV5_001S_0078",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "evt_EV5_001S_0079",
+    "original": "とにかく、最悪の事態は回避したい\n幸い時間はあるから少し話し合おう",
+    "translation": "とにかく、最悪の事態は回避したい\n幸い時間はあるから少し話し合おう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV5_001S_0080",
+    "original": "そうですねぇ、きちんと作戦を立て\nて備えた方がいいですよね",
+    "translation": "そうですねぇ、きちんと作戦を立て\nて備えた方がいいですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV5_001S_0081",
+    "original": "作戦についてですが、まずは涼宮さ\nんを部室に引き戻さなくては",
+    "translation": "作戦についてですが、まずは涼宮さ\nんを部室に引き戻さなくては",
+    "speaker": "古泉"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV5_001S_0082",
+    "original": "最初から難関だ",
+    "translation": "最初から難関だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV5_001S_0083",
+    "original": "あいつは見張ると言って動かない\nだろうからな",
+    "translation": "あいつは見張ると言って動かない\nだろうからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV5_001S_0084",
+    "original": "誰か代わりの見張りを置くといって\n連れ戻せないでしょうか",
+    "translation": "誰か代わりの見張りを置くといって\n連れ戻せないでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV5_001S_0085",
+    "original": "涼宮さんが怪奇現象よりも興味を\n示すだけの理由が必要ですね",
+    "translation": "涼宮さんが怪奇現象よりも興味を\n示すだけの理由が必要ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV5_001S_0086",
+    "original": "今日一日、ずっとそれに頭を悩ませ\nてきたんだよな……",
+    "translation": "今日一日、ずっとそれに頭を悩ませ\nてきたんだよな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV5_001S_0087",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 88,
+    "key": "evt_EV5_001S_0088",
+    "original": "涼宮ハルヒの機嫌を損ねないように\n対処するのが望ましい",
+    "translation": "涼宮ハルヒの機嫌を損ねないように\n対処するのが望ましい",
+    "speaker": "長門"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV5_001S_0089",
+    "original": "やはり、ここはあなたの判断に従う\nべきでしょうね",
+    "translation": "やはり、ここはあなたの判断に従う\nべきでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV5_001S_0090",
+    "original": "ちょっと待て、なんで俺が……",
+    "translation": "ちょっと待て、なんで俺が……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV5_001S_0091",
+    "original": "状況から判断してあなたが適任",
+    "translation": "状況から判断してあなたが適任",
+    "speaker": "長門"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV5_001S_0092",
+    "original": "長門まで……",
+    "translation": "長門まで……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV5_001S_0093",
+    "original": "あなたの選択のおかげで、これまで\n最悪の事態は避けられてきました",
+    "translation": "あなたの選択のおかげで、これまで\n最悪の事態は避けられてきました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV5_001S_0094",
+    "original": "それは、単なる偶然と言うわけでは\nないはずです",
+    "translation": "それは、単なる偶然と言うわけでは\nないはずです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV5_001S_0095",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 96,
+    "key": "evt_EV5_001S_0096",
+    "original": "あたしも、そう思います\nキョンくんなら……",
+    "translation": "あたしも、そう思います\nキョンくんなら……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV5_001S_0097",
+    "original": "なんで、いつもいつも俺みたいな\n普通の人間におはちが回ってくる",
+    "translation": "なんで、いつもいつも俺みたいな\n普通の人間におはちが回ってくる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV5_001S_0098",
+    "original": "……分かったよ",
+    "translation": "……分かったよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV5_001S_0099",
+    "original": "まず、ハルヒを部室に連れ戻そう",
+    "translation": "まず、ハルヒを部室に連れ戻そう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV5_001S_0100",
+    "original": "あとは、問題の時間を過ぎるまで\nできるだけ足止めする",
+    "translation": "あとは、問題の時間を過ぎるまで\nできるだけ足止めする",
+    "speaker": "キョン"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV5_001S_0101",
+    "original": "それでは、涼宮さんがストレスを\n感じてしまう可能性がありますが",
+    "translation": "それでは、涼宮さんがストレスを\n感じてしまう可能性がありますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV5_001S_0102",
+    "original": "分かってる\nだから、足止めはギリギリまでだ",
+    "translation": "分かってる\nだから、足止めはギリギリまでだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV5_001S_0103",
+    "original": "他にもいくつか保険をうっておこう\nと思う",
+    "translation": "他にもいくつか保険をうっておこう\nと思う",
+    "speaker": "キョン"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV5_001S_0104",
+    "original": "なるほど、確かにそれくらいしか\n手はないでしょうね",
+    "translation": "なるほど、確かにそれくらいしか\n手はないでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV5_001S_0105",
+    "original": "部室に連れ戻した後なんですけど\nどうやって引き留めますか？",
+    "translation": "部室に連れ戻した後なんですけど\nどうやって引き留めますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV5_001S_0106",
+    "original": "そうですね……",
+    "translation": "そうですね……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV5_001S_0107",
+    "original": "長門、それも臨機応変ってやつか？",
+    "translation": "長門、それも臨機応変ってやつか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV5_001S_0108",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "evt_EV5_001S_0109",
+    "original": "……そう、臨機応変",
+    "translation": "……そう、臨機応変",
+    "speaker": "長門"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV5_001S_0110",
+    "original": "だそうです、朝比奈さん",
+    "translation": "だそうです、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV5_001S_0111",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 112,
+    "key": "evt_EV5_001S_0112",
+    "original": "ひとつ気になるのですが、涼宮さん\nの引き留めに成功した場合……",
+    "translation": "ひとつ気になるのですが、涼宮さん\nの引き留めに成功した場合……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV5_001S_0113",
+    "original": "なんだ？",
+    "translation": "なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV5_001S_0114",
+    "original": "時間間際になって、大急ぎで\n現場に向かう可能性がありますね",
+    "translation": "時間間際になって、大急ぎで\n現場に向かう可能性がありますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV5_001S_0115",
+    "original": "たしかに……",
+    "translation": "たしかに……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV5_001S_0116",
+    "original": "たとえば、時間を忘れるほどなにか\nに集中してくれればいいんですけど",
+    "translation": "たとえば、時間を忘れるほどなにか\nに集中してくれればいいんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV5_001S_0117",
+    "original": "朝比奈さん、それはいいヒントです\nおかげで閃きましたよ",
+    "translation": "朝比奈さん、それはいいヒントです\nおかげで閃きましたよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV5_001S_0118",
+    "original": "なにか良い方法があるんですか？",
+    "translation": "なにか良い方法があるんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV5_001S_0119",
+    "original": "時間をごまかせばいいんですよ",
+    "translation": "時間をごまかせばいいんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV5_001S_0120",
+    "original": "なるほど……時計を狂わせるわけ\nですか",
+    "translation": "なるほど……時計を狂わせるわけ\nですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV5_001S_0121",
+    "original": "そういうことだ。ハルヒの目につく\n時計全てを遅らせておくんだ",
+    "translation": "そういうことだ。ハルヒの目につく\n時計全てを遅らせておくんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV5_001S_0122",
+    "original": "待って下さい、名案だと思いますが\n引っかかることがあります",
+    "translation": "待って下さい、名案だと思いますが\n引っかかることがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV5_001S_0123",
+    "original": "なんだよ？",
+    "translation": "なんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV5_001S_0124",
+    "original": "涼宮さんの願望が具現化すると仮定\nしているわけですよね？",
+    "translation": "涼宮さんの願望が具現化すると仮定\nしているわけですよね？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV5_001S_0125",
+    "original": "ああ、その通りだけど？",
+    "translation": "ああ、その通りだけど？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV5_001S_0126",
+    "original": "時計を狂わせたとして、現象が起き\nる時間を涼宮さんが",
+    "translation": "時計を狂わせたとして、現象が起き\nる時間を涼宮さんが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV5_001S_0127",
+    "original": "強く意識したとしたら……",
+    "translation": "強く意識したとしたら……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV5_001S_0128",
+    "original": "午前２時２２分２２秒になれば\nそれが嘘の時間でも具現化するか？",
+    "translation": "午前２時２２分２２秒になれば\nそれが嘘の時間でも具現化するか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV5_001S_0129",
+    "original": "ええ、その可能性もあると思います",
+    "translation": "ええ、その可能性もあると思います",
+    "speaker": "古泉"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV5_001S_0130",
+    "original": "……長門、どう思う？",
+    "translation": "……長門、どう思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV5_001S_0131",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 132,
+    "key": "evt_EV5_001S_0132",
+    "original": "涼宮ハルヒが時計を意識し続ければ\n発生確率は上昇していく",
+    "translation": "涼宮ハルヒが時計を意識し続ければ\n発生確率は上昇していく",
+    "speaker": "長門"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV5_001S_0133",
+    "original": "そうか……",
+    "translation": "そうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV5_001S_0134",
+    "original": "とはいえ、全く無効の作戦と\nいうわけじゃないってことだよな",
+    "translation": "とはいえ、全く無効の作戦と\nいうわけじゃないってことだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV5_001S_0135",
+    "original": "他にこれといった方法はないよう\nですね",
+    "translation": "他にこれといった方法はないよう\nですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV5_001S_0136",
+    "original": "よし、ならこれでいこう",
+    "translation": "よし、ならこれでいこう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV5_001S_0137",
+    "original": "時計を遅らせておいて、涼宮さんの\n意識を逸らす作戦で決定ですね",
+    "translation": "時計を遅らせておいて、涼宮さんの\n意識を逸らす作戦で決定ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV5_001S_0138",
+    "original": "ああ、それしか方法はあるまい",
+    "translation": "ああ、それしか方法はあるまい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV5_001S_0139",
+    "original": "しかも、時計を狂わせる以外は\nほとんど出たとこ勝負の作戦だがな",
+    "translation": "しかも、時計を狂わせる以外は\nほとんど出たとこ勝負の作戦だがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV5_001S_0140",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 141,
+    "key": "evt_EV5_001S_0141",
+    "original": "キョンくんの作戦で大丈夫だと思う\nんですけど……",
+    "translation": "キョンくんの作戦で大丈夫だと思う\nんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV5_001S_0142",
+    "original": "朝比奈さんは、そう言いつつも\n不安そうにしていらっしゃる",
+    "translation": "朝比奈さんは、そう言いつつも\n不安そうにしていらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV5_001S_0143",
+    "original": "なんです、朝比奈さん？",
+    "translation": "なんです、朝比奈さん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV5_001S_0144",
+    "original": "昇降口の鏡だけじゃなく、他の鏡も\n気にした方がいいかも知れませんね",
+    "translation": "昇降口の鏡だけじゃなく、他の鏡も\n気にした方がいいかも知れませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV5_001S_0145",
+    "original": "それはたしかに不安ですね……",
+    "translation": "それはたしかに不安ですね……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV5_001S_0146",
+    "original": "いっそ、鏡を破壊するって方法も\n考えないといけないかも",
+    "translation": "いっそ、鏡を破壊するって方法も\n考えないといけないかも",
+    "speaker": "キョン"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV5_001S_0147",
+    "original": "えーっ、それは……",
+    "translation": "えーっ、それは……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV5_001S_0148",
+    "original": "最悪の場合、ですよ。世界の崩壊と\n鏡の価値を比べるとやむを得ません",
+    "translation": "最悪の場合、ですよ。世界の崩壊と\n鏡の価値を比べるとやむを得ません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV5_001S_0149",
+    "original": "できれば覆いをするとかでごまかせ\nませんかぁ？",
+    "translation": "できれば覆いをするとかでごまかせ\nませんかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV5_001S_0150",
+    "original": "要するに、午前２時２２分２２秒の\n瞬間さえ回避できれば良いんです",
+    "translation": "要するに、午前２時２２分２２秒の\n瞬間さえ回避できれば良いんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV5_001S_0151",
+    "original": "きれいにまとめてくれやがった",
+    "translation": "きれいにまとめてくれやがった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV5_001S_0152",
+    "original": "そのためには、少々強引な方法も\n覚悟した方がいいでしょうね",
+    "translation": "そのためには、少々強引な方法も\n覚悟した方がいいでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV5_001S_0153",
+    "original": "そういうことだな",
+    "translation": "そういうことだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV5_001S_0154",
+    "original": "決まりですね",
+    "translation": "決まりですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV5_001S_0155",
+    "original": "じゃ、早速行動だ",
+    "translation": "じゃ、早速行動だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV5_001S_0156",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

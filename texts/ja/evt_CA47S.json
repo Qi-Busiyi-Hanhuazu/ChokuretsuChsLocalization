@@ -1,0 +1,212 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA47S_0000",
+    "original": "なあ、ハルヒ……",
+    "translation": "なあ、ハルヒ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA47S_0001",
+    "original": "こっちの道を通った方が近道ね！",
+    "translation": "こっちの道を通った方が近道ね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA47S_0002",
+    "original": "もっと速度をあげて、みんなの所へ\n急行するわよ！",
+    "translation": "もっと速度をあげて、みんなの所へ\n急行するわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA47S_0003",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA47S_0004",
+    "original": "さっき、何か言いかけてた？",
+    "translation": "さっき、何か言いかけてた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA47S_0005",
+    "original": "……いや、なんでもない",
+    "translation": "……いや、なんでもない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA47S_0006",
+    "original": "なんとなく、まともに話を聞いて\nくれそうにはない雰囲気だ",
+    "translation": "なんとなく、まともに話を聞いて\nくれそうにはない雰囲気だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA47S_0007",
+    "original": "あ、あのっ、鶴屋さんが言ってた\nらしいんですけど……",
+    "translation": "あ、あのっ、鶴屋さんが言ってた\nらしいんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA47S_0008",
+    "original": "ええと、その。あたしとキョンくん\nのことで……あのぉ",
+    "translation": "ええと、その。あたしとキョンくん\nのことで……あのぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA47S_0009",
+    "original": "見て！　みくるちゃん、怪しい光が\n灯ってるわ！",
+    "translation": "見て！　みくるちゃん、怪しい光が\n灯ってるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA47S_0010",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA47S_0011",
+    "original": "急ぎましょう！　確かめないと！",
+    "translation": "急ぎましょう！　確かめないと！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA47S_0012",
+    "original": "あれは、非常灯の明かりじゃ……",
+    "translation": "あれは、非常灯の明かりじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA47S_0013",
+    "original": "って、ああんっ、置いていかないで\n下さいぃ～！",
+    "translation": "って、ああんっ、置いていかないで\n下さいぃ～！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA47S_0014",
+    "original": "買い物に同伴することは、デートと\nとして成立するか",
+    "translation": "買い物に同伴することは、デートと\nとして成立するか",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA47S_0015",
+    "original": "デート？　また唐突な質問ね",
+    "translation": "デート？　また唐突な質問ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA47S_0016",
+    "original": "別に一緒に買い物したからって\nそれがデートは限らないと思うけど",
+    "translation": "別に一緒に買い物したからって\nそれがデートは限らないと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA47S_0017",
+    "original": "でも、どうして？",
+    "translation": "でも、どうして？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA47S_0018",
+    "original": "そう言われた",
+    "translation": "そう言われた",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA47S_0019",
+    "original": "まさか……キョン？",
+    "translation": "まさか……キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA47S_0020",
+    "original": "違う。一般的な伝聞",
+    "translation": "違う。一般的な伝聞",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA47S_0021",
+    "original": "正確に言えば、わたしではない誰か\nが、そう言われたと聞いただけ",
+    "translation": "正確に言えば、わたしではない誰か\nが、そう言われたと聞いただけ",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA47S_0022",
+    "original": "なんだ、知らない人の話なのね",
+    "translation": "なんだ、知らない人の話なのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA47S_0023",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA47S_0024",
+    "original": "[#P06]……さすがに、この話題は少し問題\nがありそうな気がしますね",
+    "translation": "[#P06]……さすがに、この話題は少し問題\nがありそうな気がしますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA47S_0025",
+    "original": "[#P06]時間稼ぎにはなりそうですが……",
+    "translation": "[#P06]時間稼ぎにはなりそうですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA47S_0026",
+    "original": "[#P06]涼宮さんを不機嫌にしてしまっては\n元も子もありませんし",
+    "translation": "[#P06]涼宮さんを不機嫌にしてしまっては\n元も子もありませんし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA47S_0027",
+    "original": "ん？　古泉くん、なにか言った？",
+    "translation": "ん？　古泉くん、なにか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA47S_0028",
+    "original": "いえ、僕はなにも",
+    "translation": "いえ、僕はなにも",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA47S_0029",
+    "original": "そう？　ならいいわ",
+    "translation": "そう？　ならいいわ",
+    "speaker": "ハルヒ"
+  }
+]

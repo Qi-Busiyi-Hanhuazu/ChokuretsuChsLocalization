@@ -1,0 +1,1633 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_008S_0000",
+    "original": "あの、ちょっと待って下さい",
+    "translation": "あの、ちょっと待って下さい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_008S_0001",
+    "original": "なんだよ、古泉？\nこれから音楽室に行くんだろ？",
+    "translation": "なんだよ、古泉？\nこれから音楽室に行くんだろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_008S_0002",
+    "original": "いえ、その前にちょっと確認して\nおきたい事があるんです",
+    "translation": "いえ、その前にちょっと確認して\nおきたい事があるんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_008S_0003",
+    "original": "ふぇっ、な、なんですか？",
+    "translation": "ふぇっ、な、なんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_008S_0004",
+    "original": "すみません、朝比奈さん",
+    "translation": "すみません、朝比奈さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_008S_0005",
+    "original": "気になることがありまして、まず\n確認をして音楽室に向かおうかと",
+    "translation": "気になることがありまして、まず\n確認をして音楽室に向かおうかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_008S_0006",
+    "original": "それで、なにを確認したいって？",
+    "translation": "それで、なにを確認したいって？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_008S_0007",
+    "original": "さっきの、あの部員の行動ですよ",
+    "translation": "さっきの、あの部員の行動ですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_008S_0008",
+    "original": "ああ、いきなり楽譜を書き出したり\nした不気味な行動のことか",
+    "translation": "ああ、いきなり楽譜を書き出したり\nした不気味な行動のことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_008S_0009",
+    "original": "ほんとに気味が悪かったですね……",
+    "translation": "ほんとに気味が悪かったですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_008S_0010",
+    "original": "安心して下さい、朝比奈さん\n俺がついていますから",
+    "translation": "安心して下さい、朝比奈さん\n俺がついていますから",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_008S_0011",
+    "original": "あの不可解な行動について\nちょっと引っかかるんです",
+    "translation": "あの不可解な行動について\nちょっと引っかかるんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_008S_0012",
+    "original": "うん？　なにが引っかかるんだ？",
+    "translation": "うん？　なにが引っかかるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_008S_0013",
+    "original": "長門の話だと、脳に特殊な情報が\n転写された痕跡があるってことだろ",
+    "translation": "長門の話だと、脳に特殊な情報が\n転写された痕跡があるってことだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_008S_0014",
+    "original": "そこなんですよ。ただ疲れただけで\nいきなり楽譜を書くのは不自然です",
+    "translation": "そこなんですよ。ただ疲れただけで\nいきなり楽譜を書くのは不自然です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_008S_0015",
+    "original": "あのなあ。ハルヒが関わった事件は\nことごとく不自然だろうが？",
+    "translation": "あのなあ。ハルヒが関わった事件は\nことごとく不自然だろうが？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_008S_0016",
+    "original": "音楽部ならまだしも、コンピ研でと\nいうところが引っかかるんです",
+    "translation": "音楽部ならまだしも、コンピ研でと\nいうところが引っかかるんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_008S_0017",
+    "original": "それは……",
+    "translation": "それは……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_008S_0018",
+    "original": "たしかに不自然だ。音楽室での怪音\nと関係しているのだろうが……",
+    "translation": "たしかに不自然だ。音楽室での怪音\nと関係しているのだろうが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_008S_0019",
+    "original": "すんなりと接点が見えてこない",
+    "translation": "すんなりと接点が見えてこない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_008S_0020",
+    "original": "……あなたは気になりませんか？",
+    "translation": "……あなたは気になりませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_008S_0021",
+    "original": "コンピ研と楽譜の接点が見えない\nってことか？",
+    "translation": "コンピ研と楽譜の接点が見えない\nってことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_008S_0022",
+    "original": "ええ、確かに",
+    "translation": "ええ、確かに",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_008S_0023",
+    "original": "涼宮さんが望んだから始まった\nとしても、脈絡がないです",
+    "translation": "涼宮さんが望んだから始まった\nとしても、脈絡がないです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_008S_0024",
+    "original": "そもそも脈絡があったような言い方\nだな？",
+    "translation": "そもそも脈絡があったような言い方\nだな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_008S_0025",
+    "original": "涼宮さんの行動は、一見して脈絡が\nないように見えることもありますね",
+    "translation": "涼宮さんの行動は、一見して脈絡が\nないように見えることもありますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_008S_0026",
+    "original": "しかし、必ずどこかに接点があると\n思うのですよ",
+    "translation": "しかし、必ずどこかに接点があると\n思うのですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_008S_0027",
+    "original": "世のご都合主義でも、都合による\n必然性ってのがあるからな",
+    "translation": "世のご都合主義でも、都合による\n必然性ってのがあるからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_008S_0028",
+    "original": "ええ。たしかに、その接点を探り\n出してから対策を練った方が",
+    "translation": "ええ。たしかに、その接点を探り\n出してから対策を練った方が",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_008S_0029",
+    "original": "良いのではないかと",
+    "translation": "良いのではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_008S_0030",
+    "original": "それもそうだな",
+    "translation": "それもそうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_008S_0031",
+    "original": "古泉に先を越された気分だが、接点\nを解明するのはムダなことじゃない",
+    "translation": "古泉に先を越された気分だが、接点\nを解明するのはムダなことじゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_008S_0032",
+    "original": "コンピ研と楽譜という、一見無関係\nな接点が線になれば、いずれは……",
+    "translation": "コンピ研と楽譜という、一見無関係\nな接点が線になれば、いずれは……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_008S_0033",
+    "original": "情報生命体にたどりつくってことか",
+    "translation": "情報生命体にたどりつくってことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_008S_0034",
+    "original": "いち早くたどりつく可能性が高まる\nといったところでしょうね",
+    "translation": "いち早くたどりつく可能性が高まる\nといったところでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_008S_0035",
+    "original": "可能性が高まる……か",
+    "translation": "可能性が高まる……か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_008S_0036",
+    "original": "遠回りすることにならなければ、俺\nとしてはいいんだが",
+    "translation": "遠回りすることにならなければ、俺\nとしてはいいんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_008S_0037",
+    "original": "あの、どうすることになりました？",
+    "translation": "あの、どうすることになりました？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_008S_0038",
+    "original": "もう一度、コンピ研に戻ることに\nなりましたよ",
+    "translation": "もう一度、コンピ研に戻ることに\nなりましたよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_008S_0039",
+    "original": "ええっ……また怖い話になったり\nしませんか？",
+    "translation": "ええっ……また怖い話になったり\nしませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_008S_0040",
+    "original": "大丈夫ですよ、朝比奈さん",
+    "translation": "大丈夫ですよ、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_008S_0041",
+    "original": "では、コンピ研に戻りましょう",
+    "translation": "では、コンピ研に戻りましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_008S_0042",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_008S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_008S_0044",
+    "original": "はぁぁぁぁっ……",
+    "translation": "はぁぁぁぁっ……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_008S_0045",
+    "original": "部長氏は俺たちの顔を見るなり\n深い深いため息をつく",
+    "translation": "部長氏は俺たちの顔を見るなり\n深い深いため息をつく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_008S_0046",
+    "original": "もっとも、その気持ちは分からない\nでもない",
+    "translation": "もっとも、その気持ちは分からない\nでもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_008S_0047",
+    "original": "俺たちに何度も押しかけられて\n迷惑なのだろう",
+    "translation": "俺たちに何度も押しかけられて\n迷惑なのだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_008S_0048",
+    "original": "",
+    "translation": "",
+    "speaker": "部長氏",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_008S_0049",
+    "original": "お忙しいところを申し訳ありません",
+    "translation": "お忙しいところを申し訳ありません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_008S_0050",
+    "original": "それで、今度はなんだい？",
+    "translation": "それで、今度はなんだい？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_008S_0051",
+    "original": "部長氏に用はないのだが、いちおう\n話は通しておかないとな",
+    "translation": "部長氏に用はないのだが、いちおう\n話は通しておかないとな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_008S_0052",
+    "original": "あの部員さん、どちらへ？",
+    "translation": "あの部員さん、どちらへ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_008S_0053",
+    "original": "部員って誰のこと？",
+    "translation": "部員って誰のこと？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_008S_0054",
+    "original": "さっき、いきなり楽譜を書き始めた\n部員さんですよ",
+    "translation": "さっき、いきなり楽譜を書き始めた\n部員さんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_008S_0055",
+    "original": "ああ、彼なら席を外してるけど\nまだ彼になにか用なのかい？",
+    "translation": "ああ、彼なら席を外してるけど\nまだ彼になにか用なのかい？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_008S_0056",
+    "original": "古泉に言われて戻ってきたら、肝心\nの部員がいないとはね",
+    "translation": "古泉に言われて戻ってきたら、肝心\nの部員がいないとはね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_008S_0057",
+    "original": "彼はすぐ戻ってくるんでしょうか？",
+    "translation": "彼はすぐ戻ってくるんでしょうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_008S_0058",
+    "original": "ふといなくなって、しばらくの間\n戻ってこないなんて事もあるから",
+    "translation": "ふといなくなって、しばらくの間\n戻ってこないなんて事もあるから",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_008S_0059",
+    "original": "いかにも面倒くさそうにおっしゃる",
+    "translation": "いかにも面倒くさそうにおっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_008S_0060",
+    "original": "また少し、お聞きしたいのですが",
+    "translation": "また少し、お聞きしたいのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_008S_0061",
+    "original": "なんだい？",
+    "translation": "なんだい？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_008S_0062",
+    "original": "彼がいきなり楽譜を書き出したのに\nはなにか理由があるのではないと",
+    "translation": "彼がいきなり楽譜を書き出したのに\nはなにか理由があるのではないと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_008S_0063",
+    "original": "ああ、そのことか……",
+    "translation": "ああ、そのことか……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_008S_0064",
+    "original": "なんとなく言いにくいそうだが\n知っているらしい口ぶりだな",
+    "translation": "なんとなく言いにくいそうだが\n知っているらしい口ぶりだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_008S_0065",
+    "original": "よかったら話していただけませんか",
+    "translation": "よかったら話していただけませんか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_008S_0066",
+    "original": "……キミたちに話すことはないよ",
+    "translation": "……キミたちに話すことはないよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_008S_0067",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_008S_0068",
+    "original": "お願いします、教えて下さい",
+    "translation": "お願いします、教えて下さい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_008S_0069",
+    "original": "……あー、まいったな",
+    "translation": "……あー、まいったな",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_008S_0070",
+    "original": "朝比奈さんに迫られて、部長氏は\n困惑の表情を浮かべている",
+    "translation": "朝比奈さんに迫られて、部長氏は\n困惑の表情を浮かべている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_008S_0071",
+    "original": "朝比奈さんが相手なら\n仕方ない反応だろう",
+    "translation": "朝比奈さんが相手なら\n仕方ない反応だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_008S_0072",
+    "original": "さっきも言ったけど彼は音楽を\n担当しているんだよ",
+    "translation": "さっきも言ったけど彼は音楽を\n担当しているんだよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_008S_0073",
+    "original": "そのための音源として、ピアノや\n他の楽器を用いてるんだ",
+    "translation": "そのための音源として、ピアノや\n他の楽器を用いてるんだ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_008S_0074",
+    "original": "それで音楽室に……",
+    "translation": "それで音楽室に……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_008S_0075",
+    "original": "それなら言いにくそうにするまでも\nないことだろうに",
+    "translation": "それなら言いにくそうにするまでも\nないことだろうに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_008S_0076",
+    "original": "………………\nもしかして……",
+    "translation": "………………\nもしかして……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_008S_0077",
+    "original": "それはゲームの音楽なんですね？",
+    "translation": "それはゲームの音楽なんですね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_008S_0078",
+    "original": "え……ああ……いや、その、なんだ",
+    "translation": "え……ああ……いや、その、なんだ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_008S_0079",
+    "original": "部長氏の目が海流にのって回遊する\n魚群のごとく泳いだところを見ると",
+    "translation": "部長氏の目が海流にのって回遊する\n魚群のごとく泳いだところを見ると",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_008S_0080",
+    "original": "どうやら、図星らしい",
+    "translation": "どうやら、図星らしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_008S_0081",
+    "original": "コンピューターを使って音楽を\n作っているだけなんだよ、うん",
+    "translation": "コンピューターを使って音楽を\n作っているだけなんだよ、うん",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_008S_0082",
+    "original": "それもコンピ研の活動の一環だしね",
+    "translation": "それもコンピ研の活動の一環だしね",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_008S_0083",
+    "original": "そうですか",
+    "translation": "そうですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_008S_0084",
+    "original": "取って付けたような言い訳だが\nゲーム用の音源なのはまちがいない",
+    "translation": "取って付けたような言い訳だが\nゲーム用の音源なのはまちがいない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_008S_0085",
+    "original": "そうでなければ、最初からそういう\nはずだ",
+    "translation": "そうでなければ、最初からそういう\nはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_008S_0086",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_008S_0087",
+    "original": "どんな音楽なのか、ちょっと聞いて\nみたいですね",
+    "translation": "どんな音楽なのか、ちょっと聞いて\nみたいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_008S_0088",
+    "original": "それはちょっとね……",
+    "translation": "それはちょっとね……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_008S_0089",
+    "original": "少しでいいのですが",
+    "translation": "少しでいいのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_008S_0090",
+    "original": "まだ未完成だし、担当者が席を外し\nているんだ。あきらめてくれ",
+    "translation": "まだ未完成だし、担当者が席を外し\nているんだ。あきらめてくれ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_008S_0091",
+    "original": "さすがに口達者な古泉でも説得は\n無理そうだな",
+    "translation": "さすがに口達者な古泉でも説得は\n無理そうだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_008S_0092",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_008S_0093",
+    "original": "あの、少しだけでいいんです",
+    "translation": "あの、少しだけでいいんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_008S_0094",
+    "original": "う……",
+    "translation": "う……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_008S_0095",
+    "original": "朝比奈さんが懇願すると、途端に\n部長氏は言葉を詰まらせた",
+    "translation": "朝比奈さんが懇願すると、途端に\n部長氏は言葉を詰まらせた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_008S_0096",
+    "original": "し、仕方ないな。ちょっとだけだぞ",
+    "translation": "し、仕方ないな。ちょっとだけだぞ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_008S_0097",
+    "original": "どれだけ朝比奈さんに弱いんだ\nこの人は",
+    "translation": "どれだけ朝比奈さんに弱いんだ\nこの人は",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_008S_0098",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_008S_0099",
+    "original": "",
+    "translation": "",
+    "speaker": "部長氏",
+    "trash": true
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_008S_0100",
+    "original": "部長氏がパソコンを操作して\n音楽ファイルを読み込む",
+    "translation": "部長氏がパソコンを操作して\n音楽ファイルを読み込む",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_008S_0101",
+    "original": "すると、耳に突っ込んだイヤフォン\nからチープな電子音が流れてきた",
+    "translation": "すると、耳に突っ込んだイヤフォン\nからチープな電子音が流れてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_008S_0102",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_008S_0103",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_008S_0104",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_008S_0105",
+    "original": "……もう、これぐらいでいいかな",
+    "translation": "……もう、これぐらいでいいかな",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_008S_0106",
+    "original": "どうなんだ、古泉",
+    "translation": "どうなんだ、古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_008S_0107",
+    "original": "いえ、もう少し",
+    "translation": "いえ、もう少し",
+    "speaker": "古泉"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_008S_0108",
+    "original": "むぅ、仕方ないな……",
+    "translation": "むぅ、仕方ないな……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_008S_0109",
+    "original": "これ、みなさんが作ったんですか？",
+    "translation": "これ、みなさんが作ったんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_008S_0110",
+    "original": "ま、まあね",
+    "translation": "ま、まあね",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_008S_0111",
+    "original": "すごいです。みなさんって\n音楽も作れるんですね",
+    "translation": "すごいです。みなさんって\n音楽も作れるんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_008S_0112",
+    "original": "いやぁ、大したことじゃないよ",
+    "translation": "いやぁ、大したことじゃないよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_008S_0113",
+    "original": "朝比奈さんが部長氏の気を惹いてく\nれている間に曲を聴くことができた",
+    "translation": "朝比奈さんが部長氏の気を惹いてく\nれている間に曲を聴くことができた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_008S_0114",
+    "original": "",
+    "translation": "",
+    "speaker": "部長氏",
+    "trash": true
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_008S_0115",
+    "original": "出来れば楽譜だけでも見せて\nもらえないですか？",
+    "translation": "出来れば楽譜だけでも見せて\nもらえないですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_008S_0116",
+    "original": "うーむ……",
+    "translation": "うーむ……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_008S_0117",
+    "original": "無理は承知だが、無理も通せば道理\nになるというし、押すしかない",
+    "translation": "無理は承知だが、無理も通せば道理\nになるというし、押すしかない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_008S_0118",
+    "original": "見せてもらえたら、さっさと退散\nしますよ",
+    "translation": "見せてもらえたら、さっさと退散\nしますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_008S_0119",
+    "original": "うーん……",
+    "translation": "うーん……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_008S_0120",
+    "original": "お願いします",
+    "translation": "お願いします",
+    "speaker": "キョン"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_008S_0121",
+    "original": "お願いします",
+    "translation": "お願いします",
+    "speaker": "みくる"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_008S_0122",
+    "original": "……わかったよ",
+    "translation": "……わかったよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_008S_0123",
+    "original": "これ以上ジャマをされても困るし\nいいだろう、見せてあげるよ",
+    "translation": "これ以上ジャマをされても困るし\nいいだろう、見せてあげるよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV2_008S_0124",
+    "original": "部長氏はしぶしぶながらも楽譜を\n見せてくれた",
+    "translation": "部長氏はしぶしぶながらも楽譜を\n見せてくれた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV2_008S_0125",
+    "original": "……難しそうな楽譜ですね",
+    "translation": "……難しそうな楽譜ですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV2_008S_0126",
+    "original": "ああ、僕もよく分からないんだ",
+    "translation": "ああ、僕もよく分からないんだ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV2_008S_0127",
+    "original": "見ただけではピンと来ない。どんな\nメロディラインかもわからない",
+    "translation": "見ただけではピンと来ない。どんな\nメロディラインかもわからない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV2_008S_0128",
+    "original": "それに、楽譜に何らかの意味が隠れ\nている可能性だってあるな",
+    "translation": "それに、楽譜に何らかの意味が隠れ\nている可能性だってあるな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV2_008S_0129",
+    "original": "古泉。これを見ただけで、例の件と\nの関連が分かるか？",
+    "translation": "古泉。これを見ただけで、例の件と\nの関連が分かるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV2_008S_0130",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 131,
+    "key": "evt_EV2_008S_0131",
+    "original": "いえ、残念ながら関連まではわかり\nかねますね",
+    "translation": "いえ、残念ながら関連まではわかり\nかねますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV2_008S_0132",
+    "original": "朝比奈さんは？",
+    "translation": "朝比奈さんは？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV2_008S_0133",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 134,
+    "key": "evt_EV2_008S_0134",
+    "original": "メロディはわかりますけど……\n関連があるのかは分からないです",
+    "translation": "メロディはわかりますけど……\n関連があるのかは分からないです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV2_008S_0135",
+    "original": "そうですか……",
+    "translation": "そうですか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV2_008S_0136",
+    "original": "この楽譜を借りてみるか\nそれともこのまま返すか……",
+    "translation": "この楽譜を借りてみるか\nそれともこのまま返すか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV2_008S_0137",
+    "original": "すみません、この楽譜をお借りして\nいってもかまいませんか？",
+    "translation": "すみません、この楽譜をお借りして\nいってもかまいませんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV2_008S_0138",
+    "original": "いや、それはさすがに……",
+    "translation": "いや、それはさすがに……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV2_008S_0139",
+    "original": "お借りしていけば、また押しかけず\nに済むかも知れませんよ？",
+    "translation": "お借りしていけば、また押しかけず\nに済むかも知れませんよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV2_008S_0140",
+    "original": "お、おどすつもりか？",
+    "translation": "お、おどすつもりか？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV2_008S_0141",
+    "original": "いいえ、そんなつもりはないですよ",
+    "translation": "いいえ、そんなつもりはないですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV2_008S_0142",
+    "original": "……作業のジャマをしないのなら\n持っていっていいよ",
+    "translation": "……作業のジャマをしないのなら\n持っていっていいよ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV2_008S_0143",
+    "original": "ありがとうございます。ではお借り\nしていきます",
+    "translation": "ありがとうございます。ではお借り\nしていきます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV2_008S_0144",
+    "original": "[#P05]“謎の楽譜”[#P01]を借りることが出来た",
+    "translation": "[#P05]“謎の楽譜”[#P01]を借りることが出来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV2_008S_0145",
+    "original": "これをどう使うかはあとでじっくり\n考えることにしよう",
+    "translation": "これをどう使うかはあとでじっくり\n考えることにしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV2_008S_0146",
+    "original": "じゃあ、楽譜はお返しします",
+    "translation": "じゃあ、楽譜はお返しします",
+    "speaker": "キョン"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV2_008S_0147",
+    "original": "ええっ、もういいのかい？",
+    "translation": "ええっ、もういいのかい？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV2_008S_0148",
+    "original": "返すとまずいんですか？",
+    "translation": "返すとまずいんですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV2_008S_0149",
+    "original": "いや……また作業のジャマをしに\n来られても困るんでね",
+    "translation": "いや……また作業のジャマをしに\n来られても困るんでね",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV2_008S_0150",
+    "original": "すみません……",
+    "translation": "すみません……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV2_008S_0151",
+    "original": "さっきは断ったけど、音源がここに\nあるから",
+    "translation": "さっきは断ったけど、音源がここに\nあるから",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV2_008S_0152",
+    "original": "ええっ、音源ですか？\nさっきは未完成と聞きましたけど",
+    "translation": "ええっ、音源ですか？\nさっきは未完成と聞きましたけど",
+    "speaker": "キョン"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV2_008S_0153",
+    "original": "ああ、途中までは出来てるんだ\nそれを持っていってくれ",
+    "translation": "ああ、途中までは出来てるんだ\nそれを持っていってくれ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV2_008S_0154",
+    "original": "よほど俺たちにジャマされたくない\nらしいな",
+    "translation": "よほど俺たちにジャマされたくない\nらしいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV2_008S_0155",
+    "original": "長門と合流したら、これを渡すと\nなにか分かるかも知れないな",
+    "translation": "長門と合流したら、これを渡すと\nなにか分かるかも知れないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV2_008S_0156",
+    "original": "ほらほら、用事が済んだらさっさと\n帰ってくれたまえ",
+    "translation": "ほらほら、用事が済んだらさっさと\n帰ってくれたまえ",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV2_008S_0157",
+    "original": "いや、もうちょっとお話を……",
+    "translation": "いや、もうちょっとお話を……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV2_008S_0158",
+    "original": "あのね、僕たちは忙しいんだよ！\nそれを持って帰ってくれたまえ！",
+    "translation": "あのね、僕たちは忙しいんだよ！\nそれを持って帰ってくれたまえ！",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV2_008S_0159",
+    "original": "急に怒り出したぞ",
+    "translation": "急に怒り出したぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV2_008S_0160",
+    "original": "ほら、帰った帰った！！",
+    "translation": "ほら、帰った帰った！！",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 161,
+    "key": "evt_EV2_008S_0161",
+    "original": "すみません、お邪魔しました",
+    "translation": "すみません、お邪魔しました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV2_008S_0162",
+    "original": "",
+    "translation": "",
+    "speaker": "部長氏",
+    "trash": true
+  },
+  {
+    "index": 163,
+    "key": "evt_EV2_008S_0163",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 164,
+    "key": "evt_EV2_008S_0164",
+    "original": "朝比奈さんを連れて行けばいくらか\n態度が軟化するみたいだけど",
+    "translation": "朝比奈さんを連れて行けばいくらか\n態度が軟化するみたいだけど",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV2_008S_0165",
+    "original": "俺たちと関わることはけっこうな\nストレスなのかもしれない",
+    "translation": "俺たちと関わることはけっこうな\nストレスなのかもしれない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV2_008S_0166",
+    "original": "我らが団長殿にこっぴどい目にあわ\nされたのだから、さすがに気の毒だ",
+    "translation": "我らが団長殿にこっぴどい目にあわ\nされたのだから、さすがに気の毒だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV2_008S_0167",
+    "original": "さて、これからどうするかだけど\n音楽室に向かうか？",
+    "translation": "さて、これからどうするかだけど\n音楽室に向かうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 168,
+    "key": "evt_EV2_008S_0168",
+    "original": "ちょっと待って下さい",
+    "translation": "ちょっと待って下さい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV2_008S_0169",
+    "original": "なんだよ、また待てなのか？",
+    "translation": "なんだよ、また待てなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV2_008S_0170",
+    "original": "……さっきの話、どう思います？",
+    "translation": "……さっきの話、どう思います？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 171,
+    "key": "evt_EV2_008S_0171",
+    "original": "点と線がつながるって話か？",
+    "translation": "点と線がつながるって話か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV2_008S_0172",
+    "original": "ええ",
+    "translation": "ええ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV2_008S_0173",
+    "original": "ゲームの音楽を作っていたとしたら\nコンピ研が音楽と関係していても",
+    "translation": "ゲームの音楽を作っていたとしたら\nコンピ研が音楽と関係していても",
+    "speaker": "キョン"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV2_008S_0174",
+    "original": "なにも不思議じゃなくなるな",
+    "translation": "なにも不思議じゃなくなるな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV2_008S_0175",
+    "original": "ええ。一度整理してみましょう",
+    "translation": "ええ。一度整理してみましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV2_008S_0176",
+    "original": "音楽室からピアノの音が聞こえたと\nいう、怪奇現象の正体か……",
+    "translation": "音楽室からピアノの音が聞こえたと\nいう、怪奇現象の正体か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV2_008S_0177",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 178,
+    "key": "evt_EV2_008S_0178",
+    "original": "まさか、涼宮さんの望みで本物の\n幽霊が出たとかじゃないですよね？",
+    "translation": "まさか、涼宮さんの望みで本物の\n幽霊が出たとかじゃないですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV2_008S_0179",
+    "original": "朝比奈さんは涙を浮かべて、本気で\nおびえていらっしゃる",
+    "translation": "朝比奈さんは涙を浮かべて、本気で\nおびえていらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV2_008S_0180",
+    "original": "おい、古泉。朝比奈さんをあまり\nおびえさせるんじゃない",
+    "translation": "おい、古泉。朝比奈さんをあまり\nおびえさせるんじゃない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV2_008S_0181",
+    "original": "そのようなつもりはないのですが",
+    "translation": "そのようなつもりはないのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 182,
+    "key": "evt_EV2_008S_0182",
+    "original": "なるべく笑顔で話すよう\n心がけましょう",
+    "translation": "なるべく笑顔で話すよう\n心がけましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV2_008S_0183",
+    "original": "その笑顔でなんでも丸く収まると\nでも思ってるのか？",
+    "translation": "その笑顔でなんでも丸く収まると\nでも思ってるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV2_008S_0184",
+    "original": "丸く収まらずとも、不快感は\n与えないと思いますよ",
+    "translation": "丸く収まらずとも、不快感は\n与えないと思いますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV2_008S_0185",
+    "original": "……おまえのそのうさんくさい\nスマイルはもういい……",
+    "translation": "……おまえのそのうさんくさい\nスマイルはもういい……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV2_008S_0186",
+    "original": "朝比奈さん、大丈夫ですか？",
+    "translation": "朝比奈さん、大丈夫ですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV2_008S_0187",
+    "original": "ふえっ……だ、だいじょうぶですぅ",
+    "translation": "ふえっ……だ、だいじょうぶですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 188,
+    "key": "evt_EV2_008S_0188",
+    "original": "とても大丈夫そうに見えないのだが\n無理していらっしゃるのか？",
+    "translation": "とても大丈夫そうに見えないのだが\n無理していらっしゃるのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 189,
+    "key": "evt_EV2_008S_0189",
+    "original": "はい、これ。キョンくんにあげます",
+    "translation": "はい、これ。キョンくんにあげます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 190,
+    "key": "evt_EV2_008S_0190",
+    "original": "……なんです、これ？",
+    "translation": "……なんです、これ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 191,
+    "key": "evt_EV2_008S_0191",
+    "original": "マシュマロです。おやつに持って\nきていたんです",
+    "translation": "マシュマロです。おやつに持って\nきていたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 192,
+    "key": "evt_EV2_008S_0192",
+    "original": "朝比奈さんは驚いたショックからか\nマシュマロをほおばっておいでだ",
+    "translation": "朝比奈さんは驚いたショックからか\nマシュマロをほおばっておいでだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 193,
+    "key": "evt_EV2_008S_0193",
+    "original": "“マシュマロ”ですか、ありがとう\nございます……",
+    "translation": "“マシュマロ”ですか、ありがとう\nございます……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 194,
+    "key": "evt_EV2_008S_0194",
+    "original": "[#SK0]焼いたマシュマロは美味しいの……\nキャンプファイヤーで焼くの……",
+    "translation": "[#SK0]焼いたマシュマロは美味しいの……\nキャンプファイヤーで焼くの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 195,
+    "key": "evt_EV2_008S_0195",
+    "original": "かなりパニック状態になっている\nようだから、安心させないとな",
+    "translation": "かなりパニック状態になっている\nようだから、安心させないとな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 196,
+    "key": "evt_EV2_008S_0196",
+    "original": "大丈夫です、朝比奈さん。真相は\n幽霊じゃないようですよ",
+    "translation": "大丈夫です、朝比奈さん。真相は\n幽霊じゃないようですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 197,
+    "key": "evt_EV2_008S_0197",
+    "original": "古泉、説明してみてくれ",
+    "translation": "古泉、説明してみてくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 198,
+    "key": "evt_EV2_008S_0198",
+    "original": "はい。これはあくまで仮説でしか\nありませんが、幽霊ではないですね",
+    "translation": "はい。これはあくまで仮説でしか\nありませんが、幽霊ではないですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 199,
+    "key": "evt_EV2_008S_0199",
+    "original": "そ、そうなんですかぁ？",
+    "translation": "そ、そうなんですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 200,
+    "key": "evt_EV2_008S_0200",
+    "original": "怖い顔をしておどかすのもなんだが\nその笑みはなんとかならんか、古泉",
+    "translation": "怖い顔をしておどかすのもなんだが\nその笑みはなんとかならんか、古泉",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 201,
+    "key": "evt_EV2_008S_0201",
+    "original": "あの部員が音楽を担当しているのは\n先ほどの話で確認できましたから",
+    "translation": "あの部員が音楽を担当しているのは\n先ほどの話で確認できましたから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 202,
+    "key": "evt_EV2_008S_0202",
+    "original": "作曲までしていたおかげで、情報\n生命体に操作されやすかったんだな",
+    "translation": "作曲までしていたおかげで、情報\n生命体に操作されやすかったんだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 203,
+    "key": "evt_EV2_008S_0203",
+    "original": "おそらく。音楽室から聞こえたと\nいうピアノの音も、説明できます",
+    "translation": "おそらく。音楽室から聞こえたと\nいうピアノの音も、説明できます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 204,
+    "key": "evt_EV2_008S_0204",
+    "original": "え、えっと……どういう風に\nつながっているんですか？",
+    "translation": "え、えっと……どういう風に\nつながっているんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 205,
+    "key": "evt_EV2_008S_0205",
+    "original": "たとえば音源にする生音が欲しくて\n音楽室に行ったと考えられます",
+    "translation": "たとえば音源にする生音が欲しくて\n音楽室に行ったと考えられます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 206,
+    "key": "evt_EV2_008S_0206",
+    "original": "どういうことなんですか？",
+    "translation": "どういうことなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 207,
+    "key": "evt_EV2_008S_0207",
+    "original": "そうですね、たとえば……",
+    "translation": "そうですね、たとえば……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 208,
+    "key": "evt_EV2_008S_0208",
+    "original": "ピアノの音を録音してサンプリング\nしようとしたのかも知れません",
+    "translation": "ピアノの音を録音してサンプリング\nしようとしたのかも知れません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 209,
+    "key": "evt_EV2_008S_0209",
+    "original": "たしかにその仮説はありえるな",
+    "translation": "たしかにその仮説はありえるな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 210,
+    "key": "evt_EV2_008S_0210",
+    "original": "もしくは、頭の中で整理がつかずに\nピアノで弾いたとも考えられます",
+    "translation": "もしくは、頭の中で整理がつかずに\nピアノで弾いたとも考えられます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 211,
+    "key": "evt_EV2_008S_0211",
+    "original": "情報生命体に弾かされていたって\n可能性もありそうだけどな",
+    "translation": "情報生命体に弾かされていたって\n可能性もありそうだけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 212,
+    "key": "evt_EV2_008S_0212",
+    "original": "じゃあ、ピアノの音は幽霊の\nしわざじゃなかったんですね",
+    "translation": "じゃあ、ピアノの音は幽霊の\nしわざじゃなかったんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 213,
+    "key": "evt_EV2_008S_0213",
+    "original": "はい、仮説が正しければ",
+    "translation": "はい、仮説が正しければ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 214,
+    "key": "evt_EV2_008S_0214",
+    "original": "ほっ……よかったぁ",
+    "translation": "ほっ……よかったぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 215,
+    "key": "evt_EV2_008S_0215",
+    "original": "たしかに、その仮説はかなり的確な\n気がするな",
+    "translation": "たしかに、その仮説はかなり的確な\n気がするな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 216,
+    "key": "evt_EV2_008S_0216",
+    "original": "ええ。これも仮説ですが、部員が\nピアノを弾いていたとして……",
+    "translation": "ええ。これも仮説ですが、部員が\nピアノを弾いていたとして……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 217,
+    "key": "evt_EV2_008S_0217",
+    "original": "他の部員がそれを聞いて、幽霊と\n勘違いしたというのはどうでしょう",
+    "translation": "他の部員がそれを聞いて、幽霊と\n勘違いしたというのはどうでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 218,
+    "key": "evt_EV2_008S_0218",
+    "original": "どうでしょうってなんだよ？",
+    "translation": "どうでしょうってなんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 219,
+    "key": "evt_EV2_008S_0219",
+    "original": "いえ、涼宮さんを納得させるには\n充分ではないかと",
+    "translation": "いえ、涼宮さんを納得させるには\n充分ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 220,
+    "key": "evt_EV2_008S_0220",
+    "original": "しれっとした顔で軽く言いやがった\nつまりはウソってことだ",
+    "translation": "しれっとした顔で軽く言いやがった\nつまりはウソってことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 221,
+    "key": "evt_EV2_008S_0221",
+    "original": "涼宮さんを説得するには、説得力が\n足りないでしょうか？",
+    "translation": "涼宮さんを説得するには、説得力が\n足りないでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 222,
+    "key": "evt_EV2_008S_0222",
+    "original": "いや、これで充分だろう\nうまく整理できた感じだな",
+    "translation": "いや、これで充分だろう\nうまく整理できた感じだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 223,
+    "key": "evt_EV2_008S_0223",
+    "original": "正直、助かった",
+    "translation": "正直、助かった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 224,
+    "key": "evt_EV2_008S_0224",
+    "original": "いえ、出すぎたマネだったかも\nしれませんね",
+    "translation": "いえ、出すぎたマネだったかも\nしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 225,
+    "key": "evt_EV2_008S_0225",
+    "original": "感謝してはいるが、そういわれると\nかえって釈然としない",
+    "translation": "感謝してはいるが、そういわれると\nかえって釈然としない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 226,
+    "key": "evt_EV2_008S_0226",
+    "original": "というか、その笑顔を俺に向けるな",
+    "translation": "というか、その笑顔を俺に向けるな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 227,
+    "key": "evt_EV2_008S_0227",
+    "original": "楽譜を拝借する",
+    "translation": "楽譜を拝借する",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 228,
+    "key": "evt_EV2_008S_0228",
+    "original": "このまま返す",
+    "translation": "このまま返す",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 229,
+    "key": "evt_EV2_008S_0229",
+    "original": "古泉に話しかける",
+    "translation": "古泉に話しかける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 230,
+    "key": "evt_EV2_008S_0230",
+    "original": "みくるに話しかける",
+    "translation": "みくるに話しかける",
+    "speaker": "CHOICE"
+  }
+]

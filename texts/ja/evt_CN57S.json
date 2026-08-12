@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN57S_0000",
+    "original": "なあ、ハルヒ。喉がかわかないか？",
+    "translation": "なあ、ハルヒ。喉がかわかないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN57S_0001",
+    "original": "なによキョン。アンタ、もしかして\n怖くて緊張してるんじゃないの？",
+    "translation": "なによキョン。アンタ、もしかして\n怖くて緊張してるんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN57S_0002",
+    "original": "緊張で喉が渇いたワケじゃない、夕\n食がちょっとしょっぱかったんだ",
+    "translation": "緊張で喉が渇いたワケじゃない、夕\n食がちょっとしょっぱかったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN57S_0003",
+    "original": "わかったわ、キョン",
+    "translation": "わかったわ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN57S_0004",
+    "original": "なんだよ",
+    "translation": "なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN57S_0005",
+    "original": "怖いから、ジュースを買いに行って\nここから逃げようって魂胆ねっ！",
+    "translation": "怖いから、ジュースを買いに行って\nここから逃げようって魂胆ねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN57S_0006",
+    "original": "だから怖いワケじゃないって",
+    "translation": "だから怖いワケじゃないって",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN57S_0007",
+    "original": "じゃあなによ、いきなり喉が渇いた\nかなんて聞いてきて",
+    "translation": "じゃあなによ、いきなり喉が渇いた\nかなんて聞いてきて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN57S_0008",
+    "original": "いや、ここに長門が買ったミネラル\nウォーターがあるんだが",
+    "translation": "いや、ここに長門が買ったミネラル\nウォーターがあるんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN57S_0009",
+    "original": "喉が渇いていたら飲むかと聞いた\nだけなんだが",
+    "translation": "喉が渇いていたら飲むかと聞いた\nだけなんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN57S_0010",
+    "original": "そういうことなら先に言いなさいよ\nバーベキューで喉がかわいてるの",
+    "translation": "そういうことなら先に言いなさいよ\nバーベキューで喉がかわいてるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN57S_0011",
+    "original": "だったら素直に喉がかわいたって\n言えよな",
+    "translation": "だったら素直に喉がかわいたって\n言えよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN57S_0012",
+    "original": "それ、よこしなさい！",
+    "translation": "それ、よこしなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN57S_0013",
+    "original": "ああ、一口だけだぞ",
+    "translation": "ああ、一口だけだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN57S_0014",
+    "original": "……んぐ、んぐっ、ぷはぁ！",
+    "translation": "……んぐ、んぐっ、ぷはぁ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN57S_0015",
+    "original": "ああっ、ぜんぶ飲みやがった",
+    "translation": "ああっ、ぜんぶ飲みやがった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN57S_0016",
+    "original": "うん、なかなか美味しい水だったわ\nジュースより断然健康的ねっ！",
+    "translation": "うん、なかなか美味しい水だったわ\nジュースより断然健康的ねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN57S_0017",
+    "original": "……そりゃ良かったな",
+    "translation": "……そりゃ良かったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN57S_0018",
+    "original": "コンビニで飲み物を選んだんですが\n長門さんはミネラルのお水でした",
+    "translation": "コンビニで飲み物を選んだんですが\n長門さんはミネラルのお水でした",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN57S_0019",
+    "original": "なんとなく、長門さんらしいな\nって気がしちゃいました",
+    "translation": "なんとなく、長門さんらしいな\nって気がしちゃいました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN57S_0020",
+    "original": "そうね、わかるような気がするわ",
+    "translation": "そうね、わかるような気がするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN57S_0021",
+    "original": "有希だと、天然ミネラルが豊富で、\n添加物が入っていないとか",
+    "translation": "有希だと、天然ミネラルが豊富で、\n添加物が入っていないとか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN57S_0022",
+    "original": "そういうことを言いそうだものね",
+    "translation": "そういうことを言いそうだものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN57S_0023",
+    "original": "みくるちゃんは何にしたの？",
+    "translation": "みくるちゃんは何にしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN57S_0024",
+    "original": "オレンジジュースです",
+    "translation": "オレンジジュースです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN57S_0025",
+    "original": "んー……納得だけど……",
+    "translation": "んー……納得だけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN57S_0026",
+    "original": "い、いけなかったですか？",
+    "translation": "い、いけなかったですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN57S_0027",
+    "original": "萌えキャラ的にはいちご牛乳の\n方がベタでウケそうな気がしない？",
+    "translation": "萌えキャラ的にはいちご牛乳の\n方がベタでウケそうな気がしない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN57S_0028",
+    "original": "淡泊と甘々で有希と好対照だしね",
+    "translation": "淡泊と甘々で有希と好対照だしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN57S_0029",
+    "original": "ううっ、萌えキャラ的にって、\n言われても困りますよぉ～",
+    "translation": "ううっ、萌えキャラ的にって、\n言われても困りますよぉ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN57S_0030",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN57S_0031",
+    "original": "なに？　水？",
+    "translation": "なに？　水？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN57S_0032",
+    "original": "水分補給",
+    "translation": "水分補給",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN57S_0033",
+    "original": "ありがと、ちょうど喉が渇いてた\nとこだったわ",
+    "translation": "ありがと、ちょうど喉が渇いてた\nとこだったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN57S_0034",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN57S_0035",
+    "original": "ごく、ごく……ぷはあっ\nふぅ、生き返った気持ちね",
+    "translation": "ごく、ごく……ぷはあっ\nふぅ、生き返った気持ちね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN57S_0036",
+    "original": "ミネラルウォーターは、ぬるく\nなっても飲めるのがいいわね",
+    "translation": "ミネラルウォーターは、ぬるく\nなっても飲めるのがいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN57S_0037",
+    "original": "味覚に与える影響が軽微",
+    "translation": "味覚に与える影響が軽微",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN57S_0038",
+    "original": "リフレッシュしたところで、\nさ、急ぐわよ！",
+    "translation": "リフレッシュしたところで、\nさ、急ぐわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN57S_0039",
+    "original": "買出し班の購入物の中に、ミネラル\nウォーターがありましたね",
+    "translation": "買出し班の購入物の中に、ミネラル\nウォーターがありましたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN57S_0040",
+    "original": "水なんか買ってきて、どうするの\nかしら",
+    "translation": "水なんか買ってきて、どうするの\nかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN57S_0041",
+    "original": "長門さんの希望だそうですよ",
+    "translation": "長門さんの希望だそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN57S_0042",
+    "original": "ふうん……有希はジュースとかお茶\nとか苦手なのかしら",
+    "translation": "ふうん……有希はジュースとかお茶\nとか苦手なのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN57S_0043",
+    "original": "それに、別に学校の水でもいいと\n思うけど",
+    "translation": "それに、別に学校の水でもいいと\n思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN57S_0044",
+    "original": "そうですね。ですが、持ち歩くには\n便利では無いでしょうか",
+    "translation": "そうですね。ですが、持ち歩くには\n便利では無いでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN57S_0045",
+    "original": "まあ、そうね。やかんやポットを\n持ち歩くわけにも行かないものね",
+    "translation": "まあ、そうね。やかんやポットを\n持ち歩くわけにも行かないものね",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA42S_0000",
+    "original": "おい、ハルヒ\nあまり朝比奈さんを怖がらせるなよ",
+    "translation": "おい、ハルヒ\nあまり朝比奈さんを怖がらせるなよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA42S_0001",
+    "original": "あの人は、オカルト的なことが苦手\nなんだ。少しは気を遣ってやれ",
+    "translation": "あの人は、オカルト的なことが苦手\nなんだ。少しは気を遣ってやれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA42S_0002",
+    "original": "あたしはいつだって気遣ってるわよ",
+    "translation": "あたしはいつだって気遣ってるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA42S_0003",
+    "original": "でも、みくるちゃんが怖がってると\nころ、可愛いのよね",
+    "translation": "でも、みくるちゃんが怖がってると\nころ、可愛いのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA42S_0004",
+    "original": "その件に関しては、俺も賛同できる\n部分がないわけでもないが",
+    "translation": "その件に関しては、俺も賛同できる\n部分がないわけでもないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA42S_0005",
+    "original": "だからって、少し脅かしすぎだ",
+    "translation": "だからって、少し脅かしすぎだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA42S_0006",
+    "original": "真面目な人だから、怖がっても逃げ\nずに活動を続けてるんだぞ",
+    "translation": "真面目な人だから、怖がっても逃げ\nずに活動を続けてるんだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA42S_0007",
+    "original": "すぐサボろうとするアンタとは大違\nいね。少しは見習いなさい",
+    "translation": "すぐサボろうとするアンタとは大違\nいね。少しは見習いなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA42S_0008",
+    "original": "……なんで俺に矛先が向いたんだ？",
+    "translation": "……なんで俺に矛先が向いたんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA42S_0009",
+    "original": "あ、あたし、今回の合宿では、その\n色々と頑張ろうって決めてたんです",
+    "translation": "あ、あたし、今回の合宿では、その\n色々と頑張ろうって決めてたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA42S_0010",
+    "original": "どうしたの？　急に……",
+    "translation": "どうしたの？　急に……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA42S_0011",
+    "original": "えっと、色々と怖いことや、不思議\nなことが起こっても……",
+    "translation": "えっと、色々と怖いことや、不思議\nなことが起こっても……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA42S_0012",
+    "original": "逃げたりしないで、頑張ってみんな\nについていこうって、決めたんです",
+    "translation": "逃げたりしないで、頑張ってみんな\nについていこうって、決めたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA42S_0013",
+    "original": "みくるちゃん、怖がりだもんね\nでも、その心がけは立派よ！",
+    "translation": "みくるちゃん、怖がりだもんね\nでも、その心がけは立派よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA42S_0014",
+    "original": "なんでもすぐサボって逃げようとす\nるキョンに、聞かせてあげたいわ",
+    "translation": "なんでもすぐサボって逃げようとす\nるキョンに、聞かせてあげたいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA42S_0015",
+    "original": "そ、そんな……",
+    "translation": "そ、そんな……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA42S_0016",
+    "original": "うん、そうね。そうだわ！",
+    "translation": "うん、そうね。そうだわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA42S_0017",
+    "original": "みくるちゃん、その話、キョンにも\nぜひ聞かせてあげましょう！",
+    "translation": "みくるちゃん、その話、キョンにも\nぜひ聞かせてあげましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA42S_0018",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA42S_0019",
+    "original": "ほら、急いで急いで！",
+    "translation": "ほら、急いで急いで！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA42S_0020",
+    "original": "あ、ちょっと、涼宮さぁぁぁんっ",
+    "translation": "あ、ちょっと、涼宮さぁぁぁんっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA42S_0021",
+    "original": "もうっ、なんでこんなに遠いのよっ",
+    "translation": "もうっ、なんでこんなに遠いのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA42S_0022",
+    "original": "生徒用エレベータとエスカレーター\nくらい設置しなさいよね！",
+    "translation": "生徒用エレベータとエスカレーター\nくらい設置しなさいよね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA42S_0023",
+    "original": "聞いて。朝比奈みくるの……",
+    "translation": "聞いて。朝比奈みくるの……",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA42S_0024",
+    "original": "今は、雑談したい気分じゃないわ",
+    "translation": "今は、雑談したい気分じゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA42S_0025",
+    "original": "それよりも有希、もっと早く走り\nなさい。急ぐのよ",
+    "translation": "それよりも有希、もっと早く走り\nなさい。急ぐのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA42S_0026",
+    "original": "……わかった",
+    "translation": "……わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA42S_0027",
+    "original": "朝比奈さんは、本当にオカルト方面\nの話題が苦手な方のようですね",
+    "translation": "朝比奈さんは、本当にオカルト方面\nの話題が苦手な方のようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA42S_0028",
+    "original": "そう。でもそこが、みくるちゃん\nらしいところでもあるわ",
+    "translation": "そう。でもそこが、みくるちゃん\nらしいところでもあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA42S_0029",
+    "original": "逃げて帰ったりしないし、サボった\nりもしない。みくるちゃんは偉いわ",
+    "translation": "逃げて帰ったりしないし、サボった\nりもしない。みくるちゃんは偉いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA42S_0030",
+    "original": "それに比べて、キョンは本当にダメ\nね。もう帰ろうとか言い出すし",
+    "translation": "それに比べて、キョンは本当にダメ\nね。もう帰ろうとか言い出すし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA42S_0031",
+    "original": "古泉くんも、ちゃんと団の活動は\n最後までやり遂げなきゃダメよ",
+    "translation": "古泉くんも、ちゃんと団の活動は\n最後までやり遂げなきゃダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA42S_0032",
+    "original": "……ええ、もちろんです",
+    "translation": "……ええ、もちろんです",
+    "speaker": "古泉"
+  }
+]

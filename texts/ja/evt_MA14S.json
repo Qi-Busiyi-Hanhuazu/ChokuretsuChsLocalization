@@ -1,0 +1,522 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA14S_0000",
+    "original": "モタモタしてたら、見回りの教師に\n見つかっちゃうかも",
+    "translation": "モタモタしてたら、見回りの教師に\n見つかっちゃうかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA14S_0001",
+    "original": "そんなのに捕まったら時間のロス\nだわ",
+    "translation": "そんなのに捕まったら時間のロス\nだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA14S_0002",
+    "original": "急ぐわよ、キョン",
+    "translation": "急ぐわよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA14S_0003",
+    "original": "この懐中電灯が役に立つかも……",
+    "translation": "この懐中電灯が役に立つかも……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA14S_0004",
+    "original": "まさか、言ったそばから見回り！？",
+    "translation": "まさか、言ったそばから見回り！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA14S_0005",
+    "original": "隠れるわよ、キョン！",
+    "translation": "隠れるわよ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA14S_0006",
+    "original": "お、おう",
+    "translation": "お、おう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA14S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_MA14S_0008",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA14S_0009",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA14S_0010",
+    "original": "……誰も来ないわね",
+    "translation": "……誰も来ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA14S_0011",
+    "original": "いや、実はさっきのは俺なんだ",
+    "translation": "いや、実はさっきのは俺なんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA14S_0012",
+    "original": "なんですって？",
+    "translation": "なんですって？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA14S_0013",
+    "original": "いや、懐中電灯を持ってるのを\n思い出したんで点けてみたんだ",
+    "translation": "いや、懐中電灯を持ってるのを\n思い出したんで点けてみたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA14S_0014",
+    "original": "もう、紛らわしいことしないでよ！",
+    "translation": "もう、紛らわしいことしないでよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA14S_0015",
+    "original": "いやぁ、すまん",
+    "translation": "いやぁ、すまん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA14S_0016",
+    "original": "多少は時間稼ぎになったか……",
+    "translation": "多少は時間稼ぎになったか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA14S_0017",
+    "original": "急ぐわよ、みくるちゃん",
+    "translation": "急ぐわよ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA14S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_MA14S_0019",
+    "original": "えと……そうだ",
+    "translation": "えと……そうだ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA14S_0020",
+    "original": "まさか、言ったそばから見回り！？",
+    "translation": "まさか、言ったそばから見回り！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA14S_0021",
+    "original": "隠れるわよ、みくるちゃん！",
+    "translation": "隠れるわよ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA14S_0022",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA14S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_MA14S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_MA14S_0025",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA14S_0026",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA14S_0027",
+    "original": "……誰も来ないわね",
+    "translation": "……誰も来ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA14S_0028",
+    "original": "あ、あの、実は……",
+    "translation": "あ、あの、実は……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA14S_0029",
+    "original": "なに？",
+    "translation": "なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA14S_0030",
+    "original": "実は、さっきのはこれなんです",
+    "translation": "実は、さっきのはこれなんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA14S_0031",
+    "original": "それ、懐中電灯？",
+    "translation": "それ、懐中電灯？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA14S_0032",
+    "original": "はい、暗いと怖いので持ってきた\nんですけど……",
+    "translation": "はい、暗いと怖いので持ってきた\nんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA14S_0033",
+    "original": "さっきまで持ってるの忘れてて",
+    "translation": "さっきまで持ってるの忘れてて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA14S_0034",
+    "original": "もう、紛らわしいわね！",
+    "translation": "もう、紛らわしいわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA14S_0035",
+    "original": "ご、ごめんなさい",
+    "translation": "ご、ごめんなさい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA14S_0036",
+    "original": "急ぐわよ、有希",
+    "translation": "急ぐわよ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA14S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_MA14S_0038",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA14S_0039",
+    "original": "まさか、言ったそばから見回り！？",
+    "translation": "まさか、言ったそばから見回り！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA14S_0040",
+    "original": "隠れるわよ、有希！",
+    "translation": "隠れるわよ、有希！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA14S_0041",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA14S_0042",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "evt_MA14S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_MA14S_0044",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA14S_0045",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA14S_0046",
+    "original": "……誰も来ないわね",
+    "translation": "……誰も来ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA14S_0047",
+    "original": "って、ちょっと有希。その手に\n持ってるのはなんなの？",
+    "translation": "って、ちょっと有希。その手に\n持ってるのはなんなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA14S_0048",
+    "original": "懐中電灯",
+    "translation": "懐中電灯",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA14S_0049",
+    "original": "じゃあ、まさかさっきのは……",
+    "translation": "じゃあ、まさかさっきのは……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA14S_0050",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA14S_0051",
+    "original": "もう、驚かさないでよ\n見回りかと思ったじゃない",
+    "translation": "もう、驚かさないでよ\n見回りかと思ったじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA14S_0052",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA14S_0053",
+    "original": "次からはひと言声をかけてよね",
+    "translation": "次からはひと言声をかけてよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA14S_0054",
+    "original": "了解した",
+    "translation": "了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA14S_0055",
+    "original": "急ぐわよ、古泉くん",
+    "translation": "急ぐわよ、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA14S_0056",
+    "original": "まさか、言ったそばから見回り！？",
+    "translation": "まさか、言ったそばから見回り！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA14S_0057",
+    "original": "隠れるわよ！",
+    "translation": "隠れるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA14S_0058",
+    "original": "ええ、そうしましょう",
+    "translation": "ええ、そうしましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA14S_0059",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 60,
+    "key": "evt_MA14S_0060",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "evt_MA14S_0061",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA14S_0062",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_MA14S_0063",
+    "original": "……誰も来ないわね",
+    "translation": "……誰も来ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_MA14S_0064",
+    "original": "そうですね",
+    "translation": "そうですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_MA14S_0065",
+    "original": "じゃあ、さっきの光はなんだ\nったのかしら？",
+    "translation": "じゃあ、さっきの光はなんだ\nったのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_MA14S_0066",
+    "original": "月明かりなどが、何かに反射した\nのかもしれませんね",
+    "translation": "月明かりなどが、何かに反射した\nのかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 67,
+    "key": "evt_MA14S_0067",
+    "original": "はぁ……紛らわしいわね",
+    "translation": "はぁ……紛らわしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_MA14S_0068",
+    "original": "そうですね",
+    "translation": "そうですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 69,
+    "key": "evt_MA14S_0069",
+    "original": "ですが、見回りがいるのは間違い\nないでしょう",
+    "translation": "ですが、見回りがいるのは間違い\nないでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 70,
+    "key": "evt_MA14S_0070",
+    "original": "さっきのような対応では見つけて\nくれと言わんばかりですし",
+    "translation": "さっきのような対応では見つけて\nくれと言わんばかりですし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 71,
+    "key": "evt_MA14S_0071",
+    "original": "少し、慎重に行きましょう",
+    "translation": "少し、慎重に行きましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 72,
+    "key": "evt_MA14S_0072",
+    "original": "ええ、その方がよさそうね",
+    "translation": "ええ、その方がよさそうね",
+    "speaker": "ハルヒ"
+  }
+]

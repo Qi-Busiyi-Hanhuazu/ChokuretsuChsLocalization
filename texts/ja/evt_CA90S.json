@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA90S_0000",
+    "original": "あのな、ハルヒ。仮定の話なんだが",
+    "translation": "あのな、ハルヒ。仮定の話なんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA90S_0001",
+    "original": "しゃべってないで歩きなさいよっ！",
+    "translation": "しゃべってないで歩きなさいよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA90S_0002",
+    "original": "まあ待てって。おまえが２人いたと\n仮定して、だ",
+    "translation": "まあ待てって。おまえが２人いたと\n仮定して、だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA90S_0003",
+    "original": "鏡の話ね",
+    "translation": "鏡の話ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA90S_0004",
+    "original": "ああ、おまえが２人になったとして\nおまえは自分の分身をどう思う？",
+    "translation": "ああ、おまえが２人になったとして\nおまえは自分の分身をどう思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA90S_0005",
+    "original": "大歓迎よ、２人して一緒に大いに\n世界を盛り上げるわっ！",
+    "translation": "大歓迎よ、２人して一緒に大いに\n世界を盛り上げるわっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA90S_0006",
+    "original": "自分の分身に対抗意識を抱いたり\nしないのか？",
+    "translation": "自分の分身に対抗意識を抱いたり\nしないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA90S_0007",
+    "original": "利害が一致していたら、そんな意識\n必要ないわよ",
+    "translation": "利害が一致していたら、そんな意識\n必要ないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA90S_0008",
+    "original": "それって女心なのか？",
+    "translation": "それって女心なのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA90S_0009",
+    "original": "はぁ……あのね、利害の一致って\n言ったわよね",
+    "translation": "はぁ……あのね、利害の一致って\n言ったわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA90S_0010",
+    "original": "ああ、それは聞いた",
+    "translation": "ああ、それは聞いた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA90S_0011",
+    "original": "それ以上でも以下でもないわよ\nだから対抗意識なんてないのよっ",
+    "translation": "それ以上でも以下でもないわよ\nだから対抗意識なんてないのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA90S_0012",
+    "original": "そういうもんか？",
+    "translation": "そういうもんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA90S_0013",
+    "original": "もしあたしの分身があたしの敵なら\nそれはもう徹底抗戦よっ！",
+    "translation": "もしあたしの分身があたしの敵なら\nそれはもう徹底抗戦よっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA90S_0014",
+    "original": "なるほどな……",
+    "translation": "なるほどな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA90S_0015",
+    "original": "なにがなるほどなのよ",
+    "translation": "なにがなるほどなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA90S_0016",
+    "original": "おまえって、仮定でも真剣なのかと\n思ってな",
+    "translation": "おまえって、仮定でも真剣なのかと\n思ってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA90S_0017",
+    "original": "あたしはいつだって真剣よっ",
+    "translation": "あたしはいつだって真剣よっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA90S_0018",
+    "original": "それに振り回される者の身にも\n少しは真剣になって欲しいね",
+    "translation": "それに振り回される者の身にも\n少しは真剣になって欲しいね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA90S_0019",
+    "original": "涼宮さん、正直に言います",
+    "translation": "涼宮さん、正直に言います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA90S_0020",
+    "original": "もうひとりのあたしに対して\n冷静でいられる自信がありません",
+    "translation": "もうひとりのあたしに対して\n冷静でいられる自信がありません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA90S_0021",
+    "original": "それは当然ね。でも安心しなさい",
+    "translation": "それは当然ね。でも安心しなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA90S_0022",
+    "original": "わ、わかってもらえます？",
+    "translation": "わ、わかってもらえます？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA90S_0023",
+    "original": "そんな状況でみくるちゃんが冷静に\n対応するなんて期待してないから",
+    "translation": "そんな状況でみくるちゃんが冷静に\n対応するなんて期待してないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA90S_0024",
+    "original": "……えーっと",
+    "translation": "……えーっと",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA90S_0025",
+    "original": "派手に動転して悲鳴を上げて\n場を大いに盛り上げてちょうだい！",
+    "translation": "派手に動転して悲鳴を上げて\n場を大いに盛り上げてちょうだい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA90S_0026",
+    "original": "あのぅ、それは言ってる意図と\n違うというか……そのぉ",
+    "translation": "あのぅ、それは言ってる意図と\n違うというか……そのぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA90S_0027",
+    "original": "なにかしら、みくるちゃん？\nほら、早くいくわよっ",
+    "translation": "なにかしら、みくるちゃん？\nほら、早くいくわよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA90S_0028",
+    "original": "……もういいです",
+    "translation": "……もういいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA90S_0029",
+    "original": "朝比奈みくるが、対抗心を\n燃やしていた",
+    "translation": "朝比奈みくるが、対抗心を\n燃やしていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA90S_0030",
+    "original": "へー、みくるちゃんがねぇ\n珍しいじゃない",
+    "translation": "へー、みくるちゃんがねぇ\n珍しいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA90S_0031",
+    "original": "そう思う",
+    "translation": "そう思う",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA90S_0032",
+    "original": "で、何に対抗心を燃やしてた\nわけ？",
+    "translation": "で、何に対抗心を燃やしてた\nわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA90S_0033",
+    "original": "……自分の分身",
+    "translation": "……自分の分身",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA90S_0034",
+    "original": "鏡の分身の謎を解き明かすために、\nそんなにやる気を出してたなんて！",
+    "translation": "鏡の分身の謎を解き明かすために、\nそんなにやる気を出してたなんて！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA90S_0035",
+    "original": "いい心がけだわ、みくるちゃん！",
+    "translation": "いい心がけだわ、みくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA90S_0036",
+    "original": "自分がふたりになった場合、もう\nひとりに対しどんな感情を持つのか",
+    "translation": "自分がふたりになった場合、もう\nひとりに対しどんな感情を持つのか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA90S_0037",
+    "original": "興味深くはありますね",
+    "translation": "興味深くはありますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA90S_0038",
+    "original": "鏡の分身に遭遇したらの話？",
+    "translation": "鏡の分身に遭遇したらの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA90S_0039",
+    "original": "はい。朝比奈さんは自分がふたりに\nなるのが不満のようでした",
+    "translation": "はい。朝比奈さんは自分がふたりに\nなるのが不満のようでした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA90S_0040",
+    "original": "僕も同族嫌悪を感じそうですよ\n涼宮さんはいかがですか？",
+    "translation": "僕も同族嫌悪を感じそうですよ\n涼宮さんはいかがですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA90S_0041",
+    "original": "あたしはそうねぇ。そういう事は\nあまり考えない方かな",
+    "translation": "あたしはそうねぇ。そういう事は\nあまり考えない方かな",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA90S_0042",
+    "original": "考えないのですか",
+    "translation": "考えないのですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA90S_0043",
+    "original": "分身が現れるって現象に、そんな\n細かいこと気にしてられないわよ",
+    "translation": "分身が現れるって現象に、そんな\n細かいこと気にしてられないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA90S_0044",
+    "original": "あなたには瑣事に過ぎないですか\n相変わらず大物ですね、涼宮さん",
+    "translation": "あなたには瑣事に過ぎないですか\n相変わらず大物ですね、涼宮さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA90S_0045",
+    "original": "当然でしょ",
+    "translation": "当然でしょ",
+    "speaker": "ハルヒ"
+  }
+]

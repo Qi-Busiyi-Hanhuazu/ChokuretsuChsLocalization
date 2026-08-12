@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK41S_0000",
+    "original": "古泉ってなんだか中途半端な気が\nしないか？　ハルヒ",
+    "translation": "古泉ってなんだか中途半端な気が\nしないか？　ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK41S_0001",
+    "original": "はあ？　どこら辺がどのように\n中途半端だと主張してるわけよ？",
+    "translation": "はあ？　どこら辺がどのように\n中途半端だと主張してるわけよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK41S_0002",
+    "original": "場所を用意したんだから、バーベ\nキューの道具もすりゃいいのに",
+    "translation": "場所を用意したんだから、バーベ\nキューの道具もすりゃいいのに",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK41S_0003",
+    "original": "キョン、それは甘えすぎじゃないの\nちょうどいいから、言っておくわ",
+    "translation": "キョン、それは甘えすぎじゃないの\nちょうどいいから、言っておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK41S_0004",
+    "original": "キョンはＳＯＳ団の雑用係の自覚が\nなさ過ぎよ！",
+    "translation": "キョンはＳＯＳ団の雑用係の自覚が\nなさ過ぎよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK41S_0005",
+    "original": "古泉くんや有希が有能だからって\nあんたが楽していいっていう法は",
+    "translation": "古泉くんや有希が有能だからって\nあんたが楽していいっていう法は",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK41S_0006",
+    "original": "ないんだからね！",
+    "translation": "ないんだからね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK41S_0007",
+    "original": "楽なんかひとつもしてないだろ\nまして苦労は人一倍しているぞ",
+    "translation": "楽なんかひとつもしてないだろ\nまして苦労は人一倍しているぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK41S_0008",
+    "original": "ちゃんと聞いてるの、キョン！",
+    "translation": "ちゃんと聞いてるの、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK41S_0009",
+    "original": "やぶ蛇だったな、やれやれ",
+    "translation": "やぶ蛇だったな、やれやれ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK41S_0010",
+    "original": "古泉くんが中途半端だったかって\n悩んでるみたいでしたよ",
+    "translation": "古泉くんが中途半端だったかって\n悩んでるみたいでしたよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK41S_0011",
+    "original": "え？　何が中途半端だって言うの？",
+    "translation": "え？　何が中途半端だって言うの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK41S_0012",
+    "original": "バーベキューのことだと思います",
+    "translation": "バーベキューのことだと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK41S_0013",
+    "original": "キョンくんが、場所だけじゃなく\n道具も用意できたんじゃないかって",
+    "translation": "キョンくんが、場所だけじゃなく\n道具も用意できたんじゃないかって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK41S_0014",
+    "original": "場所提供してくれた人が、お金持ち\nなら持ってたんじゃないかって",
+    "translation": "場所提供してくれた人が、お金持ち\nなら持ってたんじゃないかって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK41S_0015",
+    "original": "そう思ったみたいですよ",
+    "translation": "そう思ったみたいですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK41S_0016",
+    "original": "それはキョンが悪いわね",
+    "translation": "それはキョンが悪いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK41S_0017",
+    "original": "何もかも古泉くんにさせるのは\n筋違いでしょ。叱っておかなくちゃ",
+    "translation": "何もかも古泉くんにさせるのは\n筋違いでしょ。叱っておかなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK41S_0018",
+    "original": "ええっ！　叱るんですか？",
+    "translation": "ええっ！　叱るんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK41S_0019",
+    "original": "キョンったら、楽をしようとし過ぎ\nなのよ。みっちり叱っておくわ！",
+    "translation": "キョンったら、楽をしようとし過ぎ\nなのよ。みっちり叱っておくわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK41S_0020",
+    "original": "あわわ、ごめんなさい、キョンくん",
+    "translation": "あわわ、ごめんなさい、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK41S_0021",
+    "original": "古泉一樹は中途半端をしたのでは\nないかと、彼が言っていた",
+    "translation": "古泉一樹は中途半端をしたのでは\nないかと、彼が言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK41S_0022",
+    "original": "古泉くんがどんなハンパしたって\n言うのよ、雑用係のキョンは",
+    "translation": "古泉くんがどんなハンパしたって\n言うのよ、雑用係のキョンは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK41S_0023",
+    "original": "おそらく、バーベキューコンロの事\nではないかと推察する",
+    "translation": "おそらく、バーベキューコンロの事\nではないかと推察する",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK41S_0024",
+    "original": "場所だけでなく、道具も古泉くんに\n用意させれば、楽ができたとか？",
+    "translation": "場所だけでなく、道具も古泉くんに\n用意させれば、楽ができたとか？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK41S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK41S_0026",
+    "original": "もう、怒ったわ！　キョンったら\n何、甘えたこと言ってるのよ！",
+    "translation": "もう、怒ったわ！　キョンったら\n何、甘えたこと言ってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK41S_0027",
+    "original": "雑用係なんだからキョンが用意する\nのがしかるべしでしょうに！",
+    "translation": "雑用係なんだからキョンが用意する\nのがしかるべしでしょうに！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK41S_0028",
+    "original": "怒った？",
+    "translation": "怒った？",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK41S_0029",
+    "original": "有希に怒ってるわけじゃないわよ\nダメなのはキョンよ、キョン",
+    "translation": "有希に怒ってるわけじゃないわよ\nダメなのはキョンよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK41S_0030",
+    "original": "……失敗",
+    "translation": "……失敗",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK41S_0031",
+    "original": "涼宮さん\n僕は中途半端でしょうか？",
+    "translation": "涼宮さん\n僕は中途半端でしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK41S_0032",
+    "original": "またキョンに何かくだらないことを\n言われたわけ？",
+    "translation": "またキョンに何かくだらないことを\n言われたわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK41S_0033",
+    "original": "直接言われた訳ではないのですが、\n彼の視線が語っていたというか……",
+    "translation": "直接言われた訳ではないのですが、\n彼の視線が語っていたというか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK41S_0034",
+    "original": "古泉くんにしてはハッキリしない\nわね。どうしたの？",
+    "translation": "古泉くんにしてはハッキリしない\nわね。どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK41S_0035",
+    "original": "バーベキューの件なんですが、場所\nだけでなく道具も頼めば良かったと",
+    "translation": "バーベキューの件なんですが、場所\nだけでなく道具も頼めば良かったと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK41S_0036",
+    "original": "彼に言われて思い至りまして",
+    "translation": "彼に言われて思い至りまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK41S_0037",
+    "original": "土地を持ってる知人の人に？",
+    "translation": "土地を持ってる知人の人に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK41S_0038",
+    "original": "ええ、聞きもせずにいたのは、僕の\n手抜かりだったかもしれません",
+    "translation": "ええ、聞きもせずにいたのは、僕の\n手抜かりだったかもしれません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK41S_0039",
+    "original": "結果、団員のみなさんに苦労させて\nしまったようですから",
+    "translation": "結果、団員のみなさんに苦労させて\nしまったようですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK41S_0040",
+    "original": "あのねぇ、古泉くん",
+    "translation": "あのねぇ、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK41S_0041",
+    "original": "はい、なんでしょう",
+    "translation": "はい、なんでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK41S_0042",
+    "original": "あなたが責任感じる必要はないわ！\nそれは団長たるあたしの役目よ",
+    "translation": "あなたが責任感じる必要はないわ！\nそれは団長たるあたしの役目よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK41S_0043",
+    "original": "何もかもひとりで引き受けないの\nそのための仲間でしょ",
+    "translation": "何もかもひとりで引き受けないの\nそのための仲間でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK41S_0044",
+    "original": "キョンが図にのって甘えてしまう\nから、適当に手を抜いていいわよ",
+    "translation": "キョンが図にのって甘えてしまう\nから、適当に手を抜いていいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK41S_0045",
+    "original": "はは……そうですね。彼がサボらな\nいように、そうすることにしますよ",
+    "translation": "はは……そうですね。彼がサボらな\nいように、そうすることにしますよ",
+    "speaker": "古泉"
+  }
+]

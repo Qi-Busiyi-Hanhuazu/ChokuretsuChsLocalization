@@ -1,0 +1,381 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_000S_0000",
+    "original": "[$9]誰もいない音楽室から[#W30]ピアノの音が\n聞こえてきた？",
+    "translation": "[$9]誰もいない音楽室から[#W30]ピアノの音が\n聞こえてきた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_000S_0001",
+    "original": "[$10]定番もいいとこだけど、[#W20][$9]そういう\n話こそ、[#W10]新七不思議に相応しいわ",
+    "translation": "[$10]定番もいいとこだけど、[#W20][$9]そういう\n話こそ、[#W10]新七不思議に相応しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_000S_0002",
+    "original": "[$8]なあ、ハルヒ。[#W40]これくらいにして\nさっさと引き上げないか？",
+    "translation": "[$8]なあ、ハルヒ。[#W40]これくらいにして\nさっさと引き上げないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_000S_0003",
+    "original": "[$7]どうせ、さっきみたいにコンピ研の\n連中の勘違いに決まってるよな",
+    "translation": "[$7]どうせ、さっきみたいにコンピ研の\n連中の勘違いに決まってるよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_000S_0004",
+    "original": "[$9]そうはいかないわ！[#W20]\n[$8]まだあと３つも残ってるんだから！",
+    "translation": "[$9]そうはいかないわ！[#W20]\n[$8]まだあと３つも残ってるんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_000S_0005",
+    "original": "[$9]全部きちんと確認するまで[#W10][$8]終われる\nわけがないでしょ！",
+    "translation": "[$9]全部きちんと確認するまで[#W10][$8]終われる\nわけがないでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_000S_0006",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_000S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_000S_0008",
+    "original": "[$7]やっほー！　[#W10]元気かね、みくるっ\nハルにゃん、その他諸君！",
+    "translation": "[$7]やっほー！　[#W10]元気かね、みくるっ\nハルにゃん、その他諸君！",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_000S_0009",
+    "original": "[$10]鶴屋さん[#W10]…[#W10]…[#W20][$8]どうしたんですか？",
+    "translation": "[$10]鶴屋さん[#W10]…[#W10]…[#W20][$8]どうしたんですか？",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_000S_0010",
+    "original": "[$8]ちょいと近くまで出てきたからさ",
+    "translation": "[$8]ちょいと近くまで出てきたからさ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_000S_0011",
+    "original": "[$8]みくるが学校にいるって聞いてたし[#W20]\n[$7]ついでに覗いてみようかと思ってね",
+    "translation": "[$8]みくるが学校にいるって聞いてたし[#W20]\n[$7]ついでに覗いてみようかと思ってね",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_000S_0012",
+    "original": "[$8]ま、[#W20]陣中見舞いってやつだよっ",
+    "translation": "[$8]ま、[#W20]陣中見舞いってやつだよっ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_000S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "鶴屋",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_000S_0014",
+    "original": "",
+    "translation": "",
+    "speaker": "朝比奈",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_000S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_000S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_000S_0017",
+    "original": "[$8]証言によれば、[#W50]ピアノの音は[#W30]毎日[#W20]ほ\nぼ同じ時間に聞こえてくるそうです",
+    "translation": "[$8]証言によれば、[#W50]ピアノの音は[#W30]毎日[#W20]ほ\nぼ同じ時間に聞こえてくるそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_000S_0018",
+    "original": "[#DP]",
+    "translation": "[#DP]",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_000S_0019",
+    "original": "[$10]ふ～ん[#W20]…[#W10]…[#W20][$8]分かったわ！",
+    "translation": "[$10]ふ～ん[#W20]…[#W10]…[#W20][$8]分かったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_000S_0020",
+    "original": "[$10]何がだ",
+    "translation": "[$10]何がだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_000S_0021",
+    "original": "[$8]きっと[#W20]無念のまま亡くなった\n天才美少女ピアニストの霊よ！",
+    "translation": "[$8]きっと[#W20]無念のまま亡くなった\n天才美少女ピアニストの霊よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_000S_0022",
+    "original": "[$9]天才だの美少女だの、[#W40]なぜおまえが\n勝手に決めるんだ",
+    "translation": "[$9]天才だの美少女だの、[#W40]なぜおまえが\n勝手に決めるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_000S_0023",
+    "original": "[$10]そんなの[#W20]…[#W10]…",
+    "translation": "[$10]そんなの[#W20]…[#W10]…",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_000S_0024",
+    "original": "[$7]そっちの方がおもしろいからに\n決まってるじゃない！",
+    "translation": "[$7]そっちの方がおもしろいからに\n決まってるじゃない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_000S_0025",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_000S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_000S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "朝比奈",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_000S_0028",
+    "original": "[$9]なんだか不思議なメロディですね",
+    "translation": "[$9]なんだか不思議なメロディですね",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_000S_0029",
+    "original": "[$10]まるで、[#W50]何かを訴えかけてるみたい",
+    "translation": "[$10]まるで、[#W50]何かを訴えかけてるみたい",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_000S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "朝比奈",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_000S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_000S_0032",
+    "original": "[$10]情報生命体は[#W30][$8]カタチを必要と\nしていない",
+    "translation": "[$10]情報生命体は[#W30][$8]カタチを必要と\nしていない",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_000S_0033",
+    "original": "[$10]自ら観測する対象さえいれば[#W20]\n存在確率を高めることができる",
+    "translation": "[$10]自ら観測する対象さえいれば[#W20]\n存在確率を高めることができる",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_000S_0034",
+    "original": "[$10]観測[#W20]…[#W10]…[#W10]？",
+    "translation": "[$10]観測[#W20]…[#W10]…[#W10]？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_000S_0035",
+    "original": "[$10]音楽は[#W30][$8]そのための手段にすぎない",
+    "translation": "[$10]音楽は[#W30][$8]そのための手段にすぎない",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_000S_0036",
+    "original": "[$10]おい、[#W40][$7]どういう意味だ[#W10]長門！",
+    "translation": "[$10]おい、[#W40][$7]どういう意味だ[#W10]長門！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_000S_0037",
+    "original": "[$10]現状では[#W30]情報の収集がわたしの役割",
+    "translation": "[$10]現状では[#W30]情報の収集がわたしの役割",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_000S_0038",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_000S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "朝比奈",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_000S_0040",
+    "original": "[$8]合宿を止めさせる[#W20]…[#W10]…[#W20]？",
+    "translation": "[$8]合宿を止めさせる[#W20]…[#W10]…[#W20]？",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_000S_0041",
+    "original": "[$8]そうです。[#W20][$7]学校が危険な状態だって\nいうなら",
+    "translation": "[$8]そうです。[#W20][$7]学校が危険な状態だって\nいうなら",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_000S_0042",
+    "original": "[$7]さっさと連れ出した方がいいはず\nです",
+    "translation": "[$7]さっさと連れ出した方がいいはず\nです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_000S_0043",
+    "original": "[$10]それは[#W20]…[#W20]…[#W30]禁則事項です",
+    "translation": "[$10]それは[#W20]…[#W20]…[#W30]禁則事項です",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_000S_0044",
+    "original": "[$10]え[#W20]…[#W10]…",
+    "translation": "[$10]え[#W20]…[#W10]…",
+    "speaker": "キョン"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_000S_0045",
+    "original": "[$10]涼宮さんの行動に大きく干渉する\nには[#W20]許可が必要なんです",
+    "translation": "[$10]涼宮さんの行動に大きく干渉する\nには[#W20]許可が必要なんです",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_000S_0046",
+    "original": "[$7]……ごめんなさい、[#W20][$9]キョンくん",
+    "translation": "[$7]……ごめんなさい、[#W20][$9]キョンくん",
+    "speaker": "朝比奈"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_000S_0047",
+    "original": "",
+    "translation": "",
+    "speaker": "朝比奈",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_000S_0048",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_000S_0049",
+    "original": "[$9]まずいですね、[#W70][$8]涼宮さんが[#W10]\nもうそこまで来ています",
+    "translation": "[$9]まずいですね、[#W70][$8]涼宮さんが[#W10]\nもうそこまで来ています",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_000S_0050",
+    "original": "[$10]くそ、[#W40][$8]こうなったら\n誰かが、ピアノを――",
+    "translation": "[$10]くそ、[#W40][$8]こうなったら\n誰かが、ピアノを――",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_000S_0051",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA13S_0000",
+    "original": "ハルヒ、実は告白しなきゃならない\nことがある",
+    "translation": "ハルヒ、実は告白しなきゃならない\nことがある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA13S_0001",
+    "original": "何よ？　つまんないこと言ったら\n死刑だからね",
+    "translation": "何よ？　つまんないこと言ったら\n死刑だからね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA13S_0002",
+    "original": "朝比奈さんを泣かせてしまったんだ",
+    "translation": "朝比奈さんを泣かせてしまったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA13S_0003",
+    "original": "キョン、ちょっとあんたみくるちゃ\nんにいったい何をしたのよ！？",
+    "translation": "キョン、ちょっとあんたみくるちゃ\nんにいったい何をしたのよ！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA13S_0004",
+    "original": "ハルヒの足が止まった、よし",
+    "translation": "ハルヒの足が止まった、よし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA13S_0005",
+    "original": "事と次第によっちゃ、死刑なんて\n生やさしいって目に合わすからね",
+    "translation": "事と次第によっちゃ、死刑なんて\n生やさしいって目に合わすからね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA13S_0006",
+    "original": "それも仕方ないかもしれないな",
+    "translation": "それも仕方ないかもしれないな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA13S_0007",
+    "original": "俺はなんと残酷なことをして\nしまったのだろう",
+    "translation": "俺はなんと残酷なことをして\nしまったのだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA13S_0008",
+    "original": "セリフが棒読みになるのは\nいたしかたないだろう",
+    "translation": "セリフが棒読みになるのは\nいたしかたないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA13S_0009",
+    "original": "いいからさっさと白状しなさい！",
+    "translation": "いいからさっさと白状しなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA13S_0010",
+    "original": "もう少し足止めしておきたいが\nハルヒをあまり怒らせるのもマズイ",
+    "translation": "もう少し足止めしておきたいが\nハルヒをあまり怒らせるのもマズイ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA13S_0011",
+    "original": "朝比奈さんに俺が知ってる怪談を\n話してしまったんだ",
+    "translation": "朝比奈さんに俺が知ってる怪談を\n話してしまったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA13S_0012",
+    "original": "はあ？",
+    "translation": "はあ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA13S_0013",
+    "original": "大して怖い話でもなかったんだが",
+    "translation": "大して怖い話でもなかったんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA13S_0014",
+    "original": "それに話の核心に触れる前に拒絶\nされてしまったんだが",
+    "translation": "それに話の核心に触れる前に拒絶\nされてしまったんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA13S_0015",
+    "original": "それだけ？",
+    "translation": "それだけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA13S_0016",
+    "original": "それだけだ",
+    "translation": "それだけだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA13S_0017",
+    "original": "本当に、それだけ？",
+    "translation": "本当に、それだけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA13S_0018",
+    "original": "重々しくうなずいてみる",
+    "translation": "重々しくうなずいてみる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA13S_0019",
+    "original": "そうね。それはイケナイわね",
+    "translation": "そうね。それはイケナイわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA13S_0020",
+    "original": "うむ……まずかった。罪を認めよう",
+    "translation": "うむ……まずかった。罪を認めよう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA13S_0021",
+    "original": "一番の罪は、みくるちゃんが泣く程\n怖い怪談を知っていながら",
+    "translation": "一番の罪は、みくるちゃんが泣く程\n怖い怪談を知っていながら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA13S_0022",
+    "original": "あたしに話さなかったってことね！\nさあ、今すぐ話しなさい！",
+    "translation": "あたしに話さなかったってことね！\nさあ、今すぐ話しなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA13S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_CA13S_0024",
+    "original": "俺はハイキョの怪談を話してみた\n学校から興味を移すことを祈るが",
+    "translation": "俺はハイキョの怪談を話してみた\n学校から興味を移すことを祈るが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA13S_0025",
+    "original": "……なにそれ\n怖くも何ともないじゃない",
+    "translation": "……なにそれ\n怖くも何ともないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA13S_0026",
+    "original": "一刀両断だが、時間を稼げただけ\nよしとしよう",
+    "translation": "一刀両断だが、時間を稼げただけ\nよしとしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA13S_0027",
+    "original": "涼宮さん、あたし、キョンくんの\n前で泣いてしまったんです",
+    "translation": "涼宮さん、あたし、キョンくんの\n前で泣いてしまったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA13S_0028",
+    "original": "えっ、みくるちゃん、キョンに何か\n泣くようなことされたの！？",
+    "translation": "えっ、みくるちゃん、キョンに何か\n泣くようなことされたの！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA13S_0029",
+    "original": "ち、違います……あれ？　された\nんでしょうか？",
+    "translation": "ち、違います……あれ？　された\nんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA13S_0030",
+    "original": "キョンは死刑ね！",
+    "translation": "キョンは死刑ね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA13S_0031",
+    "original": "ひゃうっ、死刑って大げさですよお",
+    "translation": "ひゃうっ、死刑って大げさですよお",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA13S_0032",
+    "original": "だって何かされたんでしょう？",
+    "translation": "だって何かされたんでしょう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA13S_0033",
+    "original": "キョンくんに怖い話を聞かされ\nそうになって、それで……",
+    "translation": "キョンくんに怖い話を聞かされ\nそうになって、それで……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA13S_0034",
+    "original": "怖い話……恐がりのみくるちゃんに\nそれはイケナイわ。死刑決定ね！",
+    "translation": "怖い話……恐がりのみくるちゃんに\nそれはイケナイわ。死刑決定ね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA13S_0035",
+    "original": "ああ～、やめてください～、泣いて\nしまったあたしが悪いんですうっ！",
+    "translation": "ああ～、やめてください～、泣いて\nしまったあたしが悪いんですうっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA13S_0036",
+    "original": "冗談よ",
+    "translation": "冗談よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA13S_0037",
+    "original": "うっ……冗談ですか？　ホントに？",
+    "translation": "うっ……冗談ですか？　ホントに？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA13S_0038",
+    "original": "でもみくるちゃん、一言いいかしら",
+    "translation": "でもみくるちゃん、一言いいかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA13S_0039",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA13S_0040",
+    "original": "涙は乙女の最後の武器なんだから\n軽々しく流したらダメよ",
+    "translation": "涙は乙女の最後の武器なんだから\n軽々しく流したらダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA13S_0041",
+    "original": "涙って……武器……なんですか？",
+    "translation": "涙って……武器……なんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA13S_0042",
+    "original": "朝比奈みくるが、泣いたらしい",
+    "translation": "朝比奈みくるが、泣いたらしい",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA13S_0043",
+    "original": "ねえ、有希\nなんで、みくるちゃんが泣いたの？",
+    "translation": "ねえ、有希\nなんで、みくるちゃんが泣いたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA13S_0044",
+    "original": "怪談を聞かされたから",
+    "translation": "怪談を聞かされたから",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA13S_0045",
+    "original": "誰に？\nまさかキョンじゃないでしょうね？",
+    "translation": "誰に？\nまさかキョンじゃないでしょうね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA13S_0046",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA13S_0047",
+    "original": "そんなに怖い怪談なのかしら",
+    "translation": "そんなに怖い怪談なのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA13S_0048",
+    "original": "内容は聞いていない",
+    "translation": "内容は聞いていない",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CA13S_0049",
+    "original": "キョンったら、そういう話はまず\nあたしにするべきだわ",
+    "translation": "キョンったら、そういう話はまず\nあたしにするべきだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CA13S_0050",
+    "original": "会ったら、きっちり問い詰めて\nやらなくちゃ",
+    "translation": "会ったら、きっちり問い詰めて\nやらなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CA13S_0051",
+    "original": "朝比奈さんが涙を浮かべていた\nそうですよ",
+    "translation": "朝比奈さんが涙を浮かべていた\nそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_CA13S_0052",
+    "original": "みくるちゃんが？　何で泣いたり\nしたのかしら？",
+    "translation": "みくるちゃんが？　何で泣いたり\nしたのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CA13S_0053",
+    "original": "それなんですが、怪談を聞いて\n怯えたせいらしいです",
+    "translation": "それなんですが、怪談を聞いて\n怯えたせいらしいです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_CA13S_0054",
+    "original": "恐がりのみくるちゃんを怯えさせる\nなんて、誰がそんな意地悪をしたの",
+    "translation": "恐がりのみくるちゃんを怯えさせる\nなんて、誰がそんな意地悪をしたの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CA13S_0055",
+    "original": "彼は意地悪のつもりではなかった\nようですが",
+    "translation": "彼は意地悪のつもりではなかった\nようですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CA13S_0056",
+    "original": "彼って、キョンがやったのね",
+    "translation": "彼って、キョンがやったのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CA13S_0057",
+    "original": "そういうことらしいですね",
+    "translation": "そういうことらしいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_CA13S_0058",
+    "original": "キョンをとっちめてやらなくちゃ！",
+    "translation": "キョンをとっちめてやらなくちゃ！",
+    "speaker": "ハルヒ"
+  }
+]

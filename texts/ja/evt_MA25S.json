@@ -1,0 +1,432 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA25S_0000",
+    "original": "もう、みんなどこ行ったのかしら？",
+    "translation": "もう、みんなどこ行ったのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA25S_0001",
+    "original": "もしかして、このあたしを担ごう\nってつもりじゃないでしょうね",
+    "translation": "もしかして、このあたしを担ごう\nってつもりじゃないでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA25S_0002",
+    "original": "ん……？　あっちの方で何か\n聞こえたわ！",
+    "translation": "ん……？　あっちの方で何か\n聞こえたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA25S_0003",
+    "original": "くそ、いきなり走り出しやがった！",
+    "translation": "くそ、いきなり走り出しやがった！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA25S_0004",
+    "original": "待ってくれ、妙な物を見つけた",
+    "translation": "待ってくれ、妙な物を見つけた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA25S_0005",
+    "original": "なに、妙な物って？",
+    "translation": "なに、妙な物って？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA25S_0006",
+    "original": "これだ、見てみろ",
+    "translation": "これだ、見てみろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA25S_0007",
+    "original": "メモ……みたいね\nどうしたの？　これ",
+    "translation": "メモ……みたいね\nどうしたの？　これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA25S_0008",
+    "original": "いや、まあさっき見つけたんだ\nこいつは何だと思う？",
+    "translation": "いや、まあさっき見つけたんだ\nこいつは何だと思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA25S_0009",
+    "original": "なんて書いてあるのか、微妙に分か\nりづらいけど……",
+    "translation": "なんて書いてあるのか、微妙に分か\nりづらいけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA25S_0010",
+    "original": "校舎内の時計を指してるみたいね",
+    "translation": "校舎内の時計を指してるみたいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA25S_0011",
+    "original": "なにか暗号めいてると思わんか？",
+    "translation": "なにか暗号めいてると思わんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA25S_0012",
+    "original": "そうね……もしかして古泉くん\n立案のイベントかしら",
+    "translation": "そうね……もしかして古泉くん\n立案のイベントかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA25S_0013",
+    "original": "ううん、そうに違いないわ！",
+    "translation": "ううん、そうに違いないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA25S_0014",
+    "original": "なんとしても、このメモの謎を\n解かないと！　いいわね、キョン！",
+    "translation": "なんとしても、このメモの謎を\n解かないと！　いいわね、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA25S_0015",
+    "original": "俺が書いた単なる走り書きだが\nどうやら役に立ったらしいな",
+    "translation": "俺が書いた単なる走り書きだが\nどうやら役に立ったらしいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA25S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_MA25S_0017",
+    "original": "涼宮さん、昼間よりも元気に\nなってる……",
+    "translation": "涼宮さん、昼間よりも元気に\nなってる……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA25S_0018",
+    "original": "なんとかして足止めしないと……\nそうだ、もしかしたら",
+    "translation": "なんとかして足止めしないと……\nそうだ、もしかしたら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA25S_0019",
+    "original": "涼宮さん！",
+    "translation": "涼宮さん！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA25S_0020",
+    "original": "なに、みくるちゃん",
+    "translation": "なに、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA25S_0021",
+    "original": "涼宮さん、これ、見てください……",
+    "translation": "涼宮さん、これ、見てください……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA25S_0022",
+    "original": "なにそれ、何かのメモ？",
+    "translation": "なにそれ、何かのメモ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA25S_0023",
+    "original": "はい。あたしが涼宮さんと合流する\n前にキョンくんから渡されました",
+    "translation": "はい。あたしが涼宮さんと合流する\n前にキョンくんから渡されました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA25S_0024",
+    "original": "キョンが？　ちょっと貸しなさい",
+    "translation": "キョンが？　ちょっと貸しなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA25S_0025",
+    "original": "\n……これは、何かある気がするわね",
+    "translation": "\n……これは、何かある気がするわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA25S_0026",
+    "original": "え、そ、そうなんですか",
+    "translation": "え、そ、そうなんですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA25S_0027",
+    "original": "一見、走り書きに見えるけど\nこれは校舎内の時計を示してるわ",
+    "translation": "一見、走り書きに見えるけど\nこれは校舎内の時計を示してるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA25S_0028",
+    "original": "暗号か何かね、きっと",
+    "translation": "暗号か何かね、きっと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA25S_0029",
+    "original": "というわけだから、このメモは\nあたしが預かるわ",
+    "translation": "というわけだから、このメモは\nあたしが預かるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA25S_0030",
+    "original": "あとでジックリ調べてみないとね",
+    "translation": "あとでジックリ調べてみないとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA25S_0031",
+    "original": "は、はい。どうぞ",
+    "translation": "は、はい。どうぞ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA25S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_MA25S_0033",
+    "original": "待って。これ",
+    "translation": "待って。これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA25S_0034",
+    "original": "これって、メモよね\nこれがどうしたの？",
+    "translation": "これって、メモよね\nこれがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA25S_0035",
+    "original": "さっき、彼から預かった\nあなたに見せた方がいいと判断した",
+    "translation": "さっき、彼から預かった\nあなたに見せた方がいいと判断した",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA25S_0036",
+    "original": "あたしに？",
+    "translation": "あたしに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA25S_0037",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA25S_0038",
+    "original": "うーん……でも、字が汚くてよく\nわかんないわね",
+    "translation": "うーん……でも、字が汚くてよく\nわかんないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA25S_0039",
+    "original": "けど、これが校舎内の時計を\n指してることは分かったわ",
+    "translation": "けど、これが校舎内の時計を\n指してることは分かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA25S_0040",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA25S_0041",
+    "original": "つまり、これはあたしに対する\n暗号ね",
+    "translation": "つまり、これはあたしに対する\n暗号ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA25S_0042",
+    "original": "そして、解けるものなら解いてみろ\nという無言の挑戦状よ！",
+    "translation": "そして、解けるものなら解いてみろ\nという無言の挑戦状よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA25S_0043",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA25S_0044",
+    "original": "このメモ、ちょっと貸しといてね\nじっくり調べる必要があるから",
+    "translation": "このメモ、ちょっと貸しといてね\nじっくり調べる必要があるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA25S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_MA25S_0046",
+    "original": "[#P06]あちこちに異空間が発生している今",
+    "translation": "[#P06]あちこちに異空間が発生している今",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA25S_0047",
+    "original": "[#P06]涼宮さんには、あまり動き回って\nいただかない方がいいですね……",
+    "translation": "[#P06]涼宮さんには、あまり動き回って\nいただかない方がいいですね……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA25S_0048",
+    "original": "涼宮さん、よろしいですか？",
+    "translation": "涼宮さん、よろしいですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA25S_0049",
+    "original": "なに、どうしたの？",
+    "translation": "なに、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA25S_0050",
+    "original": "実は、みなさんと別れる直前に\nこんな物を……",
+    "translation": "実は、みなさんと別れる直前に\nこんな物を……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA25S_0051",
+    "original": "なに、メモよね、これ",
+    "translation": "なに、メモよね、これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA25S_0052",
+    "original": "はい。僕には意味がわかりません\nでしたので、見ていただこうかと",
+    "translation": "はい。僕には意味がわかりません\nでしたので、見ていただこうかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA25S_0053",
+    "original": "汚い字ねえ……なんだか複雑な\n模様まで書かれているけど",
+    "translation": "汚い字ねえ……なんだか複雑な\n模様まで書かれているけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA25S_0054",
+    "original": "でも、これは何か重要なものっぽい\nわね。気になるわ",
+    "translation": "でも、これは何か重要なものっぽい\nわね。気になるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA25S_0055",
+    "original": "実は、僕もそう考えていました",
+    "translation": "実は、僕もそう考えていました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA25S_0056",
+    "original": "もしかすると、これは何かの暗号\nではないでしょうか？",
+    "translation": "もしかすると、これは何かの暗号\nではないでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA25S_0057",
+    "original": "例えば、解読すると何かの場所が\n分かるとか",
+    "translation": "例えば、解読すると何かの場所が\n分かるとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA25S_0058",
+    "original": "そう言った趣向があるのでは？",
+    "translation": "そう言った趣向があるのでは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA25S_0059",
+    "original": "なるほど……面白そうね",
+    "translation": "なるほど……面白そうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA25S_0060",
+    "original": "ちょっとメモ貸しといて\nじっくり調べてみるから！",
+    "translation": "ちょっとメモ貸しといて\nじっくり調べてみるから！",
+    "speaker": "ハルヒ"
+  }
+]

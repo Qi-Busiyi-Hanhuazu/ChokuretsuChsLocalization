@@ -1,0 +1,205 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN31S_0000",
+    "original": "ハルヒ、バナナ食うか？",
+    "translation": "ハルヒ、バナナ食うか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN31S_0001",
+    "original": "あんた、なんでそんなもん持って\n歩いてるのよ？",
+    "translation": "あんた、なんでそんなもん持って\n歩いてるのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN31S_0002",
+    "original": "いや、小腹が減ったときのためにな",
+    "translation": "いや、小腹が減ったときのためにな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN31S_0003",
+    "original": "それでバナナ？　ばっかじゃないの\n猿じゃないんだから",
+    "translation": "それでバナナ？　ばっかじゃないの\n猿じゃないんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN31S_0004",
+    "original": "……猿呼ばわりされてしまった",
+    "translation": "……猿呼ばわりされてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN31S_0005",
+    "original": "バナナイコール猿ってのはちょっと\n直球すぎやしないか？",
+    "translation": "バナナイコール猿ってのはちょっと\n直球すぎやしないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN31S_0006",
+    "original": "そうだわ、このバナナの皮で、涼宮\nさんに転んでもらえば……",
+    "translation": "そうだわ、このバナナの皮で、涼宮\nさんに転んでもらえば……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN31S_0007",
+    "original": "あむ、もぐ、もぐ",
+    "translation": "あむ、もぐ、もぐ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN31S_0008",
+    "original": "……ちょっと、みくるちゃん？\n立ち食いなんてお行儀が悪いわよ",
+    "translation": "……ちょっと、みくるちゃん？\n立ち食いなんてお行儀が悪いわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN31S_0009",
+    "original": "ふわ！　ご、ごめんなさい……",
+    "translation": "ふわ！　ご、ごめんなさい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN31S_0010",
+    "original": "ほら、食べたら行くわよ！",
+    "translation": "ほら、食べたら行くわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN31S_0011",
+    "original": "は、はいい……",
+    "translation": "は、はいい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN31S_0012",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN31S_0013",
+    "original": "どうしたの、有希？",
+    "translation": "どうしたの、有希？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN31S_0014",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN31S_0015",
+    "original": "ん？　バナナ？",
+    "translation": "ん？　バナナ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN31S_0016",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN31S_0017",
+    "original": "くれるの？",
+    "translation": "くれるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN31S_0018",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN31S_0019",
+    "original": "ありがと、いただくわ",
+    "translation": "ありがと、いただくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN31S_0020",
+    "original": "バナナって食べながらでも歩ける\nから手頃よね",
+    "translation": "バナナって食べながらでも歩ける\nから手頃よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN31S_0021",
+    "original": "食べ歩きは、行儀が良くない",
+    "translation": "食べ歩きは、行儀が良くない",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN31S_0022",
+    "original": "ん？　なんか言った？\nほら、早く行きましょう！",
+    "translation": "ん？　なんか言った？\nほら、早く行きましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN31S_0023",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN31S_0024",
+    "original": "涼宮さん、長門さんが食後のデザー\nトにバナナを用意していますよ",
+    "translation": "涼宮さん、長門さんが食後のデザー\nトにバナナを用意していますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN31S_0025",
+    "original": "バナナ？",
+    "translation": "バナナ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN31S_0026",
+    "original": "気遣いは有りがたいけど、さっき\nお腹いっぱい食べたばかりだもの",
+    "translation": "気遣いは有りがたいけど、さっき\nお腹いっぱい食べたばかりだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN31S_0027",
+    "original": "バナナはあとで食べましょ\n今は目的地へ急ぐわよ！",
+    "translation": "バナナはあとで食べましょ\n今は目的地へ急ぐわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN31S_0028",
+    "original": "……やはりバナナごときでは\n釣られませんか",
+    "translation": "……やはりバナナごときでは\n釣られませんか",
+    "speaker": "古泉"
+  }
+]

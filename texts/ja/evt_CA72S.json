@@ -1,0 +1,359 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA72S_0000",
+    "original": "あのな、マジで朝比奈さんが歩け\nなくなったんだよ、階段でさ",
+    "translation": "あのな、マジで朝比奈さんが歩け\nなくなったんだよ、階段でさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA72S_0001",
+    "original": "どうしたの？　ケガでもしたの？",
+    "translation": "どうしたの？　ケガでもしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA72S_0002",
+    "original": "いや、ケガとかじゃなくて\n怖さがピークに達したんだと思う",
+    "translation": "いや、ケガとかじゃなくて\n怖さがピークに達したんだと思う",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA72S_0003",
+    "original": "そう……",
+    "translation": "そう……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA72S_0004",
+    "original": "ひとりずつってのは酷だろ",
+    "translation": "ひとりずつってのは酷だろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA72S_0005",
+    "original": "それはちょっとだけ反省してるわ",
+    "translation": "それはちょっとだけ反省してるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA72S_0006",
+    "original": "ちょっとだけかよ！",
+    "translation": "ちょっとだけかよ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA72S_0007",
+    "original": "だって、みくるちゃん以外は平気\nだったんでしょ？",
+    "translation": "だって、みくるちゃん以外は平気\nだったんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA72S_0008",
+    "original": "みくるちゃんはあたしと行かせる\nべきだったわね",
+    "translation": "みくるちゃんはあたしと行かせる\nべきだったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA72S_0009",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA72S_0010",
+    "original": "それで、動けなくなったみくるちゃ\nんはどうやって駒を取ったわけ？",
+    "translation": "それで、動けなくなったみくるちゃ\nんはどうやって駒を取ったわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA72S_0011",
+    "original": "それは……その",
+    "translation": "それは……その",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA72S_0012",
+    "original": "気の毒なみくるちゃんにつけ込んで\n変なことしてたら死刑よ！",
+    "translation": "気の毒なみくるちゃんにつけ込んで\n変なことしてたら死刑よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA72S_0013",
+    "original": "そんなことしてないって",
+    "translation": "そんなことしてないって",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA72S_0014",
+    "original": "ふーん、みくるちゃんにも問い\nただすからね！",
+    "translation": "ふーん、みくるちゃんにも問い\nただすからね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA72S_0015",
+    "original": "手を繋いで歩いたことは、極秘で\nお願いします、朝比奈さん",
+    "translation": "手を繋いで歩いたことは、極秘で\nお願いします、朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA72S_0016",
+    "original": "男の人の手って、やっぱり女の子\nとは違う柔らかさなんですね",
+    "translation": "男の人の手って、やっぱり女の子\nとは違う柔らかさなんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA72S_0017",
+    "original": "ですね、って。みくるちゃん、\n誰かの手でも握ったの？",
+    "translation": "ですね、って。みくるちゃん、\n誰かの手でも握ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA72S_0018",
+    "original": "い、いえっ、あたしからじゃ……",
+    "translation": "い、いえっ、あたしからじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA72S_0019",
+    "original": "じゃあ握られたの？　誰に？\nまさかキョンの仕業？",
+    "translation": "じゃあ握られたの？　誰に？\nまさかキョンの仕業？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA72S_0020",
+    "original": "そうで……い、いえっ、\n何でもないですよぅ",
+    "translation": "そうで……い、いえっ、\n何でもないですよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA72S_0021",
+    "original": "アヤシイわね……\nキョンをかばってるの？",
+    "translation": "アヤシイわね……\nキョンをかばってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA72S_0022",
+    "original": "いえっ、そういうわけじゃ\nないですぅ",
+    "translation": "いえっ、そういうわけじゃ\nないですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA72S_0023",
+    "original": "まさかキョンにおどかされてるの？\nだとしたら許せないわ！",
+    "translation": "まさかキョンにおどかされてるの？\nだとしたら許せないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA72S_0024",
+    "original": "いえ、おどかされてませんっ",
+    "translation": "いえ、おどかされてませんっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA72S_0025",
+    "original": "あたしが怖がりだから、\n手を握っててもらっただけです",
+    "translation": "あたしが怖がりだから、\n手を握っててもらっただけです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA72S_0026",
+    "original": "なによ！　結局握ったんじゃない\nまさかムリヤリ握られたの？",
+    "translation": "なによ！　結局握ったんじゃない\nまさかムリヤリ握られたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA72S_0027",
+    "original": "困っている女の子につけ込んだり\nして、ますます許せないわね！",
+    "translation": "困っている女の子につけ込んだり\nして、ますます許せないわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA72S_0028",
+    "original": "ですから、ちがうんですってば",
+    "translation": "ですから、ちがうんですってば",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA72S_0029",
+    "original": "いいのよ、みくるちゃんは\n被害者なんだから",
+    "translation": "いいのよ、みくるちゃんは\n被害者なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA72S_0030",
+    "original": "悪いのはキョンね！",
+    "translation": "悪いのはキョンね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA72S_0031",
+    "original": "ち、ちが……",
+    "translation": "ち、ちが……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA72S_0032",
+    "original": "セクハラの容疑でしょっ引いて\n根性を叩き直してやらなくちゃ",
+    "translation": "セクハラの容疑でしょっ引いて\n根性を叩き直してやらなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA72S_0033",
+    "original": "お、お願いですから、あたしの話を\n聞いてくださいぃ",
+    "translation": "お、お願いですから、あたしの話を\n聞いてくださいぃ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA72S_0034",
+    "original": "朝比奈みくるの手は柔らかい",
+    "translation": "朝比奈みくるの手は柔らかい",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA72S_0035",
+    "original": "もしかして、キョンがみくるちゃん\nの手を無理矢理握ったとか！？",
+    "translation": "もしかして、キョンがみくるちゃん\nの手を無理矢理握ったとか！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA72S_0036",
+    "original": "必ずしもそうではない。わたしとの\n比較によるもの",
+    "translation": "必ずしもそうではない。わたしとの\n比較によるもの",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA72S_0037",
+    "original": "それって、有希の手とみくるちゃん\nの手を比べてってこと？",
+    "translation": "それって、有希の手とみくるちゃん\nの手を比べてってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA72S_0038",
+    "original": "そう。わたしの手より朝比奈みくる\nの手の方が弾力性に優れていた",
+    "translation": "そう。わたしの手より朝比奈みくる\nの手の方が弾力性に優れていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA72S_0039",
+    "original": "有希は細いもんね。もうちょっと\n肉付きがよくてもいいと思うけど",
+    "translation": "有希は細いもんね。もうちょっと\n肉付きがよくてもいいと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA72S_0040",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA72S_0041",
+    "original": "涼宮さんは、朝比奈さんの手をご覧\nになったことが――",
+    "translation": "涼宮さんは、朝比奈さんの手をご覧\nになったことが――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA72S_0042",
+    "original": "ちょっと待って、古泉くん。キョン\nの携帯を鳴らしてみるから",
+    "translation": "ちょっと待って、古泉くん。キョン\nの携帯を鳴らしてみるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA72S_0043",
+    "original": "サボらずに、ちゃんと調査してるん\nでしょうね……",
+    "translation": "サボらずに、ちゃんと調査してるん\nでしょうね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA72S_0044",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA72S_0045",
+    "original": "あれ？　電波が弱いのかしら？",
+    "translation": "あれ？　電波が弱いのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA72S_0046",
+    "original": "繋がりませんか？",
+    "translation": "繋がりませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA72S_0047",
+    "original": "こっちの電波が弱くて、発信できな\nいみたい。まあいいわ",
+    "translation": "こっちの電波が弱くて、発信できな\nいみたい。まあいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA72S_0048",
+    "original": "合流したほうが早そうだし、急ぎま\nしょう",
+    "translation": "合流したほうが早そうだし、急ぎま\nしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CA72S_0049",
+    "original": "それで、ええと、何の話だっけ？",
+    "translation": "それで、ええと、何の話だっけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CA72S_0050",
+    "original": "いえ、なんでもありません。行きま\nしょう",
+    "translation": "いえ、なんでもありません。行きま\nしょう",
+    "speaker": "古泉"
+  }
+]

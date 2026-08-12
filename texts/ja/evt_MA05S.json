@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA05S_0000",
+    "original": "こうなったら、例の楽譜だけでも\n見つけてやるわ！",
+    "translation": "こうなったら、例の楽譜だけでも\n見つけてやるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA05S_0001",
+    "original": "おまえが言っていた、例の未完成の\n楽譜って、これのことか？",
+    "translation": "おまえが言っていた、例の未完成の\n楽譜って、これのことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA05S_0002",
+    "original": "そうよ、これよ！",
+    "translation": "そうよ、これよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA05S_0003",
+    "original": "いったいどこにあったの？",
+    "translation": "いったいどこにあったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA05S_0004",
+    "original": "音楽室だが……",
+    "translation": "音楽室だが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA05S_0005",
+    "original": "音楽室？　あれだけ探しても見つか\nらなかったのに？",
+    "translation": "音楽室？　あれだけ探しても見つか\nらなかったのに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA05S_0006",
+    "original": "あ、ああ",
+    "translation": "あ、ああ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA05S_0007",
+    "original": "しかもこの筆跡、かなり新しいわね",
+    "translation": "しかもこの筆跡、かなり新しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA05S_0008",
+    "original": "そ、そうか？",
+    "translation": "そ、そうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA05S_0009",
+    "original": "まあいいわ。何かの手がかりには\nなるかも",
+    "translation": "まあいいわ。何かの手がかりには\nなるかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA05S_0010",
+    "original": "ふぅ……危うく逆効果ってことに\nなるところだった",
+    "translation": "ふぅ……危うく逆効果ってことに\nなるところだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA05S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA05S_0012",
+    "original": "す、涼宮さんこれ……",
+    "translation": "す、涼宮さんこれ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA05S_0013",
+    "original": "[#SK0]きゃあっ！",
+    "translation": "[#SK0]きゃあっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA05S_0014",
+    "original": "ちょっとみくるちゃん！\nこんなとこで転んで……、大丈夫？",
+    "translation": "ちょっとみくるちゃん！\nこんなとこで転んで……、大丈夫？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA05S_0015",
+    "original": "あーあー、なんかバラまいちゃって\nるじゃない",
+    "translation": "あーあー、なんかバラまいちゃって\nるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA05S_0016",
+    "original": "はうう……ごめんなさい",
+    "translation": "はうう……ごめんなさい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA05S_0017",
+    "original": "ケガしてない？",
+    "translation": "ケガしてない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA05S_0018",
+    "original": "大丈夫ですぅ",
+    "translation": "大丈夫ですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA05S_0019",
+    "original": "じゃあ、早いとこばらまいた紙を\n集めて……",
+    "translation": "じゃあ、早いとこばらまいた紙を\n集めて……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA05S_0020",
+    "original": "ん？　これ、楽譜？",
+    "translation": "ん？　これ、楽譜？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA05S_0021",
+    "original": "は、はい。あの後、音楽室で\n見つけたんです",
+    "translation": "は、はい。あの後、音楽室で\n見つけたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA05S_0022",
+    "original": "音楽室で……もしかして……",
+    "translation": "音楽室で……もしかして……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA05S_0023",
+    "original": "でも、それにしては紙も筆跡も\n新しすぎるわね……",
+    "translation": "でも、それにしては紙も筆跡も\n新しすぎるわね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA05S_0024",
+    "original": "あの、涼宮さん……？",
+    "translation": "あの、涼宮さん……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA05S_0025",
+    "original": "でかしたわ、みくるちゃん",
+    "translation": "でかしたわ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA05S_0026",
+    "original": "へ？",
+    "translation": "へ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA05S_0027",
+    "original": "これはもしかしたら、新たな\n手がかりになるかもしれないわ",
+    "translation": "これはもしかしたら、新たな\n手がかりになるかもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA05S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_MA05S_0029",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA05S_0030",
+    "original": "なにこれ、楽譜じゃない\nどこで見つけたの？",
+    "translation": "なにこれ、楽譜じゃない\nどこで見つけたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA05S_0031",
+    "original": "音楽室",
+    "translation": "音楽室",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA05S_0032",
+    "original": "じゃあ、もしかしてこれが\n例の楽譜かしら？",
+    "translation": "じゃあ、もしかしてこれが\n例の楽譜かしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA05S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA05S_0034",
+    "original": "それにしては新しすぎるわね",
+    "translation": "それにしては新しすぎるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA05S_0035",
+    "original": "詳細な分析が必要",
+    "translation": "詳細な分析が必要",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA05S_0036",
+    "original": "そうね、でかしたわ有希",
+    "translation": "そうね、でかしたわ有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA05S_0037",
+    "original": "何かの手がかりになるかも\nしれないわね",
+    "translation": "何かの手がかりになるかも\nしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA05S_0038",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "evt_MA05S_0039",
+    "original": "涼宮さん、例の楽譜なんですが",
+    "translation": "涼宮さん、例の楽譜なんですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA05S_0040",
+    "original": "なに、見つかったの？",
+    "translation": "なに、見つかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA05S_0041",
+    "original": "はい。ですが、本物かどうか少々\n疑わしい代物でして",
+    "translation": "はい。ですが、本物かどうか少々\n疑わしい代物でして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA05S_0042",
+    "original": "どういうこと？",
+    "translation": "どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA05S_0043",
+    "original": "見てください",
+    "translation": "見てください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA05S_0044",
+    "original": "これは……ずいぶん新しいわね",
+    "translation": "これは……ずいぶん新しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA05S_0045",
+    "original": "しかもご覧の通り、いささか\n枚数が多いのです",
+    "translation": "しかもご覧の通り、いささか\n枚数が多いのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA05S_0046",
+    "original": "確かに、これは本物じゃなさそうね",
+    "translation": "確かに、これは本物じゃなさそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA05S_0047",
+    "original": "でも、何かの手がかりくらいには\nなるかもしれないわ",
+    "translation": "でも、何かの手がかりくらいには\nなるかもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA05S_0048",
+    "original": "よく見つけてくれたわ古泉くん",
+    "translation": "よく見つけてくれたわ古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA05S_0049",
+    "original": "さすが、あたしが見込んで\nスカウトしただけはあるわ！",
+    "translation": "さすが、あたしが見込んで\nスカウトしただけはあるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA05S_0050",
+    "original": "お褒めにあずかり光栄です",
+    "translation": "お褒めにあずかり光栄です",
+    "speaker": "古泉"
+  }
+]

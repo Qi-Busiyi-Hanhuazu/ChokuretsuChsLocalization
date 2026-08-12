@@ -1,0 +1,198 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN13S_0000",
+    "original": "長門っていつも本読んでるよな",
+    "translation": "長門っていつも本読んでるよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN13S_0001",
+    "original": "そうね。でも文芸部だもの、読書は\n部活動の一環なんじゃない？",
+    "translation": "そうね。でも文芸部だもの、読書は\n部活動の一環なんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN13S_0002",
+    "original": "それもそうか……",
+    "translation": "それもそうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN13S_0003",
+    "original": "でな、おもしろそうだったんで\n今度貸してくれって頼んだんだ",
+    "translation": "でな、おもしろそうだったんで\n今度貸してくれって頼んだんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN13S_0004",
+    "original": "面白かったら教えてやるよ",
+    "translation": "面白かったら教えてやるよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN13S_0005",
+    "original": "別にあんたなんかに紹介される必要\nはないけど……",
+    "translation": "別にあんたなんかに紹介される必要\nはないけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN13S_0006",
+    "original": "でも、有希のお奨めだったら読んで\nみてもいいわね",
+    "translation": "でも、有希のお奨めだったら読んで\nみてもいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN13S_0007",
+    "original": "そういえば、キョンくんが長門さん\nに本を借りるんだって言ってました",
+    "translation": "そういえば、キョンくんが長門さん\nに本を借りるんだって言ってました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN13S_0008",
+    "original": "へえ、あいつも本なんか読むんだ\nで、それがどうかした？",
+    "translation": "へえ、あいつも本なんか読むんだ\nで、それがどうかした？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN13S_0009",
+    "original": "あ、ええと、その、あの\nい、いいなあって……",
+    "translation": "あ、ええと、その、あの\nい、いいなあって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN13S_0010",
+    "original": "なに、みくるちゃんも読みたいなら\nキョンの次に借りればいいじゃない",
+    "translation": "なに、みくるちゃんも読みたいなら\nキョンの次に借りればいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN13S_0011",
+    "original": "そ、そうですね……はう……",
+    "translation": "そ、そうですね……はう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN13S_0012",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN13S_0013",
+    "original": "ちょっと有希！　歩きながら本なん\nか読まない方がいいわよ！",
+    "translation": "ちょっと有希！　歩きながら本なん\nか読まない方がいいわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN13S_0014",
+    "original": "……この後に、貸す約束をした",
+    "translation": "……この後に、貸す約束をした",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN13S_0015",
+    "original": "貸すって、誰に？\nもしかして、キョン？",
+    "translation": "貸すって、誰に？\nもしかして、キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN13S_0016",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN13S_0017",
+    "original": "あいつに気を使って急いで読むこと\nなんてないわよ！",
+    "translation": "あいつに気を使って急いで読むこと\nなんてないわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN13S_0018",
+    "original": "それより、階段を踏み外したり、壁\nに頭をぶつけたりしたら大変だわ",
+    "translation": "それより、階段を踏み外したり、壁\nに頭をぶつけたりしたら大変だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN13S_0019",
+    "original": "本は、今はしまっておきなさい",
+    "translation": "本は、今はしまっておきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN13S_0020",
+    "original": "……判った",
+    "translation": "……判った",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN13S_0021",
+    "original": "長門さんはＳＦ小説がお好きなよう\nですね",
+    "translation": "長門さんはＳＦ小説がお好きなよう\nですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN13S_0022",
+    "original": "有希？　なんでも読んでる気がする\nけど……そうね、ＳＦが多いかも",
+    "translation": "有希？　なんでも読んでる気がする\nけど……そうね、ＳＦが多いかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN13S_0023",
+    "original": "涼宮さんはＳＦはいかがです？",
+    "translation": "涼宮さんはＳＦはいかがです？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN13S_0024",
+    "original": "あたしは……そうねえ、結局は絵空\n事の作り話でしょ？",
+    "translation": "あたしは……そうねえ、結局は絵空\n事の作り話でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN13S_0025",
+    "original": "それだったら、あたしは現実の怪奇\n現象とかを追いかけた方が",
+    "translation": "それだったら、あたしは現実の怪奇\n現象とかを追いかけた方が",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN13S_0026",
+    "original": "有意義だと思うわ",
+    "translation": "有意義だと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN13S_0027",
+    "original": "なるほど、一理ありますね",
+    "translation": "なるほど、一理ありますね",
+    "speaker": "古泉"
+  }
+]

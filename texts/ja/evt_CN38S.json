@@ -1,0 +1,261 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN38S_0000",
+    "original": "お前がかまどを作ろうとか言い出し\nた時は、長門がいて助かったぜ",
+    "translation": "お前がかまどを作ろうとか言い出し\nた時は、長門がいて助かったぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN38S_0001",
+    "original": "あら、なんでよ",
+    "translation": "あら、なんでよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN38S_0002",
+    "original": "俺もお前も、かまどの作り方なんか\nさっぱり知らなかったじゃねーか",
+    "translation": "俺もお前も、かまどの作り方なんか\nさっぱり知らなかったじゃねーか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN38S_0003",
+    "original": "まあ……そうとも言うわね。有希の\n知識に助けられたのは認めるわ",
+    "translation": "まあ……そうとも言うわね。有希の\n知識に助けられたのは認めるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN38S_0004",
+    "original": "あいつの知識は本当に底なしだから\nなあ",
+    "translation": "あいつの知識は本当に底なしだから\nなあ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN38S_0005",
+    "original": "それは恐らく比喩的な表現ではない\nのだが、説明する必要はないだろう",
+    "translation": "それは恐らく比喩的な表現ではない\nのだが、説明する必要はないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN38S_0006",
+    "original": "えっと、長門さんって色々なことに\n詳しいですよね",
+    "translation": "えっと、長門さんって色々なことに\n詳しいですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN38S_0007",
+    "original": "そうね、有希は読書家だしね",
+    "translation": "そうね、有希は読書家だしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN38S_0008",
+    "original": "かまどの作り方も詳しく知ってて",
+    "translation": "かまどの作り方も詳しく知ってて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN38S_0009",
+    "original": "まるで生き字引みたいだって、\nキョンくんが言ってましたよ",
+    "translation": "まるで生き字引みたいだって、\nキョンくんが言ってましたよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN38S_0010",
+    "original": "まあ、有希は勉強家だもんね",
+    "translation": "まあ、有希は勉強家だもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN38S_0011",
+    "original": "たくさん本を読んでるから、あの\n子なら何でも知ってそうだわ",
+    "translation": "たくさん本を読んでるから、あの\n子なら何でも知ってそうだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN38S_0012",
+    "original": "そうですね、ハクシキですよね",
+    "translation": "そうですね、ハクシキですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN38S_0013",
+    "original": "生き字引もいいけど……",
+    "translation": "生き字引もいいけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN38S_0014",
+    "original": "みくるちゃんも、ドジっ娘メイドの\n鑑って言われるくらいにならないと",
+    "translation": "みくるちゃんも、ドジっ娘メイドの\n鑑って言われるくらいにならないと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN38S_0015",
+    "original": "あ、あたしは別に鑑になんて\nならなくてもいいですよぅ",
+    "translation": "あ、あたしは別に鑑になんて\nならなくてもいいですよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN38S_0016",
+    "original": "ダメよ！\n合宿の後で特訓するから！",
+    "translation": "ダメよ！\n合宿の後で特訓するから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN38S_0017",
+    "original": "えっ？　えぇぇ～っ",
+    "translation": "えっ？　えぇぇ～っ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN38S_0018",
+    "original": "バーベキューにはコンロよりも\n炭火の方が適している",
+    "translation": "バーベキューにはコンロよりも\n炭火の方が適している",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN38S_0019",
+    "original": "ああ、さっきの話？",
+    "translation": "ああ、さっきの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN38S_0020",
+    "original": "確かに、そっちの方がお肉が美味し\nく焼けそうだものね",
+    "translation": "確かに、そっちの方がお肉が美味し\nく焼けそうだものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN38S_0021",
+    "original": "エンセキなんとかってアレ",
+    "translation": "エンセキなんとかってアレ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN38S_0022",
+    "original": "遠赤外線",
+    "translation": "遠赤外線",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN38S_0023",
+    "original": "そう、それそれ",
+    "translation": "そう、それそれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN38S_0024",
+    "original": "遠赤外線は物質への浸透能力が高い",
+    "translation": "遠赤外線は物質への浸透能力が高い",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN38S_0025",
+    "original": "だが、調理に炭火が適している理由\nは別にある",
+    "translation": "だが、調理に炭火が適している理由\nは別にある",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN38S_0026",
+    "original": "屋外では風がある場合にすぐに火が\n消えてしまう",
+    "translation": "屋外では風がある場合にすぐに火が\n消えてしまう",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN38S_0027",
+    "original": "しかし、炭は一度燃焼がはじまれば\n簡単には消えない",
+    "translation": "しかし、炭は一度燃焼がはじまれば\n簡単には消えない",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN38S_0028",
+    "original": "なるほど、確かにそうね",
+    "translation": "なるほど、確かにそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN38S_0029",
+    "original": "さすがね。有希に聞けばなんでも\n分かりそうね",
+    "translation": "さすがね。有希に聞けばなんでも\n分かりそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN38S_0030",
+    "original": "ＳＯＳ団のメンバーで生き字引と\nいえばどなたを思い浮かべますか？",
+    "translation": "ＳＯＳ団のメンバーで生き字引と\nいえばどなたを思い浮かべますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN38S_0031",
+    "original": "知識の豊富さをいうなら、有希じゃ\nないのかしら",
+    "translation": "知識の豊富さをいうなら、有希じゃ\nないのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN38S_0032",
+    "original": "そうですね。彼女のためにある言葉\nなのかと思うほどです",
+    "translation": "そうですね。彼女のためにある言葉\nなのかと思うほどです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN38S_0033",
+    "original": "だけど、人に頼るのはダメよ。自分\nで調べなくちゃ、身に付かないわ",
+    "translation": "だけど、人に頼るのはダメよ。自分\nで調べなくちゃ、身に付かないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN38S_0034",
+    "original": "ええ、おっしゃるとおりです",
+    "translation": "ええ、おっしゃるとおりです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN38S_0035",
+    "original": "すぐに人を頼りにしてたら、そう\nいう癖がついて人間ダメになるのよ",
+    "translation": "すぐに人を頼りにしてたら、そう\nいう癖がついて人間ダメになるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN38S_0036",
+    "original": "はい、肝に銘じておきます",
+    "translation": "はい、肝に銘じておきます",
+    "speaker": "古泉"
+  }
+]

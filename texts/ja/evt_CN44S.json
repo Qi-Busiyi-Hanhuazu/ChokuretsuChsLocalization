@@ -1,0 +1,198 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN44S_0000",
+    "original": "長門の知識の豊富さを利用したら\nいろいろと便利そうだよな",
+    "translation": "長門の知識の豊富さを利用したら\nいろいろと便利そうだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN44S_0001",
+    "original": "便利って？",
+    "translation": "便利って？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN44S_0002",
+    "original": "たとえば……試験問題の予想とか",
+    "translation": "たとえば……試験問題の予想とか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN44S_0003",
+    "original": "あんたねえ、試験ってのは普段から\nどれだけ勉強してるか試すものよ",
+    "translation": "あんたねえ、試験ってのは普段から\nどれだけ勉強してるか試すものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN44S_0004",
+    "original": "それじゃ試験する意味がないじゃ\nないの！",
+    "translation": "それじゃ試験する意味がないじゃ\nないの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN44S_0005",
+    "original": "お、おう、それもそうか",
+    "translation": "お、おう、それもそうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN44S_0006",
+    "original": "……正論すぎる正論をハルヒに吐か\nれてしまった。なんだか納得いかん",
+    "translation": "……正論すぎる正論をハルヒに吐か\nれてしまった。なんだか納得いかん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN44S_0007",
+    "original": "あのぅ、情報戦っていうのは必要な\nことなんでしょうか？",
+    "translation": "あのぅ、情報戦っていうのは必要な\nことなんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN44S_0008",
+    "original": "あたし、そういうのは苦手で……",
+    "translation": "あたし、そういうのは苦手で……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN44S_0009",
+    "original": "何を言ってるの！　これからの\n時代は情報を得たもの勝ちなのよ！",
+    "translation": "何を言ってるの！　これからの\n時代は情報を得たもの勝ちなのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN44S_0010",
+    "original": "怪奇現象の謎だって、たくさん情報\nを得てこそ真実に辿り着くのよ！",
+    "translation": "怪奇現象の謎だって、たくさん情報\nを得てこそ真実に辿り着くのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN44S_0011",
+    "original": "そ、そうでしたね",
+    "translation": "そ、そうでしたね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN44S_0012",
+    "original": "さあ、真実を確かめるために\n現場に急ぐわよ！",
+    "translation": "さあ、真実を確かめるために\n現場に急ぐわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN44S_0013",
+    "original": "あぁっ、ダメですぅっ、涼宮さんっ\n待ってくださぁい",
+    "translation": "あぁっ、ダメですぅっ、涼宮さんっ\n待ってくださぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN44S_0014",
+    "original": "それにしても、有希って色んなこと\n知ってるわよねえ",
+    "translation": "それにしても、有希って色んなこと\n知ってるわよねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN44S_0015",
+    "original": "情報の収集は重要",
+    "translation": "情報の収集は重要",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN44S_0016",
+    "original": "情報を収集し再構成することで\n新たな事実が発見できる",
+    "translation": "情報を収集し再構成することで\n新たな事実が発見できる",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN44S_0017",
+    "original": "そうね、一理あると思うわ",
+    "translation": "そうね、一理あると思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN44S_0018",
+    "original": "些細な噂話とかから、本物の怪奇\n現象を見つけ出す！　ってことよね",
+    "translation": "些細な噂話とかから、本物の怪奇\n現象を見つけ出す！　ってことよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN44S_0019",
+    "original": "う～ん、燃えてきたわっ！",
+    "translation": "う～ん、燃えてきたわっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN44S_0020",
+    "original": "ふと思ったのですが、情報戦という\nものは、どの程度有効なのでしょう",
+    "translation": "ふと思ったのですが、情報戦という\nものは、どの程度有効なのでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN44S_0021",
+    "original": "そうね。ぜんぶ本当かぜんぶ嘘なら\n有効かも知れないわ",
+    "translation": "そうね。ぜんぶ本当かぜんぶ嘘なら\n有効かも知れないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN44S_0022",
+    "original": "どういうことでしょうか？",
+    "translation": "どういうことでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN44S_0023",
+    "original": "ＵＦＯは存在するっていう情報と\n存在しないって情報があるでしょ",
+    "translation": "ＵＦＯは存在するっていう情報と\n存在しないって情報があるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN44S_0024",
+    "original": "それってどちらでもない曖昧な情報\nだから、使えないってことよ",
+    "translation": "それってどちらでもない曖昧な情報\nだから、使えないってことよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN44S_0025",
+    "original": "どちらにも根拠はありますが？",
+    "translation": "どちらにも根拠はありますが？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN44S_0026",
+    "original": "やっぱり自分の目で見て、触れて\n見なければアテにならないわ",
+    "translation": "やっぱり自分の目で見て、触れて\n見なければアテにならないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN44S_0027",
+    "original": "だから、怪奇現象も、実際に\n突き止めなくっちゃ！",
+    "translation": "だから、怪奇現象も、実際に\n突き止めなくっちゃ！",
+    "speaker": "ハルヒ"
+  }
+]

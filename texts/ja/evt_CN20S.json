@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN20S_0000",
+    "original": "これは長門の推理なんだがな",
+    "translation": "これは長門の推理なんだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN20S_0001",
+    "original": "有希の？　なにかしら",
+    "translation": "有希の？　なにかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN20S_0002",
+    "original": "怪奇現象だと思っていたことが、実\nは誰かの陰謀だった……なんて",
+    "translation": "怪奇現象だと思っていたことが、実\nは誰かの陰謀だった……なんて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN20S_0003",
+    "original": "推理小説なんかでは良くあることだ\nってな",
+    "translation": "推理小説なんかでは良くあることだ\nってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN20S_0004",
+    "original": "今回のもそうなんじゃないか？",
+    "translation": "今回のもそうなんじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN20S_0005",
+    "original": "そうね、その可能性はあるわ",
+    "translation": "そうね、その可能性はあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN20S_0006",
+    "original": "だったらわざわざ、こんな肝試しみ\nたいなマネをしなくてもいいだろ",
+    "translation": "だったらわざわざ、こんな肝試しみ\nたいなマネをしなくてもいいだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN20S_0007",
+    "original": "判ってないわねえ、キョン",
+    "translation": "判ってないわねえ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN20S_0008",
+    "original": "本物の怪奇現象か、誰かの陰謀かは\n解明しなくちゃ判らないでしょ",
+    "translation": "本物の怪奇現象か、誰かの陰謀かは\n解明しなくちゃ判らないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN20S_0009",
+    "original": "今ここで調査をやめる理由には\nならないわよ、絶対",
+    "translation": "今ここで調査をやめる理由には\nならないわよ、絶対",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN20S_0010",
+    "original": "う……",
+    "translation": "う……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN20S_0011",
+    "original": "ハルヒに論破されてしまった",
+    "translation": "ハルヒに論破されてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN20S_0012",
+    "original": "あのっ、長門さんが言ってたんです\nけど……",
+    "translation": "あのっ、長門さんが言ってたんです\nけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN20S_0013",
+    "original": "有希が？　なにかしら？",
+    "translation": "有希が？　なにかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN20S_0014",
+    "original": "ええと、なんだっけ……",
+    "translation": "ええと、なんだっけ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN20S_0015",
+    "original": "怪奇現象だと思ってたことが、実は\n人間のしわざで……あれれ？",
+    "translation": "怪奇現象だと思ってたことが、実は\n人間のしわざで……あれれ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN20S_0016",
+    "original": "人間のしわざだと思ってたことが\n実は怪奇現象で、だったかしら？",
+    "translation": "人間のしわざだと思ってたことが\n実は怪奇現象で、だったかしら？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN20S_0017",
+    "original": "……こんがらがっちゃいました",
+    "translation": "……こんがらがっちゃいました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN20S_0018",
+    "original": "……なにが言いたいか良く判らない\nわねえ",
+    "translation": "……なにが言いたいか良く判らない\nわねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN20S_0019",
+    "original": "怪奇現象かそうでないかは、実際に\n調べないと判らないってことよね？",
+    "translation": "怪奇現象かそうでないかは、実際に\n調べないと判らないってことよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN20S_0020",
+    "original": "あ、うう……\n涼宮さんがさらにやる気に……",
+    "translation": "あ、うう……\n涼宮さんがさらにやる気に……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN20S_0021",
+    "original": "幽霊の仕業だと思っていたけれど\n実際には人為的な“事件”だった",
+    "translation": "幽霊の仕業だと思っていたけれど\n実際には人為的な“事件”だった",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN20S_0022",
+    "original": "そんな考え方もできる",
+    "translation": "そんな考え方もできる",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN20S_0023",
+    "original": "なんの話？　もしかして、今回の\n音楽室のピアノのこと？",
+    "translation": "なんの話？　もしかして、今回の\n音楽室のピアノのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN20S_0024",
+    "original": "幽霊騒ぎを起こして人を遠ざける\nことが第一の目的",
+    "translation": "幽霊騒ぎを起こして人を遠ざける\nことが第一の目的",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN20S_0025",
+    "original": "そうやって人が寄りつかなくなった\nあと、保管されていた宝石を盗む",
+    "translation": "そうやって人が寄りつかなくなった\nあと、保管されていた宝石を盗む",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN20S_0026",
+    "original": "しかし盗難の瞬間を目撃されてしま\nい、やむなく殺害する",
+    "translation": "しかし盗難の瞬間を目撃されてしま\nい、やむなく殺害する",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN20S_0027",
+    "original": "その結果、まるで幽霊の呪いによっ\nて被害者は死んだように見えた",
+    "translation": "その結果、まるで幽霊の呪いによっ\nて被害者は死んだように見えた",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN20S_0028",
+    "original": "犯人はその偶然を利用して、幽霊の\n噂と呪いの噂をさらに強化した",
+    "translation": "犯人はその偶然を利用して、幽霊の\n噂と呪いの噂をさらに強化した",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN20S_0029",
+    "original": "実は別々の二つの事件",
+    "translation": "実は別々の二つの事件",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN20S_0030",
+    "original": "ふむふむ、なるほど……って\nうちの学校じゃ誰も死んでないわよ",
+    "translation": "ふむふむ、なるほど……って\nうちの学校じゃ誰も死んでないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN20S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN20S_0032",
+    "original": "今のは、さっき部室で読んだ本の\n内容",
+    "translation": "今のは、さっき部室で読んだ本の\n内容",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN20S_0033",
+    "original": "なんだ……真面目に聞いて損したわ",
+    "translation": "なんだ……真面目に聞いて損したわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN20S_0034",
+    "original": "でも、ちょっと役立つところもあっ\nたわ",
+    "translation": "でも、ちょっと役立つところもあっ\nたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN20S_0035",
+    "original": "なるほど、誰かが人為的にやったこ\nとが、幽霊の仕業にみえる",
+    "translation": "なるほど、誰かが人為的にやったこ\nとが、幽霊の仕業にみえる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN20S_0036",
+    "original": "と言うわけね……",
+    "translation": "と言うわけね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN20S_0037",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN20S_0038",
+    "original": "これは長門さんが言っていたのです\nが……",
+    "translation": "これは長門さんが言っていたのです\nが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN20S_0039",
+    "original": "有希が？　なに？",
+    "translation": "有希が？　なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN20S_0040",
+    "original": "一見怪奇現象に見えることが、実は\n人為的に起こされた現象なのでは",
+    "translation": "一見怪奇現象に見えることが、実は\n人為的に起こされた現象なのでは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN20S_0041",
+    "original": "……というようなことを",
+    "translation": "……というようなことを",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN20S_0042",
+    "original": "まあ、あたしもその可能性はゼロで\nはないと思うわ",
+    "translation": "まあ、あたしもその可能性はゼロで\nはないと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN20S_0043",
+    "original": "でもね古泉くん、それを確かめるこ\nとにこそ、意義があるのよ",
+    "translation": "でもね古泉くん、それを確かめるこ\nとにこそ、意義があるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN20S_0044",
+    "original": "だから、調査は続行ね",
+    "translation": "だから、調査は続行ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN20S_0045",
+    "original": "そうですね、お付き合いいたします",
+    "translation": "そうですね、お付き合いいたします",
+    "speaker": "古泉"
+  }
+]

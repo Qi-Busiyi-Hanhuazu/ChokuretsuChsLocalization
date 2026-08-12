@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN16S_0000",
+    "original": "そう言えば、さっき長門が古泉に\n文句を言ってたな。痛快だったぜ",
+    "translation": "そう言えば、さっき長門が古泉に\n文句を言ってたな。痛快だったぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN16S_0001",
+    "original": "文句？　有希が？\n珍しいこともあるもんね",
+    "translation": "文句？　有希が？\n珍しいこともあるもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN16S_0002",
+    "original": "いつも薄ら笑いで気色悪いとか\nいくらなんでもゲーム弱すぎるとか",
+    "translation": "いつも薄ら笑いで気色悪いとか\nいくらなんでもゲーム弱すぎるとか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN16S_0003",
+    "original": "……ちょっと、それホントに有希が\n言ったの？",
+    "translation": "……ちょっと、それホントに有希が\n言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN16S_0004",
+    "original": "全部あんたが古泉くんに言ってるよ\nうなことばかりじゃない",
+    "translation": "全部あんたが古泉くんに言ってるよ\nうなことばかりじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN16S_0005",
+    "original": "う……ばれたか",
+    "translation": "う……ばれたか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN16S_0006",
+    "original": "なんで有希が言ってるなんて言うの\nあんた本当に最低ね",
+    "translation": "なんで有希が言ってるなんて言うの\nあんた本当に最低ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN16S_0007",
+    "original": "ハルヒを怒らせてしまったようだ\n本心を言っただけなのだが……",
+    "translation": "ハルヒを怒らせてしまったようだ\n本心を言っただけなのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN16S_0008",
+    "original": "ふぅ、ふぅ",
+    "translation": "ふぅ、ふぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN16S_0009",
+    "original": "どうしたの？　みくるちゃん\nもう疲れたの？",
+    "translation": "どうしたの？　みくるちゃん\nもう疲れたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN16S_0010",
+    "original": "は、はい……",
+    "translation": "は、はい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN16S_0011",
+    "original": "長門さんとか、いつも文句ひとつ\n言わずに、偉いと思います……",
+    "translation": "長門さんとか、いつも文句ひとつ\n言わずに、偉いと思います……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN16S_0012",
+    "original": "そうねえ、でも、もしかしたら心の\n中では不満を溜め込んでたりしてね",
+    "translation": "そうねえ、でも、もしかしたら心の\n中では不満を溜め込んでたりしてね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN16S_0013",
+    "original": "長門さんがですか？\n……そんな風には、見えないです",
+    "translation": "長門さんがですか？\n……そんな風には、見えないです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN16S_0014",
+    "original": "見えないからこそ、もしかしたらよ",
+    "translation": "見えないからこそ、もしかしたらよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN16S_0015",
+    "original": "有希は溜め込むタイプに見えるから\nたまには発散させてあげなきゃね",
+    "translation": "有希は溜め込むタイプに見えるから\nたまには発散させてあげなきゃね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN16S_0016",
+    "original": "休憩できた？　じゃあ、行くわよ！",
+    "translation": "休憩できた？　じゃあ、行くわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN16S_0017",
+    "original": "あ、待ってください～",
+    "translation": "あ、待ってください～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN16S_0018",
+    "original": "もっと文句を言えと\n助言を受けた",
+    "translation": "もっと文句を言えと\n助言を受けた",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN16S_0019",
+    "original": "キョンに？",
+    "translation": "キョンに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN16S_0020",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN16S_0021",
+    "original": "ふ～ん、キョンらしいわね",
+    "translation": "ふ～ん、キョンらしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN16S_0022",
+    "original": "でも、キョンは多すぎかもね\n有希はどう思うの？",
+    "translation": "でも、キョンは多すぎかもね\n有希はどう思うの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN16S_0023",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN16S_0024",
+    "original": "長門さんは無口で無表情ですが\n一人、細かな表情を読み取ることが",
+    "translation": "長門さんは無口で無表情ですが\n一人、細かな表情を読み取ることが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN16S_0025",
+    "original": "できる人物がいるようですね",
+    "translation": "できる人物がいるようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN16S_0026",
+    "original": "それって、キョンのこと？",
+    "translation": "それって、キョンのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN16S_0027",
+    "original": "その様です、ただ……",
+    "translation": "その様です、ただ……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN16S_0028",
+    "original": "たまに、自分の都合のいい方向に\n曲解することもあるようですがね",
+    "translation": "たまに、自分の都合のいい方向に\n曲解することもあるようですがね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN16S_0029",
+    "original": "先ほども、長門さんをダシにして\n色々とご意見を",
+    "translation": "先ほども、長門さんをダシにして\n色々とご意見を",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN16S_0030",
+    "original": "言われてしまいました",
+    "translation": "言われてしまいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN16S_0031",
+    "original": "キョンはそんなレベルの低いことを\nしてるの",
+    "translation": "キョンはそんなレベルの低いことを\nしてるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN16S_0032",
+    "original": "いいわ\nあとでとっちめてやる！",
+    "translation": "いいわ\nあとでとっちめてやる！",
+    "speaker": "ハルヒ"
+  }
+]

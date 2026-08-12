@@ -42,19 +42,20 @@ KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
 # CH: Suzumiya Haruhi topics
 # MA/MT: Main topics
 # Ref: https://dakuratsuki.web.fc2.com/capture/haruhi-chokuretsu/topic.html
-NAME_FILTER = re.compile(
-  r"^(?:overlay.+|dat_.+|"
-  r"evt_(?:[A-Z]+|"
-  r"CHS_.+|"
-  r"CA(?:[0]\d|1[0-2])S|"
-  r"CK(?:[0]\d|1[0-2])S|"
-  r"CN(?:[0]\d|1[0-2])S|"
-  r"CH0[0-6]S|"
-  r"EV[01]_\d+S|"
-  r"M[AT](?:0[0-3]|30)S|"
-  r"TR\d+S"
-  r"))$"
-)
+# NAME_FILTER = re.compile(
+#   r"^(?:overlay.+|dat_.+|"
+#   r"evt_(?:[A-Z]+|"
+#   r"CHS_.+|"
+#   r"CA(?:[0]\d|1[0-2])S|"
+#   r"CK(?:[0]\d|1[0-2])S|"
+#   r"CN(?:[0]\d|1[0-2])S|"
+#   r"CH0[0-6]S|"
+#   r"EV[01]_\d+S|"
+#   r"M[AT](?:0[0-3]|30)S|"
+#   r"TR\d+S"
+#   r"))$"
+# )
+NAME_FILTER = re.compile(".*")
 
 SPECIAL_CHARACTERS_REPLACE_DICT = {
   "-": "－",

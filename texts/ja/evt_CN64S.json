@@ -1,0 +1,248 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN64S_0000",
+    "original": "長門って猫みたいだと思ったことが\nあるんだが、ハルヒはどうだ？",
+    "translation": "長門って猫みたいだと思ったことが\nあるんだが、ハルヒはどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN64S_0001",
+    "original": "そうね、猫みたいにキュートなのは\nたしかね",
+    "translation": "そうね、猫みたいにキュートなのは\nたしかね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN64S_0002",
+    "original": "キョンにしては目の付け所がいいわ",
+    "translation": "キョンにしては目の付け所がいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN64S_0003",
+    "original": "あ、いや、表情があんまり変わらな\nいからそう思ったんだが……",
+    "translation": "あ、いや、表情があんまり変わらな\nいからそう思ったんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN64S_0004",
+    "original": "猫だって表情はあるわ。犬と比べて\n表情筋が活発じゃないだけよ",
+    "translation": "猫だって表情はあるわ。犬と比べて\n表情筋が活発じゃないだけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN64S_0005",
+    "original": "そうなのか？",
+    "translation": "そうなのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN64S_0006",
+    "original": "キョン、アンタはもうちょっと本と\nか読んだ方がいいんじゃない？",
+    "translation": "キョン、アンタはもうちょっと本と\nか読んだ方がいいんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN64S_0007",
+    "original": "アンタはものを知らなさすぎよ",
+    "translation": "アンタはものを知らなさすぎよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN64S_0008",
+    "original": "雑学ならそこそこあると思っている\nんだがなあ",
+    "translation": "雑学ならそこそこあると思っている\nんだがなあ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN64S_0009",
+    "original": "たくさん本を読んだら、有希みたい\nにお利口さんになるわよ",
+    "translation": "たくさん本を読んだら、有希みたい\nにお利口さんになるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN64S_0010",
+    "original": "長門さんの表情なんですけど、慣れ\nたら変化ってわかるんでしょうか？",
+    "translation": "長門さんの表情なんですけど、慣れ\nたら変化ってわかるんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN64S_0011",
+    "original": "判るわよ",
+    "translation": "判るわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN64S_0012",
+    "original": "わぁ、涼宮さんには判るんですか？\nさすがです、涼宮さん！",
+    "translation": "わぁ、涼宮さんには判るんですか？\nさすがです、涼宮さん！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN64S_0013",
+    "original": "ごめんね、みくるちゃん。期待\nさせて悪いけど",
+    "translation": "ごめんね、みくるちゃん。期待\nさせて悪いけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN64S_0014",
+    "original": "まだ、あたしも完全とは言えない\nのよ。でも、判る時もあるわ",
+    "translation": "まだ、あたしも完全とは言えない\nのよ。でも、判る時もあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN64S_0015",
+    "original": "眉がちょっと下がってるのは\n困ってるとか、お腹空いてるなとか",
+    "translation": "眉がちょっと下がってるのは\n困ってるとか、お腹空いてるなとか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN64S_0016",
+    "original": "あ、いえ\nあたしが早とちりしちゃって",
+    "translation": "あ、いえ\nあたしが早とちりしちゃって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN64S_0017",
+    "original": "見てらっしゃいよ、有希！",
+    "translation": "見てらっしゃいよ、有希！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN64S_0018",
+    "original": "団長のあたしが完全理解して\nあげるわ！",
+    "translation": "団長のあたしが完全理解して\nあげるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN64S_0019",
+    "original": "そしてゆくゆくは、団員全員の表情\n変化を完璧に把握してみせる！",
+    "translation": "そしてゆくゆくは、団員全員の表情\n変化を完璧に把握してみせる！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN64S_0020",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "evt_CN64S_0021",
+    "original": "っ！！？",
+    "translation": "っ！！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN64S_0022",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN64S_0023",
+    "original": "びっ……くりしたあ",
+    "translation": "びっ……くりしたあ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN64S_0024",
+    "original": "誰よ、こんなトコにバケツなんて置\nいてるやつは",
+    "translation": "誰よ、こんなトコにバケツなんて置\nいてるやつは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN64S_0025",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN64S_0026",
+    "original": "有希、あんた神経図太いわねえ\n全然驚いてないみたいね",
+    "translation": "有希、あんた神経図太いわねえ\n全然驚いてないみたいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN64S_0027",
+    "original": "驚いた\n少し",
+    "translation": "驚いた\n少し",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN64S_0028",
+    "original": "そうなの？　顔からじゃ判んないわ",
+    "translation": "そうなの？　顔からじゃ判んないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN64S_0029",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN64S_0030",
+    "original": "まあいいわ、行きましょ",
+    "translation": "まあいいわ、行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN64S_0031",
+    "original": "こういっては何ですが、長門さんは\n常にポーカーフェイスですよね",
+    "translation": "こういっては何ですが、長門さんは\n常にポーカーフェイスですよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN64S_0032",
+    "original": "そうね、あんまり表情には出さない\nタイプよね",
+    "translation": "そうね、あんまり表情には出さない\nタイプよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN64S_0033",
+    "original": "逆に、みくるちゃんは表情が豊かす\nぎて、ついイジワルしたくなるわ",
+    "translation": "逆に、みくるちゃんは表情が豊かす\nぎて、ついイジワルしたくなるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN64S_0034",
+    "original": "有希の困った顔も、一度くらいは\n見てみたい気もするけど",
+    "translation": "有希の困った顔も、一度くらいは\n見てみたい気もするけど",
+    "speaker": "ハルヒ"
+  }
+]

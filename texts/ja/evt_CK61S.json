@@ -1,0 +1,373 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK61S_0000",
+    "original": "……あー、仮定の話なんだが",
+    "translation": "……あー、仮定の話なんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK61S_0001",
+    "original": "なによ、突然？",
+    "translation": "なによ、突然？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK61S_0002",
+    "original": "もし、古泉の恥ずかしい写真がある\nとしたら、見たいと思うか？",
+    "translation": "もし、古泉の恥ずかしい写真がある\nとしたら、見たいと思うか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK61S_0003",
+    "original": "恥ずかしい写真？　なにそれ？",
+    "translation": "恥ずかしい写真？　なにそれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK61S_0004",
+    "original": "ありえないコスプレをしてる姿とか\n色々と可能性はあるが……",
+    "translation": "ありえないコスプレをしてる姿とか\n色々と可能性はあるが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK61S_0005",
+    "original": "頭に花を乗っけて、ヘラヘラ笑って\nる姿、とは言いにくいな",
+    "translation": "頭に花を乗っけて、ヘラヘラ笑って\nる姿、とは言いにくいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK61S_0006",
+    "original": "古泉くんなら、たいていの格好は\n似合うんじゃない？",
+    "translation": "古泉くんなら、たいていの格好は\n似合うんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK61S_0007",
+    "original": "……そうか？",
+    "translation": "……そうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK61S_0008",
+    "original": "一度くらいは、話のタネに見たい気\nもするけどね",
+    "translation": "一度くらいは、話のタネに見たい気\nもするけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK61S_0009",
+    "original": "と、仰せだぞ古泉。団長のハルヒ様\nが直々のご希望だ",
+    "translation": "と、仰せだぞ古泉。団長のハルヒ様\nが直々のご希望だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK61S_0010",
+    "original": "……しかしまあ、紳士協定があるか\nらな。忘れよう",
+    "translation": "……しかしまあ、紳士協定があるか\nらな。忘れよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK61S_0011",
+    "original": "あの、涼宮さん\n小耳に挟んだんですけど……",
+    "translation": "あの、涼宮さん\n小耳に挟んだんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK61S_0012",
+    "original": "なに？",
+    "translation": "なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK61S_0013",
+    "original": "キョンくんと古泉くんが、その……",
+    "translation": "キョンくんと古泉くんが、その……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK61S_0014",
+    "original": "は、恥ずかしい写真を撮り合おう\nって……",
+    "translation": "は、恥ずかしい写真を撮り合おう\nって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK61S_0015",
+    "original": "な、なによ、それ、みくるちゃん",
+    "translation": "な、なによ、それ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK61S_0016",
+    "original": "あれ？　聞き間違いかな……そんな\n風に聞こえた気がしたので……",
+    "translation": "あれ？　聞き間違いかな……そんな\n風に聞こえた気がしたので……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK61S_0017",
+    "original": "……ＳＯＳ団の風紀を乱すわけには\nいかないわ……",
+    "translation": "……ＳＯＳ団の風紀を乱すわけには\nいかないわ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK61S_0018",
+    "original": "急いで戻って問い詰めましょう！",
+    "translation": "急いで戻って問い詰めましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK61S_0019",
+    "original": "あ！　ま、待ってください～！",
+    "translation": "あ！　ま、待ってください～！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK61S_0020",
+    "original": "恥ずかしいと分類される写真の存在\nを確認した",
+    "translation": "恥ずかしいと分類される写真の存在\nを確認した",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK61S_0021",
+    "original": "笑えるやつならちょっとは面白い\nかもしれないけど、今は興味ないわ",
+    "translation": "笑えるやつならちょっとは面白い\nかもしれないけど、今は興味ないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK61S_0022",
+    "original": "それよりも、早く現場に行って\n怪奇現象の写真を撮りたいくらいよ",
+    "translation": "それよりも、早く現場に行って\n怪奇現象の写真を撮りたいくらいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK61S_0023",
+    "original": "もう、こんなことならカメラを持っ\nてくるべきだったわ。うかつだわ",
+    "translation": "もう、こんなことならカメラを持っ\nてくるべきだったわ。うかつだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK61S_0024",
+    "original": "無い物はしかたないから、まずは\nこの目でたしかめましょ！",
+    "translation": "無い物はしかたないから、まずは\nこの目でたしかめましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK61S_0025",
+    "original": "……急いではダメ",
+    "translation": "……急いではダメ",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK61S_0026",
+    "original": "思わず吹きだしてしまうような\n愉快な彼の写真があったら",
+    "translation": "思わず吹きだしてしまうような\n愉快な彼の写真があったら",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK61S_0027",
+    "original": "涼宮さんは見たいと思いますか？",
+    "translation": "涼宮さんは見たいと思いますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK61S_0028",
+    "original": "吹き出すような、キョンの写真？",
+    "translation": "吹き出すような、キョンの写真？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK61S_0029",
+    "original": "\nあるなら今すぐ提出！　団長命令よ",
+    "translation": "\nあるなら今すぐ提出！　団長命令よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK61S_0030",
+    "original": "すみません、出そうにも撮っては\nいませんので。あくまでも仮定です",
+    "translation": "すみません、出そうにも撮っては\nいませんので。あくまでも仮定です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK61S_0031",
+    "original": "ふーん、そうなの。それは残念ね",
+    "translation": "ふーん、そうなの。それは残念ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK61S_0032",
+    "original": "やはりあるなら欲しいですか？",
+    "translation": "やはりあるなら欲しいですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK61S_0033",
+    "original": "キョンの写真なんか、別に欲しい\nなんてちっとも思わないけどね",
+    "translation": "キョンの写真なんか、別に欲しい\nなんてちっとも思わないけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK61S_0034",
+    "original": "それが恥ずかしい写真なら別よ",
+    "translation": "それが恥ずかしい写真なら別よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK61S_0035",
+    "original": "持ってて、キョンの前にちらつかせ\nたら、楽しそうじゃない？",
+    "translation": "持ってて、キョンの前にちらつかせ\nたら、楽しそうじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK61S_0036",
+    "original": "慌てたあいつの顔を見て楽しむのよ",
+    "translation": "慌てたあいつの顔を見て楽しむのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK61S_0037",
+    "original": "やはりそうですか",
+    "translation": "やはりそうですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK61S_0038",
+    "original": "ねぇ、そんな写真を撮るチャンスが\nあったの？",
+    "translation": "ねぇ、そんな写真を撮るチャンスが\nあったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK61S_0039",
+    "original": "あるとしたら肝試しの時かしら？",
+    "translation": "あるとしたら肝試しの時かしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK61S_0040",
+    "original": "何かに驚いて、マヌケ面で腰抜かし\nそうになってるとか？",
+    "translation": "何かに驚いて、マヌケ面で腰抜かし\nそうになってるとか？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK61S_0041",
+    "original": "いえ、そんなことは無かったのです\nが……楽しそうですね、涼宮さん",
+    "translation": "いえ、そんなことは無かったのです\nが……楽しそうですね、涼宮さん",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK61S_0042",
+    "original": "けっこう面白そうよね、これは試す\n価値ありかもしれないわ……",
+    "translation": "けっこう面白そうよね、これは試す\n価値ありかもしれないわ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK61S_0043",
+    "original": "[#P06]僕はマズイことを言ってしまい\nましたかね",
+    "translation": "[#P06]僕はマズイことを言ってしまい\nましたかね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK61S_0044",
+    "original": "本当に撮ってないのね？",
+    "translation": "本当に撮ってないのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK61S_0045",
+    "original": "ええ、撮っていません",
+    "translation": "ええ、撮っていません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK61S_0046",
+    "original": "撮れていたら、僕は迷わずあなたに\n見せていますよ",
+    "translation": "撮れていたら、僕は迷わずあなたに\n見せていますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK61S_0047",
+    "original": "うーん、それなら撮影チャンスを\n作るべきかもしれないわね",
+    "translation": "うーん、それなら撮影チャンスを\n作るべきかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK61S_0048",
+    "original": "もちろん、手伝ってくれるわよね\n古泉くん",
+    "translation": "もちろん、手伝ってくれるわよね\n古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK61S_0049",
+    "original": "むろん、お手伝いしますよ",
+    "translation": "むろん、お手伝いしますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK61S_0050",
+    "original": "それじゃ計画立ててみようかしら\nなかなか楽しみだわ",
+    "translation": "それじゃ計画立ててみようかしら\nなかなか楽しみだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK61S_0051",
+    "original": "[#P06]僕は涼宮さんが喜んで頂けるなら\n全てを敵に回す覚悟はありますが",
+    "translation": "[#P06]僕は涼宮さんが喜んで頂けるなら\n全てを敵に回す覚悟はありますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK61S_0052",
+    "original": "[#P06]彼には悪いことをしてしまった\nかもしれませんねぇ",
+    "translation": "[#P06]彼には悪いことをしてしまった\nかもしれませんねぇ",
+    "speaker": "古泉"
+  }
+]

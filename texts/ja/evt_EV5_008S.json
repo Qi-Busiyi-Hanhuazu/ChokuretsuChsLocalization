@@ -1,0 +1,1123 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_008S_0000",
+    "original": "なんとかハルヒを部室に連れ戻し\n古泉がその番をすることになった",
+    "translation": "なんとかハルヒを部室に連れ戻し\n古泉がその番をすることになった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_008S_0001",
+    "original": "俺は朝比奈さんと、時計の時間を\n遅れさせる係だ",
+    "translation": "俺は朝比奈さんと、時計の時間を\n遅れさせる係だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_008S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_008S_0003",
+    "original": "しかし、こうしてみると、時計って\nけっこうな数がありますね",
+    "translation": "しかし、こうしてみると、時計って\nけっこうな数がありますね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_008S_0004",
+    "original": "ええ、各教室にひとつずつは確実に\nありますから……ふぅ",
+    "translation": "ええ、各教室にひとつずつは確実に\nありますから……ふぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_008S_0005",
+    "original": "朝比奈さんがため息をつく気持ちは\n良く判る",
+    "translation": "朝比奈さんがため息をつく気持ちは\n良く判る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_008S_0006",
+    "original": "学校中っていうのは、さすがに時間\n的にも無理でしょう",
+    "translation": "学校中っていうのは、さすがに時間\n的にも無理でしょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_008S_0007",
+    "original": "分身が現れるって噂の鏡の周りだけ\n遅らせることにしましょうか",
+    "translation": "分身が現れるって噂の鏡の周りだけ\n遅らせることにしましょうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_008S_0008",
+    "original": "それがいいと思いますけど……",
+    "translation": "それがいいと思いますけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_008S_0009",
+    "original": "朝比奈さんは不安気に廊下を見る",
+    "translation": "朝比奈さんは不安気に廊下を見る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_008S_0010",
+    "original": "でも、部室から昇降口までに、涼宮\nさんが通る道筋も危険だと思います",
+    "translation": "でも、部室から昇降口までに、涼宮\nさんが通る道筋も危険だと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_008S_0011",
+    "original": "ですね。帰り道にでも、目につく所\nはやりましょうか",
+    "translation": "ですね。帰り道にでも、目につく所\nはやりましょうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_008S_0012",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_008S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_008S_0014",
+    "original": "朝比奈さんと手分けして",
+    "translation": "朝比奈さんと手分けして",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_008S_0015",
+    "original": "まずは、昇降口の周りから工作を\nはじめることにしたのだが",
+    "translation": "まずは、昇降口の周りから工作を\nはじめることにしたのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_008S_0016",
+    "original": "きゃっ！",
+    "translation": "きゃっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_008S_0017",
+    "original": "大丈夫ですか？　朝比奈さん！？",
+    "translation": "大丈夫ですか？　朝比奈さん！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_008S_0018",
+    "original": "……へ、平気ですぅ",
+    "translation": "……へ、平気ですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_008S_0019",
+    "original": "時計は基本的に高い位置にある\nというのが問題だったのだ",
+    "translation": "時計は基本的に高い位置にある\nというのが問題だったのだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_008S_0020",
+    "original": "椅子の上で背伸びをする朝比奈さん\nは、壮絶に危なっかしい",
+    "translation": "椅子の上で背伸びをする朝比奈さん\nは、壮絶に危なっかしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_008S_0021",
+    "original": "手分けしてやるのはやめましょう",
+    "translation": "手分けしてやるのはやめましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_008S_0022",
+    "original": "で、でも、時間がないんですから",
+    "translation": "で、でも、時間がないんですから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_008S_0023",
+    "original": "そうだ。手分けするやり方を変え\nればいいんですよ",
+    "translation": "そうだ。手分けするやり方を変え\nればいいんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_008S_0024",
+    "original": "キョンくん、やり方を変えるって？",
+    "translation": "キョンくん、やり方を変えるって？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_008S_0025",
+    "original": "バラバラにやるんじゃなくふたりで",
+    "translation": "バラバラにやるんじゃなくふたりで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_008S_0026",
+    "original": "俺が時計の付け外しだけをして\n朝比奈さんが時間を遅らせるんです",
+    "translation": "俺が時計の付け外しだけをして\n朝比奈さんが時間を遅らせるんです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_008S_0027",
+    "original": "共同作業にした方が、効率がいい\nと思いませんか？",
+    "translation": "共同作業にした方が、効率がいい\nと思いませんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_008S_0028",
+    "original": "[#DP]",
+    "translation": "[#DP]",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_008S_0029",
+    "original": "朝比奈さんは少し寂しげな笑みを\n浮かべて俺を魅了しつつ",
+    "translation": "朝比奈さんは少し寂しげな笑みを\n浮かべて俺を魅了しつつ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_008S_0030",
+    "original": "キョンくんの足を引っ張らないで\n済むなら、そうしますね",
+    "translation": "キョンくんの足を引っ張らないで\n済むなら、そうしますね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_008S_0031",
+    "original": "そう強くうなずいてくれたのだ",
+    "translation": "そう強くうなずいてくれたのだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_008S_0032",
+    "original": "朝比奈さん、いつも勝手を言って\nすみません",
+    "translation": "朝比奈さん、いつも勝手を言って\nすみません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_008S_0033",
+    "original": "俺ひとりでできますから、朝比奈\nさんは休んでてください",
+    "translation": "俺ひとりでできますから、朝比奈\nさんは休んでてください",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_008S_0034",
+    "original": "キョンくんだけにさせるなんて、\nそんなことできませんよぉ",
+    "translation": "キョンくんだけにさせるなんて、\nそんなことできませんよぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_008S_0035",
+    "original": "時間もないし、時計はいっぱい\nあるし……",
+    "translation": "時間もないし、時計はいっぱい\nあるし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_008S_0036",
+    "original": "花がしおれたようにうなだれる、\n朝比奈さんも魅惑的だが",
+    "translation": "花がしおれたようにうなだれる、\n朝比奈さんも魅惑的だが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_008S_0037",
+    "original": "ごめんなさい。役立たずで……",
+    "translation": "ごめんなさい。役立たずで……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_008S_0038",
+    "original": "マズイ。落ち込ませてしまった",
+    "translation": "マズイ。落ち込ませてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_008S_0039",
+    "original": "そ、そうだ、流れ作業にしましょう",
+    "translation": "そ、そうだ、流れ作業にしましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_008S_0040",
+    "original": "俺が時計を外すから、朝比奈さんが\n針を動かすってことで",
+    "translation": "俺が時計を外すから、朝比奈さんが\n針を動かすってことで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_008S_0041",
+    "original": "……はい",
+    "translation": "……はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_008S_0042",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_008S_0043",
+    "original": "俺が持ってきた時計を、朝比奈\nさんが針を遅れさせるという案は",
+    "translation": "俺が持ってきた時計を、朝比奈\nさんが針を遅れさせるという案は",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_008S_0044",
+    "original": "実際悪くなかった",
+    "translation": "実際悪くなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_008S_0045",
+    "original": "特化するから手際が良くなっていく",
+    "translation": "特化するから手際が良くなっていく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_008S_0046",
+    "original": "ねぇ、キョンくん",
+    "translation": "ねぇ、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_008S_0047",
+    "original": "針を遅れさせた時計ですけど、後で\n元に戻さないといけないですよね？",
+    "translation": "針を遅れさせた時計ですけど、後で\n元に戻さないといけないですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_008S_0048",
+    "original": "あ、そうですよね。イタズラされた\nなんて噂になったりしたら……",
+    "translation": "あ、そうですよね。イタズラされた\nなんて噂になったりしたら……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_008S_0049",
+    "original": "時間工作がバレる可能性がある",
+    "translation": "時間工作がバレる可能性がある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_008S_0050",
+    "original": "ありますよねぇ",
+    "translation": "ありますよねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_008S_0051",
+    "original": "……はあああっ",
+    "translation": "……はあああっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_008S_0052",
+    "original": "……ふううぅっ",
+    "translation": "……ふううぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_008S_0053",
+    "original": "ふたりのため息が重なった",
+    "translation": "ふたりのため息が重なった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_008S_0054",
+    "original": "しかし、だとすると、どこを細工\nしたか覚えておかないとならないか",
+    "translation": "しかし、だとすると、どこを細工\nしたか覚えておかないとならないか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_008S_0055",
+    "original": "細工した場所のメモでも取って\nおくか",
+    "translation": "細工した場所のメモでも取って\nおくか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_008S_0056",
+    "original": "走り書き程度でも、自分にわかれば\nいいんだしな",
+    "translation": "走り書き程度でも、自分にわかれば\nいいんだしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_008S_0057",
+    "original": "別にいいか。間違った時間を示して\nいるのが、細工した時計だ",
+    "translation": "別にいいか。間違った時間を示して\nいるのが、細工した時計だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_008S_0058",
+    "original": "一目瞭然だろう",
+    "translation": "一目瞭然だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_008S_0059",
+    "original": "はい、これが最後です",
+    "translation": "はい、これが最後です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_008S_0060",
+    "original": "昇降口周りの時計の最後のひとつを\n壁にかける",
+    "translation": "昇降口周りの時計の最後のひとつを\n壁にかける",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_008S_0061",
+    "original": "これでこの辺りの時計はなんとか\nなりましたね",
+    "translation": "これでこの辺りの時計はなんとか\nなりましたね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_008S_0062",
+    "original": "後は、部室までの道筋に従って……\nひゃうっ！？",
+    "translation": "後は、部室までの道筋に従って……\nひゃうっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_008S_0063",
+    "original": "朝比奈さんがあげた悲鳴に振り返る",
+    "translation": "朝比奈さんがあげた悲鳴に振り返る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_008S_0064",
+    "original": "どうしました、朝比奈さん？",
+    "translation": "どうしました、朝比奈さん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_008S_0065",
+    "original": "す、す、すすす涼宮さんがっ！",
+    "translation": "す、す、すすす涼宮さんがっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_008S_0066",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_008S_0067",
+    "original": "朝比奈さんの視線の先には、こちら\nにやってくるハルヒの姿があった",
+    "translation": "朝比奈さんの視線の先には、こちら\nにやってくるハルヒの姿があった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_008S_0068",
+    "original": "古泉のヤツ、振り切られたな",
+    "translation": "古泉のヤツ、振り切られたな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV5_008S_0069",
+    "original": "古泉への悪口雑言を国会図書館\nレベルで心中に網羅してみる",
+    "translation": "古泉への悪口雑言を国会図書館\nレベルで心中に網羅してみる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV5_008S_0070",
+    "original": "あ、キョン、みくるちゃん",
+    "translation": "あ、キョン、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV5_008S_0071",
+    "original": "しかし、古泉は役立たずでも、神は\n今回俺たちの味方らしい",
+    "translation": "しかし、古泉は役立たずでも、神は\n今回俺たちの味方らしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV5_008S_0072",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 73,
+    "key": "evt_EV5_008S_0073",
+    "original": "[#P06]ジャストタイミングですね",
+    "translation": "[#P06]ジャストタイミングですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV5_008S_0074",
+    "original": "[#P06]まったくです",
+    "translation": "[#P06]まったくです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV5_008S_0075",
+    "original": "どうやら真面目に鏡を見張ってた\nみたいね。よしよし",
+    "translation": "どうやら真面目に鏡を見張ってた\nみたいね。よしよし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV5_008S_0076",
+    "original": "も、もちろんですよぉ……任せて\nください",
+    "translation": "も、もちろんですよぉ……任せて\nください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV5_008S_0077",
+    "original": "朝比奈さんが少々引きつり気味の\n笑顔を振りまく",
+    "translation": "朝比奈さんが少々引きつり気味の\n笑顔を振りまく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV5_008S_0078",
+    "original": "で、なにか予兆はあった？",
+    "translation": "で、なにか予兆はあった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV5_008S_0079",
+    "original": "なんにもないな。やはりガセじゃ\nないのか？",
+    "translation": "なんにもないな。やはりガセじゃ\nないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV5_008S_0080",
+    "original": "時間になるまで決めつけない！",
+    "translation": "時間になるまで決めつけない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV5_008S_0081",
+    "original": "今度こそは本物の怪異が見られると\nあたしのカンが示してるわ！",
+    "translation": "今度こそは本物の怪異が見られると\nあたしのカンが示してるわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV5_008S_0082",
+    "original": "そうかよ",
+    "translation": "そうかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV5_008S_0083",
+    "original": "でも涼宮さん。時間まではまだ\nありますよ、どうしたんですか？",
+    "translation": "でも涼宮さん。時間まではまだ\nありますよ、どうしたんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV5_008S_0084",
+    "original": "なんとなく小腹が空いちゃったのよ",
+    "translation": "なんとなく小腹が空いちゃったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV5_008S_0085",
+    "original": "じっとしてるとますます空きそう\nだったんだもの",
+    "translation": "じっとしてるとますます空きそう\nだったんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV5_008S_0086",
+    "original": "動いた方が空くのが、物理的法則だ",
+    "translation": "動いた方が空くのが、物理的法則だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV5_008S_0087",
+    "original": "あたしには通用しない法則なの",
+    "translation": "あたしには通用しない法則なの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV5_008S_0088",
+    "original": "それは言い得ている。色々とな",
+    "translation": "それは言い得ている。色々とな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV5_008S_0089",
+    "original": "あの～、部室になら少し買い置きが\n置いてありますよ",
+    "translation": "あの～、部室になら少し買い置きが\n置いてありますよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV5_008S_0090",
+    "original": "カップスープや菓子パンもあるし\n夜食にはなるんじゃないでしょうか",
+    "translation": "カップスープや菓子パンもあるし\n夜食にはなるんじゃないでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV5_008S_0091",
+    "original": "さ～すがみくるちゃんねっ！\n気が利いてるわ",
+    "translation": "さ～すがみくるちゃんねっ！\n気が利いてるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV5_008S_0092",
+    "original": "じゃ、一緒に部室に戻りませんか？",
+    "translation": "じゃ、一緒に部室に戻りませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV5_008S_0093",
+    "original": "あたしもちょうど、喉が乾いたな\nって思っていたところですし",
+    "translation": "あたしもちょうど、喉が乾いたな\nって思っていたところですし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV5_008S_0094",
+    "original": "そうね、見張りはキョンひとりで\n十分だわよねー",
+    "translation": "そうね、見張りはキョンひとりで\n十分だわよねー",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV5_008S_0095",
+    "original": "そうですよ。部室に戻りましょう",
+    "translation": "そうですよ。部室に戻りましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV5_008S_0096",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 97,
+    "key": "evt_EV5_008S_0097",
+    "original": "ハルヒは自分から部室に戻ろうと\n背を向け歩き出した",
+    "translation": "ハルヒは自分から部室に戻ろうと\n背を向け歩き出した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV5_008S_0098",
+    "original": "すごいです、朝比奈さん",
+    "translation": "すごいです、朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV5_008S_0099",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 100,
+    "key": "evt_EV5_008S_0100",
+    "original": "朝比奈さんが、俺に向けて何度か\n瞬きしてみせた",
+    "translation": "朝比奈さんが、俺に向けて何度か\n瞬きしてみせた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV5_008S_0101",
+    "original": "何か伝えようとしているらしい",
+    "translation": "何か伝えようとしているらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV5_008S_0102",
+    "original": "俺は朝比奈さんに向かって\nうなずいてみせた",
+    "translation": "俺は朝比奈さんに向かって\nうなずいてみせた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV5_008S_0103",
+    "original": "ハルヒとともに遠ざかりながら\n朝比奈さんがウィンクをした",
+    "translation": "ハルヒとともに遠ざかりながら\n朝比奈さんがウィンクをした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV5_008S_0104",
+    "original": "今時誰もやらない合図だが、朝比奈\nさんがやるとなんとも愛らしい",
+    "translation": "今時誰もやらない合図だが、朝比奈\nさんがやるとなんとも愛らしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV5_008S_0105",
+    "original": "ハルヒを部室に足止めしている間\nに、通路の時計を処理する――",
+    "translation": "ハルヒを部室に足止めしている間\nに、通路の時計を処理する――",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV5_008S_0106",
+    "original": "そういうことですよね",
+    "translation": "そういうことですよね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV5_008S_0107",
+    "original": "朝比奈さんの行動を無駄にしない\nためにも、急ごう",
+    "translation": "朝比奈さんの行動を無駄にしない\nためにも、急ごう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV5_008S_0108",
+    "original": "朝比奈さんが何を伝えたいか\n瞬きだけでは伝わらない",
+    "translation": "朝比奈さんが何を伝えたいか\n瞬きだけでは伝わらない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV5_008S_0109",
+    "original": "……っ",
+    "translation": "……っ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV5_008S_0110",
+    "original": "ハルヒとともに遠ざかりながら\n朝比奈さんはそっと指先を動かした",
+    "translation": "ハルヒとともに遠ざかりながら\n朝比奈さんはそっと指先を動かした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV5_008S_0111",
+    "original": "ん？",
+    "translation": "ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV5_008S_0112",
+    "original": "朝比奈さんが指しているのは時間を\n遅れさせた時計か？",
+    "translation": "朝比奈さんが指しているのは時間を\n遅れさせた時計か？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV5_008S_0113",
+    "original": "気づいて、大きくうなずいてみせる",
+    "translation": "気づいて、大きくうなずいてみせる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV5_008S_0114",
+    "original": "むろん、ハルヒを遠ざけてくれた\n努力はムダにしませんよ",
+    "translation": "むろん、ハルヒを遠ざけてくれた\n努力はムダにしませんよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV5_008S_0115",
+    "original": "ハルヒがまた徘徊する前に、残りの\n時計を工作しないとな",
+    "translation": "ハルヒがまた徘徊する前に、残りの\n時計を工作しないとな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV5_008S_0116",
+    "original": "黙々と通り道で目につくであろう\n時計の工作作業をしていると",
+    "translation": "黙々と通り道で目につくであろう\n時計の工作作業をしていると",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV5_008S_0117",
+    "original": "足音が聞こえてきた",
+    "translation": "足音が聞こえてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV5_008S_0118",
+    "original": "またハルヒか？",
+    "translation": "またハルヒか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV5_008S_0119",
+    "original": "作業を中断して、暗がりにひそみ",
+    "translation": "作業を中断して、暗がりにひそみ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV5_008S_0120",
+    "original": "目の前を通り過ぎる姿を確認する",
+    "translation": "目の前を通り過ぎる姿を確認する",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV5_008S_0121",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 122,
+    "key": "evt_EV5_008S_0122",
+    "original": "……あ、朝比奈さん",
+    "translation": "……あ、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV5_008S_0123",
+    "original": "ひゃうっ！　……キ、キョンくん？\nキョンくんですよねっ？",
+    "translation": "ひゃうっ！　……キ、キョンくん？\nキョンくんですよねっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV5_008S_0124",
+    "original": "お化けじゃないですよねっ！？",
+    "translation": "お化けじゃないですよねっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV5_008S_0125",
+    "original": "俺です",
+    "translation": "俺です",
+    "speaker": "キョン"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV5_008S_0126",
+    "original": "よ……良かった、キョンくんだ……",
+    "translation": "よ……良かった、キョンくんだ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV5_008S_0127",
+    "original": "よほど怖かったらしく、潤んだ瞳で\n声も半分涙声になっている",
+    "translation": "よほど怖かったらしく、潤んだ瞳で\n声も半分涙声になっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV5_008S_0128",
+    "original": "いきなり声かけてすみません",
+    "translation": "いきなり声かけてすみません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV5_008S_0129",
+    "original": "いいんですぅ……時計どうですか？",
+    "translation": "いいんですぅ……時計どうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV5_008S_0130",
+    "original": "後、一つ二つってところですね\nで、ハルヒは？",
+    "translation": "後、一つ二つってところですね\nで、ハルヒは？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV5_008S_0131",
+    "original": "もうちょっとは、お夜食で押さえて\nおけるとは思いますけど……",
+    "translation": "もうちょっとは、お夜食で押さえて\nおけるとは思いますけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV5_008S_0132",
+    "original": "わかりました。急ぎましょう",
+    "translation": "わかりました。急ぎましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV5_008S_0133",
+    "original": "ここまできたら、終わったも同然だ",
+    "translation": "ここまできたら、終わったも同然だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV5_008S_0134",
+    "original": "はい、後ちょっと頑張りましょう！",
+    "translation": "はい、後ちょっと頑張りましょう！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV5_008S_0135",
+    "original": "でも、とっさに良く機転を効かせて\nくれましたよ、朝比奈さん",
+    "translation": "でも、とっさに良く機転を効かせて\nくれましたよ、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV5_008S_0136",
+    "original": "ハルヒを連れ戻してくれて助かり\nました。下手すれば時計の事に",
+    "translation": "ハルヒを連れ戻してくれて助かり\nました。下手すれば時計の事に",
+    "speaker": "キョン"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV5_008S_0137",
+    "original": "気づかれたかもしれませんから",
+    "translation": "気づかれたかもしれませんから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV5_008S_0138",
+    "original": "ううん、あれはタイミングが\n良かっただけです",
+    "translation": "ううん、あれはタイミングが\n良かっただけです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV5_008S_0139",
+    "original": "だったら、幸運の神様あたりが\n朝比奈さんの味方なんですよ",
+    "translation": "だったら、幸運の神様あたりが\n朝比奈さんの味方なんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV5_008S_0140",
+    "original": "ううん。きっとキョンくんの方です\n神様が応援してるのは",
+    "translation": "ううん。きっとキョンくんの方です\n神様が応援してるのは",
+    "speaker": "みくる"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV5_008S_0141",
+    "original": "それはあり得ないと思った",
+    "translation": "それはあり得ないと思った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV5_008S_0142",
+    "original": "愛されてるならこんな苦労\nしなくてもいい筈じゃないか？",
+    "translation": "愛されてるならこんな苦労\nしなくてもいい筈じゃないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV5_008S_0143",
+    "original": "しかし、食料の買い置きをして\nおいてくれて助かりました",
+    "translation": "しかし、食料の買い置きをして\nおいてくれて助かりました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV5_008S_0144",
+    "original": "ハルヒも食い意地が張ってるよなぁ\nそこを見越していたとはすごい",
+    "translation": "ハルヒも食い意地が張ってるよなぁ\nそこを見越していたとはすごい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV5_008S_0145",
+    "original": "真夜中まで起きていれば、誰かが\nお腹が空くと思ったんです",
+    "translation": "真夜中まで起きていれば、誰かが\nお腹が空くと思ったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV5_008S_0146",
+    "original": "備えあれば憂いなしですね",
+    "translation": "備えあれば憂いなしですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV5_008S_0147",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV5_008S_0148",
+    "original": "夜食を食べ終えたハルヒが部室から\n出て来る頃には",
+    "translation": "夜食を食べ終えたハルヒが部室から\n出て来る頃には",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV5_008S_0149",
+    "original": "作業はなんとか終了していた",
+    "translation": "作業はなんとか終了していた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV5_008S_0150",
+    "original": "やり遂げた達成感を朝比奈さんと\n共通の思い出にできたのだった",
+    "translation": "やり遂げた達成感を朝比奈さんと\n共通の思い出にできたのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV5_008S_0151",
+    "original": "やり方を変える",
+    "translation": "やり方を変える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV5_008S_0152",
+    "original": "ひとりでやる",
+    "translation": "ひとりでやる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV5_008S_0153",
+    "original": "メモを取る",
+    "translation": "メモを取る",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV5_008S_0154",
+    "original": "別にいいか",
+    "translation": "別にいいか",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV5_008S_0155",
+    "original": "うなずく",
+    "translation": "うなずく",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV5_008S_0156",
+    "original": "首を振る",
+    "translation": "首を振る",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV5_008S_0157",
+    "original": "みくるを称える",
+    "translation": "みくるを称える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV5_008S_0158",
+    "original": "買い置きを称える",
+    "translation": "買い置きを称える",
+    "speaker": "CHOICE"
+  }
+]

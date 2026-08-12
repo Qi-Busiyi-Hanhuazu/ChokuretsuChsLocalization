@@ -1,0 +1,1346 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_016S_0000",
+    "original": "俺たちは、まず空き地の場所を確認\nしてから散開することにした",
+    "translation": "俺たちは、まず空き地の場所を確認\nしてから散開することにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_016S_0001",
+    "original": "うん、いい場所じゃない。良く使用\n許可取れたわね、古泉くん",
+    "translation": "うん、いい場所じゃない。良く使用\n許可取れたわね、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_016S_0002",
+    "original": "たまたま持ち主にツテがあった\nんですよ。幸運でした",
+    "translation": "たまたま持ち主にツテがあった\nんですよ。幸運でした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_016S_0003",
+    "original": "そのツテは『機関』のコネとか\n圧力とかいうやつなんだろうな",
+    "translation": "そのツテは『機関』のコネとか\n圧力とかいうやつなんだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_016S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_016S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_016S_0006",
+    "original": "ここなら広いし、バーベキューを\n楽しめそうですね",
+    "translation": "ここなら広いし、バーベキューを\n楽しめそうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_016S_0007",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_016S_0008",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_016S_0009",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_016S_0010",
+    "original": "長門、ここは大丈夫なのか？",
+    "translation": "長門、ここは大丈夫なのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_016S_0011",
+    "original": "小声で確認すると、長門は数ミリ\n頭を下げる。うなずいたんだよな？",
+    "translation": "小声で確認すると、長門は数ミリ\n頭を下げる。うなずいたんだよな？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_016S_0012",
+    "original": "ここの空間は平常。問題ない\n今のところは",
+    "translation": "ここの空間は平常。問題ない\n今のところは",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_016S_0013",
+    "original": "最後の一言が余計だが、大丈夫って\nことでいいんだよな",
+    "translation": "最後の一言が余計だが、大丈夫って\nことでいいんだよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_016S_0014",
+    "original": "いい",
+    "translation": "いい",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_016S_0015",
+    "original": "となりゃ、安心してバーベキューだ\nさっさと準備にかかろうぜ",
+    "translation": "となりゃ、安心してバーベキューだ\nさっさと準備にかかろうぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_016S_0016",
+    "original": "わーい、ばーべきゅーだー",
+    "translation": "わーい、ばーべきゅーだー",
+    "speaker": "妹"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_016S_0017",
+    "original": "そうね。じゃあすぐに学校に戻る\nわよ、キョン",
+    "translation": "そうね。じゃあすぐに学校に戻る\nわよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_016S_0018",
+    "original": "ええっ、もう戻るんですかぁ？\nもう少しゆっくりしても……",
+    "translation": "ええっ、もう戻るんですかぁ？\nもう少しゆっくりしても……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_016S_0019",
+    "original": "時間は待ってくれないのよ、みくる\nちゃん。調べること山盛りなの",
+    "translation": "時間は待ってくれないのよ、みくる\nちゃん。調べること山盛りなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_016S_0020",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_016S_0021",
+    "original": "新七不思議をまだ諦める気がない\nハルヒの気を何とか変えなければ",
+    "translation": "新七不思議をまだ諦める気がない\nハルヒの気を何とか変えなければ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_016S_0022",
+    "original": "そのためのバーベキューなんだが\nハルヒは道具調達に学校へ戻る気だ",
+    "translation": "そのためのバーベキューなんだが\nハルヒは道具調達に学校へ戻る気だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_016S_0023",
+    "original": "ハルヒに怪異を察知させないために\n俺たちがついていくことにしたが",
+    "translation": "ハルヒに怪異を察知させないために\n俺たちがついていくことにしたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_016S_0024",
+    "original": "はぅぅ……こんなにすぐですかぁ",
+    "translation": "はぅぅ……こんなにすぐですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_016S_0025",
+    "original": "ついさっき幽霊らしきモノを見て\nしまった朝比奈さんが気の毒だ",
+    "translation": "ついさっき幽霊らしきモノを見て\nしまった朝比奈さんが気の毒だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_016S_0026",
+    "original": "俺が選んだせいですみません",
+    "translation": "俺が選んだせいですみません",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_016S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_016S_0028",
+    "original": "長門、買い出しよろしくな",
+    "translation": "長門、買い出しよろしくな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_016S_0029",
+    "original": "了解した",
+    "translation": "了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_016S_0030",
+    "original": "あたし、有希ちゃんのお手伝い\nするー",
+    "translation": "あたし、有希ちゃんのお手伝い\nするー",
+    "speaker": "妹"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_016S_0031",
+    "original": "長門の邪魔になるからやめとけ",
+    "translation": "長門の邪魔になるからやめとけ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_016S_0032",
+    "original": "ジャマしないよぉ\nお手伝いするのー",
+    "translation": "ジャマしないよぉ\nお手伝いするのー",
+    "speaker": "妹"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_016S_0033",
+    "original": "妹の目当てはわかりやすい。商店街\nへ行く長門に何かねだるつもりだ",
+    "translation": "妹の目当てはわかりやすい。商店街\nへ行く長門に何かねだるつもりだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_016S_0034",
+    "original": "アイスなら途中で買ってやるから\n長門に迷惑かけるな",
+    "translation": "アイスなら途中で買ってやるから\n長門に迷惑かけるな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_016S_0035",
+    "original": "いい",
+    "translation": "いい",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_016S_0036",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_016S_0037",
+    "original": "荷物を分けて運ぶことができる",
+    "translation": "荷物を分けて運ぶことができる",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_016S_0038",
+    "original": "はーいっ！　手伝うー",
+    "translation": "はーいっ！　手伝うー",
+    "speaker": "妹"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_016S_0039",
+    "original": "こいつが役に立つとは思えないぞ？",
+    "translation": "こいつが役に立つとは思えないぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_016S_0040",
+    "original": "かまわない",
+    "translation": "かまわない",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_016S_0041",
+    "original": "ま、猫の手よりはいささかマシ程度\nではあるか",
+    "translation": "ま、猫の手よりはいささかマシ程度\nではあるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_016S_0042",
+    "original": "俺たちは二手に分かれて出かける\nことにした",
+    "translation": "俺たちは二手に分かれて出かける\nことにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_016S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "妹",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_016S_0044",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_016S_0045",
+    "original": "真夜中にね、ボールの音だけが\n響くんですって。ポーンポーンって",
+    "translation": "真夜中にね、ボールの音だけが\n響くんですって。ポーンポーンって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_016S_0046",
+    "original": "[#SK0]ひぃぃぃっ",
+    "translation": "[#SK0]ひぃぃぃっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_016S_0047",
+    "original": "妹を連れてこなかったことを、俺は\n今、たいそう後悔している",
+    "translation": "妹を連れてこなかったことを、俺は\n今、たいそう後悔している",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_016S_0048",
+    "original": "ああ、こんな話もあったわ\nグラウンドに白い影がボーッとね",
+    "translation": "ああ、こんな話もあったわ\nグラウンドに白い影がボーッとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_016S_0049",
+    "original": "[#SK0]ひゃぅぅぅっ",
+    "translation": "[#SK0]ひゃぅぅぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_016S_0050",
+    "original": "幼い妹がいたら、ハルヒだって\n怪談話を遠慮しただろうに",
+    "translation": "幼い妹がいたら、ハルヒだって\n怪談話を遠慮しただろうに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_016S_0051",
+    "original": "消えたあとには水をこぼしたように\nぐっしょり濡れていたんだって",
+    "translation": "消えたあとには水をこぼしたように\nぐっしょり濡れていたんだって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_016S_0052",
+    "original": "[#SK0]はうぅぅっ",
+    "translation": "[#SK0]はうぅぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_016S_0053",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_016S_0054",
+    "original": "……これはまずいですね",
+    "translation": "……これはまずいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_016S_0055",
+    "original": "ああ、ヤバイだろうな",
+    "translation": "ああ、ヤバイだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_016S_0056",
+    "original": "嬉々として怪談を語るハルヒと\nただ悲鳴を上げ続ける朝比奈さん",
+    "translation": "嬉々として怪談を語るハルヒと\nただ悲鳴を上げ続ける朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_016S_0057",
+    "original": "これが良い方に転ぶわけがない",
+    "translation": "これが良い方に転ぶわけがない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_016S_0058",
+    "original": "結合が不安定になっている空間が\n涼宮さんに反応するかもしれません",
+    "translation": "結合が不安定になっている空間が\n涼宮さんに反応するかもしれません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_016S_0059",
+    "original": "長門さんがいないので、具体的には\n指摘できませんが……",
+    "translation": "長門さんがいないので、具体的には\n指摘できませんが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_016S_0060",
+    "original": "つまりはいつ何時何が起きても\nおかしくない状況だな",
+    "translation": "つまりはいつ何時何が起きても\nおかしくない状況だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_016S_0061",
+    "original": "起こらないことを神に祈るしかない\n状況ですね",
+    "translation": "起こらないことを神に祈るしかない\n状況ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV3_016S_0062",
+    "original": "あんたたち、男ふたりで何ヒソヒソ\n話してるのよ",
+    "translation": "あんたたち、男ふたりで何ヒソヒソ\n話してるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV3_016S_0063",
+    "original": "ちゃんとあたしの話を聞きなさい",
+    "translation": "ちゃんとあたしの話を聞きなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV3_016S_0064",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "evt_EV3_016S_0065",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "evt_EV3_016S_0066",
+    "original": "夏休み怪談特集のネタかっつーの\n珍しくもなんともない話じゃないか",
+    "translation": "夏休み怪談特集のネタかっつーの\n珍しくもなんともない話じゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV3_016S_0067",
+    "original": "じゃあ、キョン。あんた珍しい話を\nしてみなさいよ",
+    "translation": "じゃあ、キョン。あんた珍しい話を\nしてみなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV3_016S_0068",
+    "original": "そんなもん知るかよ",
+    "translation": "そんなもん知るかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV3_016S_0069",
+    "original": "自分ができないクセに要求する\nなんて、ずいぶん傲慢ねえ",
+    "translation": "自分ができないクセに要求する\nなんて、ずいぶん傲慢ねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV3_016S_0070",
+    "original": "俺がどれほど傲慢になろうと\nハルヒには生涯勝てないと断言する",
+    "translation": "俺がどれほど傲慢になろうと\nハルヒには生涯勝てないと断言する",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV3_016S_0071",
+    "original": "はは～ん、キョン、あんた……",
+    "translation": "はは～ん、キョン、あんた……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV3_016S_0072",
+    "original": "なんだよ？",
+    "translation": "なんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV3_016S_0073",
+    "original": "ホントは怪談話、嫌いなんでしょ？",
+    "translation": "ホントは怪談話、嫌いなんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV3_016S_0074",
+    "original": "おお、嫌いだともよ",
+    "translation": "おお、嫌いだともよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV3_016S_0075",
+    "original": "この悪状況で怪談話を好きになれる\nヤツはいないだろうさ",
+    "translation": "この悪状況で怪談話を好きになれる\nヤツはいないだろうさ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV3_016S_0076",
+    "original": "なんたって、いつそれが実体化\nするかわからないってんだからな",
+    "translation": "なんたって、いつそれが実体化\nするかわからないってんだからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV3_016S_0077",
+    "original": "男って意外と恐がり多いのよね\n見栄張って隠そうとするけど",
+    "translation": "男って意外と恐がり多いのよね\n見栄張って隠そうとするけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV3_016S_0078",
+    "original": "古泉くんも実は恐がりとか？",
+    "translation": "古泉くんも実は恐がりとか？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV3_016S_0079",
+    "original": "ええ、僕は恐がりだと思いますよ\nとてもね",
+    "translation": "ええ、僕は恐がりだと思いますよ\nとてもね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV3_016S_0080",
+    "original": "爽やか笑顔で言われてもねぇ。嘘か\nホントかわかんないわね",
+    "translation": "爽やか笑顔で言われてもねぇ。嘘か\nホントかわかんないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV3_016S_0081",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 82,
+    "key": "evt_EV3_016S_0082",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "evt_EV3_016S_0083",
+    "original": "ともかくグラウンドに道具がある\nとも思えんから、校内へ行くぞ",
+    "translation": "ともかくグラウンドに道具がある\nとも思えんから、校内へ行くぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV3_016S_0084",
+    "original": "あ、今あんた、誤魔化そうとしてる\nでしょ？",
+    "translation": "あ、今あんた、誤魔化そうとしてる\nでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV3_016S_0085",
+    "original": "してねーよ",
+    "translation": "してねーよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV3_016S_0086",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "evt_EV3_016S_0087",
+    "original": "みくるちゃん知ってる？",
+    "translation": "みくるちゃん知ってる？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV3_016S_0088",
+    "original": "な、何がですかぁ……",
+    "translation": "な、何がですかぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV3_016S_0089",
+    "original": "この先に階段があるでしょ？\n１３階段って言う怪談なんだけど",
+    "translation": "この先に階段があるでしょ？\n１３階段って言う怪談なんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV3_016S_0090",
+    "original": "あ、これダジャレじゃないからね？",
+    "translation": "あ、これダジャレじゃないからね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV3_016S_0091",
+    "original": "俺たちが何も言わないのにハルヒは\n自分で言って恥ずかしかったらしい",
+    "translation": "俺たちが何も言わないのにハルヒは\n自分で言って恥ずかしかったらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV3_016S_0092",
+    "original": "踊り場まで１２段のはずの階段が\nある日数えたら１段増えてるのよ",
+    "translation": "踊り場まで１２段のはずの階段が\nある日数えたら１段増えてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV3_016S_0093",
+    "original": "ひゃぅぅぅん、聞こえませんから～",
+    "translation": "ひゃぅぅぅん、聞こえませんから～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV3_016S_0094",
+    "original": "数えながら上がった子は、もしも\n１３段目があったら……",
+    "translation": "数えながら上がった子は、もしも\n１３段目があったら……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV3_016S_0095",
+    "original": "あ、あ、あったら？",
+    "translation": "あ、あ、あったら？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV3_016S_0096",
+    "original": "最後の段で、誰かに突き落とされる\nんだって……誰もいないのに必ず",
+    "translation": "最後の段で、誰かに突き落とされる\nんだって……誰もいないのに必ず",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV3_016S_0097",
+    "original": "ふえぇっ、怖い～ですぅっ",
+    "translation": "ふえぇっ、怖い～ですぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV3_016S_0098",
+    "original": "だから数えながら登っちゃダメなの",
+    "translation": "だから数えながら登っちゃダメなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV3_016S_0099",
+    "original": "でもそうすまいと思うと、人間って\nしちゃうのよねー。不思議と",
+    "translation": "でもそうすまいと思うと、人間って\nしちゃうのよねー。不思議と",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV3_016S_0100",
+    "original": "うううっ、しちゃいそうですぅ",
+    "translation": "うううっ、しちゃいそうですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV3_016S_0101",
+    "original": "あ、トイレだわ。トイレの怪談は\n知ってるわよね？　有名だもの",
+    "translation": "あ、トイレだわ。トイレの怪談は\n知ってるわよね？　有名だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV3_016S_0102",
+    "original": "ひいーっ、思い出しちゃダメですぅ",
+    "translation": "ひいーっ、思い出しちゃダメですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV3_016S_0103",
+    "original": "今のハルヒは絶好調だ",
+    "translation": "今のハルヒは絶好調だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV3_016S_0104",
+    "original": "行く場所、行く場所、そこにまつ\nわる怪談を話し続けている",
+    "translation": "行く場所、行く場所、そこにまつ\nわる怪談を話し続けている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV3_016S_0105",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 106,
+    "key": "evt_EV3_016S_0106",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 107,
+    "key": "evt_EV3_016S_0107",
+    "original": "おいハルヒ\nそろそろ怪談はやめとけ",
+    "translation": "おいハルヒ\nそろそろ怪談はやめとけ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV3_016S_0108",
+    "original": "どうしてよ？",
+    "translation": "どうしてよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV3_016S_0109",
+    "original": "朝比奈さんが本気で怯えてるだろ",
+    "translation": "朝比奈さんが本気で怯えてるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV3_016S_0110",
+    "original": "みくるちゃんは怖がってくれるから\n話しがいがあるのよ",
+    "translation": "みくるちゃんは怖がってくれるから\n話しがいがあるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV3_016S_0111",
+    "original": "あんまりやりすぎると、もう限界\nですって家に帰るかもしれないぞ",
+    "translation": "あんまりやりすぎると、もう限界\nですって家に帰るかもしれないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV3_016S_0112",
+    "original": "朝比奈さんは職務に忠実だから\n帰ったりはしないだろうが",
+    "translation": "朝比奈さんは職務に忠実だから\n帰ったりはしないだろうが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV3_016S_0113",
+    "original": "ハルヒに対してあまり甘い顔は\nしない方が本人のためだと思う",
+    "translation": "ハルヒに対してあまり甘い顔は\nしない方が本人のためだと思う",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV3_016S_0114",
+    "original": "ほっといたら、いくらでもつけ上が\nりまくるからな",
+    "translation": "ほっといたら、いくらでもつけ上が\nりまくるからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV3_016S_0115",
+    "original": "ふーーん、キョンが聞きたくない\nだけじゃないの？　まあいいわ",
+    "translation": "ふーーん、キョンが聞きたくない\nだけじゃないの？　まあいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV3_016S_0116",
+    "original": "みくるちゃんは帰ったりしない\nわよね？",
+    "translation": "みくるちゃんは帰ったりしない\nわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV3_016S_0117",
+    "original": "え、ええ、もちろんいますけど……",
+    "translation": "え、ええ、もちろんいますけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV3_016S_0118",
+    "original": "ほらね",
+    "translation": "ほらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV3_016S_0119",
+    "original": "そこで勝ち誇るなよ",
+    "translation": "そこで勝ち誇るなよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV3_016S_0120",
+    "original": "古泉が怖がってるぞ",
+    "translation": "古泉が怖がってるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV3_016S_0121",
+    "original": "古泉くんが？　そんな風には見え\nないけど？",
+    "translation": "古泉くんが？　そんな風には見え\nないけど？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV3_016S_0122",
+    "original": "男には見栄があるものなんです\n我慢しているんですよ",
+    "translation": "男には見栄があるものなんです\n我慢しているんですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV3_016S_0123",
+    "original": "古泉が話を合わせてくれて助かった",
+    "translation": "古泉が話を合わせてくれて助かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV3_016S_0124",
+    "original": "そうなの？　まぁ古泉くんって\nポーカーフェイスだものね",
+    "translation": "そうなの？　まぁ古泉くんって\nポーカーフェイスだものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV3_016S_0125",
+    "original": "冷や汗をかいています。こう見えて\n臆病なんですよ、僕は",
+    "translation": "冷や汗をかいています。こう見えて\n臆病なんですよ、僕は",
+    "speaker": "古泉"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV3_016S_0126",
+    "original": "世界の改変とやらに脅かされて\nいれば臆病にもなるぞ",
+    "translation": "世界の改変とやらに脅かされて\nいれば臆病にもなるぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV3_016S_0127",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 128,
+    "key": "evt_EV3_016S_0128",
+    "original": "本当のところはキョンが怖くて\n聞きたくないだけじゃないの？",
+    "translation": "本当のところはキョンが怖くて\n聞きたくないだけじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV3_016S_0129",
+    "original": "俺だって怖いさ\nおまえの暴走がな",
+    "translation": "俺だって怖いさ\nおまえの暴走がな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV3_016S_0130",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 131,
+    "key": "evt_EV3_016S_0131",
+    "original": "なんの能力もない、極普通の人間の\n俺ですら、今の校内は時々",
+    "translation": "なんの能力もない、極普通の人間の\n俺ですら、今の校内は時々",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV3_016S_0132",
+    "original": "周りに異様な圧力を感じることが\nあるんだ",
+    "translation": "周りに異様な圧力を感じることが\nあるんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV3_016S_0133",
+    "original": "さっさと道具を見つけて、学校から\nハルヒを連れ出してしまいたい",
+    "translation": "さっさと道具を見つけて、学校から\nハルヒを連れ出してしまいたい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV3_016S_0134",
+    "original": "悠長にハルヒに付き合って校内探索\nをしてはいられない",
+    "translation": "悠長にハルヒに付き合って校内探索\nをしてはいられない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV3_016S_0135",
+    "original": "バーベキューの道具がありそうな\nところはどこだ……",
+    "translation": "バーベキューの道具がありそうな\nところはどこだ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV3_016S_0136",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 137,
+    "key": "evt_EV3_016S_0137",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 138,
+    "key": "evt_EV3_016S_0138",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 139,
+    "key": "evt_EV3_016S_0139",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 140,
+    "key": "evt_EV3_016S_0140",
+    "original": "朝比奈さんは、バーベキューの\n道具はどこにあると思いますか？",
+    "translation": "朝比奈さんは、バーベキューの\n道具はどこにあると思いますか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV3_016S_0141",
+    "original": "そうですねぇ。学校の倉庫には行事\n用のがあると思うんですが……",
+    "translation": "そうですねぇ。学校の倉庫には行事\n用のがあると思うんですが……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV3_016S_0142",
+    "original": "ほら、グラウンドをバザーや夏祭り\nやフリマに使ったりしますからね",
+    "translation": "ほら、グラウンドをバザーや夏祭り\nやフリマに使ったりしますからね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV3_016S_0143",
+    "original": "でも、学校の道具を借り出すのには\n夏休み前に許可を取らないと……",
+    "translation": "でも、学校の道具を借り出すのには\n夏休み前に許可を取らないと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV3_016S_0144",
+    "original": "それじゃ、無理そうですね",
+    "translation": "それじゃ、無理そうですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV3_016S_0145",
+    "original": "そうですね……",
+    "translation": "そうですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV3_016S_0146",
+    "original": "ハルヒに知られたら倉庫に忍び\n込んで、勝手に持ち出しそうだ",
+    "translation": "ハルヒに知られたら倉庫に忍び\n込んで、勝手に持ち出しそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV3_016S_0147",
+    "original": "これは内緒にしておいた方がいいな",
+    "translation": "これは内緒にしておいた方がいいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV3_016S_0148",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 149,
+    "key": "evt_EV3_016S_0149",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "evt_EV3_016S_0150",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "evt_EV3_016S_0151",
+    "original": "古泉、バーベキューの道具はどこに\n行けばあるもんだろうな？",
+    "translation": "古泉、バーベキューの道具はどこに\n行けばあるもんだろうな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV3_016S_0152",
+    "original": "キャンプをする部活なら割合と\n持っているかもしれませんね",
+    "translation": "キャンプをする部活なら割合と\n持っているかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV3_016S_0153",
+    "original": "ねらい目は運動部で、アウトドア\n派が吉でしょうね",
+    "translation": "ねらい目は運動部で、アウトドア\n派が吉でしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV3_016S_0154",
+    "original": "今日の運勢みたいな解答だな",
+    "translation": "今日の運勢みたいな解答だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV3_016S_0155",
+    "original": "さしずめ、ラッキーアイテムは\nバーベキューコンロか？",
+    "translation": "さしずめ、ラッキーアイテムは\nバーベキューコンロか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV3_016S_0156",
+    "original": "そういうことです",
+    "translation": "そういうことです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV3_016S_0157",
+    "original": "そもそも『機関』とかって連中が\n道具も用意してくれていれば",
+    "translation": "そもそも『機関』とかって連中が\n道具も用意してくれていれば",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV3_016S_0158",
+    "original": "こんな事態は避けられたんじゃ\nないのか？",
+    "translation": "こんな事態は避けられたんじゃ\nないのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV3_016S_0159",
+    "original": "古泉にしては、中途半端な仕事\nっぷりだ",
+    "translation": "古泉にしては、中途半端な仕事\nっぷりだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV3_016S_0160",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "evt_EV3_016S_0161",
+    "original": "とっときの怪談があるのよ\nすごく怖い話。階段の踊り場でね",
+    "translation": "とっときの怪談があるのよ\nすごく怖い話。階段の踊り場でね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV3_016S_0162",
+    "original": "ひゃぅぅ……",
+    "translation": "ひゃぅぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV3_016S_0163",
+    "original": "おい、それより道具だろ？\n目星がついたぞ",
+    "translation": "おい、それより道具だろ？\n目星がついたぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV3_016S_0164",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 165,
+    "key": "evt_EV3_016S_0165",
+    "original": "そうです、アウトドア同好会に\n聞いてみるのはどうでしょうか？",
+    "translation": "そうです、アウトドア同好会に\n聞いてみるのはどうでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV3_016S_0166",
+    "original": "アウトドア同好会なんてものが\nこの学校にあったのか",
+    "translation": "アウトドア同好会なんてものが\nこの学校にあったのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV3_016S_0167",
+    "original": "謎の転校生のくせに物知りな",
+    "translation": "謎の転校生のくせに物知りな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 168,
+    "key": "evt_EV3_016S_0168",
+    "original": "山岳研究会にも可能性はありますが",
+    "translation": "山岳研究会にも可能性はありますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV3_016S_0169",
+    "original": "こちらはバーベキューは邪道だと\n言いそうですから後回しでしょうか",
+    "translation": "こちらはバーベキューは邪道だと\n言いそうですから後回しでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV3_016S_0170",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 171,
+    "key": "evt_EV3_016S_0171",
+    "original": "登山ではバーベキューしなさそう\nですもんね",
+    "translation": "登山ではバーベキューしなさそう\nですもんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV3_016S_0172",
+    "original": "ええ、アウトドア同好会なら確かに\nバーベキューグリルがありそうだわ",
+    "translation": "ええ、アウトドア同好会なら確かに\nバーベキューグリルがありそうだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV3_016S_0173",
+    "original": "でしょう。早く行って訊ねましょう",
+    "translation": "でしょう。早く行って訊ねましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV3_016S_0174",
+    "original": "だな。ならさっさと行こうぜ",
+    "translation": "だな。ならさっさと行こうぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV3_016S_0175",
+    "original": "さ、賛成です！　行きましょう",
+    "translation": "さ、賛成です！　行きましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV3_016S_0176",
+    "original": "……ふーん、怪しいわね、あんた達\n強引だわ。ふーぅぅん、そーなのー",
+    "translation": "……ふーん、怪しいわね、あんた達\n強引だわ。ふーぅぅん、そーなのー",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV3_016S_0177",
+    "original": "何が、そーなのー、なんだ？",
+    "translation": "何が、そーなのー、なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 178,
+    "key": "evt_EV3_016S_0178",
+    "original": "３人とも、あたしの話が怖かった\nんでしょ？　隠してもムダよ",
+    "translation": "３人とも、あたしの話が怖かった\nんでしょ？　隠してもムダよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV3_016S_0179",
+    "original": "ふふん、恐がりばっかりだったのね",
+    "translation": "ふふん、恐がりばっかりだったのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV3_016S_0180",
+    "original": "この際、それで構わないぞ、ハルヒ\n実際、俺たちは別の意味で怖かった",
+    "translation": "この際、それで構わないぞ、ハルヒ\n実際、俺たちは別の意味で怖かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV3_016S_0181",
+    "original": "俺たちが自分の話で怖がったと誤解\nしたハルヒはやたらと上機嫌だった",
+    "translation": "俺たちが自分の話で怖がったと誤解\nしたハルヒはやたらと上機嫌だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 182,
+    "key": "evt_EV3_016S_0182",
+    "original": "そのご機嫌ぶりは、バーベキューの\n道具を無事借り受け",
+    "translation": "そのご機嫌ぶりは、バーベキューの\n道具を無事借り受け",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV3_016S_0183",
+    "original": "それを持って空き地に戻るまで\n続いたのだった",
+    "translation": "それを持って空き地に戻るまで\n続いたのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV3_016S_0184",
+    "original": "みくるが怖がる",
+    "translation": "みくるが怖がる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV3_016S_0185",
+    "original": "古泉が怖がる",
+    "translation": "古泉が怖がる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV3_016S_0186",
+    "original": "朝比奈さんに聞く",
+    "translation": "朝比奈さんに聞く",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV3_016S_0187",
+    "original": "古泉に聞く",
+    "translation": "古泉に聞く",
+    "speaker": "CHOICE"
+  }
+]

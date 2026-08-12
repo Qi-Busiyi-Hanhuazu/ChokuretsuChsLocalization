@@ -1,0 +1,319 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_033S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_033S_0001",
+    "original": "見直したって……\nいったいなんの話だ？",
+    "translation": "見直したって……\nいったいなんの話だ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_033S_0002",
+    "original": "なに？　卒業式の準備をして\nくれたんじゃないの？",
+    "translation": "なに？　卒業式の準備をして\nくれたんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_033S_0003",
+    "original": "卒業式だと……？",
+    "translation": "卒業式だと……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_033S_0004",
+    "original": "いったい、どういう思考を経たら\n卒業式なんて単語が飛び出すんだ",
+    "translation": "いったい、どういう思考を経たら\n卒業式なんて単語が飛び出すんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_033S_0005",
+    "original": "簡単よ",
+    "translation": "簡単よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_033S_0006",
+    "original": "卒業式ができなかったせいで無念が\n残って自縛霊になってるんだから",
+    "translation": "卒業式ができなかったせいで無念が\n残って自縛霊になってるんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_033S_0007",
+    "original": "ここで卒業式をやって霊たちの無念\nを取り除いてあげるの",
+    "translation": "ここで卒業式をやって霊たちの無念\nを取り除いてあげるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_033S_0008",
+    "original": "そしたら、彼らも満足して成仏する\nでしょうし",
+    "translation": "そしたら、彼らも満足して成仏する\nでしょうし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_033S_0009",
+    "original": "もしかしたらお礼の挨拶くらいは\nしてくれるかもしれないじゃない",
+    "translation": "もしかしたらお礼の挨拶くらいは\nしてくれるかもしれないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_033S_0010",
+    "original": "いつの間に自縛霊が大量に眠って\nいることになったんだ",
+    "translation": "いつの間に自縛霊が大量に眠って\nいることになったんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_033S_0011",
+    "original": "そもそも卒業式だの自縛霊だのって\n話はハルヒの創作じゃなかったか？",
+    "translation": "そもそも卒業式だの自縛霊だのって\n話はハルヒの創作じゃなかったか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_033S_0012",
+    "original": "とりあえず、椅子は並べてあるし\nあと必要なのは在校生ね",
+    "translation": "とりあえず、椅子は並べてあるし\nあと必要なのは在校生ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_033S_0013",
+    "original": "他にもいろいろ必要だと思うが",
+    "translation": "他にもいろいろ必要だと思うが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_033S_0014",
+    "original": "というわけだから、キョン\nあんたが在校生代表ね",
+    "translation": "というわけだから、キョン\nあんたが在校生代表ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_033S_0015",
+    "original": "どういうわけだそれは\n納得のいく説明を要求する",
+    "translation": "どういうわけだそれは\n納得のいく説明を要求する",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_033S_0016",
+    "original": "在校生代表の祝辞をよろしく",
+    "translation": "在校生代表の祝辞をよろしく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_033S_0017",
+    "original": "って、人の話を聞け！",
+    "translation": "って、人の話を聞け！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_033S_0018",
+    "original": "校長先生の役はみくるちゃんに\nやってもらおうかしら",
+    "translation": "校長先生の役はみくるちゃんに\nやってもらおうかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_033S_0019",
+    "original": "ふぇぇっ！？\nあ、あたしですかぁ！？",
+    "translation": "ふぇぇっ！？\nあ、あたしですかぁ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_033S_0020",
+    "original": "古泉くんには司会をお願いするわね",
+    "translation": "古泉くんには司会をお願いするわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_033S_0021",
+    "original": "謹んでお引き受けいたします",
+    "translation": "謹んでお引き受けいたします",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_033S_0022",
+    "original": "わたしは……",
+    "translation": "わたしは……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_033S_0023",
+    "original": "そうね、有希はその辺に座ってて\nくれればいいから",
+    "translation": "そうね、有希はその辺に座ってて\nくれればいいから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_033S_0024",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_033S_0025",
+    "original": "あっと言う間に配役が決定した",
+    "translation": "あっと言う間に配役が決定した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_033S_0026",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_033S_0027",
+    "original": "こうして、俺たちは本当に卒業式の\n真似事をやるハメになったのだった",
+    "translation": "こうして、俺たちは本当に卒業式の\n真似事をやるハメになったのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_033S_0028",
+    "original": "厚紙にハルヒ直筆の卒業証書まで\n作る徹底ぶりだった",
+    "translation": "厚紙にハルヒ直筆の卒業証書まで\n作る徹底ぶりだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_033S_0029",
+    "original": "たったひとり、しかも幽霊相手の\n卒業式はつつがなく進み――",
+    "translation": "たったひとり、しかも幽霊相手の\n卒業式はつつがなく進み――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_033S_0030",
+    "original": "古泉の司会のもと、卒業生が退場\nしていった",
+    "translation": "古泉の司会のもと、卒業生が退場\nしていった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_033S_0031",
+    "original": "もちろん、卒業生の姿など見えや\nしないのだが",
+    "translation": "もちろん、卒業生の姿など見えや\nしないのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_033S_0032",
+    "original": "おかしいわね",
+    "translation": "おかしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_033S_0033",
+    "original": "ひととおり卒業式の真似事が終わる\nと、ハルヒが不満げにつぶやいた",
+    "translation": "ひととおり卒業式の真似事が終わる\nと、ハルヒが不満げにつぶやいた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_033S_0034",
+    "original": "おかしいって、何がだ？",
+    "translation": "おかしいって、何がだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_033S_0035",
+    "original": "あたしの予定では、成仏する間際に\n感謝の言葉を残していくはずなのよ",
+    "translation": "あたしの予定では、成仏する間際に\n感謝の言葉を残していくはずなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_033S_0036",
+    "original": "どういう予定だ、そりゃ……",
+    "translation": "どういう予定だ、そりゃ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_033S_0037",
+    "original": "みくるちゃん、どういうことなの！",
+    "translation": "みくるちゃん、どういうことなの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_033S_0038",
+    "original": "ええ！？　あ、あたしに聞かれても",
+    "translation": "ええ！？　あ、あたしに聞かれても",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_033S_0039",
+    "original": "なんて恩義に欠ける自縛霊かしら！",
+    "translation": "なんて恩義に欠ける自縛霊かしら！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_033S_0040",
+    "original": "みくるちゃん、有希、部室に戻る\nわよ！",
+    "translation": "みくるちゃん、有希、部室に戻る\nわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_033S_0041",
+    "original": "ハルヒ的には不満の残る結果らしく\n大股で体育館を出て行く",
+    "translation": "ハルヒ的には不満の残る結果らしく\n大股で体育館を出て行く",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_033S_0042",
+    "original": "まあ、諦めてくれたようだから\nひとまずは良しとするか",
+    "translation": "まあ、諦めてくれたようだから\nひとまずは良しとするか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_033S_0043",
+    "original": "俺たちも戻るか……",
+    "translation": "俺たちも戻るか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_033S_0044",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

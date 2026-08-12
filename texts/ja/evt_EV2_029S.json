@@ -1,0 +1,270 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_029S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_029S_0001",
+    "original": "なに？　じゃあ、ピアノが勝手に\n鳴り出したわけじゃないのね",
+    "translation": "なに？　じゃあ、ピアノが勝手に\n鳴り出したわけじゃないのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_029S_0002",
+    "original": "ああ、見ての通りだ",
+    "translation": "ああ、見ての通りだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_029S_0003",
+    "original": "むぅ……",
+    "translation": "むぅ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_029S_0004",
+    "original": "せっかく、本物の怪奇現象に\n出会えると思ったのに……",
+    "translation": "せっかく、本物の怪奇現象に\n出会えると思ったのに……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_029S_0005",
+    "original": "まずいな……\n思ったより、不機嫌になってる",
+    "translation": "まずいな……\n思ったより、不機嫌になってる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_029S_0006",
+    "original": "これは困りましたね\n僕としては見過ごせない状況です",
+    "translation": "これは困りましたね\n僕としては見過ごせない状況です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_029S_0007",
+    "original": "また、閉鎖空間が発生するって\nいうのか？",
+    "translation": "また、閉鎖空間が発生するって\nいうのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_029S_0008",
+    "original": "正直、そちらは仲間がなんとかして\nくれるとふんでいます",
+    "translation": "正直、そちらは仲間がなんとかして\nくれるとふんでいます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_029S_0009",
+    "original": "それに、今は学校全体が閉鎖空間\nのようなものですから",
+    "translation": "それに、今は学校全体が閉鎖空間\nのようなものですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_029S_0010",
+    "original": "恐ろしいこと言うなよ、古泉",
+    "translation": "恐ろしいこと言うなよ、古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_029S_0011",
+    "original": "ですが、事実です",
+    "translation": "ですが、事実です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_029S_0012",
+    "original": "むう……",
+    "translation": "むう……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_029S_0013",
+    "original": "となると、やっぱりハルヒには\n少なからず納得してもらわないと",
+    "translation": "となると、やっぱりハルヒには\n少なからず納得してもらわないと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_029S_0014",
+    "original": "だけど、どうする？",
+    "translation": "だけど、どうする？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_029S_0015",
+    "original": "鶴屋さんが口裏を合わせてくれれば\nなんとかなりそうだとは思うが……",
+    "translation": "鶴屋さんが口裏を合わせてくれれば\nなんとかなりそうだとは思うが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_029S_0016",
+    "original": "[#P06]鶴屋さん、鶴屋さん",
+    "translation": "[#P06]鶴屋さん、鶴屋さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_029S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_029S_0018",
+    "original": "[#P06]ん？　どしたの、そんな小さい声で",
+    "translation": "[#P06]ん？　どしたの、そんな小さい声で",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_029S_0019",
+    "original": "[#P06]分かった。もしかしてハルにゃんに\n聞かれたくない話だねっ",
+    "translation": "[#P06]分かった。もしかしてハルにゃんに\n聞かれたくない話だねっ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_029S_0020",
+    "original": "さすがは鶴屋さん\n察してくれたようだ",
+    "translation": "さすがは鶴屋さん\n察してくれたようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_029S_0021",
+    "original": "[#P06]詳しいことは言えませんが\n俺に話を合わせてください",
+    "translation": "[#P06]詳しいことは言えませんが\n俺に話を合わせてください",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_029S_0022",
+    "original": "[#P06]お願いします",
+    "translation": "[#P06]お願いします",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_029S_0023",
+    "original": "[#P06]んー……いいよ",
+    "translation": "[#P06]んー……いいよ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_029S_0024",
+    "original": "[#P06]ありがとうございます",
+    "translation": "[#P06]ありがとうございます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_029S_0025",
+    "original": "……おい、ハルヒ",
+    "translation": "……おい、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_029S_0026",
+    "original": "ん、なによ",
+    "translation": "ん、なによ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_029S_0027",
+    "original": "実はだな、ここ数日\nピアノを弾いてたのは",
+    "translation": "実はだな、ここ数日\nピアノを弾いてたのは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_029S_0028",
+    "original": "ここにいる鶴屋さんらしいんだ",
+    "translation": "ここにいる鶴屋さんらしいんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_029S_0029",
+    "original": "鶴屋さんが？",
+    "translation": "鶴屋さんが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_029S_0030",
+    "original": "そうですよね",
+    "translation": "そうですよね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_029S_0031",
+    "original": "うん。軽音部の練習の後に\nちょろっとね",
+    "translation": "うん。軽音部の練習の後に\nちょろっとね",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_029S_0032",
+    "original": "下手くそだし、誰かに聞かれると\n恥ずかしいからカギかけてたのさ",
+    "translation": "下手くそだし、誰かに聞かれると\n恥ずかしいからカギかけてたのさ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_029S_0033",
+    "original": "そういうことだったの……",
+    "translation": "そういうことだったの……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_029S_0034",
+    "original": "さすが鶴屋さんだ",
+    "translation": "さすが鶴屋さんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_029S_0035",
+    "original": "俺の無茶なフリにもきちんと\n対応してくれた",
+    "translation": "俺の無茶なフリにもきちんと\n対応してくれた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_029S_0036",
+    "original": "ハルヒも多少は納得した様子だし\nなんとか一安心といったところか",
+    "translation": "ハルヒも多少は納得した様子だし\nなんとか一安心といったところか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_029S_0037",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "CHOICE"
+  }
+]

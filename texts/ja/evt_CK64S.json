@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK64S_0000",
+    "original": "たまーに思うことがあるんだが",
+    "translation": "たまーに思うことがあるんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK64S_0001",
+    "original": "古泉のやつ、こっちの話を途中まで\n聞いただけで、理解してみせるだろ",
+    "translation": "古泉のやつ、こっちの話を途中まで\n聞いただけで、理解してみせるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK64S_0002",
+    "original": "いかにも、もう分かりました……\nみたいな感じでだ",
+    "translation": "いかにも、もう分かりました……\nみたいな感じでだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK64S_0003",
+    "original": "いいじゃない別に。理解が早いのは\n頭の回転が速いってことでしょ",
+    "translation": "いいじゃない別に。理解が早いのは\n頭の回転が速いってことでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK64S_0004",
+    "original": "それはそうかもしれん",
+    "translation": "それはそうかもしれん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK64S_0005",
+    "original": "しかし、ごくたまに、コイツ本当に\nわかってるのか？　と疑問に思うぞ",
+    "translation": "しかし、ごくたまに、コイツ本当に\nわかってるのか？　と疑問に思うぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK64S_0006",
+    "original": "意味ありげに、ウンウン頷いたりし\nてる時が特にそうだ",
+    "translation": "意味ありげに、ウンウン頷いたりし\nてる時が特にそうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK64S_0007",
+    "original": "……結局、何が言いたいわけ？",
+    "translation": "……結局、何が言いたいわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK64S_0008",
+    "original": "なんとなく鼻につく、って話だ",
+    "translation": "なんとなく鼻につく、って話だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK64S_0009",
+    "original": "ふうん……そもそもアンタの説明の\n仕方が悪いんじゃないの？",
+    "translation": "ふうん……そもそもアンタの説明の\n仕方が悪いんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK64S_0010",
+    "original": "古泉くんが、あたしのことを見て\n訳知り顔にうなずくんです",
+    "translation": "古泉くんが、あたしのことを見て\n訳知り顔にうなずくんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK64S_0011",
+    "original": "まあ……古泉くんは、いろいろ考え\nてるからねえ",
+    "translation": "まあ……古泉くんは、いろいろ考え\nてるからねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK64S_0012",
+    "original": "みくるちゃんを見て、思うところが\nあるんでしょ",
+    "translation": "みくるちゃんを見て、思うところが\nあるんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK64S_0013",
+    "original": "え、えええっ……お、思うところ\nですかあ……？",
+    "translation": "え、えええっ……お、思うところ\nですかあ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK64S_0014",
+    "original": "古泉一樹は、よくうなずいている",
+    "translation": "古泉一樹は、よくうなずいている",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK64S_0015",
+    "original": "そうね。古泉くんは話すときに\n身体を動かして表現するわよね",
+    "translation": "そうね。古泉くんは話すときに\n身体を動かして表現するわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK64S_0016",
+    "original": "ああいうボディランゲージは、相手\nの心理に結構影響を与えるのよ",
+    "translation": "ああいうボディランゲージは、相手\nの心理に結構影響を与えるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK64S_0017",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK64S_0018",
+    "original": "有希はうなずく時もあんまり動かさ\nないわよね",
+    "translation": "有希はうなずく時もあんまり動かさ\nないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK64S_0019",
+    "original": "言語を使用する方がより直接的",
+    "translation": "言語を使用する方がより直接的",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK64S_0020",
+    "original": "でもね、言葉を使わなくても、体の\n動きだけで表現できることもあるわ",
+    "translation": "でもね、言葉を使わなくても、体の\n動きだけで表現できることもあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK64S_0021",
+    "original": "たとえばそうね……やれやれとか\nこんな風に両手をあげるの",
+    "translation": "たとえばそうね……やれやれとか\nこんな風に両手をあげるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK64S_0022",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK64S_0023",
+    "original": "彼は僕が素直にうなずくと、途端\n疑わしそうな表情になるのですが",
+    "translation": "彼は僕が素直にうなずくと、途端\n疑わしそうな表情になるのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK64S_0024",
+    "original": "あれはどうしてなのかと考えさせら\nれます",
+    "translation": "あれはどうしてなのかと考えさせら\nれます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK64S_0025",
+    "original": "反対意見を言われるのが当然だと\n思っているんじゃない？",
+    "translation": "反対意見を言われるのが当然だと\n思っているんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK64S_0026",
+    "original": "僕は意味もなく反対意見を出しては\nいないと思っていたのですが",
+    "translation": "僕は意味もなく反対意見を出しては\nいないと思っていたのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK64S_0027",
+    "original": "キョンの被害妄想じゃないの？\nそれともマゾなのかしら",
+    "translation": "キョンの被害妄想じゃないの？\nそれともマゾなのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK64S_0028",
+    "original": "僕はどちらでもない、と思います\nが……",
+    "translation": "僕はどちらでもない、と思います\nが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK64S_0029",
+    "original": "そんなに反論してほしそうなら、",
+    "translation": "そんなに反論してほしそうなら、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK64S_0030",
+    "original": "いくらでも反論してあげればいい\nじゃない。遠慮はいらないわ",
+    "translation": "いくらでも反論してあげればいい\nじゃない。遠慮はいらないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK64S_0031",
+    "original": "そうですか……考えておきましょう",
+    "translation": "そうですか……考えておきましょう",
+    "speaker": "古泉"
+  }
+]

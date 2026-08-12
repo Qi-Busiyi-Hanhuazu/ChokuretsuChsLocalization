@@ -1,0 +1,494 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_018S_0000",
+    "original": "分身たちが消滅すると、異空間は\nまるで溶けるように消えていった",
+    "translation": "分身たちが消滅すると、異空間は\nまるで溶けるように消えていった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_018S_0001",
+    "original": "みんな……どうしてこんなところ\nに集まってるのよ",
+    "translation": "みんな……どうしてこんなところ\nに集まってるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_018S_0002",
+    "original": "ハルヒ……",
+    "translation": "ハルヒ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_018S_0003",
+    "original": "相変わらず、ギリギリセーフ\nだったか",
+    "translation": "相変わらず、ギリギリセーフ\nだったか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_018S_0004",
+    "original": "いや、やっぱり鏡のことが気に\nなってだな",
+    "translation": "いや、やっぱり鏡のことが気に\nなってだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_018S_0005",
+    "original": "俺が誘ってみんなで見に来たんだ",
+    "translation": "俺が誘ってみんなで見に来たんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_018S_0006",
+    "original": "だったら、あたしも呼びなさい！",
+    "translation": "だったら、あたしも呼びなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_018S_0007",
+    "original": "いや、わざわざ連れ出すのも悪い\nと思ってだな",
+    "translation": "いや、わざわざ連れ出すのも悪い\nと思ってだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_018S_0008",
+    "original": "もちろん、何か起こったら真っ先に\n呼ぶつもりだったぞ",
+    "translation": "もちろん、何か起こったら真っ先に\n呼ぶつもりだったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_018S_0009",
+    "original": "何か起こってから呼びに来てたん\nじゃ間に合わないでしょうが！",
+    "translation": "何か起こってから呼びに来てたん\nじゃ間に合わないでしょうが！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_018S_0010",
+    "original": "う……",
+    "translation": "う……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_018S_0011",
+    "original": "で、実際のとこ何か起こったの？",
+    "translation": "で、実際のとこ何か起こったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_018S_0012",
+    "original": "い、いや、何も",
+    "translation": "い、いや、何も",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_018S_0013",
+    "original": "ハルヒと共に昇降口までやってくる\nと、そこはすっかり元通りだった",
+    "translation": "ハルヒと共に昇降口までやってくる\nと、そこはすっかり元通りだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_018S_0014",
+    "original": "みんな……どうしてこんなところ\nに集まってるの？",
+    "translation": "みんな……どうしてこんなところ\nに集まってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_018S_0015",
+    "original": "もう一度、鏡を調べていたんです\n少し気になったものですから",
+    "translation": "もう一度、鏡を調べていたんです\n少し気になったものですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_018S_0016",
+    "original": "へえ……それで、どうだった？",
+    "translation": "へえ……それで、どうだった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_018S_0017",
+    "original": "ダメですね。まったく何も起こり\nません",
+    "translation": "ダメですね。まったく何も起こり\nません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_018S_0018",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_018S_0019",
+    "original": "……はぁ。やっぱりね",
+    "translation": "……はぁ。やっぱりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_018S_0020",
+    "original": "なんだか、分かってたみたいだな",
+    "translation": "なんだか、分かってたみたいだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_018S_0021",
+    "original": "そりゃ、これだけことごとく外し\nてたらね",
+    "translation": "そりゃ、これだけことごとく外し\nてたらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_018S_0022",
+    "original": "最初からアテにならないとは思って\nたけど……",
+    "translation": "最初からアテにならないとは思って\nたけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_018S_0023",
+    "original": "ほんっと、コンピ研の連中はダメね",
+    "translation": "ほんっと、コンピ研の連中はダメね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_018S_0024",
+    "original": "コンピ研の連中は真実を語っていた\nんだが……",
+    "translation": "コンピ研の連中は真実を語っていた\nんだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_018S_0025",
+    "original": "なんだか、連中にすごく悪いことを\nした気分だ",
+    "translation": "なんだか、連中にすごく悪いことを\nした気分だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_018S_0026",
+    "original": "なんかもう眠くなってきちゃったわ",
+    "translation": "なんかもう眠くなってきちゃったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_018S_0027",
+    "original": "みくるちゃん、部室に戻って寝る\n準備をしましょ",
+    "translation": "みくるちゃん、部室に戻って寝る\n準備をしましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_018S_0028",
+    "original": "は、はい……",
+    "translation": "は、はい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_018S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_018S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_018S_0031",
+    "original": "なんだか、やけにあっさり\n引き下がったな……",
+    "translation": "なんだか、やけにあっさり\n引き下がったな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_018S_0032",
+    "original": "ええ……少し、気になりますね",
+    "translation": "ええ……少し、気になりますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_018S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_018S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_018S_0035",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_018S_0036",
+    "original": "朝から振り回されっぱなしだったの\nで、疲労もピークに達し",
+    "translation": "朝から振り回されっぱなしだったの\nで、疲労もピークに達し",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_018S_0037",
+    "original": "さすがに俺も眠くなってきた",
+    "translation": "さすがに俺も眠くなってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_018S_0038",
+    "original": "有希、そっちを引っ張って",
+    "translation": "有希、そっちを引っ張って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_018S_0039",
+    "original": "……こう？",
+    "translation": "……こう？",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_018S_0040",
+    "original": "ハルヒは長門と一緒に寝床の準備を\nしているが、いい気なもんだ",
+    "translation": "ハルヒは長門と一緒に寝床の準備を\nしているが、いい気なもんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_018S_0041",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_018S_0042",
+    "original": "マットはここでいいですか？",
+    "translation": "マットはここでいいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_018S_0043",
+    "original": "マットを敷いている朝比奈さんは\n見ているだけで心がいやされるね",
+    "translation": "マットを敷いている朝比奈さんは\n見ているだけで心がいやされるね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_018S_0044",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_018S_0045",
+    "original": "ちょっとキョン、あんたなにやって\nるのよっ",
+    "translation": "ちょっとキョン、あんたなにやって\nるのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_018S_0046",
+    "original": "なにって、俺の寝床は？",
+    "translation": "なにって、俺の寝床は？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_018S_0047",
+    "original": "あんたは廊下か他の教室で眠りなさ\nいっ！",
+    "translation": "あんたは廊下か他の教室で眠りなさ\nいっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_018S_0048",
+    "original": "廊下なんかに、特設ベッドがあるの\nか？",
+    "translation": "廊下なんかに、特設ベッドがあるの\nか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_018S_0049",
+    "original": "部室は女子専用なんだから、男子は\nさっさと退室しろっ！",
+    "translation": "部室は女子専用なんだから、男子は\nさっさと退室しろっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_018S_0050",
+    "original": "……だそうですよ",
+    "translation": "……だそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_018S_0051",
+    "original": "笑顔でいうな",
+    "translation": "笑顔でいうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_018S_0052",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_018S_0053",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_018S_0054",
+    "original": "で、これはどういうことだ、古泉？",
+    "translation": "で、これはどういうことだ、古泉？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_018S_0055",
+    "original": "横になれるだけ、ありがたいと思う\n方が、きっと前向きになれますよ",
+    "translation": "横になれるだけ、ありがたいと思う\n方が、きっと前向きになれますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_018S_0056",
+    "original": "しかしだなあ……",
+    "translation": "しかしだなあ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_018S_0057",
+    "original": "雑誌を広げた廊下に横になれるのが\nありがたいという神経が理解できん",
+    "translation": "雑誌を広げた廊下に横になれるのが\nありがたいという神経が理解できん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_018S_0058",
+    "original": "廊下に体温を奪われて凍死したり\nしないものか？",
+    "translation": "廊下に体温を奪われて凍死したり\nしないものか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_018S_0059",
+    "original": "雑誌を敷いていますから大丈夫です\nじかに横たわるよりは安全ですよ",
+    "translation": "雑誌を敷いていますから大丈夫です\nじかに横たわるよりは安全ですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_018S_0060",
+    "original": "安全、か……",
+    "translation": "安全、か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_018S_0061",
+    "original": "ドア一枚隔てた向こうはふかふか\nマットでお休みですか",
+    "translation": "ドア一枚隔てた向こうはふかふか\nマットでお休みですか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_018S_0062",
+    "original": "ああ、冷たいね。床も仕打ちも\nこりゃ泣けてくる",
+    "translation": "ああ、冷たいね。床も仕打ちも\nこりゃ泣けてくる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_018S_0063",
+    "original": "マッチでも擦って暖を取りたいね",
+    "translation": "マッチでも擦って暖を取りたいね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_018S_0064",
+    "original": "よそう。惨めな気分に拍車がかかる\n疲れに任せて眠るしかないな",
+    "translation": "よそう。惨めな気分に拍車がかかる\n疲れに任せて眠るしかないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_018S_0065",
+    "original": "そうして眠りにつこうとした俺だっ\nたが、重大なことを忘れていた",
+    "translation": "そうして眠りにつこうとした俺だっ\nたが、重大なことを忘れていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_018S_0066",
+    "original": "ハルヒが求めていたものは\n新七不思議だったはずだ",
+    "translation": "ハルヒが求めていたものは\n新七不思議だったはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_018S_0067",
+    "original": "ひとつ足りないことに気付かず、い\nつの間にか、俺は眠りに落ちていた",
+    "translation": "ひとつ足りないことに気付かず、い\nつの間にか、俺は眠りに落ちていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_018S_0068",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

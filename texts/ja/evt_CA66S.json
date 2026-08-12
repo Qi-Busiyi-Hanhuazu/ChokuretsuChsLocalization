@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA66S_0000",
+    "original": "朝比奈さんが、ライト付きのペン\nを持ってたぞ",
+    "translation": "朝比奈さんが、ライト付きのペン\nを持ってたぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA66S_0001",
+    "original": "へえ、今日のために用意したの\nかしらね",
+    "translation": "へえ、今日のために用意したの\nかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA66S_0002",
+    "original": "いや、たまたまじゃないか？",
+    "translation": "いや、たまたまじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA66S_0003",
+    "original": "灯りがあれば心強かったんじゃない",
+    "translation": "灯りがあれば心強かったんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA66S_0004",
+    "original": "電池もインクも無くなってるよう\nだったな",
+    "translation": "電池もインクも無くなってるよう\nだったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA66S_0005",
+    "original": "途中で切れたのかもしれないけどな",
+    "translation": "途中で切れたのかもしれないけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA66S_0006",
+    "original": "それじゃ役に立たないわねぇ\n詰めが甘いわねぇ、みくるちゃんも",
+    "translation": "それじゃ役に立たないわねぇ\n詰めが甘いわねぇ、みくるちゃんも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA66S_0007",
+    "original": "でもあんな小さいライトじゃ\nかえって心細くなる気がするけどな",
+    "translation": "でもあんな小さいライトじゃ\nかえって心細くなる気がするけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA66S_0008",
+    "original": "じゃ故障して良かったのかもね",
+    "translation": "じゃ故障して良かったのかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA66S_0009",
+    "original": "さすがに足元が暗いわね",
+    "translation": "さすがに足元が暗いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA66S_0010",
+    "original": "こう薄暗いと、現場に行っても\nよく見えないかもしれないわね",
+    "translation": "こう薄暗いと、現場に行っても\nよく見えないかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA66S_0011",
+    "original": "あっ、そ、それなら\nこんなのがあります",
+    "translation": "あっ、そ、それなら\nこんなのがあります",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA66S_0012",
+    "original": "これって、ライト付きのペン？",
+    "translation": "これって、ライト付きのペン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA66S_0013",
+    "original": "はい、インクは切れてますけど\nライトは使えますから",
+    "translation": "はい、インクは切れてますけど\nライトは使えますから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA66S_0014",
+    "original": "これは使えそうね。よくやったわ",
+    "translation": "これは使えそうね。よくやったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA66S_0015",
+    "original": "い、いえ、どういたしまして",
+    "translation": "い、いえ、どういたしまして",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA66S_0016",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA66S_0017",
+    "original": "有希、なにいじってるの？",
+    "translation": "有希、なにいじってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA66S_0018",
+    "original": "朝比奈みくるのペン\nライトが内蔵されている",
+    "translation": "朝比奈みくるのペン\nライトが内蔵されている",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA66S_0019",
+    "original": "へえ、なかなかいいじゃない",
+    "translation": "へえ、なかなかいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA66S_0020",
+    "original": "現状ではインク切れでペンは書けず\n電池も弱っていて明るくならない",
+    "translation": "現状ではインク切れでペンは書けず\n電池も弱っていて明るくならない",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA66S_0021",
+    "original": "……なによそれ、中途半端ねえ",
+    "translation": "……なによそれ、中途半端ねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA66S_0022",
+    "original": "ま、みくるちゃんらしいといえば\nらしいわね",
+    "translation": "ま、みくるちゃんらしいといえば\nらしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA66S_0023",
+    "original": "コレなんですが、何だか分かります\nか？",
+    "translation": "コレなんですが、何だか分かります\nか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA66S_0024",
+    "original": "ペン？　ボールペンか何かよね？",
+    "translation": "ペン？　ボールペンか何かよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA66S_0025",
+    "original": "半分正解です",
+    "translation": "半分正解です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA66S_0026",
+    "original": "実は、ライトにもなっているんです\nこうして横のボタンを押すと……",
+    "translation": "実は、ライトにもなっているんです\nこうして横のボタンを押すと……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA66S_0027",
+    "original": "あ、光ったわ\nなんか便利なアイテムね",
+    "translation": "あ、光ったわ\nなんか便利なアイテムね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA66S_0028",
+    "original": "ペンの方はインクが切れてるそうで\nすが、ライトとしては使えるとか",
+    "translation": "ペンの方はインクが切れてるそうで\nすが、ライトとしては使えるとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA66S_0029",
+    "original": "ちなみに、朝比奈さんの持ち物だ\nそうです",
+    "translation": "ちなみに、朝比奈さんの持ち物だ\nそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA66S_0030",
+    "original": "へえ、みくるちゃんの……\n意外な組み合わせね",
+    "translation": "へえ、みくるちゃんの……\n意外な組み合わせね",
+    "speaker": "ハルヒ"
+  }
+]

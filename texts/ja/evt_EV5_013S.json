@@ -1,0 +1,1051 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_013S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_013S_0001",
+    "original": "ハルヒの足止めは古泉達に任せて\n俺は長門の手伝いをすることにした",
+    "translation": "ハルヒの足止めは古泉達に任せて\n俺は長門の手伝いをすることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_013S_0002",
+    "original": "長門、特異点の配置って、具体的\nには何をやるんだ？",
+    "translation": "長門、特異点の配置って、具体的\nには何をやるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_013S_0003",
+    "original": "それを知らないと、手伝いのしよう\nがないからな",
+    "translation": "それを知らないと、手伝いのしよう\nがないからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_013S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_013S_0005",
+    "original": "わたしが準備をしている間に、\nこれを指定箇所に置いて欲しい",
+    "translation": "わたしが準備をしている間に、\nこれを指定箇所に置いて欲しい",
+    "speaker": "長門"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_013S_0006",
+    "original": "チェスの駒じゃないか",
+    "translation": "チェスの駒じゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_013S_0007",
+    "original": "長門が手にしていたのは、肝試し\nで使ったあのチェス駒だった",
+    "translation": "長門が手にしていたのは、肝試し\nで使ったあのチェス駒だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_013S_0008",
+    "original": "これを指定箇所に置けば、特異点と\nやらになるのか？",
+    "translation": "これを指定箇所に置けば、特異点と\nやらになるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_013S_0009",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_013S_0010",
+    "original": "そう。設置箇所は、以前あなたが\n特異点を消去した場所",
+    "translation": "そう。設置箇所は、以前あなたが\n特異点を消去した場所",
+    "speaker": "長門"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_013S_0011",
+    "original": "それって、怪奇現象が起こった所\nってことか？",
+    "translation": "それって、怪奇現象が起こった所\nってことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_013S_0012",
+    "original": "そう。異空間化されていた場所",
+    "translation": "そう。異空間化されていた場所",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_013S_0013",
+    "original": "わかった。じゃあ俺は先にこれを\nプールとかに置けばいいんだな？",
+    "translation": "わかった。じゃあ俺は先にこれを\nプールとかに置けばいいんだな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_013S_0014",
+    "original": "[#DP]",
+    "translation": "[#DP]",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_013S_0015",
+    "original": "長門は小さくアゴを引く\nその通りってことらしい",
+    "translation": "長門は小さくアゴを引く\nその通りってことらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_013S_0016",
+    "original": "俺が駒を置くのはいいとして……",
+    "translation": "俺が駒を置くのはいいとして……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_013S_0017",
+    "original": "でも、カギが掛かっている場所は\nどうすりゃいいんだ",
+    "translation": "でも、カギが掛かっている場所は\nどうすりゃいいんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_013S_0018",
+    "original": "自分で対処するってことか？",
+    "translation": "自分で対処するってことか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_013S_0019",
+    "original": "でも、俺はピンでカギを開けられる\nほど器用じゃない",
+    "translation": "でも、俺はピンでカギを開けられる\nほど器用じゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_013S_0020",
+    "original": "うーん……",
+    "translation": "うーん……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_013S_0021",
+    "original": "すまん、長門。考えてみたんだが\nカギがある場所はどうすりゃいい？",
+    "translation": "すまん、長門。考えてみたんだが\nカギがある場所はどうすりゃいい？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_013S_0022",
+    "original": "意地を張らず長門に聞く事にしよう",
+    "translation": "意地を張らず長門に聞く事にしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_013S_0023",
+    "original": "こんな時間だし、カギを取りに\n職員室に忍び込むのもヤバそうだ",
+    "translation": "こんな時間だし、カギを取りに\n職員室に忍び込むのもヤバそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_013S_0024",
+    "original": "長門、音楽室なんかはカギが必要な\nんじゃないのか？",
+    "translation": "長門、音楽室なんかはカギが必要な\nんじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_013S_0025",
+    "original": "それについての対応策は用意して\nある",
+    "translation": "それについての対応策は用意して\nある",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_013S_0026",
+    "original": "対応策？",
+    "translation": "対応策？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_013S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_013S_0028",
+    "original": "これを使って",
+    "translation": "これを使って",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_013S_0029",
+    "original": "またもや長門が俺に何かを手渡した",
+    "translation": "またもや長門が俺に何かを手渡した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_013S_0030",
+    "original": "……カギか",
+    "translation": "……カギか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_013S_0031",
+    "original": "これを使えばどこにでも入れる",
+    "translation": "これを使えばどこにでも入れる",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_013S_0032",
+    "original": "こんなもん、どこから手に入れた？\nなどと改めて聞く必要はないだろう",
+    "translation": "こんなもん、どこから手に入れた？\nなどと改めて聞く必要はないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_013S_0033",
+    "original": "長門の事だ。たった今作ったとか\n言い出しかねないからな",
+    "translation": "長門の事だ。たった今作ったとか\n言い出しかねないからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_013S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_013S_0035",
+    "original": "わかった。じゃあまずはこの近く\nから始めるぞ",
+    "translation": "わかった。じゃあまずはこの近く\nから始めるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_013S_0036",
+    "original": "了解した",
+    "translation": "了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_013S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_013S_0038",
+    "original": "長門はさっそく例の呪文のような\nものを唱え始めている",
+    "translation": "長門はさっそく例の呪文のような\nものを唱え始めている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_013S_0039",
+    "original": "さて俺も……と移動しかけたんだが\n少し引っかかる事があった",
+    "translation": "さて俺も……と移動しかけたんだが\n少し引っかかる事があった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_013S_0040",
+    "original": "長門、ちょっと待ってくれ",
+    "translation": "長門、ちょっと待ってくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_013S_0041",
+    "original": "なに？",
+    "translation": "なに？",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_013S_0042",
+    "original": "なぜ長門は、わざわざ怪奇現象が\n起きた場所を指定したんだ？",
+    "translation": "なぜ長門は、わざわざ怪奇現象が\n起きた場所を指定したんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_013S_0043",
+    "original": "長門、一つ聞いてもいいか？",
+    "translation": "長門、一つ聞いてもいいか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_013S_0044",
+    "original": "……なに？",
+    "translation": "……なに？",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_013S_0045",
+    "original": "なんで設置を例の場所にするんだ？\n他じゃダメなのか",
+    "translation": "なんで設置を例の場所にするんだ？\n他じゃダメなのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_013S_0046",
+    "original": "あんな現象が起こった場所だと\n微妙に不安な気もするが",
+    "translation": "あんな現象が起こった場所だと\n微妙に不安な気もするが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_013S_0047",
+    "original": "異空間化した場所は、周辺で最も\n不安定な場所",
+    "translation": "異空間化した場所は、周辺で最も\n不安定な場所",
+    "speaker": "長門"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_013S_0048",
+    "original": "同時に、学校全体の異常の基点と\nなっているスポット",
+    "translation": "同時に、学校全体の異常の基点と\nなっているスポット",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_013S_0049",
+    "original": "なるほど……",
+    "translation": "なるほど……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_013S_0050",
+    "original": "わかった。じゃあ改めて行ってくる",
+    "translation": "わかった。じゃあ改めて行ってくる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_013S_0051",
+    "original": "……気をつけて",
+    "translation": "……気をつけて",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_013S_0052",
+    "original": "いや、考えても仕方ないだろう",
+    "translation": "いや、考えても仕方ないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_013S_0053",
+    "original": "長門の事だ、きっとあいつなり\nに何らかの[#P05]“思慮”[#P01]があるんだろ",
+    "translation": "長門の事だ、きっとあいつなり\nに何らかの[#P05]“思慮”[#P01]があるんだろ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_013S_0054",
+    "original": "呼び止めて悪かった\n何でもないんだ",
+    "translation": "呼び止めて悪かった\n何でもないんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_013S_0055",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_013S_0056",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_013S_0057",
+    "original": "あの『１年１０組』には長門が\n向かってくれるらしい",
+    "translation": "あの『１年１０組』には長門が\n向かってくれるらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_013S_0058",
+    "original": "まず音楽室あたりからまわるか",
+    "translation": "まず音楽室あたりからまわるか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_013S_0059",
+    "original": "音楽室の扉にカギを差し込み\nゆっくりとまわした",
+    "translation": "音楽室の扉にカギを差し込み\nゆっくりとまわした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_013S_0060",
+    "original": "……さすが長門だな、本当に\n開くとは",
+    "translation": "……さすが長門だな、本当に\n開くとは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_013S_0061",
+    "original": "長門特製マスターキーのおかげで\nあっさりと中に入れてしまった",
+    "translation": "長門特製マスターキーのおかげで\nあっさりと中に入れてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_013S_0062",
+    "original": "まるで、どこぞのゲームに出て\nくるような便利アイテムだ",
+    "translation": "まるで、どこぞのゲームに出て\nくるような便利アイテムだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_013S_0063",
+    "original": "音楽室に入ったのはいいが",
+    "translation": "音楽室に入ったのはいいが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_013S_0064",
+    "original": "どこに駒を置くのかまでは\n聞いてなかったな……",
+    "translation": "どこに駒を置くのかまでは\n聞いてなかったな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_013S_0065",
+    "original": "改めて聞きに行った方が\nいいんだろうか？",
+    "translation": "改めて聞きに行った方が\nいいんだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_013S_0066",
+    "original": "仕方ない、念のために聞いた方が\nいいだろうな",
+    "translation": "仕方ない、念のために聞いた方が\nいいだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_013S_0067",
+    "original": "部屋を出ようとしたその時",
+    "translation": "部屋を出ようとしたその時",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_013S_0068",
+    "original": "ん？　長門から？",
+    "translation": "ん？　長門から？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV5_013S_0069",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV5_013S_0070",
+    "original": "駒を設置する場所は、ピアノの上",
+    "translation": "駒を設置する場所は、ピアノの上",
+    "speaker": "長門"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV5_013S_0071",
+    "original": "え……",
+    "translation": "え……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV5_013S_0072",
+    "original": "まるで、俺の考えを読んだかのよう\nなタイミングだ",
+    "translation": "まるで、俺の考えを読んだかのよう\nなタイミングだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV5_013S_0073",
+    "original": "ああ、分かった。ピアノの上に設置\nしておく",
+    "translation": "ああ、分かった。ピアノの上に設置\nしておく",
+    "speaker": "キョン"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV5_013S_0074",
+    "original": "それとも、長門なりの先読みなのだ\nろうか……",
+    "translation": "それとも、長門なりの先読みなのだ\nろうか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV5_013S_0075",
+    "original": "長門が特に言わなかったって\nことは……",
+    "translation": "長門が特に言わなかったって\nことは……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV5_013S_0076",
+    "original": "つまりは、俺の独断で置いても\n構わないってことなんだよな？",
+    "translation": "つまりは、俺の独断で置いても\n構わないってことなんだよな？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV5_013S_0077",
+    "original": "そうでなければ、一言でも\n言っていたはずだ",
+    "translation": "そうでなければ、一言でも\n言っていたはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV5_013S_0078",
+    "original": "俺の対処スキルを信じて\nくれているのかもな",
+    "translation": "俺の対処スキルを信じて\nくれているのかもな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV5_013S_0079",
+    "original": "……あまり上がって欲しくない\nスキルではあるが",
+    "translation": "……あまり上がって欲しくない\nスキルではあるが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV5_013S_0080",
+    "original": "まあ、つまりはこういう事で\nいい訳だよな",
+    "translation": "まあ、つまりはこういう事で\nいい訳だよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV5_013S_0081",
+    "original": "ポケットから出した駒を、\n適当にピアノの上に置いた",
+    "translation": "ポケットから出した駒を、\n適当にピアノの上に置いた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV5_013S_0082",
+    "original": "さてと、次へ向かおう",
+    "translation": "さてと、次へ向かおう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV5_013S_0083",
+    "original": "体育館にも来たが、こちらも特製\nのカギで難なく入れてしまった",
+    "translation": "体育館にも来たが、こちらも特製\nのカギで難なく入れてしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV5_013S_0084",
+    "original": "じゃ、早速済ませるか",
+    "translation": "じゃ、早速済ませるか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV5_013S_0085",
+    "original": "体育館の床に、チェスの駒を一つ\n置いて……と",
+    "translation": "体育館の床に、チェスの駒を一つ\n置いて……と",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV5_013S_0086",
+    "original": "ただ置くだけで本当に良いのか？",
+    "translation": "ただ置くだけで本当に良いのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV5_013S_0087",
+    "original": "まあ、長門を信じて次に行こう",
+    "translation": "まあ、長門を信じて次に行こう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV5_013S_0088",
+    "original": "おわっ！？",
+    "translation": "おわっ！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV5_013S_0089",
+    "original": "な、なんだ？　いきなりなにかが\nこっちに飛んできたぞ",
+    "translation": "な、なんだ？　いきなりなにかが\nこっちに飛んできたぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV5_013S_0090",
+    "original": "もしかして、俺が一人でいるのを\n良いことに攻撃でもされたのか？",
+    "translation": "もしかして、俺が一人でいるのを\n良いことに攻撃でもされたのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV5_013S_0091",
+    "original": "だとしたら、かなりマズイんだが",
+    "translation": "だとしたら、かなりマズイんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV5_013S_0092",
+    "original": "今飛んできた物が攻撃なのかどうか\n確かめた方がいいんだろうか？",
+    "translation": "今飛んできた物が攻撃なのかどうか\n確かめた方がいいんだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV5_013S_0093",
+    "original": "いや、本当に攻撃だとしたら\n洒落にならんだろう",
+    "translation": "いや、本当に攻撃だとしたら\n洒落にならんだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV5_013S_0094",
+    "original": "[#P05]“安全第一”[#P00]、ここは逃げるが\n勝ちってやつだ",
+    "translation": "[#P05]“安全第一”[#P00]、ここは逃げるが\n勝ちってやつだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV5_013S_0095",
+    "original": "確かめるまでもなく、その場から\n逃げることにした",
+    "translation": "確かめるまでもなく、その場から\n逃げることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV5_013S_0096",
+    "original": "まずは正体を確かめてからでも\nいいだろう",
+    "translation": "まずは正体を確かめてからでも\nいいだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV5_013S_0097",
+    "original": "案外、正体は大した物じゃ\nなかったりする場合もあるしな",
+    "translation": "案外、正体は大した物じゃ\nなかったりする場合もあるしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV5_013S_0098",
+    "original": "気を付けながら辺りを調べてみたが",
+    "translation": "気を付けながら辺りを調べてみたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV5_013S_0099",
+    "original": "……ははっ、やっぱそうだったか",
+    "translation": "……ははっ、やっぱそうだったか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV5_013S_0100",
+    "original": "壁に張り付いたそいつの正体を\n見て、俺は苦笑いを浮かべた",
+    "translation": "壁に張り付いたそいつの正体を\n見て、俺は苦笑いを浮かべた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV5_013S_0101",
+    "original": "こりゃあ[#P05]“夏の虫”[#P00]ってやつだな\nまったく、人騒がせなやつめ",
+    "translation": "こりゃあ[#P05]“夏の虫”[#P00]ってやつだな\nまったく、人騒がせなやつめ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV5_013S_0102",
+    "original": "後で外にでも放してやるとしよう",
+    "translation": "後で外にでも放してやるとしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV5_013S_0103",
+    "original": "深夜のプールってのは\n夏でも妙に涼しい気がするな",
+    "translation": "深夜のプールってのは\n夏でも妙に涼しい気がするな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV5_013S_0104",
+    "original": "さてと、この駒をどこに置くかだが",
+    "translation": "さてと、この駒をどこに置くかだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV5_013S_0105",
+    "original": "水中……だろうな。やっぱ",
+    "translation": "水中……だろうな。やっぱ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV5_013S_0106",
+    "original": "異変が起きたのはプールの中\nだったわけだし",
+    "translation": "異変が起きたのはプールの中\nだったわけだし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV5_013S_0107",
+    "original": "……でも、プールに俺の顔が\n映っても大丈夫なんだよな？",
+    "translation": "……でも、プールに俺の顔が\n映っても大丈夫なんだよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV5_013S_0108",
+    "original": "鏡代りの水中から、もう一人の俺が\nこんばんはと出てきたら嫌すぎる",
+    "translation": "鏡代りの水中から、もう一人の俺が\nこんばんはと出てきたら嫌すぎる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV5_013S_0109",
+    "original": "恐る恐る覗くと、水面に映った\n自分の顔と目があった",
+    "translation": "恐る恐る覗くと、水面に映った\n自分の顔と目があった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV5_013S_0110",
+    "original": "大丈夫みたいだな",
+    "translation": "大丈夫みたいだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV5_013S_0111",
+    "original": "特に何も起きないようだ",
+    "translation": "特に何も起きないようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV5_013S_0112",
+    "original": "そういや、水面に映った物って\n左右が反転してるんだっけ",
+    "translation": "そういや、水面に映った物って\n左右が反転してるんだっけ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV5_013S_0113",
+    "original": "で、これを鏡に映すと像が元に\n戻るんだっけ",
+    "translation": "で、これを鏡に映すと像が元に\n戻るんだっけ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV5_013S_0114",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV5_013S_0115",
+    "original": "でも、左右逆に映ってても、上下逆\nには映らないんだよな",
+    "translation": "でも、左右逆に映ってても、上下逆\nには映らないんだよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV5_013S_0116",
+    "original": "なんで左右だけ反転するんだろう",
+    "translation": "なんで左右だけ反転するんだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV5_013S_0117",
+    "original": "[#P05]“鏡像”[#P01]ってのは、改めて考えると\n不思議だよな",
+    "translation": "[#P05]“鏡像”[#P01]ってのは、改めて考えると\n不思議だよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV5_013S_0118",
+    "original": "そんな事を考えながら、水中に\nチェスの駒を投下した",
+    "translation": "そんな事を考えながら、水中に\nチェスの駒を投下した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV5_013S_0119",
+    "original": "まあ、プールサイドでいいだろ\nこの辺りに適当に置いておこう",
+    "translation": "まあ、プールサイドでいいだろ\nこの辺りに適当に置いておこう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV5_013S_0120",
+    "original": "駒を設置しながらふと思ったんだが",
+    "translation": "駒を設置しながらふと思ったんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV5_013S_0121",
+    "original": "怪奇が起きるってのが、なんで\n昇降口の鏡限定なんだ？",
+    "translation": "怪奇が起きるってのが、なんで\n昇降口の鏡限定なんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV5_013S_0122",
+    "original": "時間まで指定されてるってのも\n妙な話だよな",
+    "translation": "時間まで指定されてるってのも\n妙な話だよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV5_013S_0123",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV5_013S_0124",
+    "original": "ああ、そうか！　校舎内で鏡と時計\nが一緒にある場所ってことか",
+    "translation": "ああ、そうか！　校舎内で鏡と時計\nが一緒にある場所ってことか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV5_013S_0125",
+    "original": "どっちか片方が無けりゃ確認しよう\nが無いしな。うん",
+    "translation": "どっちか片方が無けりゃ確認しよう\nが無いしな。うん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV5_013S_0126",
+    "original": "あの場所だと、鏡と時計が上手い\nことワンセットになってるのか",
+    "translation": "あの場所だと、鏡と時計が上手い\nことワンセットになってるのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV5_013S_0127",
+    "original": "あちこち回ってきたが、\nここで一応終わりだな",
+    "translation": "あちこち回ってきたが、\nここで一応終わりだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV5_013S_0128",
+    "original": "ここは、もはやお馴染みになりつつ\nある、コンピ研の部室だ",
+    "translation": "ここは、もはやお馴染みになりつつ\nある、コンピ研の部室だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV5_013S_0129",
+    "original": "近くにあったパソコンの上に\nチェスの駒を設置した",
+    "translation": "近くにあったパソコンの上に\nチェスの駒を設置した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV5_013S_0130",
+    "original": "これで異空間の発生した場所全て\nに駒を配置したことになる",
+    "translation": "これで異空間の発生した場所全て\nに駒を配置したことになる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV5_013S_0131",
+    "original": "さてと、この後は……",
+    "translation": "さてと、この後は……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV5_013S_0132",
+    "original": "やっぱり、すぐに長門に知らせた\n方がいいだろうな",
+    "translation": "やっぱり、すぐに長門に知らせた\n方がいいだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV5_013S_0133",
+    "original": "夏とはいえ女子を外に待たせてい\nるのは少し気が引ける",
+    "translation": "夏とはいえ女子を外に待たせてい\nるのは少し気が引ける",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV5_013S_0134",
+    "original": "まあ、別に待ち合わせてるわけじゃ\nないんだが……",
+    "translation": "まあ、別に待ち合わせてるわけじゃ\nないんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV5_013S_0135",
+    "original": "ずっと歩き回っていたことだし、\n少しだけ休むか",
+    "translation": "ずっと歩き回っていたことだし、\n少しだけ休むか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV5_013S_0136",
+    "original": "一休みするくらいの時間はまだ\nあるしな",
+    "translation": "一休みするくらいの時間はまだ\nあるしな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV5_013S_0137",
+    "original": "考える",
+    "translation": "考える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV5_013S_0138",
+    "original": "長門に聞く",
+    "translation": "長門に聞く",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV5_013S_0139",
+    "original": "指摘する",
+    "translation": "指摘する",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV5_013S_0140",
+    "original": "考えても仕方ない",
+    "translation": "考えても仕方ない",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV5_013S_0141",
+    "original": "聞きに行く",
+    "translation": "聞きに行く",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV5_013S_0142",
+    "original": "独断で",
+    "translation": "独断で",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV5_013S_0143",
+    "original": "逃げる",
+    "translation": "逃げる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV5_013S_0144",
+    "original": "正体を確かめる",
+    "translation": "正体を確かめる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV5_013S_0145",
+    "original": "プールの中",
+    "translation": "プールの中",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV5_013S_0146",
+    "original": "プールサイド",
+    "translation": "プールサイド",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV5_013S_0147",
+    "original": "すぐに長門に知らせに行く",
+    "translation": "すぐに長門に知らせに行く",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV5_013S_0148",
+    "original": "少し休む",
+    "translation": "少し休む",
+    "speaker": "CHOICE"
+  }
+]

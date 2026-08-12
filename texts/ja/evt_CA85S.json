@@ -1,0 +1,275 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA85S_0000",
+    "original": "なあ、ハルヒ。おまえ、ウインクは\n出来るか？",
+    "translation": "なあ、ハルヒ。おまえ、ウインクは\n出来るか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA85S_0001",
+    "original": "そんなの簡単よっ\n左右交互でも出来るわよ！",
+    "translation": "そんなの簡単よっ\n左右交互でも出来るわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA85S_0002",
+    "original": "器用だな、おまえ",
+    "translation": "器用だな、おまえ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA85S_0003",
+    "original": "出来ない方がおかしいのよ",
+    "translation": "出来ない方がおかしいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA85S_0004",
+    "original": "俺は出来ないなどと一言も言って\nないぞ？",
+    "translation": "俺は出来ないなどと一言も言って\nないぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA85S_0005",
+    "original": "出来るんだったら、今すぐやって\n見せなさいよ",
+    "translation": "出来るんだったら、今すぐやって\n見せなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA85S_0006",
+    "original": "用もないのにウインクができるか",
+    "translation": "用もないのにウインクができるか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA85S_0007",
+    "original": "じゃあ、どういう用の時にウインク\nするのよ",
+    "translation": "じゃあ、どういう用の時にウインク\nするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA85S_0008",
+    "original": "そりゃおまえ、見られて都合の悪い\nシーンとか……",
+    "translation": "そりゃおまえ、見られて都合の悪い\nシーンとか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA85S_0009",
+    "original": "そう。それじゃ、あたしの前でやっ\nたらお仕置きよ！",
+    "translation": "そう。それじゃ、あたしの前でやっ\nたらお仕置きよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA85S_0010",
+    "original": "気付かないくせによく言うね",
+    "translation": "気付かないくせによく言うね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA85S_0011",
+    "original": "涼宮さん、片目をつぶって合図する\n方法なんですけど",
+    "translation": "涼宮さん、片目をつぶって合図する\n方法なんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA85S_0012",
+    "original": "ウインクのこと？",
+    "translation": "ウインクのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA85S_0013",
+    "original": "そ、そうです。今どき誰もしたり\nしないんでしょうか？",
+    "translation": "そ、そうです。今どき誰もしたり\nしないんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA85S_0014",
+    "original": "そうね……あんまりしないかも",
+    "translation": "そうね……あんまりしないかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA85S_0015",
+    "original": "そ、そうですか……はぅぅ",
+    "translation": "そ、そうですか……はぅぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA85S_0016",
+    "original": "したの？　みくるちゃん",
+    "translation": "したの？　みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA85S_0017",
+    "original": "……え、ええ、まあ、そのぉ……",
+    "translation": "……え、ええ、まあ、そのぉ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA85S_0018",
+    "original": "したのね",
+    "translation": "したのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA85S_0019",
+    "original": "……はい。それがウインクだなんて\n意識はなかったんですけどぉ",
+    "translation": "……はい。それがウインクだなんて\n意識はなかったんですけどぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA85S_0020",
+    "original": "大丈夫、なんだかアンバランスで\nみくるちゃんなら新鮮だから！",
+    "translation": "大丈夫、なんだかアンバランスで\nみくるちゃんなら新鮮だから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA85S_0021",
+    "original": "うぅ、そ、そうでしょうか？",
+    "translation": "うぅ、そ、そうでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA85S_0022",
+    "original": "もう全然ＯＫよ。あたしが認めるわ\nみくるちゃん限定で、してＯＫ",
+    "translation": "もう全然ＯＫよ。あたしが認めるわ\nみくるちゃん限定で、してＯＫ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA85S_0023",
+    "original": "えーっと……そうですか",
+    "translation": "えーっと……そうですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA85S_0024",
+    "original": "ウインクとは、どんな時に\nするもの？",
+    "translation": "ウインクとは、どんな時に\nするもの？",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA85S_0025",
+    "original": "相手に合図を送る時とかね\n後は好意を表す場合も使うわね",
+    "translation": "相手に合図を送る時とかね\n後は好意を表す場合も使うわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA85S_0026",
+    "original": "って、誰がそんな事してたの？",
+    "translation": "って、誰がそんな事してたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA85S_0027",
+    "original": "まさかキョンや古泉くんじゃ\nないわよね？",
+    "translation": "まさかキョンや古泉くんじゃ\nないわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA85S_0028",
+    "original": "やっていたのは、朝比奈みくる\nだと聞いた",
+    "translation": "やっていたのは、朝比奈みくる\nだと聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA85S_0029",
+    "original": "みくるちゃんが？　誰に向かって\nウインクなんてしたのかしら",
+    "translation": "みくるちゃんが？　誰に向かって\nウインクなんてしたのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA85S_0030",
+    "original": "わたしは現場に居なかったので\n詳細は不明",
+    "translation": "わたしは現場に居なかったので\n詳細は不明",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA85S_0031",
+    "original": "まあ、キョンに向かってじゃない\n事は確かだわね",
+    "translation": "まあ、キョンに向かってじゃない\n事は確かだわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA85S_0032",
+    "original": "涼宮さん、今どきウインクという\nものは、普通ではしませんよね",
+    "translation": "涼宮さん、今どきウインクという\nものは、普通ではしませんよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA85S_0033",
+    "original": "そうね。ウインクがどうかしたの？",
+    "translation": "そうね。ウインクがどうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA85S_0034",
+    "original": "朝比奈さんがして見せたと聞いた\nものですから",
+    "translation": "朝比奈さんがして見せたと聞いた\nものですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA85S_0035",
+    "original": "みくるちゃんがしたら、ダサ可愛い\nかもしれないわ",
+    "translation": "みくるちゃんがしたら、ダサ可愛い\nかもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA85S_0036",
+    "original": "ダサ可愛い……ですか。中々面白い\n表現ですね、それは",
+    "translation": "ダサ可愛い……ですか。中々面白い\n表現ですね、それは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA85S_0037",
+    "original": "みくるちゃんだと、ダサくても\n妙に愛らしく見えるからお得よね",
+    "translation": "みくるちゃんだと、ダサくても\n妙に愛らしく見えるからお得よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA85S_0038",
+    "original": "たしかに。そうかもしれませんね",
+    "translation": "たしかに。そうかもしれませんね",
+    "speaker": "古泉"
+  }
+]

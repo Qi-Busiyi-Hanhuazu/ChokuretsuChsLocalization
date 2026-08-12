@@ -1,0 +1,170 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN43S_0000",
+    "original": "長門にな、その……なんだ、パズル\nのヒントをもらおうとしたら",
+    "translation": "長門にな、その……なんだ、パズル\nのヒントをもらおうとしたら",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN43S_0001",
+    "original": "あいつ、ヒントじゃなくて答を\n言ってきたことがあるんだよ",
+    "translation": "あいつ、ヒントじゃなくて答を\n言ってきたことがあるんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN43S_0002",
+    "original": "有希は素直な娘だから、そのまま\n答えを言っちゃったのね",
+    "translation": "有希は素直な娘だから、そのまま\n答えを言っちゃったのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN43S_0003",
+    "original": "それにヒントより解答を考える方が\n楽だもの",
+    "translation": "それにヒントより解答を考える方が\n楽だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN43S_0004",
+    "original": "まあ、そうだな",
+    "translation": "まあ、そうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN43S_0005",
+    "original": "バーベキューの道具なんですけど",
+    "translation": "バーベキューの道具なんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN43S_0006",
+    "original": "あれは、長門さんがヒントをくれた\nお陰で見つかったそうですよ",
+    "translation": "あれは、長門さんがヒントをくれた\nお陰で見つかったそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN43S_0007",
+    "original": "へぇ、有希ったらえらいわね！\n後で褒めてあげなくちゃ",
+    "translation": "へぇ、有希ったらえらいわね！\n後で褒めてあげなくちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN43S_0008",
+    "original": "まったく、キョンったら自分の\n手柄のように報告するんだから",
+    "translation": "まったく、キョンったら自分の\n手柄のように報告するんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN43S_0009",
+    "original": "あとで説教しなくっちゃ！",
+    "translation": "あとで説教しなくっちゃ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN43S_0010",
+    "original": "え、えっと、みんなで探してたし、\nキョンくんは悪くないですよぅ",
+    "translation": "え、えっと、みんなで探してたし、\nキョンくんは悪くないですよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN43S_0011",
+    "original": "あ～もうっ、どこか近道はできない\nのかしら！　有希、判らない？",
+    "translation": "あ～もうっ、どこか近道はできない\nのかしら！　有希、判らない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN43S_0012",
+    "original": "最短の道順は",
+    "translation": "最短の道順は",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN43S_0013",
+    "original": "あ、待って！\nやっぱりいいわ！",
+    "translation": "あ、待って！\nやっぱりいいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN43S_0014",
+    "original": "有希に聞いたら、すぐに答えられ\nちゃいそうだもん",
+    "translation": "有希に聞いたら、すぐに答えられ\nちゃいそうだもん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN43S_0015",
+    "original": "自分で探すのもこーゆーことの\n醍醐味よね！",
+    "translation": "自分で探すのもこーゆーことの\n醍醐味よね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN43S_0016",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN43S_0017",
+    "original": "うん、すぐに近道を見付けてみせる\nから、待ってなさい！",
+    "translation": "うん、すぐに近道を見付けてみせる\nから、待ってなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN43S_0018",
+    "original": "バーベキューの道具について、長門\nさんのヒントが役に立ったそうです",
+    "translation": "バーベキューの道具について、長門\nさんのヒントが役に立ったそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN43S_0019",
+    "original": "なるほど、そうだったのね\nキョンにしては手際いいと思ったわ",
+    "translation": "なるほど、そうだったのね\nキョンにしては手際いいと思ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN43S_0020",
+    "original": "あくまでもヒントをもらっただけ\nですが",
+    "translation": "あくまでもヒントをもらっただけ\nですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN43S_0021",
+    "original": "そのヒントがなかったら、いまごろ\nみんな飢えてるかも知れないわよ",
+    "translation": "そのヒントがなかったら、いまごろ\nみんな飢えてるかも知れないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN43S_0022",
+    "original": "いえ、さすがにその前にはちゃんと\n見つけると思いますよ",
+    "translation": "いえ、さすがにその前にはちゃんと\n見つけると思いますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN43S_0023",
+    "original": "キョン以外の誰かが、でしょ",
+    "translation": "キョン以外の誰かが、でしょ",
+    "speaker": "ハルヒ"
+  }
+]

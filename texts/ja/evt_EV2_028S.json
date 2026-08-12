@@ -1,0 +1,192 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_028S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_028S_0001",
+    "original": "分かったわよ",
+    "translation": "分かったわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_028S_0002",
+    "original": "あ？　何がだ？",
+    "translation": "あ？　何がだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_028S_0003",
+    "original": "“ひとりでに鳴るピアノ”のこと\nに決まってるじゃない",
+    "translation": "“ひとりでに鳴るピアノ”のこと\nに決まってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_028S_0004",
+    "original": "なんか怪しいと思ってコンピ研の\n連中を問いただしてみたのよ",
+    "translation": "なんか怪しいと思ってコンピ研の\n連中を問いただしてみたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_028S_0005",
+    "original": "そしたら、コンピ研の前は軽音部が\n使ってたって言うじゃない？",
+    "translation": "そしたら、コンピ研の前は軽音部が\n使ってたって言うじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_028S_0006",
+    "original": "きっと、コンピ研の連中が聞いた\nのは軽音部の練習中の音なのよ",
+    "translation": "きっと、コンピ研の連中が聞いた\nのは軽音部の練習中の音なのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_028S_0007",
+    "original": "確かに、説明はついているように\n聞こえるが……",
+    "translation": "確かに、説明はついているように\n聞こえるが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_028S_0008",
+    "original": "あの部員はカギがかかっているのを\nしっかり確認している",
+    "translation": "あの部員はカギがかかっているのを\nしっかり確認している",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_028S_0009",
+    "original": "正直、穴だらけの推理であることは\n誰が聞いても明白だ",
+    "translation": "正直、穴だらけの推理であることは\n誰が聞いても明白だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_028S_0010",
+    "original": "だが、このことを指摘していい\nのだろうか？",
+    "translation": "だが、このことを指摘していい\nのだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_028S_0011",
+    "original": "いや、せっかくハルヒが納得いく\n答えを自分で用意してくれたんだ",
+    "translation": "いや、せっかくハルヒが納得いく\n答えを自分で用意してくれたんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_028S_0012",
+    "original": "ここは黙って聞いておこう",
+    "translation": "ここは黙って聞いておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_028S_0013",
+    "original": "聞いたらあの部員、作業が遅れに\n遅れてるそうよ",
+    "translation": "聞いたらあの部員、作業が遅れに\n遅れてるそうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_028S_0014",
+    "original": "きっと、他の部員から白い目で\n見らてるのが辛くなって",
+    "translation": "きっと、他の部員から白い目で\n見らてるのが辛くなって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_028S_0015",
+    "original": "言い訳がわりにこの件をでっち上げ\nたんじゃないかしら？",
+    "translation": "言い訳がわりにこの件をでっち上げ\nたんじゃないかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_028S_0016",
+    "original": "……なるほどな\nそういう理由だったのか",
+    "translation": "……なるほどな\nそういう理由だったのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_028S_0017",
+    "original": "まったく、前のにも増して\nお粗末な真相よね",
+    "translation": "まったく、前のにも増して\nお粗末な真相よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_028S_0018",
+    "original": "いっそ、もっと大きな事件になって\nれば解決のしがいもあったのに",
+    "translation": "いっそ、もっと大きな事件になって\nれば解決のしがいもあったのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_028S_0019",
+    "original": "物騒なことを言うな",
+    "translation": "物騒なことを言うな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_028S_0020",
+    "original": "ただでさえ、おまえが言うとシャレ\nですまない可能性が高いんだ",
+    "translation": "ただでさえ、おまえが言うとシャレ\nですまない可能性が高いんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_028S_0021",
+    "original": "この分じゃコンピ研の言うことは\n本当にあてにならないわね",
+    "translation": "この分じゃコンピ研の言うことは\n本当にあてにならないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_028S_0022",
+    "original": "次は、もっと別口から情報を\n集める必要があるかも",
+    "translation": "次は、もっと別口から情報を\n集める必要があるかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_028S_0023",
+    "original": "この口ぶりからすると、まだまだ\n飽きてもなく諦める気もないらしい",
+    "translation": "この口ぶりからすると、まだまだ\n飽きてもなく諦める気もないらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_028S_0024",
+    "original": "はぁ……",
+    "translation": "はぁ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_028S_0025",
+    "original": "次は何を持ってくる気だ……",
+    "translation": "次は何を持ってくる気だ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_028S_0026",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "CHOICE"
+  }
+]

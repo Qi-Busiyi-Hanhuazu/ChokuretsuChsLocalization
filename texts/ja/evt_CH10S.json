@@ -1,0 +1,464 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH10S_0000",
+    "original": "おまえはどんな時でも前向きで\n羨ましいよ",
+    "translation": "おまえはどんな時でも前向きで\n羨ましいよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH10S_0001",
+    "original": "なによ急に",
+    "translation": "なによ急に",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH10S_0002",
+    "original": "幽霊だの怪奇現象だの、本気で探そ\nうとするやつはいないってことだよ",
+    "translation": "幽霊だの怪奇現象だの、本気で探そ\nうとするやつはいないってことだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH10S_0003",
+    "original": "ふん、そんなだから人類は未だに\n幽霊とか宇宙人を捕まえてないのよ",
+    "translation": "ふん、そんなだから人類は未だに\n幽霊とか宇宙人を捕まえてないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH10S_0004",
+    "original": "あたしに言わせれば、みんな気合い\nが足りないのよ気合いが",
+    "translation": "あたしに言わせれば、みんな気合い\nが足りないのよ気合いが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH10S_0005",
+    "original": "本気でいると思って探せば、絶対に\n見つかるはずよ",
+    "translation": "本気でいると思って探せば、絶対に\n見つかるはずよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH10S_0006",
+    "original": "そもそも存在しないって可能性は\n考慮に入れないのか？",
+    "translation": "そもそも存在しないって可能性は\n考慮に入れないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH10S_0007",
+    "original": "存在しないものに、これだけ噂が\n広がっているわけないじゃない",
+    "translation": "存在しないものに、これだけ噂が\n広がっているわけないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH10S_0008",
+    "original": "幽霊も宇宙人も見たって人は\nごまんといるわ",
+    "translation": "幽霊も宇宙人も見たって人は\nごまんといるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH10S_0009",
+    "original": "それだけいれば、１人くらいは本物\nに出会ってるはずだと思わない？",
+    "translation": "それだけいれば、１人くらいは本物\nに出会ってるはずだと思わない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH10S_0010",
+    "original": "まったく呆れるくらい前向きだな",
+    "translation": "まったく呆れるくらい前向きだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH10S_0011",
+    "original": "涼宮さんは、いつも前向きでいい\nですね",
+    "translation": "涼宮さんは、いつも前向きでいい\nですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH10S_0012",
+    "original": "あら、みくるちゃん、あらたまって\nどうしたの？",
+    "translation": "あら、みくるちゃん、あらたまって\nどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH10S_0013",
+    "original": "いえ、あたしはなんでも悪い方に\nばかり考えちゃうし",
+    "translation": "いえ、あたしはなんでも悪い方に\nばかり考えちゃうし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH10S_0014",
+    "original": "自分から何か行動するっていうのも\n苦手だし……",
+    "translation": "自分から何か行動するっていうのも\n苦手だし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH10S_0015",
+    "original": "いつも前向きな涼宮さんがちょっと\n羨ましいなって",
+    "translation": "いつも前向きな涼宮さんがちょっと\n羨ましいなって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH10S_0016",
+    "original": "なるほどね",
+    "translation": "なるほどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH10S_0017",
+    "original": "でも、そういう控えめな性格が\nみくるちゃんの魅力でもあるわね",
+    "translation": "でも、そういう控えめな性格が\nみくるちゃんの魅力でもあるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH10S_0018",
+    "original": "え……そ、そうですか",
+    "translation": "え……そ、そうですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH10S_0019",
+    "original": "そうよ",
+    "translation": "そうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH10S_0020",
+    "original": "何ていうかこう",
+    "translation": "何ていうかこう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH10S_0021",
+    "original": "見てると思わずイジメたくなっちゃ\nうような所とかね",
+    "translation": "見てると思わずイジメたくなっちゃ\nうような所とかね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH10S_0022",
+    "original": "ええ！？",
+    "translation": "ええ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH10S_0023",
+    "original": "天然でドジっ娘なところとかも\nポイント高いわね",
+    "translation": "天然でドジっ娘なところとかも\nポイント高いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH10S_0024",
+    "original": "あ、あたしドジっ娘ですかぁ",
+    "translation": "あ、あたしドジっ娘ですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH10S_0025",
+    "original": "もちろん正真正銘の、どこに出して\nも恥ずかしくない折り紙付きの",
+    "translation": "もちろん正真正銘の、どこに出して\nも恥ずかしくない折り紙付きの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH10S_0026",
+    "original": "ドジっ娘だわ",
+    "translation": "ドジっ娘だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH10S_0027",
+    "original": "あんまり嬉しくありません……",
+    "translation": "あんまり嬉しくありません……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH10S_0028",
+    "original": "状況を認識するにあたって\n良い面のみを取り上げる傾向がある",
+    "translation": "状況を認識するにあたって\n良い面のみを取り上げる傾向がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH10S_0029",
+    "original": "有希ったら、妙なこと言うわね",
+    "translation": "有希ったら、妙なこと言うわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH10S_0030",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH10S_0031",
+    "original": "まあ、ひと言で言えばそっちの方が\n楽しいからよ",
+    "translation": "まあ、ひと言で言えばそっちの方が\n楽しいからよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH10S_0032",
+    "original": "ポジティブシンキングってやつ\nかしらね",
+    "translation": "ポジティブシンキングってやつ\nかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH10S_0033",
+    "original": "だってその方がいいでしょ？",
+    "translation": "だってその方がいいでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH10S_0034",
+    "original": "なんでも悪い方悪い方に考えてたら\n楽しくないじゃない？",
+    "translation": "なんでも悪い方悪い方に考えてたら\n楽しくないじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH10S_0035",
+    "original": "だからあたしは、どうしたら一番\n楽しくなるかだけ考えるのよ",
+    "translation": "だからあたしは、どうしたら一番\n楽しくなるかだけ考えるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH10S_0036",
+    "original": "問題が起こったら、その時なんとか\nすればいいのよ。分かった？",
+    "translation": "問題が起こったら、その時なんとか\nすればいいのよ。分かった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH10S_0037",
+    "original": "考え方は理解した",
+    "translation": "考え方は理解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH10S_0038",
+    "original": "そう、それは良かったわ",
+    "translation": "そう、それは良かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH10S_0039",
+    "original": "ところで……",
+    "translation": "ところで……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CH10S_0040",
+    "original": "今、あたしは有希をくすぐった時に\nどんな顔をするかが気になってるわ",
+    "translation": "今、あたしは有希をくすぐった時に\nどんな顔をするかが気になってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CH10S_0041",
+    "original": "先に行く",
+    "translation": "先に行く",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CH10S_0042",
+    "original": "あ、ちょっと待ってよ有希！\n冗談だってば！",
+    "translation": "あ、ちょっと待ってよ有希！\n冗談だってば！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CH10S_0043",
+    "original": "涼宮さんは、常に前向きで見ていて\n非常に清々しいです",
+    "translation": "涼宮さんは、常に前向きで見ていて\n非常に清々しいです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CH10S_0044",
+    "original": "それって、一応褒めてるのよね",
+    "translation": "それって、一応褒めてるのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CH10S_0045",
+    "original": "もちろんですとも",
+    "translation": "もちろんですとも",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CH10S_0046",
+    "original": "なら、ありがと",
+    "translation": "なら、ありがと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CH10S_0047",
+    "original": "そのポジティブさの秘訣をお教え\nいただければと思うのですが",
+    "translation": "そのポジティブさの秘訣をお教え\nいただければと思うのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CH10S_0048",
+    "original": "秘訣なんてないわよ",
+    "translation": "秘訣なんてないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CH10S_0049",
+    "original": "ただ単に、常にどうやったら楽しく\nなるか考えてるだけ",
+    "translation": "ただ単に、常にどうやったら楽しく\nなるか考えてるだけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CH10S_0050",
+    "original": "なるほど。しかし、普通の人には\nなかなか難しいですね",
+    "translation": "なるほど。しかし、普通の人には\nなかなか難しいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_CH10S_0051",
+    "original": "難しいと思うからダメなのよ",
+    "translation": "難しいと思うからダメなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CH10S_0052",
+    "original": "それこそ余計なことは考えずに\n楽しいことだけに集中しないと",
+    "translation": "それこそ余計なことは考えずに\n楽しいことだけに集中しないと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CH10S_0053",
+    "original": "たとえば、今はこうして怪奇現象を\n探してるけど",
+    "translation": "たとえば、今はこうして怪奇現象を\n探してるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CH10S_0054",
+    "original": "ちょっと視点を変えて、古泉くんが\n本気で苦手な物って何かしら？",
+    "translation": "ちょっと視点を変えて、古泉くんが\n本気で苦手な物って何かしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CH10S_0055",
+    "original": "とかも考えたりするわ",
+    "translation": "とかも考えたりするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CH10S_0056",
+    "original": "それはまた、恐ろしいですね",
+    "translation": "それはまた、恐ろしいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CH10S_0057",
+    "original": "いつもスマートな古泉くんが、\n本気で慌ててる姿なんて……",
+    "translation": "いつもスマートな古泉くんが、\n本気で慌ててる姿なんて……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CH10S_0058",
+    "original": "ちょっと面白そうじゃない？",
+    "translation": "ちょっと面白そうじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CH10S_0059",
+    "original": "僕としてはなかなか返答に困る\n質問ですね",
+    "translation": "僕としてはなかなか返答に困る\n質問ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CH10S_0060",
+    "original": "ふーん……",
+    "translation": "ふーん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CH10S_0061",
+    "original": "ねえ古泉くんでも、苦手なものって\nあったりするの？",
+    "translation": "ねえ古泉くんでも、苦手なものって\nあったりするの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CH10S_0062",
+    "original": "いやー、困りましたね\n残念ながら、お答えしかねます",
+    "translation": "いやー、困りましたね\n残念ながら、お答えしかねます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CH10S_0063",
+    "original": "安心して、大丈夫\n誰にも言わないから",
+    "translation": "安心して、大丈夫\n誰にも言わないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CH10S_0064",
+    "original": "おや、そろそろ急がないと時間が\nありませんね。急ぎましょう",
+    "translation": "おや、そろそろ急がないと時間が\nありませんね。急ぎましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_CH10S_0065",
+    "original": "あ、古泉くん、ちょっと待ってよ！",
+    "translation": "あ、古泉くん、ちょっと待ってよ！",
+    "speaker": "ハルヒ"
+  }
+]

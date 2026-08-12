@@ -1,0 +1,1165 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_003S_0000",
+    "original": "鍵がかかった音楽室の前で、ピアノ\nが鳴るのを待つのは無意味過ぎる",
+    "translation": "鍵がかかった音楽室の前で、ピアノ\nが鳴るのを待つのは無意味過ぎる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_003S_0001",
+    "original": "もし万が一、鳴り出したとしても\nハルヒに報告なんてできない",
+    "translation": "もし万が一、鳴り出したとしても\nハルヒに報告なんてできない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_003S_0002",
+    "original": "つまりはムダってことだ",
+    "translation": "つまりはムダってことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_003S_0003",
+    "original": "ハルヒの指示で音楽室に向かって\nいた俺は方向転換することにした",
+    "translation": "ハルヒの指示で音楽室に向かって\nいた俺は方向転換することにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_003S_0004",
+    "original": "すでにハルヒは図書室に着いている\nはずだから戻っても大丈夫だろう",
+    "translation": "すでにハルヒは図書室に着いている\nはずだから戻っても大丈夫だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_003S_0005",
+    "original": "ハルヒの手前、危険な事情聴取は\nできなかったからな",
+    "translation": "ハルヒの手前、危険な事情聴取は\nできなかったからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_003S_0006",
+    "original": "事態はどんどん深刻化していると\n長門が言っていた",
+    "translation": "事態はどんどん深刻化していると\n長門が言っていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_003S_0007",
+    "original": "早急に手を打たないと、学校の\n七不思議どころではなく",
+    "translation": "早急に手を打たないと、学校の\n七不思議どころではなく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_003S_0008",
+    "original": "オカルト学園になってしまい\nかねないのが恐ろしい",
+    "translation": "オカルト学園になってしまい\nかねないのが恐ろしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_003S_0009",
+    "original": "その方が、ハルヒは喜ぶかも\nしれないが",
+    "translation": "その方が、ハルヒは喜ぶかも\nしれないが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_003S_0010",
+    "original": "その結果が予測不能で世界崩壊かも\nしれないなら何とかせねばなるまい",
+    "translation": "その結果が予測不能で世界崩壊かも\nしれないなら何とかせねばなるまい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_003S_0011",
+    "original": "やれやれ、面倒なこった",
+    "translation": "やれやれ、面倒なこった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_003S_0012",
+    "original": "世界を救う正義の味方は、ぜひ俺\n以外であって欲しかったね",
+    "translation": "世界を救う正義の味方は、ぜひ俺\n以外であって欲しかったね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_003S_0013",
+    "original": "あれ……？\n例の部員がいない",
+    "translation": "あれ……？\n例の部員がいない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_003S_0014",
+    "original": "おや、またキミか",
+    "translation": "おや、またキミか",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_003S_0015",
+    "original": "すみません、たびたび",
+    "translation": "すみません、たびたび",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_003S_0016",
+    "original": "あの、楽譜を書いていた彼は？",
+    "translation": "あの、楽譜を書いていた彼は？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_003S_0017",
+    "original": "少し前に出て行ったけど……",
+    "translation": "少し前に出て行ったけど……",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_003S_0018",
+    "original": "たぶん音楽室へ行ったんだと思うが",
+    "translation": "たぶん音楽室へ行ったんだと思うが",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_003S_0019",
+    "original": "音楽室？　行き違いか……",
+    "translation": "音楽室？　行き違いか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_003S_0020",
+    "original": "常々、アリとキリギリスでは、キリ\nギリスに親近感を感じる俺だが",
+    "translation": "常々、アリとキリギリスでは、キリ\nギリスに親近感を感じる俺だが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_003S_0021",
+    "original": "努力した後にそれが正解だと知らさ\nれるとさらに疲労感が高まる",
+    "translation": "努力した後にそれが正解だと知らさ\nれるとさらに疲労感が高まる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_003S_0022",
+    "original": "ただ待っていれば向こうからやって\nきてくれたとは……",
+    "translation": "ただ待っていれば向こうからやって\nきてくれたとは……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_003S_0023",
+    "original": "自分の信念に忠実であるべきだった",
+    "translation": "自分の信念に忠実であるべきだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_003S_0024",
+    "original": "とは言え、ここまで引き返してきた\n元くらいは取っておきたいところだ",
+    "translation": "とは言え、ここまで引き返してきた\n元くらいは取っておきたいところだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_003S_0025",
+    "original": "さっきの人が書いてた楽譜だけど\n見せてもらえませんか？",
+    "translation": "さっきの人が書いてた楽譜だけど\n見せてもらえませんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_003S_0026",
+    "original": "長門は何者かの命令で楽譜を書かさ\nれていると言っていた",
+    "translation": "長門は何者かの命令で楽譜を書かさ\nれていると言っていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_003S_0027",
+    "original": "その何者かが情報生命体とやらなら\n楽譜に何がしかの手がかりがある",
+    "translation": "その何者かが情報生命体とやらなら\n楽譜に何がしかの手がかりがある",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_003S_0028",
+    "original": "そう考えるのは自然な流れだろう",
+    "translation": "そう考えるのは自然な流れだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_003S_0029",
+    "original": "えーと、部外者には見せたくないん\nだけど……あれ？",
+    "translation": "えーと、部外者には見せたくないん\nだけど……あれ？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_003S_0030",
+    "original": "部長氏は机を振り返って\n首を傾げた",
+    "translation": "部長氏は机を振り返って\n首を傾げた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_003S_0031",
+    "original": "どうしました？",
+    "translation": "どうしました？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_003S_0032",
+    "original": "机の上に書いてた楽譜がないんだよ\nもしかして持って行ったのかな？",
+    "translation": "机の上に書いてた楽譜がないんだよ\nもしかして持って行ったのかな？",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_003S_0033",
+    "original": "そうですか……",
+    "translation": "そうですか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_003S_0034",
+    "original": "運が悪い男だな、君も",
+    "translation": "運が悪い男だな、君も",
+    "speaker": "部長氏"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_003S_0035",
+    "original": "ええ、知ってますよ",
+    "translation": "ええ、知ってますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_003S_0036",
+    "original": "そもそもこんな騒ぎに巻き込まれて\nいること自体が、最高の不運だ",
+    "translation": "そもそもこんな騒ぎに巻き込まれて\nいること自体が、最高の不運だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_003S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "部長氏",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_003S_0038",
+    "original": "仕方なく音楽室にとって返すことに\nなったのだが……",
+    "translation": "仕方なく音楽室にとって返すことに\nなったのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_003S_0039",
+    "original": "しかし遠い、遠すぎる",
+    "translation": "しかし遠い、遠すぎる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_003S_0040",
+    "original": "入学してからこっち、ずっと思って\nたが……",
+    "translation": "入学してからこっち、ずっと思って\nたが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_003S_0041",
+    "original": "この学校はどうしてこう無駄に\nデカイんだ？",
+    "translation": "この学校はどうしてこう無駄に\nデカイんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_003S_0042",
+    "original": "この少子化の時代に、１年が９組ま\nであるってのが信じられん",
+    "translation": "この少子化の時代に、１年が９組ま\nであるってのが信じられん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_003S_0043",
+    "original": "もっとも、あやうく１０組めができ\nるとこだったが……",
+    "translation": "もっとも、あやうく１０組めができ\nるとこだったが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_003S_0044",
+    "original": "部室がある旧館と本館の音楽室は\n真反対の端と端",
+    "translation": "部室がある旧館と本館の音楽室は\n真反対の端と端",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_003S_0045",
+    "original": "まさに学校縦断する必要がある",
+    "translation": "まさに学校縦断する必要がある",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_003S_0046",
+    "original": "恨むべきはこの学校を建てたヤツか\nハルヒかコンピ研の部員か……ん？",
+    "translation": "恨むべきはこの学校を建てたヤツか\nハルヒかコンピ研の部員か……ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_003S_0047",
+    "original": "目前に男の背中を見つけた",
+    "translation": "目前に男の背中を見つけた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_003S_0048",
+    "original": "薄い背中に見覚えがある。コンピ研\nのピアノを聞いたという部員だ",
+    "translation": "薄い背中に見覚えがある。コンピ研\nのピアノを聞いたという部員だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_003S_0049",
+    "original": "妙におぼつかない足取りで……",
+    "translation": "妙におぼつかない足取りで……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_003S_0050",
+    "original": "あれは何かを抱えているのか？",
+    "translation": "あれは何かを抱えているのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_003S_0051",
+    "original": "すぐに声をかけようとも思ったが\n長門の言葉を思い出し様子を見る",
+    "translation": "すぐに声をかけようとも思ったが\n長門の言葉を思い出し様子を見る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_003S_0052",
+    "original": "脳に何かを転写された痕跡と言われ\nてもさっぱりわけがわからんが",
+    "translation": "脳に何かを転写された痕跡と言われ\nてもさっぱりわけがわからんが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_003S_0053",
+    "original": "警戒しておこうと思うくらいには\n彼は十分に挙動不審だった",
+    "translation": "警戒しておこうと思うくらいには\n彼は十分に挙動不審だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_003S_0054",
+    "original": "泊まり込みとは言っても、まるで\n何日も寝ていないような歩き方だ",
+    "translation": "泊まり込みとは言っても、まるで\n何日も寝ていないような歩き方だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_003S_0055",
+    "original": "フラフラしながら、あちこちをのぞ\nきこむようにして進んでいく",
+    "translation": "フラフラしながら、あちこちをのぞ\nきこむようにして進んでいく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_003S_0056",
+    "original": "……いったい何をしているんだ？",
+    "translation": "……いったい何をしているんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_003S_0057",
+    "original": "そのうち、廊下にしゃがみこんだ",
+    "translation": "そのうち、廊下にしゃがみこんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_003S_0058",
+    "original": "……オルゴール？",
+    "translation": "……オルゴール？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_003S_0059",
+    "original": "立ち上がり歩き出す。抱えていたの\nは、オルゴールだったらしい",
+    "translation": "立ち上がり歩き出す。抱えていたの\nは、オルゴールだったらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_003S_0060",
+    "original": "こんなところにオルゴールを置いて\nどうするんだ？",
+    "translation": "こんなところにオルゴールを置いて\nどうするんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_003S_0061",
+    "original": "置き場所を探して、そこここをのぞ\nいていたのかもしれない",
+    "translation": "置き場所を探して、そこここをのぞ\nいていたのかもしれない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_003S_0062",
+    "original": "相変わらずふらついた足取りだが\nよそ見せずにまっすぐ去っていく",
+    "translation": "相変わらずふらついた足取りだが\nよそ見せずにまっすぐ去っていく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_003S_0063",
+    "original": "部員が去ったのを見届けて、俺は\nオルゴールが置かれた場所に近づく",
+    "translation": "部員が去ったのを見届けて、俺は\nオルゴールが置かれた場所に近づく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_003S_0064",
+    "original": "普通のオルゴールに見えるが……",
+    "translation": "普通のオルゴールに見えるが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_003S_0065",
+    "original": "だが、念のため長門に見てもらった\n方がいいだろう",
+    "translation": "だが、念のため長門に見てもらった\n方がいいだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_003S_0066",
+    "original": "持ち上げてフタを閉じる",
+    "translation": "持ち上げてフタを閉じる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_003S_0067",
+    "original": "さっさと長門のところに見せに行く\nか、部員の後を追うか逡巡した時",
+    "translation": "さっさと長門のところに見せに行く\nか、部員の後を追うか逡巡した時",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_003S_0068",
+    "original": "フタを閉じるなあ～っ！",
+    "translation": "フタを閉じるなあ～っ！",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_003S_0069",
+    "original": "えっ？",
+    "translation": "えっ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_003S_0070",
+    "original": "姿が見えなくなったはずの部員が\nこっちに向かって走ってくる",
+    "translation": "姿が見えなくなったはずの部員が\nこっちに向かって走ってくる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_003S_0071",
+    "original": "止めるな～、聞け～、お前も聞け～",
+    "translation": "止めるな～、聞け～、お前も聞け～",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_003S_0072",
+    "original": "なんだ、こいつ！？",
+    "translation": "なんだ、こいつ！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_003S_0073",
+    "original": "部員は片手に楽譜を持って、振り回\nしながら俺に襲いかかる",
+    "translation": "部員は片手に楽譜を持って、振り回\nしながら俺に襲いかかる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_003S_0074",
+    "original": "俺の手の中のオルゴールを奪おうと\n部員は腕を伸ばした",
+    "translation": "俺の手の中のオルゴールを奪おうと\n部員は腕を伸ばした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_003S_0075",
+    "original": "聞けよ～、音楽を聞け～",
+    "translation": "聞けよ～、音楽を聞け～",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_003S_0076",
+    "original": "いや、違う。彼はオルゴールのフタ\nを開けようとしているのだ",
+    "translation": "いや、違う。彼はオルゴールのフタ\nを開けようとしているのだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_003S_0077",
+    "original": "ちょっと待てよ",
+    "translation": "ちょっと待てよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_003S_0078",
+    "original": "おまえも聞け～っ！",
+    "translation": "おまえも聞け～っ！",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_003S_0079",
+    "original": "俺に聞かせたがっている？",
+    "translation": "俺に聞かせたがっている？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_003S_0080",
+    "original": "明らかに様子がおかしい奴が\nオルゴールのフタを開けたがる",
+    "translation": "明らかに様子がおかしい奴が\nオルゴールのフタを開けたがる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_003S_0081",
+    "original": "それなら、開けさせてはならない\nってことだろう",
+    "translation": "それなら、開けさせてはならない\nってことだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_003S_0082",
+    "original": "俺はオルゴールに触れさせまいと\n体を捻った",
+    "translation": "俺はオルゴールに触れさせまいと\n体を捻った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_003S_0083",
+    "original": "部員の手のオルゴールが弾かれ\n床に落ちる",
+    "translation": "部員の手のオルゴールが弾かれ\n床に落ちる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_003S_0084",
+    "original": "落ちた衝撃でフタが開いたが、音は\n鳴り出さない",
+    "translation": "落ちた衝撃でフタが開いたが、音は\n鳴り出さない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_003S_0085",
+    "original": "ん？　壊れたのか？",
+    "translation": "ん？　壊れたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_003S_0086",
+    "original": "うう～っ",
+    "translation": "うう～っ",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_003S_0087",
+    "original": "途端に、部員は糸が切れたように\nくたりと床にくずおれた",
+    "translation": "途端に、部員は糸が切れたように\nくたりと床にくずおれた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_003S_0088",
+    "original": "彼が手に持っていた楽譜が、廊下に\n散らばる",
+    "translation": "彼が手に持っていた楽譜が、廊下に\n散らばる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_003S_0089",
+    "original": "……これはどうなってるんだ？",
+    "translation": "……これはどうなってるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_003S_0090",
+    "original": "廊下に転がる壊れたオルゴールと\n部員を不審気に見る",
+    "translation": "廊下に転がる壊れたオルゴールと\n部員を不審気に見る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_003S_0091",
+    "original": "う……、うーん",
+    "translation": "う……、うーん",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_003S_0092",
+    "original": "部員が目を覚ましたようだ",
+    "translation": "部員が目を覚ましたようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_003S_0093",
+    "original": "あれ……？　ここはどこだ？\n僕はどうしてこんなところに？",
+    "translation": "あれ……？　ここはどこだ？\n僕はどうしてこんなところに？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_003S_0094",
+    "original": "周りを見まわして首を傾げている姿\nを信じていいのだろうか？",
+    "translation": "周りを見まわして首を傾げている姿\nを信じていいのだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_003S_0095",
+    "original": "……おい",
+    "translation": "……おい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_003S_0096",
+    "original": "ん、キミは、ＳＯＳ団の人だよな\n僕に音楽室の話を聞きに来た",
+    "translation": "ん、キミは、ＳＯＳ団の人だよな\n僕に音楽室の話を聞きに来た",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_003S_0097",
+    "original": "なあ、僕は部室にいたはずなのに\nなんでこんなとこで寝てたんだ？",
+    "translation": "なあ、僕は部室にいたはずなのに\nなんでこんなとこで寝てたんだ？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_003S_0098",
+    "original": "あのオルゴール、覚えてるか？",
+    "translation": "あのオルゴール、覚えてるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_003S_0099",
+    "original": "オルゴール？　いや、全然",
+    "translation": "オルゴール？　いや、全然",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_003S_0100",
+    "original": "その楽譜は？",
+    "translation": "その楽譜は？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_003S_0101",
+    "original": "楽譜？　この散らばってる楽譜？\n僕は知らないけど",
+    "translation": "楽譜？　この散らばってる楽譜？\n僕は知らないけど",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_003S_0102",
+    "original": "演技とも思えない。長門が言った\n記憶転写とやらから、意識がない？",
+    "translation": "演技とも思えない。長門が言った\n記憶転写とやらから、意識がない？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_003S_0103",
+    "original": "つまり、情報生命体とやらに操られ\nていたんだろうか？",
+    "translation": "つまり、情報生命体とやらに操られ\nていたんだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_003S_0104",
+    "original": "うーん、うーん、思い出せない……",
+    "translation": "うーん、うーん、思い出せない……",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_003S_0105",
+    "original": "音楽室に音のサンプルを取りに行く\nと他の部員が言ってたけど",
+    "translation": "音楽室に音のサンプルを取りに行く\nと他の部員が言ってたけど",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_003S_0106",
+    "original": "そ、そうなのか……",
+    "translation": "そ、そうなのか……",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_003S_0107",
+    "original": "無意識に動いてたんじゃないのか？\nちゃんと寝た方がいいぞ",
+    "translation": "無意識に動いてたんじゃないのか？\nちゃんと寝た方がいいぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_003S_0108",
+    "original": "そうだな……そうするよ",
+    "translation": "そうだな……そうするよ",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_003S_0109",
+    "original": "部員は素直にうなずいて、歩きだす",
+    "translation": "部員は素直にうなずいて、歩きだす",
+    "speaker": "キョン"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_003S_0110",
+    "original": "俺は廊下に散らばった楽譜をかき\n集めた",
+    "translation": "俺は廊下に散らばった楽譜をかき\n集めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_003S_0111",
+    "original": "オルゴールと楽譜か。長門にどちら\nも見てもらった方がいいだろう",
+    "translation": "オルゴールと楽譜か。長門にどちら\nも見てもらった方がいいだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_003S_0112",
+    "original": "情報生命体とやらが行動を起こして\nいることはこれでハッキリしたが",
+    "translation": "情報生命体とやらが行動を起こして\nいることはこれでハッキリしたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_003S_0113",
+    "original": "この先どうなることやら",
+    "translation": "この先どうなることやら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_003S_0114",
+    "original": "おい、コンピ研の人",
+    "translation": "おい、コンピ研の人",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_003S_0115",
+    "original": "なにかな？",
+    "translation": "なにかな？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_003S_0116",
+    "original": "覚えてないかもしれないが、その\n楽譜、あんたが書いたんだ",
+    "translation": "覚えてないかもしれないが、その\n楽譜、あんたが書いたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_003S_0117",
+    "original": "え、僕が？",
+    "translation": "え、僕が？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_003S_0118",
+    "original": "すごい勢いで書き込んでいたぞ",
+    "translation": "すごい勢いで書き込んでいたぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_003S_0119",
+    "original": "覚えてないけど……\nそれ、見せてもらえるかい？",
+    "translation": "覚えてないけど……\nそれ、見せてもらえるかい？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_003S_0120",
+    "original": "ふーん、未完成だけど\n悪くない曲かも知れないな",
+    "translation": "ふーん、未完成だけど\n悪くない曲かも知れないな",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_003S_0121",
+    "original": "無意識で名曲を作ってしまうとは\n僕もなかなかやるもんだ",
+    "translation": "無意識で名曲を作ってしまうとは\n僕もなかなかやるもんだ",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_003S_0122",
+    "original": "短時間で悪くないから名曲にランク\nアップしているし",
+    "translation": "短時間で悪くないから名曲にランク\nアップしているし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_003S_0123",
+    "original": "ＳＯＳ団は敵かと思ったが、キミは\nいい人だねえ、ありがとう",
+    "translation": "ＳＯＳ団は敵かと思ったが、キミは\nいい人だねえ、ありがとう",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV2_003S_0124",
+    "original": "いや、また色々聞きに行くかもしれ\nないがその時はよろしく",
+    "translation": "いや、また色々聞きに行くかもしれ\nないがその時はよろしく",
+    "speaker": "キョン"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV2_003S_0125",
+    "original": "キミも大変だね",
+    "translation": "キミも大変だね",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV2_003S_0126",
+    "original": "しみじみと言わないで欲しい。さて\n俺もこの話を長門や古泉にしないと",
+    "translation": "しみじみと言わないで欲しい。さて\n俺もこの話を長門や古泉にしないと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV2_003S_0127",
+    "original": "情報生命体とやらはいったい何を\nたくらんでいるのやら……",
+    "translation": "情報生命体とやらはいったい何を\nたくらんでいるのやら……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV2_003S_0128",
+    "original": "オルゴールに何の意味があるのか\nわからないが、まずは部員が先だ",
+    "translation": "オルゴールに何の意味があるのか\nわからないが、まずは部員が先だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV2_003S_0129",
+    "original": "俺は部員を見失わないように後を\nつけることにした",
+    "translation": "俺は部員を見失わないように後を\nつけることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV2_003S_0130",
+    "original": "あれ……姿が消えた？",
+    "translation": "あれ……姿が消えた？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV2_003S_0131",
+    "original": "部員の後をつけ、角を曲がったと\n思ったら、その先に姿が見えない",
+    "translation": "部員の後をつけ、角を曲がったと\n思ったら、その先に姿が見えない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV2_003S_0132",
+    "original": "どこにいったんだ？",
+    "translation": "どこにいったんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV2_003S_0133",
+    "original": "うわあああっ！",
+    "translation": "うわあああっ！",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV2_003S_0134",
+    "original": "んっ？",
+    "translation": "んっ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV2_003S_0135",
+    "original": "部員は突然俺に襲いかかって来る",
+    "translation": "部員は突然俺に襲いかかって来る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV2_003S_0136",
+    "original": "うわあっ、[#W20][#SE412][#Q00]わああっ、[#W20][#SE412][#Q00]わあっ！",
+    "translation": "うわあっ、[#W20][#SE412][#Q00]わああっ、[#W20][#SE412][#Q00]わあっ！",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV2_003S_0137",
+    "original": "楽譜を持った腕をぶんぶんと振り\n回しているが、大振りな動きだ",
+    "translation": "楽譜を持った腕をぶんぶんと振り\n回しているが、大振りな動きだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV2_003S_0138",
+    "original": "どこかぎこちない、人形のような\n攻撃を避けるのは難しくない",
+    "translation": "どこかぎこちない、人形のような\n攻撃を避けるのは難しくない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV2_003S_0139",
+    "original": "あぐっ？",
+    "translation": "あぐっ？",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV2_003S_0140",
+    "original": "……がふっ",
+    "translation": "……がふっ",
+    "speaker": "部員Ｂ"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV2_003S_0141",
+    "original": "おいおい……",
+    "translation": "おいおい……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV2_003S_0142",
+    "original": "転がった部員が起き上がってこない\n足先でつついても動かない",
+    "translation": "転がった部員が起き上がってこない\n足先でつついても動かない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV2_003S_0143",
+    "original": "襲いかかって勝手に転び、勝手に\n気絶するとは敵としてどうなんだ？",
+    "translation": "襲いかかって勝手に転び、勝手に\n気絶するとは敵としてどうなんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV2_003S_0144",
+    "original": "コンピ研、体力なさ過ぎだろう",
+    "translation": "コンピ研、体力なさ過ぎだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV2_003S_0145",
+    "original": "いきなり襲われる理由もわからない\nが、しかし妙な動きをしていた",
+    "translation": "いきなり襲われる理由もわからない\nが、しかし妙な動きをしていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV2_003S_0146",
+    "original": "倒れた部員の周りに手にしていた\n楽譜が散らばっている",
+    "translation": "倒れた部員の周りに手にしていた\n楽譜が散らばっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV2_003S_0147",
+    "original": "部員が襲っていたというより、楽譜\nが部員を動かしてたみたいな？",
+    "translation": "部員が襲っていたというより、楽譜\nが部員を動かしてたみたいな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV2_003S_0148",
+    "original": "この楽譜……",
+    "translation": "この楽譜……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV2_003S_0149",
+    "original": "怪しいよな。持ち帰って長門に見て\nもらった方が良さそうだ",
+    "translation": "怪しいよな。持ち帰って長門に見て\nもらった方が良さそうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV2_003S_0150",
+    "original": "部員は気絶しているようだが\n起こせばまた襲われる可能性もある",
+    "translation": "部員は気絶しているようだが\n起こせばまた襲われる可能性もある",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV2_003S_0151",
+    "original": "少々心配だが、このままにしておく\nしかないだろう",
+    "translation": "少々心配だが、このままにしておく\nしかないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV2_003S_0152",
+    "original": "俺は楽譜を持ってさっさとみんなの\nところへ戻ることにした",
+    "translation": "俺は楽譜を持ってさっさとみんなの\nところへ戻ることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV2_003S_0153",
+    "original": "怪しすぎる。ヘタに触れて、コンピ\n研部員の二の舞になるのも困るし",
+    "translation": "怪しすぎる。ヘタに触れて、コンピ\n研部員の二の舞になるのも困るし",
+    "speaker": "キョン"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV2_003S_0154",
+    "original": "この楽譜が部員を操っていたのかも\nしれないという危惧が捨てられない",
+    "translation": "この楽譜が部員を操っていたのかも\nしれないという危惧が捨てられない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV2_003S_0155",
+    "original": "長門と古泉にまず話をして確認して\nみるか",
+    "translation": "長門と古泉にまず話をして確認して\nみるか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV2_003S_0156",
+    "original": "部員は寝息を立てていて、気絶と\nいうよりは熟睡しているだけらしい",
+    "translation": "部員は寝息を立てていて、気絶と\nいうよりは熟睡しているだけらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV2_003S_0157",
+    "original": "このまま放っておいても良さそうだ",
+    "translation": "このまま放っておいても良さそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV2_003S_0158",
+    "original": "とにかく事態を報告だな",
+    "translation": "とにかく事態を報告だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV2_003S_0159",
+    "original": "俺はいったんみんなのところへ\n戻ることにした",
+    "translation": "俺はいったんみんなのところへ\n戻ることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV2_003S_0160",
+    "original": "オルゴールを回収",
+    "translation": "オルゴールを回収",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 161,
+    "key": "evt_EV2_003S_0161",
+    "original": "部員の後をつける",
+    "translation": "部員の後をつける",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV2_003S_0162",
+    "original": "楽譜を回収",
+    "translation": "楽譜を回収",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV2_003S_0163",
+    "original": "回収しない",
+    "translation": "回収しない",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV2_003S_0164",
+    "original": "楽譜を回収",
+    "translation": "楽譜を回収",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV2_003S_0165",
+    "original": "回収しない",
+    "translation": "回収しない",
+    "speaker": "CHOICE"
+  }
+]

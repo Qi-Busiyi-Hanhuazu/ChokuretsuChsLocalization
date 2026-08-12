@@ -1,0 +1,527 @@
+[
+  {
+    "index": 0,
+    "key": "evt_ED_H00S_0000",
+    "original": "長い長い一日となったＳＯＳ団の\n合宿も終わり",
+    "translation": "長い長い一日となったＳＯＳ団の\n合宿も終わり",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_ED_H00S_0001",
+    "original": "俺たちはそれぞれ自宅へと帰った",
+    "translation": "俺たちはそれぞれ自宅へと帰った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_ED_H00S_0002",
+    "original": "俺は帰り着くなりベッドに倒れ込む\nと、すぐさまやってきた睡魔に",
+    "translation": "俺は帰り着くなりベッドに倒れ込む\nと、すぐさまやってきた睡魔に",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_ED_H00S_0003",
+    "original": "抗おうともせず、そのまま目を\n閉じる",
+    "translation": "抗おうともせず、そのまま目を\n閉じる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_ED_H00S_0004",
+    "original": "もう槍だろうが小惑星だろうが\n何が落ちてこようと起きない――",
+    "translation": "もう槍だろうが小惑星だろうが\n何が落ちてこようと起きない――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_ED_H00S_0005",
+    "original": "半分眠った頭で、そんな不退転の\n決意をしていたその時――",
+    "translation": "半分眠った頭で、そんな不退転の\n決意をしていたその時――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_ED_H00S_0006",
+    "original": "う……誰だぁ……",
+    "translation": "う……誰だぁ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_ED_H00S_0007",
+    "original": "\nはい……もしもし？",
+    "translation": "\nはい……もしもし？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_ED_H00S_0008",
+    "original": "キョン！",
+    "translation": "キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_ED_H00S_0009",
+    "original": "ハルヒの怒声が俺の眠気を一発で\n吹き飛ばした",
+    "translation": "ハルヒの怒声が俺の眠気を一発で\n吹き飛ばした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_ED_H00S_0010",
+    "original": "……ハルヒ？",
+    "translation": "……ハルヒ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_ED_H00S_0011",
+    "original": "アンタ、今どこにいるの！",
+    "translation": "アンタ、今どこにいるの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_ED_H00S_0012",
+    "original": "な、なんだ……",
+    "translation": "な、なんだ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_ED_H00S_0013",
+    "original": "いいから今すぐ駅前に来なさい\n団長命令よ！",
+    "translation": "いいから今すぐ駅前に来なさい\n団長命令よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_ED_H00S_0014",
+    "original": "うう……暑ぃ……",
+    "translation": "うう……暑ぃ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_ED_H00S_0015",
+    "original": "ハルヒの呼び出しをうけて急いで\n待ち合わせ場所へと向かった",
+    "translation": "ハルヒの呼び出しをうけて急いで\n待ち合わせ場所へと向かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_ED_H00S_0016",
+    "original": "睡眠時間はざっと２時間弱\nはっきり言って、これは眠い",
+    "translation": "睡眠時間はざっと２時間弱\nはっきり言って、これは眠い",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_ED_H00S_0017",
+    "original": "おまけにこの容赦なく照りつける\n真夏の太陽……",
+    "translation": "おまけにこの容赦なく照りつける\n真夏の太陽……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_ED_H00S_0018",
+    "original": "なぜ俺は、律儀にもあいつの呼び\n出しに応じているいるのか",
+    "translation": "なぜ俺は、律儀にもあいつの呼び\n出しに応じているいるのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_ED_H00S_0019",
+    "original": "帰りたい。ひじょーに帰りたい\n回れ右して自転車に飛び乗りたい",
+    "translation": "帰りたい。ひじょーに帰りたい\n回れ右して自転車に飛び乗りたい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_ED_H00S_0020",
+    "original": "帰りにコンビニで冷たい炭酸などを\n購入して帰宅するのはどうだろう？",
+    "translation": "帰りにコンビニで冷たい炭酸などを\n購入して帰宅するのはどうだろう？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_ED_H00S_0021",
+    "original": "うん、それがいい。そうしよう",
+    "translation": "うん、それがいい。そうしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_ED_H00S_0022",
+    "original": "……あ",
+    "translation": "……あ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_ED_H00S_0023",
+    "original": "などと、自問自答していると――",
+    "translation": "などと、自問自答していると――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_ED_H00S_0024",
+    "original": "駅前のオブジェに寄りかかって待つ\nハルヒと目が合った",
+    "translation": "駅前のオブジェに寄りかかって待つ\nハルヒと目が合った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_ED_H00S_0025",
+    "original": "よお、早いな",
+    "translation": "よお、早いな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_ED_H00S_0026",
+    "original": "……む",
+    "translation": "……む",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_ED_H00S_0027",
+    "original": "いや、なぜ睨む",
+    "translation": "いや、なぜ睨む",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_ED_H00S_0028",
+    "original": "遅いわよ、キョン！",
+    "translation": "遅いわよ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_ED_H00S_0029",
+    "original": "……他の連中はどうした？",
+    "translation": "……他の連中はどうした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_ED_H00S_0030",
+    "original": "いったいなんなんだ、急に呼び出し\nなんて",
+    "translation": "いったいなんなんだ、急に呼び出し\nなんて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_ED_H00S_0031",
+    "original": "言ったでしょ、後で駅前に集合って",
+    "translation": "言ったでしょ、後で駅前に集合って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_ED_H00S_0032",
+    "original": "確かに、そんなことを言っていたよ\nうな気もするが……",
+    "translation": "確かに、そんなことを言っていたよ\nうな気もするが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_ED_H00S_0033",
+    "original": "俺の記憶が確かなら、時間は特に\n決めてなかったように思うんだがな",
+    "translation": "俺の記憶が確かなら、時間は特に\n決めてなかったように思うんだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_ED_H00S_0034",
+    "original": "だからよ",
+    "translation": "だからよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_ED_H00S_0035",
+    "original": "わざわざ電話で招集をかけてあげた\nんだから、ありがたく思いなさい",
+    "translation": "わざわざ電話で招集をかけてあげた\nんだから、ありがたく思いなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_ED_H00S_0036",
+    "original": "何がどうありがたいのか、さっぱり\n分からん",
+    "translation": "何がどうありがたいのか、さっぱり\n分からん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_ED_H00S_0037",
+    "original": "これから合宿の続きよ\n当然でしょ",
+    "translation": "これから合宿の続きよ\n当然でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_ED_H00S_0038",
+    "original": "なんだと？　今度はなんだ？\n昼飯でも作るってのか？",
+    "translation": "なんだと？　今度はなんだ？\n昼飯でも作るってのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_ED_H00S_0039",
+    "original": "悪いが俺は食欲より睡眠って気分だ\nそれも可及的速やかに床に就きたい",
+    "translation": "悪いが俺は食欲より睡眠って気分だ\nそれも可及的速やかに床に就きたい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_ED_H00S_0040",
+    "original": "アンタ、それも忘れたの？",
+    "translation": "アンタ、それも忘れたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_ED_H00S_0041",
+    "original": "結局、あたしたち一度も怪奇現象を\n体験できなかったわ",
+    "translation": "結局、あたしたち一度も怪奇現象を\n体験できなかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_ED_H00S_0042",
+    "original": "それじゃ、ＳＯＳ団の活動としては\n中途半端ってものよ",
+    "translation": "それじゃ、ＳＯＳ団の活動としては\n中途半端ってものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_ED_H00S_0043",
+    "original": "だから、これから街を探索するのよ",
+    "translation": "だから、これから街を探索するのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_ED_H00S_0044",
+    "original": "待て待て待て、その前に聞きたい\nことがいくつかある",
+    "translation": "待て待て待て、その前に聞きたい\nことがいくつかある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 45,
+    "key": "evt_ED_H00S_0045",
+    "original": "いいわよ、何でも聞きなさい",
+    "translation": "いいわよ、何でも聞きなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_ED_H00S_0046",
+    "original": "まずだな、なぜこの場には俺だけ\nしかいないんだ？",
+    "translation": "まずだな、なぜこの場には俺だけ\nしかいないんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 47,
+    "key": "evt_ED_H00S_0047",
+    "original": "もちろん、みんな後から来るわよ",
+    "translation": "もちろん、みんな後から来るわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_ED_H00S_0048",
+    "original": "せっかく朝まで頑張ったんだから",
+    "translation": "せっかく朝まで頑張ったんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_ED_H00S_0049",
+    "original": "もう少し寝かせてあげようと思った\nわけ",
+    "translation": "もう少し寝かせてあげようと思った\nわけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_ED_H00S_0050",
+    "original": "朝まで頑張ったのは俺も同じだと\n思うんだが",
+    "translation": "朝まで頑張ったのは俺も同じだと\n思うんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_ED_H00S_0051",
+    "original": "なぜ、誰よりも早く呼び出されて\nいるのか納得いく説明をしろ",
+    "translation": "なぜ、誰よりも早く呼び出されて\nいるのか納得いく説明をしろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_ED_H00S_0052",
+    "original": "アンタはいいのよ",
+    "translation": "アンタはいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_ED_H00S_0053",
+    "original": "なんという理屈だろう\nぐうの音も出ないとはこのことだ",
+    "translation": "なんという理屈だろう\nぐうの音も出ないとはこのことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_ED_H00S_0054",
+    "original": "……じゃあ、なぜこんな真っ昼間\nなんだ？",
+    "translation": "……じゃあ、なぜこんな真っ昼間\nなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_ED_H00S_0055",
+    "original": "怪奇現象の本番は夜からだろう",
+    "translation": "怪奇現象の本番は夜からだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 56,
+    "key": "evt_ED_H00S_0056",
+    "original": "そうだ、せめて夕方ぐらいまで",
+    "translation": "そうだ、せめて夕方ぐらいまで",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_ED_H00S_0057",
+    "original": "寝かせてくれればよかったのに\nまったく",
+    "translation": "寝かせてくれればよかったのに\nまったく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_ED_H00S_0058",
+    "original": "そんなの誰が決めたのよ",
+    "translation": "そんなの誰が決めたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_ED_H00S_0059",
+    "original": "朝だろうが昼だろうが、出る時は\n出るものなのよ",
+    "translation": "朝だろうが昼だろうが、出る時は\n出るものなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_ED_H00S_0060",
+    "original": "またもとんでもない理屈だな",
+    "translation": "またもとんでもない理屈だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_ED_H00S_0061",
+    "original": "一見して納得し難いが、よく考えて\nみると……やっぱり納得できん",
+    "translation": "一見して納得し難いが、よく考えて\nみると……やっぱり納得できん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 62,
+    "key": "evt_ED_H00S_0062",
+    "original": "文句ばっか言ってないで\n出発するわよ、キョン！",
+    "translation": "文句ばっか言ってないで\n出発するわよ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_ED_H00S_0063",
+    "original": "おい、待て、まだ質問は終わって\nないぞ！？",
+    "translation": "おい、待て、まだ質問は終わって\nないぞ！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 64,
+    "key": "evt_ED_H00S_0064",
+    "original": "まずはみんなが来るまで喫茶店で\n作戦会議ね",
+    "translation": "まずはみんなが来るまで喫茶店で\n作戦会議ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_ED_H00S_0065",
+    "original": "いったい、他の連中は何時間後に\n到着する予定なのか",
+    "translation": "いったい、他の連中は何時間後に\n到着する予定なのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_ED_H00S_0066",
+    "original": "なにより気になるのはハルヒのやつ\nがちっとも諦めてないことだ",
+    "translation": "なにより気になるのはハルヒのやつ\nがちっとも諦めてないことだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_ED_H00S_0067",
+    "original": "よもや、このままあの恐ろしい合宿\nの延長戦が行われるのだろうか？",
+    "translation": "よもや、このままあの恐ろしい合宿\nの延長戦が行われるのだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_ED_H00S_0068",
+    "original": "そうだ、言い忘れてたけど",
+    "translation": "そうだ、言い忘れてたけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_ED_H00S_0069",
+    "original": "すると、ハルヒが何かを思い出した\nかのように足を止めた",
+    "translation": "すると、ハルヒが何かを思い出した\nかのように足を止めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_ED_H00S_0070",
+    "original": "遅刻したんだから、もちろん\nキョンのおごりよ！",
+    "translation": "遅刻したんだから、もちろん\nキョンのおごりよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 71,
+    "key": "evt_ED_H00S_0071",
+    "original": "……いったい、なんの罰ゲームだ",
+    "translation": "……いったい、なんの罰ゲームだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_ED_H00S_0072",
+    "original": "ハルヒの意気揚々とした表情を横目\nに、俺は思わず溜息をつくのだった",
+    "translation": "ハルヒの意気揚々とした表情を横目\nに、俺は思わず溜息をつくのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_ED_H00S_0073",
+    "original": "やれやれだ",
+    "translation": "やれやれだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_ED_H00S_0074",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH09S_0000",
+    "original": "毎度の事ながら、すっかりハルヒの\nペースに巻き込まれてるな……",
+    "translation": "毎度の事ながら、すっかりハルヒの\nペースに巻き込まれてるな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH09S_0001",
+    "original": "なあ、ハルヒ。もう少しペースを\n落としてくれ",
+    "translation": "なあ、ハルヒ。もう少しペースを\n落としてくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH09S_0002",
+    "original": "俺たち団員にぺースを合わせてくれ\nてもいいんじゃないのか？",
+    "translation": "俺たち団員にぺースを合わせてくれ\nてもいいんじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH09S_0003",
+    "original": "学校に泊まり込むとか、怪奇現象を\n調べるとか、何もかも急すぎる",
+    "translation": "学校に泊まり込むとか、怪奇現象を\n調べるとか、何もかも急すぎる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH09S_0004",
+    "original": "なに寝ぼけたこと言ってんのよ",
+    "translation": "なに寝ぼけたこと言ってんのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH09S_0005",
+    "original": "このチャンスを逃したら、いつまた\n怪奇現象が起こるか分からないのよ",
+    "translation": "このチャンスを逃したら、いつまた\n怪奇現象が起こるか分からないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH09S_0006",
+    "original": "期間限定のイベントかよ",
+    "translation": "期間限定のイベントかよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH09S_0007",
+    "original": "気持ちは分かるが、おまえにペース\nを合わせる",
+    "translation": "気持ちは分かるが、おまえにペース\nを合わせる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH09S_0008",
+    "original": "こっちの身にもなってくれ",
+    "translation": "こっちの身にもなってくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH09S_0009",
+    "original": "この炎天下だ。俺や古泉はともかく\n朝比奈さんや長門は辛いだろう",
+    "translation": "この炎天下だ。俺や古泉はともかく\n朝比奈さんや長門は辛いだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH09S_0010",
+    "original": "むぅ……",
+    "translation": "むぅ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH09S_0011",
+    "original": "何も今すぐやめろってワケじゃない\nあまり焦るなって言ってるだけだ",
+    "translation": "何も今すぐやめろってワケじゃない\nあまり焦るなって言ってるだけだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH09S_0012",
+    "original": "……そうね、分かったわよ\nちょっとは考慮するわ",
+    "translation": "……そうね、分かったわよ\nちょっとは考慮するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH09S_0013",
+    "original": "アンタはともかく、みくるちゃんや\n有希は確かに大変かもしれないわね",
+    "translation": "アンタはともかく、みくるちゃんや\n有希は確かに大変かもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH09S_0014",
+    "original": "ああ、そうしてくれると助かるよ",
+    "translation": "ああ、そうしてくれると助かるよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH09S_0015",
+    "original": "あの、ちょっと\n待ってください……",
+    "translation": "あの、ちょっと\n待ってください……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH09S_0016",
+    "original": "どうしたの、みくるちゃん",
+    "translation": "どうしたの、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH09S_0017",
+    "original": "涼宮さんの、ペースが速すぎて\nあ、あたし……はぁ、はぁ……",
+    "translation": "涼宮さんの、ペースが速すぎて\nあ、あたし……はぁ、はぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH09S_0018",
+    "original": "みくるちゃん、気合いよ！\n気合いが大事なのよ！",
+    "translation": "みくるちゃん、気合いよ！\n気合いが大事なのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH09S_0019",
+    "original": "ご、ごめんなさぁい",
+    "translation": "ご、ごめんなさぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH09S_0020",
+    "original": "まあ仕方ないわ、少し休みましょう",
+    "translation": "まあ仕方ないわ、少し休みましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH09S_0021",
+    "original": "は、はい。ありがとうございます",
+    "translation": "は、はい。ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH09S_0022",
+    "original": "まあ、みくるちゃんはもっと鍛え\nないとだめね",
+    "translation": "まあ、みくるちゃんはもっと鍛え\nないとだめね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH09S_0023",
+    "original": "はいぃ……",
+    "translation": "はいぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH09S_0024",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH09S_0025",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH09S_0026",
+    "original": "少し歩くペースが速い",
+    "translation": "少し歩くペースが速い",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH09S_0027",
+    "original": "もしかして疲れたの？",
+    "translation": "もしかして疲れたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH09S_0028",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH09S_0029",
+    "original": "まあ、有希なら仕方ないわね",
+    "translation": "まあ、有希なら仕方ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH09S_0030",
+    "original": "キョンなら蹴飛ばしてやるとこ\nだけど……",
+    "translation": "キョンなら蹴飛ばしてやるとこ\nだけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH09S_0031",
+    "original": "有希が倒れたりしたら心配だから\n少し休みましょうか",
+    "translation": "有希が倒れたりしたら心配だから\n少し休みましょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH09S_0032",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH09S_0033",
+    "original": "涼宮さん、少しお待ちください",
+    "translation": "涼宮さん、少しお待ちください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH09S_0034",
+    "original": "どうしたの、古泉くん",
+    "translation": "どうしたの、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH09S_0035",
+    "original": "この暑さです、さすがに少し\n疲れてしまいました",
+    "translation": "この暑さです、さすがに少し\n疲れてしまいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH09S_0036",
+    "original": "まあ、確かに歩き回ってばかり\nだものね",
+    "translation": "まあ、確かに歩き回ってばかり\nだものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH09S_0037",
+    "original": "申しわけありません",
+    "translation": "申しわけありません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH09S_0038",
+    "original": "いいわ、あたしもちょっと休憩した\nいと思ってたとこだから",
+    "translation": "いいわ、あたしもちょっと休憩した\nいと思ってたとこだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH09S_0039",
+    "original": "いったん、飲み物でも買って\n飲みましょうか",
+    "translation": "いったん、飲み物でも買って\n飲みましょうか",
+    "speaker": "ハルヒ"
+  }
+]

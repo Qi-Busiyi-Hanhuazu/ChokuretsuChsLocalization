@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA57S_0000",
+    "original": "オモチャの携帯って知ってるか？",
+    "translation": "オモチャの携帯って知ってるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA57S_0001",
+    "original": "そんなオモチャがあるの？",
+    "translation": "そんなオモチャがあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA57S_0002",
+    "original": "けっこう本物そっくりなんだぜ\n本物に比べると軽いけどな",
+    "translation": "けっこう本物そっくりなんだぜ\n本物に比べると軽いけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA57S_0003",
+    "original": "今どき小学生だって本物の携帯\n持ってるでしょ？　誰が買うの？",
+    "translation": "今どき小学生だって本物の携帯\n持ってるでしょ？　誰が買うの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA57S_0004",
+    "original": "え？　幼稚園児とかか？",
+    "translation": "え？　幼稚園児とかか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA57S_0005",
+    "original": "そうね、幼児なら欲しがるかもね\nなんでも大人の真似したがるから",
+    "translation": "そうね、幼児なら欲しがるかもね\nなんでも大人の真似したがるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA57S_0006",
+    "original": "幼児でない俺も買ったがな",
+    "translation": "幼児でない俺も買ったがな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA57S_0007",
+    "original": "で、オモチャの携帯がどうした訳？",
+    "translation": "で、オモチャの携帯がどうした訳？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA57S_0008",
+    "original": "おまえ用のイタズラに使うつもり\nとは言えないしな",
+    "translation": "おまえ用のイタズラに使うつもり\nとは言えないしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA57S_0009",
+    "original": "コンビニで見かけたから、言って\nみただけだよ",
+    "translation": "コンビニで見かけたから、言って\nみただけだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA57S_0010",
+    "original": "つまんない話題ね",
+    "translation": "つまんない話題ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA57S_0011",
+    "original": "えっと、涼宮さん\n面白そうなものがあるんですけど",
+    "translation": "えっと、涼宮さん\n面白そうなものがあるんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA57S_0012",
+    "original": "なに、怪奇現象を見つけたの！？",
+    "translation": "なに、怪奇現象を見つけたの！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA57S_0013",
+    "original": "こ、これです。オモチャの携帯です\nこれ、けっこうよく出来てて",
+    "translation": "こ、これです。オモチャの携帯です\nこれ、けっこうよく出来てて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA57S_0014",
+    "original": "ああ、子供向けのオモチャね\n見た目は似てるみたいだけど",
+    "translation": "ああ、子供向けのオモチャね\n見た目は似てるみたいだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA57S_0015",
+    "original": "え、えっと、でも、本物みたいに\n音が出て光るんですよ",
+    "translation": "え、えっと、でも、本物みたいに\n音が出て光るんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA57S_0016",
+    "original": "肝心の通話が出来ないんじゃ\n意味がないでしょ",
+    "translation": "肝心の通話が出来ないんじゃ\n意味がないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA57S_0017",
+    "original": "どうせなら、ＮＡＳＡの通信を\n拾えるくらいの機能は欲しいわね",
+    "translation": "どうせなら、ＮＡＳＡの通信を\n拾えるくらいの機能は欲しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA57S_0018",
+    "original": "そ、そんな機能はありませんよぅ",
+    "translation": "そ、そんな機能はありませんよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA57S_0019",
+    "original": "何で作らないのかしら",
+    "translation": "何で作らないのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA57S_0020",
+    "original": "本当にそんなのがあったら、２個\nくらいなら買ってあげてもいいのに",
+    "translation": "本当にそんなのがあったら、２個\nくらいなら買ってあげてもいいのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA57S_0021",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA57S_0022",
+    "original": "[#SK0]ひゃ！？",
+    "translation": "[#SK0]ひゃ！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA57S_0023",
+    "original": "もう……いきなりなにかと思ったら\n携帯電話？",
+    "translation": "もう……いきなりなにかと思ったら\n携帯電話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA57S_0024",
+    "original": "本物ではない",
+    "translation": "本物ではない",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA57S_0025",
+    "original": "じゃあ、おもちゃなわけ？",
+    "translation": "じゃあ、おもちゃなわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA57S_0026",
+    "original": "そう。これ",
+    "translation": "そう。これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA57S_0027",
+    "original": "なんでそんなの持ってるの？",
+    "translation": "なんでそんなの持ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA57S_0028",
+    "original": "貰った",
+    "translation": "貰った",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA57S_0029",
+    "original": "そんなの、誰に貰うのよ\n……キョン？",
+    "translation": "そんなの、誰に貰うのよ\n……キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA57S_0030",
+    "original": "朝比奈みくる",
+    "translation": "朝比奈みくる",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA57S_0031",
+    "original": "え？　みくるちゃんから？",
+    "translation": "え？　みくるちゃんから？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA57S_0032",
+    "original": "……なんでみくるちゃん、こんなの\n持ってたのかしら",
+    "translation": "……なんでみくるちゃん、こんなの\n持ってたのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA57S_0033",
+    "original": "そういえば、携帯電話の……",
+    "translation": "そういえば、携帯電話の……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA57S_0034",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA57S_0035",
+    "original": "携帯電話の、なに？",
+    "translation": "携帯電話の、なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA57S_0036",
+    "original": "……いえ、なんでもありません\nどうやら僕の思い過ごしです",
+    "translation": "……いえ、なんでもありません\nどうやら僕の思い過ごしです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA57S_0037",
+    "original": "？　そう？　ならいいけど",
+    "translation": "？　そう？　ならいいけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA57S_0038",
+    "original": "[#P06]……涼宮さんご本人を前に、仕掛け\nのタネを明かすこともないですね",
+    "translation": "[#P06]……涼宮さんご本人を前に、仕掛け\nのタネを明かすこともないですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA57S_0039",
+    "original": "[#P06]危なく、口を滑らせるところでし\nた……",
+    "translation": "[#P06]危なく、口を滑らせるところでし\nた……",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN50S_0000",
+    "original": "ハルヒ、ちょっとこれを見てみろ",
+    "translation": "ハルヒ、ちょっとこれを見てみろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN50S_0001",
+    "original": "なによっ、この忙しい時に",
+    "translation": "なによっ、この忙しい時に",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN50S_0002",
+    "original": "長門から計算尺をもらったんだ",
+    "translation": "長門から計算尺をもらったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN50S_0003",
+    "original": "計算尺？　今どき計算尺なんて\nなにかの専門家しか使わないよわね",
+    "translation": "計算尺？　今どき計算尺なんて\nなにかの専門家しか使わないよわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN50S_0004",
+    "original": "そうらしいが、俺は使い方がよく\nわからん",
+    "translation": "そうらしいが、俺は使い方がよく\nわからん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN50S_0005",
+    "original": "アンタは電卓で十分よ。まさか\n電卓の使い方がわからないとか？",
+    "translation": "アンタは電卓で十分よ。まさか\n電卓の使い方がわからないとか？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN50S_0006",
+    "original": "バカ言え、四則演算ぐらい出来るぞ",
+    "translation": "バカ言え、四則演算ぐらい出来るぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN50S_0007",
+    "original": "関数計算は出来ないってことねっ",
+    "translation": "関数計算は出来ないってことねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN50S_0008",
+    "original": "出来ん",
+    "translation": "出来ん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN50S_0009",
+    "original": "なに出来ないことを威張ってんのよ\nほら、サッサと歩きなさいっ！",
+    "translation": "なに出来ないことを威張ってんのよ\nほら、サッサと歩きなさいっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN50S_0010",
+    "original": "長門さんが計算尺をキョンくんに\nあげたそうですよ",
+    "translation": "長門さんが計算尺をキョンくんに\nあげたそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN50S_0011",
+    "original": "計算尺をねぇ\nキョンに使えるとは思えないけど",
+    "translation": "計算尺をねぇ\nキョンに使えるとは思えないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN50S_0012",
+    "original": "見せてもらったんですけど、どう\nやって使うのか全然……",
+    "translation": "見せてもらったんですけど、どう\nやって使うのか全然……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN50S_0013",
+    "original": "安心してみくるちゃん\nあたしも知らないから",
+    "translation": "安心してみくるちゃん\nあたしも知らないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN50S_0014",
+    "original": "でも、長門さんはどうしてキョン\nくんにあげたんでしょうね？",
+    "translation": "でも、長門さんはどうしてキョン\nくんにあげたんでしょうね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN50S_0015",
+    "original": "キョンのバカさ加減に呆れて、これ\nくらい使えるようになれっていう",
+    "translation": "キョンのバカさ加減に呆れて、これ\nくらい使えるようになれっていう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN50S_0016",
+    "original": "有希流の皮肉なのかもね",
+    "translation": "有希流の皮肉なのかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN50S_0017",
+    "original": "え、えぇっと……",
+    "translation": "え、えぇっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN50S_0018",
+    "original": "とにかく、ムダなプレゼントに\nなりそうだわね",
+    "translation": "とにかく、ムダなプレゼントに\nなりそうだわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN50S_0019",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN50S_0020",
+    "original": "なに？　……計算尺じゃない",
+    "translation": "なに？　……計算尺じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN50S_0021",
+    "original": "ずいぶん古風なもの、持ってるのね",
+    "translation": "ずいぶん古風なもの、持ってるのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN50S_0022",
+    "original": "あなたに貸す",
+    "translation": "あなたに貸す",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN50S_0023",
+    "original": "あ、うん、ありがと……でも、有希\nこんなの使って計算してるの？",
+    "translation": "あ、うん、ありがと……でも、有希\nこんなの使って計算してるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN50S_0024",
+    "original": "してない。使う必要はない",
+    "translation": "してない。使う必要はない",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN50S_0025",
+    "original": "じゃあ、なんでこんなの持ってる\nの……？",
+    "translation": "じゃあ、なんでこんなの持ってる\nの……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN50S_0026",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN50S_0027",
+    "original": "まあいいけど\nとにかく急ぎましょう",
+    "translation": "まあいいけど\nとにかく急ぎましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN50S_0028",
+    "original": "涼宮さんは、計算尺という物を\nご存知ですか？",
+    "translation": "涼宮さんは、計算尺という物を\nご存知ですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN50S_0029",
+    "original": "計算尺？　あのモノサシみたいな\n細長い長方形のやつ？",
+    "translation": "計算尺？　あのモノサシみたいな\n細長い長方形のやつ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN50S_0030",
+    "original": "ええ。形状は様々ありますが、細長\nい定規の様なタイプが一般的ですね",
+    "translation": "ええ。形状は様々ありますが、細長\nい定規の様なタイプが一般的ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN50S_0031",
+    "original": "対数を使った計算用具よね。天文学\n的な数字の計算に使うとか聞くけど",
+    "translation": "対数を使った計算用具よね。天文学\n的な数字の計算に使うとか聞くけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN50S_0032",
+    "original": "でも、その計算尺がどうかしたの？",
+    "translation": "でも、その計算尺がどうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN50S_0033",
+    "original": "長門さんが、お持ちだったんですよ",
+    "translation": "長門さんが、お持ちだったんですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN50S_0034",
+    "original": "ふうん……でも、そんなの何に使う\nのかしら",
+    "translation": "ふうん……でも、そんなの何に使う\nのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN50S_0035",
+    "original": "って、今は有希の話をしてる場合\nじゃないわ。急ぎましょ",
+    "translation": "って、今は有希の話をしてる場合\nじゃないわ。急ぎましょ",
+    "speaker": "ハルヒ"
+  }
+]

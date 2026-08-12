@@ -1,0 +1,334 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA04S_0000",
+    "original": "ねえ、さっきの音楽はなに？",
+    "translation": "ねえ、さっきの音楽はなに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA04S_0001",
+    "original": "確かめにいきましょう！",
+    "translation": "確かめにいきましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA04S_0002",
+    "original": "ハルヒ、音楽室の近くでこんなもの\nを見つけたんだが",
+    "translation": "ハルヒ、音楽室の近くでこんなもの\nを見つけたんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA04S_0003",
+    "original": "なにこれ？",
+    "translation": "なにこれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA04S_0004",
+    "original": "見ての通り、オルゴールだ",
+    "translation": "見ての通り、オルゴールだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA04S_0005",
+    "original": "そんなことは分かってるわよ！",
+    "translation": "そんなことは分かってるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA04S_0006",
+    "original": "あたしが聞いてるのは、どうしてこ\nんなものが落ちてたのかってこと！",
+    "translation": "あたしが聞いてるのは、どうしてこ\nんなものが落ちてたのかってこと！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA04S_0007",
+    "original": "そこまでは俺にも分からん",
+    "translation": "そこまでは俺にも分からん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA04S_0008",
+    "original": "それが分からなきゃ\n意味がないでしょう",
+    "translation": "それが分からなきゃ\n意味がないでしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA04S_0009",
+    "original": "ほんと、肝心なとこが抜けてるのよ\n肝心なとこが……",
+    "translation": "ほんと、肝心なとこが抜けてるのよ\n肝心なとこが……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA04S_0010",
+    "original": "ヒドイ言われようだ……",
+    "translation": "ヒドイ言われようだ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA04S_0011",
+    "original": "でも、音楽室の前に落ちてたのよね\n重大な手がかりかも知れないわ",
+    "translation": "でも、音楽室の前に落ちてたのよね\n重大な手がかりかも知れないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA04S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_MA04S_0013",
+    "original": "涼宮さん、あの、こんなの……",
+    "translation": "涼宮さん、あの、こんなの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA04S_0014",
+    "original": "あら、ずいぶん古いオルゴールね\nしかもなに？　壊れてるじゃない",
+    "translation": "あら、ずいぶん古いオルゴールね\nしかもなに？　壊れてるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA04S_0015",
+    "original": "みくるちゃんが壊したの？",
+    "translation": "みくるちゃんが壊したの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA04S_0016",
+    "original": "ち、違いますぅ！",
+    "translation": "ち、違いますぅ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA04S_0017",
+    "original": "じゃあ、どうしたの？　これ",
+    "translation": "じゃあ、どうしたの？　これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA04S_0018",
+    "original": "音楽室の前に落ちてました",
+    "translation": "音楽室の前に落ちてました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA04S_0019",
+    "original": "これが……？",
+    "translation": "これが……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA04S_0020",
+    "original": "は、はいっ",
+    "translation": "は、はいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA04S_0021",
+    "original": "ふーん……\nそれはちょっと気になるわね",
+    "translation": "ふーん……\nそれはちょっと気になるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA04S_0022",
+    "original": "みくるちゃん、よくやったわ",
+    "translation": "みくるちゃん、よくやったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA04S_0023",
+    "original": "もしかするとスゴイ手がかりかも\n知れないわ",
+    "translation": "もしかするとスゴイ手がかりかも\n知れないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA04S_0024",
+    "original": "ほ、ほんとですか",
+    "translation": "ほ、ほんとですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA04S_0025",
+    "original": "ええ、なんとなくそんな気がする",
+    "translation": "ええ、なんとなくそんな気がする",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA04S_0026",
+    "original": "はぅぅ……よかったですぅ",
+    "translation": "はぅぅ……よかったですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA04S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_MA04S_0028",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA04S_0029",
+    "original": "なにこれ？　オルゴール？",
+    "translation": "なにこれ？　オルゴール？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA04S_0030",
+    "original": "そう。ただし、破損により本来の\n機能に致命的な問題が生じている",
+    "translation": "そう。ただし、破損により本来の\n機能に致命的な問題が生じている",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA04S_0031",
+    "original": "つまり、壊れてるってことね",
+    "translation": "つまり、壊れてるってことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA04S_0032",
+    "original": "どこで見つけたの？",
+    "translation": "どこで見つけたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA04S_0033",
+    "original": "音楽室のそば",
+    "translation": "音楽室のそば",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA04S_0034",
+    "original": "音楽室のそば？　それは気になる\nわね……",
+    "translation": "音楽室のそば？　それは気になる\nわね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA04S_0035",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA04S_0036",
+    "original": "さすが有希。よくやってくれたわ",
+    "translation": "さすが有希。よくやってくれたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA04S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_MA04S_0038",
+    "original": "涼宮さん、これを",
+    "translation": "涼宮さん、これを",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA04S_0039",
+    "original": "これは……\nずいぶん古いオルゴールね",
+    "translation": "これは……\nずいぶん古いオルゴールね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA04S_0040",
+    "original": "それだけではありません",
+    "translation": "それだけではありません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA04S_0041",
+    "original": "奇妙なことに、これは音楽室近くの\n廊下に落ちていたのです",
+    "translation": "奇妙なことに、これは音楽室近くの\n廊下に落ちていたのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA04S_0042",
+    "original": "音楽室の……？",
+    "translation": "音楽室の……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA04S_0043",
+    "original": "なにかある――\nそう考えるのが自然かと",
+    "translation": "なにかある――\nそう考えるのが自然かと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA04S_0044",
+    "original": "確かにその通りね……",
+    "translation": "確かにその通りね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA04S_0045",
+    "original": "さすが古泉くん、素晴らしい成果よ",
+    "translation": "さすが古泉くん、素晴らしい成果よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA04S_0046",
+    "original": "お褒めにあずかり光栄です",
+    "translation": "お褒めにあずかり光栄です",
+    "speaker": "古泉"
+  }
+]

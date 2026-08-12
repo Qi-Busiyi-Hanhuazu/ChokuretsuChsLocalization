@@ -1,0 +1,313 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA08S_0000",
+    "original": "カセットテープは拝借してきたし\nこれで準備万端ね",
+    "translation": "カセットテープは拝借してきたし\nこれで準備万端ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA08S_0001",
+    "original": "そんなもの、何に使うんだ？",
+    "translation": "そんなもの、何に使うんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA08S_0002",
+    "original": "それはこれからわかるわよ",
+    "translation": "それはこれからわかるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA08S_0003",
+    "original": "準備は山ほどあるし、早く体育館へ\n行きましょ",
+    "translation": "準備は山ほどあるし、早く体育館へ\n行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA08S_0004",
+    "original": "なんのテープか知らないが\n音楽ならこれを使ったらどうだ？",
+    "translation": "なんのテープか知らないが\n音楽ならこれを使ったらどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA08S_0005",
+    "original": "ＣＤ？　どうしたのこれ",
+    "translation": "ＣＤ？　どうしたのこれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA08S_0006",
+    "original": "昼間買い物した時にもらったヤツだ",
+    "translation": "昼間買い物した時にもらったヤツだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA08S_0007",
+    "original": "ふーん……あ、入ってるじゃない",
+    "translation": "ふーん……あ、入ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA08S_0008",
+    "original": "ん？　何が入ってるんだ？",
+    "translation": "ん？　何が入ってるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA08S_0009",
+    "original": "どうせならＣＤの方がいいわよね\n音もいいしリピートも楽だし……",
+    "translation": "どうせならＣＤの方がいいわよね\n音もいいしリピートも楽だし……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA08S_0010",
+    "original": "よくわからんが、思いもよらず\n時間が稼げたみたいだな",
+    "translation": "よくわからんが、思いもよらず\n時間が稼げたみたいだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA08S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA08S_0012",
+    "original": "あの、それなんですか？",
+    "translation": "あの、それなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA08S_0013",
+    "original": "ないしょ。後でわかるわよ",
+    "translation": "ないしょ。後でわかるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA08S_0014",
+    "original": "それより、急ぐわよみくるちゃん\n準備は山ほどあるんだから！",
+    "translation": "それより、急ぐわよみくるちゃん\n準備は山ほどあるんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA08S_0015",
+    "original": "あの、これ使えませんか？",
+    "translation": "あの、これ使えませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA08S_0016",
+    "original": "それは？",
+    "translation": "それは？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA08S_0017",
+    "original": "お昼に、青果店のおじさんに貰った\nんです",
+    "translation": "お昼に、青果店のおじさんに貰った\nんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA08S_0018",
+    "original": "へえ……あ、入ってるじゃない",
+    "translation": "へえ……あ、入ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA08S_0019",
+    "original": "え？　なにがですか？",
+    "translation": "え？　なにがですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA08S_0020",
+    "original": "どうせならこっちを使った方がいい\nわよね……",
+    "translation": "どうせならこっちを使った方がいい\nわよね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA08S_0021",
+    "original": "でも、わざわざ戻って取ってくるの\nも面倒だし……うーん",
+    "translation": "でも、わざわざ戻って取ってくるの\nも面倒だし……うーん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA08S_0022",
+    "original": "え、えっと、よくわからないです\nけど、ゆっくり考えてください",
+    "translation": "え、えっと、よくわからないです\nけど、ゆっくり考えてください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA08S_0023",
+    "original": "さあ、準備は山ほど残ってるし\n急ぐわよ、有希",
+    "translation": "さあ、準備は山ほど残ってるし\n急ぐわよ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA08S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_MA08S_0025",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA08S_0026",
+    "original": "ん？　どうしたの",
+    "translation": "ん？　どうしたの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA08S_0027",
+    "original": "これを",
+    "translation": "これを",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA08S_0028",
+    "original": "ＢＧＭ集？　どうしたの？",
+    "translation": "ＢＧＭ集？　どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA08S_0029",
+    "original": "もらった",
+    "translation": "もらった",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA08S_0030",
+    "original": "ふーん……あっ、これにも入ってる",
+    "translation": "ふーん……あっ、これにも入ってる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA08S_0031",
+    "original": "うーん、どうせならカセットより\nＣＤの方がいいわよね……",
+    "translation": "うーん、どうせならカセットより\nＣＤの方がいいわよね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA08S_0032",
+    "original": "でも、戻って取り替えるのも面倒\nだし……",
+    "translation": "でも、戻って取り替えるのも面倒\nだし……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA08S_0033",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "evt_MA08S_0034",
+    "original": "ずいぶん古いラジカセですが\nそれで何か音楽をかけるのですか？",
+    "translation": "ずいぶん古いラジカセですが\nそれで何か音楽をかけるのですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA08S_0035",
+    "original": "そうよ。詳しいことは体育館に\n着いてから説明するわ",
+    "translation": "そうよ。詳しいことは体育館に\n着いてから説明するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA08S_0036",
+    "original": "とにかく急ぎましょ",
+    "translation": "とにかく急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA08S_0037",
+    "original": "でしたら、これなどは使えないで\nしょうか？",
+    "translation": "でしたら、これなどは使えないで\nしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA08S_0038",
+    "original": "なに、ＢＧＭ集？\nどうしたの、これ？",
+    "translation": "なに、ＢＧＭ集？\nどうしたの、これ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA08S_0039",
+    "original": "昼間、買い出しの際にいただいた\nそうです",
+    "translation": "昼間、買い出しの際にいただいた\nそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA08S_0040",
+    "original": "ふーん……あ、これにも入ってるわ",
+    "translation": "ふーん……あ、これにも入ってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA08S_0041",
+    "original": "お気に召しましたか？",
+    "translation": "お気に召しましたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA08S_0042",
+    "original": "古泉くん、お手柄よ",
+    "translation": "古泉くん、お手柄よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA08S_0043",
+    "original": "これで面倒なラジカセを使わなくて\nすみそうだわ",
+    "translation": "これで面倒なラジカセを使わなくて\nすみそうだわ",
+    "speaker": "ハルヒ"
+  }
+]

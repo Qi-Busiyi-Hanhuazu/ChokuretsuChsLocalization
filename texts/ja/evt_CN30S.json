@@ -1,0 +1,485 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN30S_0000",
+    "original": "ちょっと待った！",
+    "translation": "ちょっと待った！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN30S_0001",
+    "original": "もう、いきなりなによ",
+    "translation": "もう、いきなりなによ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN30S_0002",
+    "original": "ハルヒ、おまえ腹減ってないか？",
+    "translation": "ハルヒ、おまえ腹減ってないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN30S_0003",
+    "original": "は？　いきなりなに？",
+    "translation": "は？　いきなりなに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN30S_0004",
+    "original": "いや、食後のデザート代わりに\n買っておいたんだ",
+    "translation": "いや、食後のデザート代わりに\n買っておいたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN30S_0005",
+    "original": "ほら、これ",
+    "translation": "ほら、これ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN30S_0006",
+    "original": "なにこれ？",
+    "translation": "なにこれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN30S_0007",
+    "original": "見てのとおり、カレーパンだ",
+    "translation": "見てのとおり、カレーパンだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN30S_0008",
+    "original": "……キョン、あんたね",
+    "translation": "……キョン、あんたね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN30S_0009",
+    "original": "さっきさんざん食べたばっかり\nでしょーが！",
+    "translation": "さっきさんざん食べたばっかり\nでしょーが！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN30S_0010",
+    "original": "いや、それは分かってるんだが……",
+    "translation": "いや、それは分かってるんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN30S_0011",
+    "original": "百歩譲ってデザートにするにしても\nカレーパンってなんなの！？",
+    "translation": "百歩譲ってデザートにするにしても\nカレーパンってなんなの！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN30S_0012",
+    "original": "や、やっぱりダメか？",
+    "translation": "や、やっぱりダメか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN30S_0013",
+    "original": "ダメに決まってるでしょ！",
+    "translation": "ダメに決まってるでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN30S_0014",
+    "original": "ていうか、いつの間にこんなもの\n買ったのよ",
+    "translation": "ていうか、いつの間にこんなもの\n買ったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN30S_0015",
+    "original": "まさか買い出しの資金で買った\nんじゃないでしょうね？",
+    "translation": "まさか買い出しの資金で買った\nんじゃないでしょうね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN30S_0016",
+    "original": "いや、そのまさかなんだが",
+    "translation": "いや、そのまさかなんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN30S_0017",
+    "original": "なにやってんのよ！\n資金は大事に使いなさいよ！",
+    "translation": "なにやってんのよ！\n資金は大事に使いなさいよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN30S_0018",
+    "original": "し、しかし、長門のやつが\nどうしてもって……",
+    "translation": "し、しかし、長門のやつが\nどうしてもって……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN30S_0019",
+    "original": "人のせいにしない！",
+    "translation": "人のせいにしない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN30S_0020",
+    "original": "足止めのためとはいえ\nとんだとばっちりだな……",
+    "translation": "足止めのためとはいえ\nとんだとばっちりだな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN30S_0021",
+    "original": "涼宮さん！\nお、お腹空きませんか！？",
+    "translation": "涼宮さん！\nお、お腹空きませんか！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN30S_0022",
+    "original": "どうしたの？　急に",
+    "translation": "どうしたの？　急に",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN30S_0023",
+    "original": "じ、実は、あたしカレーパンを\n持ってるんです",
+    "translation": "じ、実は、あたしカレーパンを\n持ってるんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN30S_0024",
+    "original": "カレーパン……？",
+    "translation": "カレーパン……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN30S_0025",
+    "original": "なんでまた、そんなもの\n持ち歩いてるの？",
+    "translation": "なんでまた、そんなもの\n持ち歩いてるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN30S_0026",
+    "original": "へ？　えっと、それは……",
+    "translation": "へ？　えっと、それは……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN30S_0027",
+    "original": "長門さんにもらいました！",
+    "translation": "長門さんにもらいました！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN30S_0028",
+    "original": "有希に？",
+    "translation": "有希に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN30S_0029",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN30S_0030",
+    "original": "有希ったら、なんでカレーパン\nなんか持ってたのかしら",
+    "translation": "有希ったら、なんでカレーパン\nなんか持ってたのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN30S_0031",
+    "original": "す、好きだからじゃないですか？",
+    "translation": "す、好きだからじゃないですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN30S_0032",
+    "original": "ふーん……ま、いいわ\nありがたくもらっとくわ",
+    "translation": "ふーん……ま、いいわ\nありがたくもらっとくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN30S_0033",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN30S_0034",
+    "original": "どうしたの？　有希",
+    "translation": "どうしたの？　有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN30S_0035",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN30S_0036",
+    "original": "なに、これ",
+    "translation": "なに、これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN30S_0037",
+    "original": "カレーパン",
+    "translation": "カレーパン",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN30S_0038",
+    "original": "それは見れば分かるけどさ",
+    "translation": "それは見れば分かるけどさ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN30S_0039",
+    "original": "あげる",
+    "translation": "あげる",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN30S_0040",
+    "original": "え？　あたしにくれるの？",
+    "translation": "え？　あたしにくれるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN30S_0041",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN30S_0042",
+    "original": "くれるって言うなら、有り難く\nもらっておくけど……",
+    "translation": "くれるって言うなら、有り難く\nもらっておくけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN30S_0043",
+    "original": "なんでこんなもの持ってるの？",
+    "translation": "なんでこんなもの持ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN30S_0044",
+    "original": "買った",
+    "translation": "買った",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN30S_0045",
+    "original": "買ったって……\nさっきの買い出しの時に？",
+    "translation": "買ったって……\nさっきの買い出しの時に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN30S_0046",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN30S_0047",
+    "original": "もう、いくらお任せにしたからって\nこんなの買ってどうするのよ",
+    "translation": "もう、いくらお任せにしたからって\nこんなの買ってどうするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN30S_0048",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN30S_0049",
+    "original": "余計な買い物をしちゃダメでしょ",
+    "translation": "余計な買い物をしちゃダメでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN30S_0050",
+    "original": "ていうか、いつ食べる気だったの？\n夜食だったら後でもよかったのに",
+    "translation": "ていうか、いつ食べる気だったの？\n夜食だったら後でもよかったのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CN30S_0051",
+    "original": "……焼く",
+    "translation": "……焼く",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_CN30S_0052",
+    "original": "焼くって……？",
+    "translation": "焼くって……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CN30S_0053",
+    "original": "まあ、確かに温めれば美味しくなる\nかもしれないけど",
+    "translation": "まあ、確かに温めれば美味しくなる\nかもしれないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CN30S_0054",
+    "original": "でも、なんでカレーパンなの？",
+    "translation": "でも、なんでカレーパンなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CN30S_0055",
+    "original": "カレーは栄養価が高い",
+    "translation": "カレーは栄養価が高い",
+    "speaker": "長門"
+  },
+  {
+    "index": 56,
+    "key": "evt_CN30S_0056",
+    "original": "……それだけ？",
+    "translation": "……それだけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CN30S_0057",
+    "original": "それだけ",
+    "translation": "それだけ",
+    "speaker": "長門"
+  },
+  {
+    "index": 58,
+    "key": "evt_CN30S_0058",
+    "original": "…………そう",
+    "translation": "…………そう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CN30S_0059",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 60,
+    "key": "evt_CN30S_0060",
+    "original": "涼宮さん、こんなものはいかがです\nか？",
+    "translation": "涼宮さん、こんなものはいかがです\nか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_CN30S_0061",
+    "original": "なにこれ？　カレーパン？",
+    "translation": "なにこれ？　カレーパン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CN30S_0062",
+    "original": "はい。夜食にでもと思い、買って\nおきました",
+    "translation": "はい。夜食にでもと思い、買って\nおきました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CN30S_0063",
+    "original": "さすが古泉くん、気が利くわね",
+    "translation": "さすが古泉くん、気が利くわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CN30S_0064",
+    "original": "でも、なんでまたこんなところで？",
+    "translation": "でも、なんでまたこんなところで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_CN30S_0065",
+    "original": "これなんですが、珍しく長門さんが\n買いたいと言い出したんですよ",
+    "translation": "これなんですが、珍しく長門さんが\n買いたいと言い出したんですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 66,
+    "key": "evt_CN30S_0066",
+    "original": "へえ、有希が……",
+    "translation": "へえ、有希が……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_CN30S_0067",
+    "original": "もしかして、有希の好物なの\nかしら？",
+    "translation": "もしかして、有希の好物なの\nかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CN30S_0068",
+    "original": "僕にも分かりませんが\nそうかも知れませんね",
+    "translation": "僕にも分かりませんが\nそうかも知れませんね",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA14S_0000",
+    "original": "なあ、ハルヒ\n朝比奈さんはたいそう恐がりだ",
+    "translation": "なあ、ハルヒ\n朝比奈さんはたいそう恐がりだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA14S_0001",
+    "original": "知ってるわよ。そこもみくるちゃん\nの可愛いところだもの",
+    "translation": "知ってるわよ。そこもみくるちゃん\nの可愛いところだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA14S_0002",
+    "original": "それは大いに賛同するところだ",
+    "translation": "それは大いに賛同するところだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA14S_0003",
+    "original": "そんな朝比奈さんに、新七不思議\n探索なんて、もはやイジメだろう",
+    "translation": "そんな朝比奈さんに、新七不思議\n探索なんて、もはやイジメだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA14S_0004",
+    "original": "おまえは弱い者イジメはしないヤツ\nだと思っていたのにな",
+    "translation": "おまえは弱い者イジメはしないヤツ\nだと思っていたのにな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA14S_0005",
+    "original": "弱い者イジメなんてしないわ\n相手は強くないとつまらないもの",
+    "translation": "弱い者イジメなんてしないわ\n相手は強くないとつまらないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA14S_0006",
+    "original": "ハルヒより強い相手がいるかという\n問題はあるのだが",
+    "translation": "ハルヒより強い相手がいるかという\n問題はあるのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA14S_0007",
+    "original": "気の毒に、朝比奈さんは我が妹の\n出現にさえ怯えて失神したんだぞ",
+    "translation": "気の毒に、朝比奈さんは我が妹の\n出現にさえ怯えて失神したんだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA14S_0008",
+    "original": "このぐらい言えば怪談捜しを諦めて\nくれたりはしないだろうか",
+    "translation": "このぐらい言えば怪談捜しを諦めて\nくれたりはしないだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA14S_0009",
+    "original": "これはみくるちゃんの成長のために\n必要な試練と言えるわね！",
+    "translation": "これはみくるちゃんの成長のために\n必要な試練と言えるわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA14S_0010",
+    "original": "みくるちゃんの努力を温かく\n見守りましょう！",
+    "translation": "みくるちゃんの努力を温かく\n見守りましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA14S_0011",
+    "original": "やはりこいつはまだやる気満々か",
+    "translation": "やはりこいつはまだやる気満々か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA14S_0012",
+    "original": "あたしってダメですよねえ",
+    "translation": "あたしってダメですよねえ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA14S_0013",
+    "original": "何がダメなの、みくるちゃん？",
+    "translation": "何がダメなの、みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA14S_0014",
+    "original": "怖い話が苦手で……恐がりで",
+    "translation": "怖い話が苦手で……恐がりで",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA14S_0015",
+    "original": "それはそうねえ",
+    "translation": "それはそうねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA14S_0016",
+    "original": "泣いたり、気絶したりしてしまって",
+    "translation": "泣いたり、気絶したりしてしまって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA14S_0017",
+    "original": "そんなことしたの？",
+    "translation": "そんなことしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA14S_0018",
+    "original": "はい……くすん",
+    "translation": "はい……くすん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA14S_0019",
+    "original": "今回はいいチャンスよ、みくる\nちゃん。欠点を克服するのよ！",
+    "translation": "今回はいいチャンスよ、みくる\nちゃん。欠点を克服するのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA14S_0020",
+    "original": "克服って、恐がりをですか？",
+    "translation": "克服って、恐がりをですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA14S_0021",
+    "original": "みくるちゃんには慣れが必要よ",
+    "translation": "みくるちゃんには慣れが必要よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA14S_0022",
+    "original": "たくさん怖い思いをすれば、慣れて\n多少のことには怯えなくなるわよ",
+    "translation": "たくさん怖い思いをすれば、慣れて\n多少のことには怯えなくなるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA14S_0023",
+    "original": "そ、そうでしょうか？",
+    "translation": "そ、そうでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA14S_0024",
+    "original": "怖い目にいっぱい遭いましょう！",
+    "translation": "怖い目にいっぱい遭いましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA14S_0025",
+    "original": "[#SK0]い、いやですぅ～～",
+    "translation": "[#SK0]い、いやですぅ～～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA14S_0026",
+    "original": "朝比奈みくるは恐がり？",
+    "translation": "朝比奈みくるは恐がり？",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA14S_0027",
+    "original": "そうよ、すごい恐がりだけど\nそれがどうかしたの、有希？",
+    "translation": "そうよ、すごい恐がりだけど\nそれがどうかしたの、有希？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA14S_0028",
+    "original": "なぜ怖がるのかを、理解できない",
+    "translation": "なぜ怖がるのかを、理解できない",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA14S_0029",
+    "original": "きっと想像力が発達しているのよ",
+    "translation": "きっと想像力が発達しているのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA14S_0030",
+    "original": "想像力？",
+    "translation": "想像力？",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA14S_0031",
+    "original": "見えない物、理解できない物に\n対する想像が恐怖心を作るのよ",
+    "translation": "見えない物、理解できない物に\n対する想像が恐怖心を作るのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA14S_0032",
+    "original": "理解できなければ観察して分析する",
+    "translation": "理解できなければ観察して分析する",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA14S_0033",
+    "original": "有希ならそうするでしょうね",
+    "translation": "有希ならそうするでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA14S_0034",
+    "original": "朝比奈みくるはしない？",
+    "translation": "朝比奈みくるはしない？",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA14S_0035",
+    "original": "しないんじゃないかしら\n恐怖が先に立っちゃうのね",
+    "translation": "しないんじゃないかしら\n恐怖が先に立っちゃうのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA14S_0036",
+    "original": "想像力は奥深い。わたしが\n読む本の大半は想像力の成果物",
+    "translation": "想像力は奥深い。わたしが\n読む本の大半は想像力の成果物",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA14S_0037",
+    "original": "朝比奈みくるの観察を検討してみる",
+    "translation": "朝比奈みくるの観察を検討してみる",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA14S_0038",
+    "original": "それはおもしろそうね\nあとで結果を教えてちょうだい",
+    "translation": "それはおもしろそうね\nあとで結果を教えてちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA14S_0039",
+    "original": "朝比奈さんは大変恐がりな方ですね\n音楽室に怯えていたそうですが",
+    "translation": "朝比奈さんは大変恐がりな方ですね\n音楽室に怯えていたそうですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA14S_0040",
+    "original": "みくるちゃんには気の毒だけど",
+    "translation": "みくるちゃんには気の毒だけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA14S_0041",
+    "original": "あたしとしては怯えるようなことが\nぜひ、起きて欲しいと思うわ",
+    "translation": "あたしとしては怯えるようなことが\nぜひ、起きて欲しいと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA14S_0042",
+    "original": "そろそろ新七不思議のひとつくらい\n確定したいのよね",
+    "translation": "そろそろ新七不思議のひとつくらい\n確定したいのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA14S_0043",
+    "original": "古泉くんもそう思うでしょ？",
+    "translation": "古泉くんもそう思うでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA14S_0044",
+    "original": "僕ですか？　僕の意見は述べないで\nおきますよ",
+    "translation": "僕ですか？　僕の意見は述べないで\nおきますよ",
+    "speaker": "古泉"
+  }
+]

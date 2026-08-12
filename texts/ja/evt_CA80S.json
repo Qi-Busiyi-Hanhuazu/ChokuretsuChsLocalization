@@ -1,0 +1,296 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA80S_0000",
+    "original": "本気になった朝比奈さんって、\n案外あなどれないよな",
+    "translation": "本気になった朝比奈さんって、\n案外あなどれないよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA80S_0001",
+    "original": "見た目がキュートだからって\nバカにしたら痛い目見るわよっ",
+    "translation": "見た目がキュートだからって\nバカにしたら痛い目見るわよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA80S_0002",
+    "original": "別にバカにしてるわけじゃない\n素晴らしいと感心するばかりだ",
+    "translation": "別にバカにしてるわけじゃない\n素晴らしいと感心するばかりだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA80S_0003",
+    "original": "だったらキョンも、ちょっとは\nみくるちゃんを見習いなさいよ！",
+    "translation": "だったらキョンも、ちょっとは\nみくるちゃんを見習いなさいよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA80S_0004",
+    "original": "簡単に見習えというが、なにから\n見習えばいいんだ？",
+    "translation": "簡単に見習えというが、なにから\n見習えばいいんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA80S_0005",
+    "original": "そんなことは自分で考えなさいよ！\n何から何まで人任せにしちゃだめよ",
+    "translation": "そんなことは自分で考えなさいよ！\n何から何まで人任せにしちゃだめよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA80S_0006",
+    "original": "ああそうですか",
+    "translation": "ああそうですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA80S_0007",
+    "original": "涼宮さん、あたしでもチェス、うま\nくなれるでしようか？",
+    "translation": "涼宮さん、あたしでもチェス、うま\nくなれるでしようか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA80S_0008",
+    "original": "みくるちゃんは見所があるって\n言ったじゃないの",
+    "translation": "みくるちゃんは見所があるって\n言ったじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA80S_0009",
+    "original": "それってお世辞じゃないんですか？",
+    "translation": "それってお世辞じゃないんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA80S_0010",
+    "original": "あたしがお世辞を言うように\n見えるわけ？　みくるちゃん",
+    "translation": "あたしがお世辞を言うように\n見えるわけ？　みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA80S_0011",
+    "original": "はわわ……み、見えません",
+    "translation": "はわわ……み、見えません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA80S_0012",
+    "original": "でしょ？",
+    "translation": "でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA80S_0013",
+    "original": "じゃあ、可能性はあるんですね",
+    "translation": "じゃあ、可能性はあるんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA80S_0014",
+    "original": "みくるちゃんなら、すぐ古泉くんを\n負かす腕になるって断言するわ",
+    "translation": "みくるちゃんなら、すぐ古泉くんを\n負かす腕になるって断言するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA80S_0015",
+    "original": "……うう～ん、古泉くんですか",
+    "translation": "……うう～ん、古泉くんですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA80S_0016",
+    "original": "なに、その微妙な顔は？",
+    "translation": "なに、その微妙な顔は？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA80S_0017",
+    "original": "な、なんでもないですっ",
+    "translation": "な、なんでもないですっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA80S_0018",
+    "original": "じゃ、すぐにキョンに勝てるように\nなるわっていうのは？",
+    "translation": "じゃ、すぐにキョンに勝てるように\nなるわっていうのは？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA80S_0019",
+    "original": "本気でやればなれるでしょうか？",
+    "translation": "本気でやればなれるでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA80S_0020",
+    "original": "うん、みくるちゃんなら大丈夫よ\n元々頭は悪くないんだしね",
+    "translation": "うん、みくるちゃんなら大丈夫よ\n元々頭は悪くないんだしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA80S_0021",
+    "original": "そっかぁ、頑張ってみようかな？",
+    "translation": "そっかぁ、頑張ってみようかな？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA80S_0022",
+    "original": "応援するわ！　キョンを負かして\n悔しがる顔を見ましょ！",
+    "translation": "応援するわ！　キョンを負かして\n悔しがる顔を見ましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA80S_0023",
+    "original": "そうですよねっ\n本気のあたしを見ててください",
+    "translation": "そうですよねっ\n本気のあたしを見ててください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA80S_0024",
+    "original": "ええ、楽しみにしてるわ",
+    "translation": "ええ、楽しみにしてるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA80S_0025",
+    "original": "朝比奈みくるが、チェスで\n本気を出したと聞いた",
+    "translation": "朝比奈みくるが、チェスで\n本気を出したと聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA80S_0026",
+    "original": "そうそう、みくるちゃんは\n初心者にしては見所があったわ",
+    "translation": "そうそう、みくるちゃんは\n初心者にしては見所があったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA80S_0027",
+    "original": "もう少し練習したら、チェスも\n出来るメイドになれそうよ",
+    "translation": "もう少し練習したら、チェスも\n出来るメイドになれそうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA80S_0028",
+    "original": "なんとなく、優雅なメイドって\n感じがするわね",
+    "translation": "なんとなく、優雅なメイドって\n感じがするわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA80S_0029",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA80S_0030",
+    "original": "有希も今度一緒にチェスを\nやりましょ！",
+    "translation": "有希も今度一緒にチェスを\nやりましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA80S_0031",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA80S_0032",
+    "original": "先ほど朝比奈さんとチェスをなさっ\nたとか",
+    "translation": "先ほど朝比奈さんとチェスをなさっ\nたとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA80S_0033",
+    "original": "ええ、キョンともやったわ。むろん\nあたしのひとり勝ちよ！",
+    "translation": "ええ、キョンともやったわ。むろん\nあたしのひとり勝ちよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA80S_0034",
+    "original": "羨ましい限りです。今なら嫉妬する\nという感情を理解できそうですよ",
+    "translation": "羨ましい限りです。今なら嫉妬する\nという感情を理解できそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA80S_0035",
+    "original": "古泉くんが？　誰に？",
+    "translation": "古泉くんが？　誰に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA80S_0036",
+    "original": "以前僕がチェスを持ち込んだ時には\nどなたも、ルールを知らないと……",
+    "translation": "以前僕がチェスを持ち込んだ時には\nどなたも、ルールを知らないと……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA80S_0037",
+    "original": "……そんなことあったかしら？",
+    "translation": "……そんなことあったかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA80S_0038",
+    "original": "残念ながらありました",
+    "translation": "残念ながらありました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA80S_0039",
+    "original": "それは残念だったわね……",
+    "translation": "それは残念だったわね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA80S_0040",
+    "original": "次はぜひ、僕もお誘い下さい",
+    "translation": "次はぜひ、僕もお誘い下さい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA80S_0041",
+    "original": "ええ、そうするわ。今度みんなで\nやりましょう",
+    "translation": "ええ、そうするわ。今度みんなで\nやりましょう",
+    "speaker": "ハルヒ"
+  }
+]

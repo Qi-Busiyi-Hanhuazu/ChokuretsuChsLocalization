@@ -1,0 +1,439 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_002S_0000",
+    "original": "臨機応変な手段でハルヒを連れ戻す",
+    "translation": "臨機応変な手段でハルヒを連れ戻す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_002S_0001",
+    "original": "口で言うのは簡単だが、具体的に\nどうすればいいか見当もつかない",
+    "translation": "口で言うのは簡単だが、具体的に\nどうすればいいか見当もつかない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_002S_0002",
+    "original": "どうしたんです、浮かない顔をして\nおられるようですが",
+    "translation": "どうしたんです、浮かない顔をして\nおられるようですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_002S_0003",
+    "original": "俺はおまえみたいにこの状況を\n楽しんでいないからな",
+    "translation": "俺はおまえみたいにこの状況を\n楽しんでいないからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_002S_0004",
+    "original": "ハルヒを連れ戻すための決定打が\nない。こりゃほとんど賭けだぞ？",
+    "translation": "ハルヒを連れ戻すための決定打が\nない。こりゃほとんど賭けだぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_002S_0005",
+    "original": "おや、そうですか？",
+    "translation": "おや、そうですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_002S_0006",
+    "original": "賭けなら、それなりに楽しめると\n思いますが？",
+    "translation": "賭けなら、それなりに楽しめると\n思いますが？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_002S_0007",
+    "original": "……どこまでお気楽な野郎なんだ",
+    "translation": "……どこまでお気楽な野郎なんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_002S_0008",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_002S_0009",
+    "original": "美味しいお菓子とお茶で誘って\n連れ戻すことが出来るかも……",
+    "translation": "美味しいお菓子とお茶で誘って\n連れ戻すことが出来るかも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_002S_0010",
+    "original": "そうですね、その時は朝比奈さんの\nお茶に期待しますよ",
+    "translation": "そうですね、その時は朝比奈さんの\nお茶に期待しますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_002S_0011",
+    "original": "やはり朝比奈さんは協力的だ\n古泉とはえらい違いだね",
+    "translation": "やはり朝比奈さんは協力的だ\n古泉とはえらい違いだね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_002S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_002S_0013",
+    "original": "……待って",
+    "translation": "……待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_002S_0014",
+    "original": "ん？　どうした、長門？",
+    "translation": "ん？　どうした、長門？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_002S_0015",
+    "original": "わたしは用事がある",
+    "translation": "わたしは用事がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_002S_0016",
+    "original": "用事？　こんな夜中に？\n明日に出来ないか？",
+    "translation": "用事？　こんな夜中に？\n明日に出来ないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_002S_0017",
+    "original": "涼宮ハルヒを迎えに行く前に\n完了させておきたいことがある",
+    "translation": "涼宮ハルヒを迎えに行く前に\n完了させておきたいことがある",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_002S_0018",
+    "original": "この件に関係あることか？",
+    "translation": "この件に関係あることか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_002S_0019",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_002S_0020",
+    "original": "現在、北高校内は情報結合が不安定\nな状態にある",
+    "translation": "現在、北高校内は情報結合が不安定\nな状態にある",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_002S_0021",
+    "original": "ああ、らしいな",
+    "translation": "ああ、らしいな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_002S_0022",
+    "original": "情報結合を安定化させ、正常な状態\nにするための最後の処置を行う",
+    "translation": "情報結合を安定化させ、正常な状態\nにするための最後の処置を行う",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_002S_0023",
+    "original": "最後の処置って……\n今までなにかやってたのか？",
+    "translation": "最後の処置って……\n今までなにかやってたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_002S_0024",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_002S_0025",
+    "original": "構成情報をもとに崩壊因子を作成\n徐々に周辺空間へ浸透させた",
+    "translation": "構成情報をもとに崩壊因子を作成\n徐々に周辺空間へ浸透させた",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_002S_0026",
+    "original": "……ちっとも分からん",
+    "translation": "……ちっとも分からん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_002S_0027",
+    "original": "浸透した因子が情報結合を修復し\n空間は徐々に正常化へ向かっている",
+    "translation": "浸透した因子が情報結合を修復し\n空間は徐々に正常化へ向かっている",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_002S_0028",
+    "original": "周辺の空間は徐々に正常化へ向かっ\nている",
+    "translation": "周辺の空間は徐々に正常化へ向かっ\nている",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_002S_0029",
+    "original": "それも、もうすぐ終わる",
+    "translation": "それも、もうすぐ終わる",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_002S_0030",
+    "original": "つまり、この異常事態ももうすぐ\n終わるってことか？",
+    "translation": "つまり、この異常事態ももうすぐ\n終わるってことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_002S_0031",
+    "original": "まだ。最後の調整が残っている",
+    "translation": "まだ。最後の調整が残っている",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_002S_0032",
+    "original": "最後の調整？",
+    "translation": "最後の調整？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_002S_0033",
+    "original": "情報結合を修復したのち、安定化の\nため、こちらも特異点を設置する",
+    "translation": "情報結合を修復したのち、安定化の\nため、こちらも特異点を設置する",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_002S_0034",
+    "original": "特異点が、空間を固定する楔となり\n周辺空間の正常化が完了する",
+    "translation": "特異点が、空間を固定する楔となり\n周辺空間の正常化が完了する",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_002S_0035",
+    "original": "つまり、その正常化とやらをすれば\n学校は元に戻るのか？",
+    "translation": "つまり、その正常化とやらをすれば\n学校は元に戻るのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_002S_0036",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_002S_0037",
+    "original": "もしかして、長門……最初から\nずっと準備をしてたのか？",
+    "translation": "もしかして、長門……最初から\nずっと準備をしてたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_002S_0038",
+    "original": "情報結合の安定化は第二の目的",
+    "translation": "情報結合の安定化は第二の目的",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_002S_0039",
+    "original": "最優先事項は涼宮ハルヒの保全",
+    "translation": "最優先事項は涼宮ハルヒの保全",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_002S_0040",
+    "original": "ハルヒの安全が第一って事か……",
+    "translation": "ハルヒの安全が第一って事か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_002S_0041",
+    "original": "分かった。俺たちに何か手伝えるこ\nとはあるか？",
+    "translation": "分かった。俺たちに何か手伝えるこ\nとはあるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_002S_0042",
+    "original": "準備はほぼ完了している。最後に\n基点となる場所に特異点を設置する",
+    "translation": "準備はほぼ完了している。最後に\n基点となる場所に特異点を設置する",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_002S_0043",
+    "original": "基点となる場所……？",
+    "translation": "基点となる場所……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_002S_0044",
+    "original": "これまで、異空間が発生した場所",
+    "translation": "これまで、異空間が発生した場所",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_002S_0045",
+    "original": "なるほど",
+    "translation": "なるほど",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_002S_0046",
+    "original": "ハルヒを連れ戻すのに、人数は多い\n方が有利と思うが……",
+    "translation": "ハルヒを連れ戻すのに、人数は多い\n方が有利と思うが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_002S_0047",
+    "original": "学校を覆う異常がなんとかなれば\nむしろ根本的解決になるはずだ",
+    "translation": "学校を覆う異常がなんとかなれば\nむしろ根本的解決になるはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_002S_0048",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_002S_0049",
+    "original": "特異点を設置とのことですが、それ\nは長門さん作という解釈でしょうか",
+    "translation": "特異点を設置とのことですが、それ\nは長門さん作という解釈でしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_002S_0050",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_002S_0051",
+    "original": "それで安定化して、この妙な空間が\n正常化されれば問題なしだな",
+    "translation": "それで安定化して、この妙な空間が\n正常化されれば問題なしだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_002S_0052",
+    "original": "……かまわない？",
+    "translation": "……かまわない？",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_002S_0053",
+    "original": "ああ。長門にはその作業にあたって\nもらおう",
+    "translation": "ああ。長門にはその作業にあたって\nもらおう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_002S_0054",
+    "original": "僕も賛成ですね",
+    "translation": "僕も賛成ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_002S_0055",
+    "original": "長門さんが別行動なら、あたしたち\nも手分けした方がいいですね",
+    "translation": "長門さんが別行動なら、あたしたち\nも手分けした方がいいですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_002S_0056",
+    "original": "そうですね",
+    "translation": "そうですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_002S_0057",
+    "original": "ハルヒを連れ戻して、部室でハルヒ\nの相手をするのは誰か",
+    "translation": "ハルヒを連れ戻して、部室でハルヒ\nの相手をするのは誰か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_002S_0058",
+    "original": "時計に細工をして時間を狂わせる\n担当もいるだろう……",
+    "translation": "時計に細工をして時間を狂わせる\n担当もいるだろう……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_002S_0059",
+    "original": "鏡に細工をする必要もあるだろうし",
+    "translation": "鏡に細工をする必要もあるだろうし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_002S_0060",
+    "original": "長門ひとりで大変なようなら手伝い\nが要るかもな",
+    "translation": "長門ひとりで大変なようなら手伝い\nが要るかもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_002S_0061",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,949 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV4_003S_0000",
+    "original": "慎重に動くべき、という古泉からの\n漠然とした忠告はあったものの……",
+    "translation": "慎重に動くべき、という古泉からの\n漠然とした忠告はあったものの……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV4_003S_0001",
+    "original": "だからといって、具体的にどう動く\nべきなのか、まるで見当がつかん",
+    "translation": "だからといって、具体的にどう動く\nべきなのか、まるで見当がつかん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV4_003S_0002",
+    "original": "脳神経をフルに使って事態の好転を\n願う俺とは裏腹に――",
+    "translation": "脳神経をフルに使って事態の好転を\n願う俺とは裏腹に――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV4_003S_0003",
+    "original": "我らが団長殿は、先程から上機嫌で\n目的地に向かっている",
+    "translation": "我らが団長殿は、先程から上機嫌で\n目的地に向かっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV4_003S_0004",
+    "original": "こらキョン！　もっとシャキシャキ\n動きなさい！",
+    "translation": "こらキョン！　もっとシャキシャキ\n動きなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV4_003S_0005",
+    "original": "十分急いでるつもりなんだがな",
+    "translation": "十分急いでるつもりなんだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV4_003S_0006",
+    "original": "階段なんか、二段飛ばしでサクっと\n駆け下りちゃいなさいよ",
+    "translation": "階段なんか、二段飛ばしでサクっと\n駆け下りちゃいなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV4_003S_0007",
+    "original": "とまあ、終始こんな調子で、現場へ\nと一刻も早く向かいたいらしい",
+    "translation": "とまあ、終始こんな調子で、現場へ\nと一刻も早く向かいたいらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV4_003S_0008",
+    "original": "……やっぱりヤメにしないか？",
+    "translation": "……やっぱりヤメにしないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV4_003S_0009",
+    "original": "はあ？\nまだそんなこと言ってるの？",
+    "translation": "はあ？\nまだそんなこと言ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV4_003S_0010",
+    "original": "時間が時間だ。そろそろ宿直の教師\nが見回りを始めてもおかしくない",
+    "translation": "時間が時間だ。そろそろ宿直の教師\nが見回りを始めてもおかしくない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV4_003S_0011",
+    "original": "水泳部でもないのに、プールにいる\nところを見つかるのはマズイだろう",
+    "translation": "水泳部でもないのに、プールにいる\nところを見つかるのはマズイだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV4_003S_0012",
+    "original": "とにかく今、ハルヒを現場に近づけ\nさせるのは危険だ",
+    "translation": "とにかく今、ハルヒを現場に近づけ\nさせるのは危険だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV4_003S_0013",
+    "original": "万が一、こいつの目の前で異変でも\n起こってみろ。無茶苦茶な事になる",
+    "translation": "万が一、こいつの目の前で異変でも\n起こってみろ。無茶苦茶な事になる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV4_003S_0014",
+    "original": "ただでさえ、今、異変が起こりやす\nい状況だと言われているのに……",
+    "translation": "ただでさえ、今、異変が起こりやす\nい状況だと言われているのに……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV4_003S_0015",
+    "original": "見回りが来たら、その時はその時よ\nボヤボヤしてると、置いてくわよ",
+    "translation": "見回りが来たら、その時はその時よ\nボヤボヤしてると、置いてくわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV4_003S_0016",
+    "original": "あ、待ておいっ、ハルヒっ",
+    "translation": "あ、待ておいっ、ハルヒっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV4_003S_0017",
+    "original": "有言実行。本当に俺を置いて先に\nプールへと向かっちまった",
+    "translation": "有言実行。本当に俺を置いて先に\nプールへと向かっちまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV4_003S_0018",
+    "original": "ったく……",
+    "translation": "ったく……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV4_003S_0019",
+    "original": "こうなっては仕方が無い",
+    "translation": "こうなっては仕方が無い",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV4_003S_0020",
+    "original": "少しでも早く、ハルヒの興味を\n他のことに向けさせなければ……",
+    "translation": "少しでも早く、ハルヒの興味を\n他のことに向けさせなければ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV4_003S_0021",
+    "original": "仕方なく、本当に仕方なく、義務感\n１００％でプールに同行したのだが",
+    "translation": "仕方なく、本当に仕方なく、義務感\n１００％でプールに同行したのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV4_003S_0022",
+    "original": "到着早々、ハルヒはプールサイドに\nしゃがみこんで、水面を睨み始めた",
+    "translation": "到着早々、ハルヒはプールサイドに\nしゃがみこんで、水面を睨み始めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV4_003S_0023",
+    "original": "……今のところ、ただの水ね",
+    "translation": "……今のところ、ただの水ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV4_003S_0024",
+    "original": "当たり前だ。水以外の何かであるは\nずがない。おい、もういいだろ？",
+    "translation": "当たり前だ。水以外の何かであるは\nずがない。おい、もういいだろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV4_003S_0025",
+    "original": "いま来たばかりじゃない",
+    "translation": "いま来たばかりじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV4_003S_0026",
+    "original": "アンタも、それらしい動きがないか\nしっかり監視しなさい",
+    "translation": "アンタも、それらしい動きがないか\nしっかり監視しなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV4_003S_0027",
+    "original": "冗談じゃない。こんな場所に長々と\n居座っていたら、何か起きちまう",
+    "translation": "冗談じゃない。こんな場所に長々と\n居座っていたら、何か起きちまう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV4_003S_0028",
+    "original": "ここは早々に、ハルヒには退場して\nいただく方向で積極的に動かねば",
+    "translation": "ここは早々に、ハルヒには退場して\nいただく方向で積極的に動かねば",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV4_003S_0029",
+    "original": "さて……どうハルヒを言いくるめる\nか、知恵の絞りどころだな",
+    "translation": "さて……どうハルヒを言いくるめる\nか、知恵の絞りどころだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV4_003S_0030",
+    "original": "なあ、俺は思うんだが……",
+    "translation": "なあ、俺は思うんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV4_003S_0031",
+    "original": "プールの水面に、なんかの光が反射\nしたとかじゃないか？",
+    "translation": "プールの水面に、なんかの光が反射\nしたとかじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV4_003S_0032",
+    "original": "なにその幼稚な仮説",
+    "translation": "なにその幼稚な仮説",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV4_003S_0033",
+    "original": "考えてもみろ、人喰い教室の一件も\n音楽室での一件も――",
+    "translation": "考えてもみろ、人喰い教室の一件も\n音楽室での一件も――",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV4_003S_0034",
+    "original": "全部、フタを開ければ簡単な説明で\n片付くような事件だったぞ",
+    "translation": "全部、フタを開ければ簡単な説明で\n片付くような事件だったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV4_003S_0035",
+    "original": "まして、目撃者はコンピ研の連中だ",
+    "translation": "まして、目撃者はコンピ研の連中だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV4_003S_0036",
+    "original": "結局、これも他愛もない話なのかも\nしれん",
+    "translation": "結局、これも他愛もない話なのかも\nしれん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV4_003S_0037",
+    "original": "発光してるのよっ。よっぽど明るい\n光に違いないわ！",
+    "translation": "発光してるのよっ。よっぽど明るい\n光に違いないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV4_003S_0038",
+    "original": "だからそれは、コンピ研の見間違い\nなんだろうよ",
+    "translation": "だからそれは、コンピ研の見間違い\nなんだろうよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV4_003S_0039",
+    "original": "もう耳にタコだとは思うが、連中は\n徹夜続きでフラフラだったらしい",
+    "translation": "もう耳にタコだとは思うが、連中は\n徹夜続きでフラフラだったらしい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV4_003S_0040",
+    "original": "そんな状態での目撃証言なんて\nアテにならないことは、実証済だろ",
+    "translation": "そんな状態での目撃証言なんて\nアテにならないことは、実証済だろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV4_003S_0041",
+    "original": "連中は目が疲れてた、だから見間違\nえた。ただ、それだけのことだ",
+    "translation": "連中は目が疲れてた、だから見間違\nえた。ただ、それだけのことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV4_003S_0042",
+    "original": "あのね、キョン",
+    "translation": "あのね、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV4_003S_0043",
+    "original": "そうやって過去の事例ばかり意識\nしてちゃ、前には進めないわ",
+    "translation": "そうやって過去の事例ばかり意識\nしてちゃ、前には進めないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV4_003S_0044",
+    "original": "常に初陣の心構えを持ちなさい！",
+    "translation": "常に初陣の心構えを持ちなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV4_003S_0045",
+    "original": "戦国武将のようなことを言い出した",
+    "translation": "戦国武将のようなことを言い出した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV4_003S_0046",
+    "original": "三度目の正直って言葉もあるわ",
+    "translation": "三度目の正直って言葉もあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV4_003S_0047",
+    "original": "二度あることは三度ある、という\n言葉もあることを忘れないでくれ",
+    "translation": "二度あることは三度ある、という\n言葉もあることを忘れないでくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV4_003S_0048",
+    "original": "とにかく！　そうやって油断して\nると本当の怪奇現象を逃すわよ！",
+    "translation": "とにかく！　そうやって油断して\nると本当の怪奇現象を逃すわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV4_003S_0049",
+    "original": "大いに結構な話だ。ぜひ逃したい",
+    "translation": "大いに結構な話だ。ぜひ逃したい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV4_003S_0050",
+    "original": "このプールは絶対に怪しいわ！\nあたしの勘が、そう告げてるのよ！",
+    "translation": "このプールは絶対に怪しいわ！\nあたしの勘が、そう告げてるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV4_003S_0051",
+    "original": "その便利な勘とやらで、俺の苦労も\n少しは汲んで欲しいものだが",
+    "translation": "その便利な勘とやらで、俺の苦労も\n少しは汲んで欲しいものだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV4_003S_0052",
+    "original": "しかしアレだな、実際、奇妙なこと\nは随所で発生してるわけで……",
+    "translation": "しかしアレだな、実際、奇妙なこと\nは随所で発生してるわけで……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV4_003S_0053",
+    "original": "ハルヒの勘とやらも、あながち間違\nいとは言えないのが、頭痛の種だ",
+    "translation": "ハルヒの勘とやらも、あながち間違\nいとは言えないのが、頭痛の種だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV4_003S_0054",
+    "original": "いや、むしろ、その勘とやらのせい\nで奇妙な事件が起こりかねないのか",
+    "translation": "いや、むしろ、その勘とやらのせい\nで奇妙な事件が起こりかねないのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV4_003S_0055",
+    "original": "水温はどうかしら？",
+    "translation": "水温はどうかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV4_003S_0056",
+    "original": "と、おもむろに靴と靴下を脱いで\nプールに足先を突っ込むハルヒ",
+    "translation": "と、おもむろに靴と靴下を脱いで\nプールに足先を突っ込むハルヒ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV4_003S_0057",
+    "original": "ちょうどいい温度じゃない、冷たす\nぎず、ぬるすぎず……",
+    "translation": "ちょうどいい温度じゃない、冷たす\nぎず、ぬるすぎず……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV4_003S_0058",
+    "original": "そりゃようござんした",
+    "translation": "そりゃようござんした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV4_003S_0059",
+    "original": "ほら、あんたはプールを調べなさい",
+    "translation": "ほら、あんたはプールを調べなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV4_003S_0060",
+    "original": "調べると言われても、どうすりゃ\nいいんだ？",
+    "translation": "調べると言われても、どうすりゃ\nいいんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV4_003S_0061",
+    "original": "ほら、そこにあたしが持ってきた\nアミがあるから",
+    "translation": "ほら、そこにあたしが持ってきた\nアミがあるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV4_003S_0062",
+    "original": "網って、この虫取りアミのことか？",
+    "translation": "網って、この虫取りアミのことか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV4_003S_0063",
+    "original": "他にないでしょ",
+    "translation": "他にないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV4_003S_0064",
+    "original": "あのな、ハルヒ……",
+    "translation": "あのな、ハルヒ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV4_003S_0065",
+    "original": "こんなものでプールの底をさらって\nいったいどうなるって言うんだ？",
+    "translation": "こんなものでプールの底をさらって\nいったいどうなるって言うんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV4_003S_0066",
+    "original": "そんなのやってみなくちゃ分からな\nいじゃない",
+    "translation": "そんなのやってみなくちゃ分からな\nいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV4_003S_0067",
+    "original": "いいから言われた通りにするのよ！",
+    "translation": "いいから言われた通りにするのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV4_003S_0068",
+    "original": "やれやれ……これ以上抵抗すると\nプールに叩き込まれそうだ",
+    "translation": "やれやれ……これ以上抵抗すると\nプールに叩き込まれそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV4_003S_0069",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "evt_EV4_003S_0070",
+    "original": "長い柄のアミをプールに突っ込んで\n右へ左へかき回す",
+    "translation": "長い柄のアミをプールに突っ込んで\n右へ左へかき回す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV4_003S_0071",
+    "original": "しっかり調べるのよ",
+    "translation": "しっかり調べるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV4_003S_0072",
+    "original": "ハルヒのやつはプールの中に浸して\nぱしゃぱしゃとやっている",
+    "translation": "ハルヒのやつはプールの中に浸して\nぱしゃぱしゃとやっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV4_003S_0073",
+    "original": "実に涼しげでよろしいこった",
+    "translation": "実に涼しげでよろしいこった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV4_003S_0074",
+    "original": "なにか見つかった？",
+    "translation": "なにか見つかった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV4_003S_0075",
+    "original": "なにもないぞ！",
+    "translation": "なにもないぞ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV4_003S_0076",
+    "original": "なにかあってたまるか",
+    "translation": "なにかあってたまるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV4_003S_0077",
+    "original": "ちゃんと探したの？\n適当にやったら許さないわよ",
+    "translation": "ちゃんと探したの？\n適当にやったら許さないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV4_003S_0078",
+    "original": "この行為に意味を見いだせない以上\n適当もなにもないと思うが",
+    "translation": "この行為に意味を見いだせない以上\n適当もなにもないと思うが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV4_003S_0079",
+    "original": "どうでもいいが、おまえには手伝う\nつもりとかはないのか？",
+    "translation": "どうでもいいが、おまえには手伝う\nつもりとかはないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV4_003S_0080",
+    "original": "なによ、その程度のこと１人でやり\nなさいよ",
+    "translation": "なによ、その程度のこと１人でやり\nなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV4_003S_0081",
+    "original": "いや、そういう問題じゃなくてだな",
+    "translation": "いや、そういう問題じゃなくてだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV4_003S_0082",
+    "original": "さっきから聞いてれば、文句が多い\nわね！",
+    "translation": "さっきから聞いてれば、文句が多い\nわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV4_003S_0083",
+    "original": "いいから、しっかり腰入れて調査し\nなさい！",
+    "translation": "いいから、しっかり腰入れて調査し\nなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV4_003S_0084",
+    "original": "うわっ、冷てぇ！",
+    "translation": "うわっ、冷てぇ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV4_003S_0085",
+    "original": "ほらほら、モタモタしてたらずぶ濡\nれになるわよ",
+    "translation": "ほらほら、モタモタしてたらずぶ濡\nれになるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV4_003S_0086",
+    "original": "くそっ、いい加減にしろ！",
+    "translation": "くそっ、いい加減にしろ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV4_003S_0087",
+    "original": "あはははっ",
+    "translation": "あはははっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV4_003S_0088",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 89,
+    "key": "evt_EV4_003S_0089",
+    "original": "あー、おもしろかった",
+    "translation": "あー、おもしろかった",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV4_003S_0090",
+    "original": "こっちは１つも面白くない",
+    "translation": "こっちは１つも面白くない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV4_003S_0091",
+    "original": "さてと、遊びはこのくらいにして\nおきましょ",
+    "translation": "さてと、遊びはこのくらいにして\nおきましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV4_003S_0092",
+    "original": "って、ちょっと待て",
+    "translation": "って、ちょっと待て",
+    "speaker": "キョン"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV4_003S_0093",
+    "original": "なによ",
+    "translation": "なによ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV4_003S_0094",
+    "original": "さっきまで俺がやらされてたのは\nなんだったんだ",
+    "translation": "さっきまで俺がやらされてたのは\nなんだったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV4_003S_0095",
+    "original": "宇宙人とやらはどうなるんだ？",
+    "translation": "宇宙人とやらはどうなるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV4_003S_0096",
+    "original": "は？　あんなので宇宙人が捕まえ\nられるわけないじゃない",
+    "translation": "は？　あんなので宇宙人が捕まえ\nられるわけないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV4_003S_0097",
+    "original": "こ、こいつは……",
+    "translation": "こ、こいつは……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV4_003S_0098",
+    "original": "はぁ……なんでもない",
+    "translation": "はぁ……なんでもない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV4_003S_0099",
+    "original": "なんというか、もう疲れた",
+    "translation": "なんというか、もう疲れた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV4_003S_0100",
+    "original": "なによ、そんなに落ち込まなくても\nいいじゃない",
+    "translation": "なによ、そんなに落ち込まなくても\nいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV4_003S_0101",
+    "original": "ちょっとしたイタズラよ、イタズラ",
+    "translation": "ちょっとしたイタズラよ、イタズラ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV4_003S_0102",
+    "original": "なら、そのイタズラですり減った\n俺の神経と濡れた服はどうなる――",
+    "translation": "なら、そのイタズラですり減った\n俺の神経と濡れた服はどうなる――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV4_003S_0103",
+    "original": "などと、口が裂けても言えず\n俺はその場に座り込んだ",
+    "translation": "などと、口が裂けても言えず\n俺はその場に座り込んだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV4_003S_0104",
+    "original": "最初から無駄なことをさせてたのか",
+    "translation": "最初から無駄なことをさせてたのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV4_003S_0105",
+    "original": "無駄とは限らないじゃない",
+    "translation": "無駄とは限らないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV4_003S_0106",
+    "original": "無駄に決まってる",
+    "translation": "無駄に決まってる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV4_003S_0107",
+    "original": "さんざんやって、見つかったのは\n塩素の塊が一個だぞ",
+    "translation": "さんざんやって、見つかったのは\n塩素の塊が一個だぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV4_003S_0108",
+    "original": "水泳の授業中、よく男子が拾ったり\nしてるわよね",
+    "translation": "水泳の授業中、よく男子が拾ったり\nしてるわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV4_003S_0109",
+    "original": "こんなの拾って、なにが嬉しいのか\nしら？",
+    "translation": "こんなの拾って、なにが嬉しいのか\nしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV4_003S_0110",
+    "original": "おい、こら、話をそらすな",
+    "translation": "おい、こら、話をそらすな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV4_003S_0111",
+    "original": "キョン、あんたいつまでアミなんて\n握りしめてるのよ",
+    "translation": "キョン、あんたいつまでアミなんて\n握りしめてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV4_003S_0112",
+    "original": "お、おまえな……",
+    "translation": "お、おまえな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV4_003S_0113",
+    "original": "は？　なに？",
+    "translation": "は？　なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV4_003S_0114",
+    "original": "いや……なんでもない",
+    "translation": "いや……なんでもない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV4_003S_0115",
+    "original": "なんというか、もう文句を言う\n体力もなくなった……",
+    "translation": "なんというか、もう文句を言う\n体力もなくなった……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV4_003S_0116",
+    "original": "それにしても……",
+    "translation": "それにしても……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV4_003S_0117",
+    "original": "もっとこう、何か分かりやすい兆候\nが起きたりしないのかしら",
+    "translation": "もっとこう、何か分かりやすい兆候\nが起きたりしないのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV4_003S_0118",
+    "original": "突然、間欠泉みたいに水しぶきが上\nがるとか、風もないのに波立つとか",
+    "translation": "突然、間欠泉みたいに水しぶきが上\nがるとか、風もないのに波立つとか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV4_003S_0119",
+    "original": "ちょっとでもいいから、光りなさい\nよ。プールのくせに",
+    "translation": "ちょっとでもいいから、光りなさい\nよ。プールのくせに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV4_003S_0120",
+    "original": "ハルヒはなにか言っているが、ただ\nのイチャモンにしか聞こえない",
+    "translation": "ハルヒはなにか言っているが、ただ\nのイチャモンにしか聞こえない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV4_003S_0121",
+    "original": "何度も言うがな、ハルヒ",
+    "translation": "何度も言うがな、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV4_003S_0122",
+    "original": "これはやっぱり、どう考えてもコン\nピ研の連中の見間違いだ",
+    "translation": "これはやっぱり、どう考えてもコン\nピ研の連中の見間違いだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV4_003S_0123",
+    "original": "まだ、決め付けるのは早いわ",
+    "translation": "まだ、決め付けるのは早いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV4_003S_0124",
+    "original": "いや、しかしだな……",
+    "translation": "いや、しかしだな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV4_003S_0125",
+    "original": "なんでも、そうやって頭から決め付\nけてかかっちゃ、意味ないでしょ！",
+    "translation": "なんでも、そうやって頭から決め付\nけてかかっちゃ、意味ないでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV4_003S_0126",
+    "original": "そうやってすぐ、サボろうとする！\n軍法会議にかけるわよ！",
+    "translation": "そうやってすぐ、サボろうとする！\n軍法会議にかけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV4_003S_0127",
+    "original": "いつ、俺たちは軍隊になったんだ？",
+    "translation": "いつ、俺たちは軍隊になったんだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV4_003S_0128",
+    "original": "無駄口叩いてる暇があったら、隅の\n方とかプールサイドを調べなさい！",
+    "translation": "無駄口叩いてる暇があったら、隅の\n方とかプールサイドを調べなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV4_003S_0129",
+    "original": "しつこく食い下がった俺の態度が\nどうやらお気に召さなかったらしい",
+    "translation": "しつこく食い下がった俺の態度が\nどうやらお気に召さなかったらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV4_003S_0130",
+    "original": "やれやれ……こっちはサボるどころ\nか、過労でフラフラだというのに",
+    "translation": "やれやれ……こっちはサボるどころ\nか、過労でフラフラだというのに",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV4_003S_0131",
+    "original": "さっさと調査しなさい！",
+    "translation": "さっさと調査しなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV4_003S_0132",
+    "original": "へいへい……",
+    "translation": "へいへい……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV4_003S_0133",
+    "original": "あきらめる",
+    "translation": "あきらめる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV4_003S_0134",
+    "original": "文句を言う",
+    "translation": "文句を言う",
+    "speaker": "CHOICE"
+  }
+]

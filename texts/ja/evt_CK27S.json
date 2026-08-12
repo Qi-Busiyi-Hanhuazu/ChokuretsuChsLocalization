@@ -1,0 +1,289 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK27S_0000",
+    "original": "ハルヒ、お前も古泉からアドバイス\nを受けたことがあるよな？",
+    "translation": "ハルヒ、お前も古泉からアドバイス\nを受けたことがあるよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK27S_0001",
+    "original": "あるけど、キョン\n……それがなんなの？",
+    "translation": "あるけど、キョン\n……それがなんなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK27S_0002",
+    "original": "あいつのアドバイスは、的確なんだ\nが、いちいち正論でめんどくさい",
+    "translation": "あいつのアドバイスは、的確なんだ\nが、いちいち正論でめんどくさい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK27S_0003",
+    "original": "そう思ったことはないか？",
+    "translation": "そう思ったことはないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK27S_0004",
+    "original": "ないわよ、そんなの",
+    "translation": "ないわよ、そんなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK27S_0005",
+    "original": "あたしをキョンと一緒にしないで\n欲しいわ",
+    "translation": "あたしをキョンと一緒にしないで\n欲しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK27S_0006",
+    "original": "どうせ、古泉くんに鋭いツッコミを\n入れられたとかでしょ",
+    "translation": "どうせ、古泉くんに鋭いツッコミを\n入れられたとかでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK27S_0007",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK27S_0008",
+    "original": "余裕が無いときは、あいつの冷静な\nアドバイスは、無性に腹が立つんだ",
+    "translation": "余裕が無いときは、あいつの冷静な\nアドバイスは、無性に腹が立つんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK27S_0009",
+    "original": "あんたの心が狭いだけでしょ",
+    "translation": "あんたの心が狭いだけでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK27S_0010",
+    "original": "……ハルヒのツッコミも、古泉に\n負けず劣らずキツいな",
+    "translation": "……ハルヒのツッコミも、古泉に\n負けず劣らずキツいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK27S_0011",
+    "original": "涼宮さんも、古泉くんにアドバイス\nをもらったこと、ありますよね？",
+    "translation": "涼宮さんも、古泉くんにアドバイス\nをもらったこと、ありますよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK27S_0012",
+    "original": "もちろんあるけど……どうしたの？",
+    "translation": "もちろんあるけど……どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK27S_0013",
+    "original": "キョンくんが言うには、古泉くんの\nアドバイスは、すごく疲れるって",
+    "translation": "キョンくんが言うには、古泉くんの\nアドバイスは、すごく疲れるって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK27S_0014",
+    "original": "あのバカ、そんなこと言ってるの？",
+    "translation": "あのバカ、そんなこと言ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK27S_0015",
+    "original": "情けないわね、人のアドバイスくら\nい、余裕で聞けないのかしら？",
+    "translation": "情けないわね、人のアドバイスくら\nい、余裕で聞けないのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK27S_0016",
+    "original": "い、色々と切羽詰ってるときも\nあるんじゃないかなあ、と思います",
+    "translation": "い、色々と切羽詰ってるときも\nあるんじゃないかなあ、と思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK27S_0017",
+    "original": "キョンくん、少し疲れてるみたい\nですし……",
+    "translation": "キョンくん、少し疲れてるみたい\nですし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK27S_0018",
+    "original": "そこがダメなのよ。まだ合宿は\n始まったばかりだってのに！",
+    "translation": "そこがダメなのよ。まだ合宿は\n始まったばかりだってのに！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK27S_0019",
+    "original": "そのうち、キョンの強化合宿も\n敢行しなきゃダメね",
+    "translation": "そのうち、キョンの強化合宿も\n敢行しなきゃダメね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK27S_0020",
+    "original": "……同情します、キョンくん",
+    "translation": "……同情します、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK27S_0021",
+    "original": "キョンが、古泉くんにアドバイス\nされて、頭が一杯になった？",
+    "translation": "キョンが、古泉くんにアドバイス\nされて、頭が一杯になった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK27S_0022",
+    "original": "……なんの話か、全然分からない\nんだけど",
+    "translation": "……なんの話か、全然分からない\nんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK27S_0023",
+    "original": "そのままの意味",
+    "translation": "そのままの意味",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK27S_0024",
+    "original": "多すぎる助言は、判断を遅らせる",
+    "translation": "多すぎる助言は、判断を遅らせる",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK27S_0025",
+    "original": "自重すべき",
+    "translation": "自重すべき",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK27S_0026",
+    "original": "……要するに、キョンが根性なし\nってことじゃないの？",
+    "translation": "……要するに、キョンが根性なし\nってことじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK27S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK27S_0028",
+    "original": "どうせ、色々考える最中に、横から\n助言されて、混乱したんでしょ",
+    "translation": "どうせ、色々考える最中に、横から\n助言されて、混乱したんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK27S_0029",
+    "original": "キョンならありうる話だわ",
+    "translation": "キョンならありうる話だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK27S_0030",
+    "original": "良かれ、と思ってやっていることが\n裏目に出ることが、よくあるんです",
+    "translation": "良かれ、と思ってやっていることが\n裏目に出ることが、よくあるんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK27S_0031",
+    "original": "僕としては、力になりたいと思って\nアドバイスをしただけなのですが",
+    "translation": "僕としては、力になりたいと思って\nアドバイスをしただけなのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK27S_0032",
+    "original": "その話しぶりだと、相手はキョンね",
+    "translation": "その話しぶりだと、相手はキョンね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK27S_0033",
+    "original": "まあ、そんなところです",
+    "translation": "まあ、そんなところです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK27S_0034",
+    "original": "アドバイスは助かるが、控えめにし\nて欲しいと、言われてしまいました",
+    "translation": "アドバイスは助かるが、控えめにし\nて欲しいと、言われてしまいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK27S_0035",
+    "original": "古泉くんに鋭いツッコミを入れられ\nて、すねちゃったんでしょ",
+    "translation": "古泉くんに鋭いツッコミを入れられ\nて、すねちゃったんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK27S_0036",
+    "original": "いえ、そうではないんです",
+    "translation": "いえ、そうではないんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK27S_0037",
+    "original": "一度に、多方面から色々と助言を\nしすぎたと言いますか……",
+    "translation": "一度に、多方面から色々と助言を\nしすぎたと言いますか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK27S_0038",
+    "original": "気にしちゃダメよ、そういう時は\nもっと山ほど助言してあげなさい",
+    "translation": "気にしちゃダメよ、そういう時は\nもっと山ほど助言してあげなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK27S_0039",
+    "original": "あたしだったら、そうするわ",
+    "translation": "あたしだったら、そうするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK27S_0040",
+    "original": "なかなか、涼宮さんのようには\n上手くいかないものです",
+    "translation": "なかなか、涼宮さんのようには\n上手くいかないものです",
+    "speaker": "古泉"
+  }
+]

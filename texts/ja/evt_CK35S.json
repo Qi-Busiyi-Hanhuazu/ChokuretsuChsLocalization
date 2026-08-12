@@ -1,0 +1,464 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK35S_0000",
+    "original": "さっき古泉に苦笑されちまったよ",
+    "translation": "さっき古泉に苦笑されちまったよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK35S_0001",
+    "original": "キョンがまたバカなことをして\n古泉くんに迷惑かけたんでしょ",
+    "translation": "キョンがまたバカなことをして\n古泉くんに迷惑かけたんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK35S_0002",
+    "original": "怒らないから言ってみなさい",
+    "translation": "怒らないから言ってみなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK35S_0003",
+    "original": "断定するなよ",
+    "translation": "断定するなよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK35S_0004",
+    "original": "するわよ！　あの平常心の塊みたい\nな古泉くんに苦笑させたんでしょ？",
+    "translation": "するわよ！　あの平常心の塊みたい\nな古泉くんに苦笑させたんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK35S_0005",
+    "original": "一般人なら怒り心頭な可能性大ね",
+    "translation": "一般人なら怒り心頭な可能性大ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK35S_0006",
+    "original": "そんな場面じゃなかったぞ",
+    "translation": "そんな場面じゃなかったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK35S_0007",
+    "original": "あんたの申告は信用できないわね",
+    "translation": "あんたの申告は信用できないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK35S_0008",
+    "original": "だからホントにそうだって\n実際なんで苦笑したんだろうな？",
+    "translation": "だからホントにそうだって\n実際なんで苦笑したんだろうな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK35S_0009",
+    "original": "本気でわかんないのね？",
+    "translation": "本気でわかんないのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK35S_0010",
+    "original": "そう言ってるじゃないか",
+    "translation": "そう言ってるじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK35S_0011",
+    "original": "古泉くんも気の毒だわ。彼もこの\n鈍感男相手に苦労してるのね",
+    "translation": "古泉くんも気の毒だわ。彼もこの\n鈍感男相手に苦労してるのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK35S_0012",
+    "original": "相変わらず、ひどい言いようだ",
+    "translation": "相変わらず、ひどい言いようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK35S_0013",
+    "original": "で、何をしてたわけよ？",
+    "translation": "で、何をしてたわけよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK35S_0014",
+    "original": "確か妹を言いくるめてたんだよ",
+    "translation": "確か妹を言いくるめてたんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK35S_0015",
+    "original": "何を言いくるめてたかは、ハルヒに\n言えないがな",
+    "translation": "何を言いくるめてたかは、ハルヒに\n言えないがな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK35S_0016",
+    "original": "妹ちゃんを古泉くんが？",
+    "translation": "妹ちゃんを古泉くんが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK35S_0017",
+    "original": "そうだ。でもなかなか頑固でな",
+    "translation": "そうだ。でもなかなか頑固でな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK35S_0018",
+    "original": "聞いてて面倒になったから、アイス\n買ってやった",
+    "translation": "聞いてて面倒になったから、アイス\n買ってやった",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK35S_0019",
+    "original": "で、現金な妹はそれですっかり\n忘れたってわけだ",
+    "translation": "で、現金な妹はそれですっかり\n忘れたってわけだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK35S_0020",
+    "original": "……なるほど古泉くんが苦笑する訳\nだわね",
+    "translation": "……なるほど古泉くんが苦笑する訳\nだわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK35S_0021",
+    "original": "そうか？",
+    "translation": "そうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK35S_0022",
+    "original": "古泉くんのあの流麗な話術での説得\nがアイス一個に負けたってことよね",
+    "translation": "古泉くんのあの流麗な話術での説得\nがアイス一個に負けたってことよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK35S_0023",
+    "original": "なるほど、そう言われればそうか",
+    "translation": "なるほど、そう言われればそうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK35S_0024",
+    "original": "まったく\n古泉くんに同情しちゃうわ",
+    "translation": "まったく\n古泉くんに同情しちゃうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK35S_0025",
+    "original": "古泉くんって、怒ったり嘆いたり\nしたところを見たことないですよね",
+    "translation": "古泉くんって、怒ったり嘆いたり\nしたところを見たことないですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK35S_0026",
+    "original": "そうね。いつも平常心って感じで\nポーカーフェイスよね",
+    "translation": "そうね。いつも平常心って感じで\nポーカーフェイスよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK35S_0027",
+    "original": "長門さんも見たことないですけど\n落ち着いてますよね",
+    "translation": "長門さんも見たことないですけど\n落ち着いてますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK35S_0028",
+    "original": "有希は古泉くんと違って、無表情な\nだけでしょ。それがどうしたの？",
+    "translation": "有希は古泉くんと違って、無表情な\nだけでしょ。それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK35S_0029",
+    "original": "ええと、普段感情を表に出さない\n人の苦笑とかため息とかって",
+    "translation": "ええと、普段感情を表に出さない\n人の苦笑とかため息とかって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK35S_0030",
+    "original": "けっこう重要な表現なのかなと\n思ったんです",
+    "translation": "けっこう重要な表現なのかなと\n思ったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK35S_0031",
+    "original": "そうかもね。みくるちゃんが\n泣いたりあたしが怒ったりするのは",
+    "translation": "そうかもね。みくるちゃんが\n泣いたりあたしが怒ったりするのは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK35S_0032",
+    "original": "日常茶飯事だものね",
+    "translation": "日常茶飯事だものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK35S_0033",
+    "original": "はうぅっ",
+    "translation": "はうぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK35S_0034",
+    "original": "それで、それがどうしたの？",
+    "translation": "それで、それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK35S_0035",
+    "original": "古泉くんが苦笑したら、気をつけた\n方がいいですよね？",
+    "translation": "古泉くんが苦笑したら、気をつけた\n方がいいですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK35S_0036",
+    "original": "すごく傷ついてる可能性とか、\nあったりするかもしれませんよね",
+    "translation": "すごく傷ついてる可能性とか、\nあったりするかもしれませんよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK35S_0037",
+    "original": "まあ、可能性はない訳じゃないかも",
+    "translation": "まあ、可能性はない訳じゃないかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK35S_0038",
+    "original": "あたし、これから気をつけます！",
+    "translation": "あたし、これから気をつけます！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK35S_0039",
+    "original": "……そうね。よくわかんないけど\n気遣うのは悪いことじゃないわ",
+    "translation": "……そうね。よくわかんないけど\n気遣うのは悪いことじゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK35S_0040",
+    "original": "古泉一樹が苦笑した",
+    "translation": "古泉一樹が苦笑した",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK35S_0041",
+    "original": "そりゃ古泉くんだって苦笑くらい\nするんじゃないの？",
+    "translation": "そりゃ古泉くんだって苦笑くらい\nするんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK35S_0042",
+    "original": "苦笑の現場を目撃した",
+    "translation": "苦笑の現場を目撃した",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK35S_0043",
+    "original": "どんな場面で苦笑したの？",
+    "translation": "どんな場面で苦笑したの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK35S_0044",
+    "original": "古泉一樹の説得より、彼の一言の\n方が功をそうした場面",
+    "translation": "古泉一樹の説得より、彼の一言の\n方が功をそうした場面",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK35S_0045",
+    "original": "彼の一言って、キョンの？",
+    "translation": "彼の一言って、キョンの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK35S_0046",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK35S_0047",
+    "original": "どんな一言だったの？",
+    "translation": "どんな一言だったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK35S_0048",
+    "original": "アイス買ってやる",
+    "translation": "アイス買ってやる",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK35S_0049",
+    "original": "……なるほど、状況が見えてきたわ",
+    "translation": "……なるほど、状況が見えてきたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK35S_0050",
+    "original": "つまり、妹ちゃんを説得するには\n流麗な話術よりアイスの方が勝る",
+    "translation": "つまり、妹ちゃんを説得するには\n流麗な話術よりアイスの方が勝る",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK35S_0051",
+    "original": "兄の判断が勝利したってことね",
+    "translation": "兄の判断が勝利したってことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK35S_0052",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK35S_0053",
+    "original": "古泉くんも色々苦労してるわね",
+    "translation": "古泉くんも色々苦労してるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK35S_0054",
+    "original": "買い物途中で苦笑するような\nことがありましたよ",
+    "translation": "買い物途中で苦笑するような\nことがありましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK35S_0055",
+    "original": "なにか面白いことでもあったの？\nそれともくだらないこと？",
+    "translation": "なにか面白いことでもあったの？\nそれともくだらないこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK35S_0056",
+    "original": "彼の妹さんのことなんですが",
+    "translation": "彼の妹さんのことなんですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK35S_0057",
+    "original": "そう言えば妹ちゃん、買い物に\nついて行ったのよね",
+    "translation": "そう言えば妹ちゃん、買い物に\nついて行ったのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK35S_0058",
+    "original": "ええ、その際にちょっとしたことで\n説得する事になったのですが",
+    "translation": "ええ、その際にちょっとしたことで\n説得する事になったのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CK35S_0059",
+    "original": "しかし、中々聞いていただけなくて",
+    "translation": "しかし、中々聞いていただけなくて",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CK35S_0060",
+    "original": "あはは、古泉くんの話術も小学生に\nは通用しなかったのね？",
+    "translation": "あはは、古泉くんの話術も小学生に\nは通用しなかったのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CK35S_0061",
+    "original": "はい。おっしゃるとおりです",
+    "translation": "はい。おっしゃるとおりです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_CK35S_0062",
+    "original": "結局、彼がアイス一本で\n懐柔してしまわれたのですよ",
+    "translation": "結局、彼がアイス一本で\n懐柔してしまわれたのですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CK35S_0063",
+    "original": "なるほど、アイスに負けちゃった\nわけね",
+    "translation": "なるほど、アイスに負けちゃった\nわけね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CK35S_0064",
+    "original": "僕もまだまだだと思い知らされ\nてしまいました",
+    "translation": "僕もまだまだだと思い知らされ\nてしまいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_CK35S_0065",
+    "original": "ご愁傷様",
+    "translation": "ご愁傷様",
+    "speaker": "ハルヒ"
+  }
+]

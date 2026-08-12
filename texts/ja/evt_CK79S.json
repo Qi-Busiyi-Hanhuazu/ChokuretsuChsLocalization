@@ -1,0 +1,499 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK79S_0000",
+    "original": "なぁ、ハルヒ",
+    "translation": "なぁ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK79S_0001",
+    "original": "なによ？",
+    "translation": "なによ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK79S_0002",
+    "original": "チェス勝負の時の話なんだがな",
+    "translation": "チェス勝負の時の話なんだがな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK79S_0003",
+    "original": "古泉が作ってたトーナメント表\nあれ、いつ用意したんだろうな",
+    "translation": "古泉が作ってたトーナメント表\nあれ、いつ用意したんだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK79S_0004",
+    "original": "そういえば、妙に手回しよく出して\nきたわよね、古泉くん",
+    "translation": "そういえば、妙に手回しよく出して\nきたわよね、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK79S_0005",
+    "original": "だろ。俺が思うには、だが聞くか？",
+    "translation": "だろ。俺が思うには、だが聞くか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK79S_0006",
+    "original": "もう、余計なタメを取らずに\nさっさと言いなさいよ",
+    "translation": "もう、余計なタメを取らずに\nさっさと言いなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK79S_0007",
+    "original": "夏休み前に古泉がチェスを持ち\n込んだよな？",
+    "translation": "夏休み前に古泉がチェスを持ち\n込んだよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK79S_0008",
+    "original": "そん時は誰も相手してやらなかった\nんだよな",
+    "translation": "そん時は誰も相手してやらなかった\nんだよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK79S_0009",
+    "original": "それであいつ、ひとり寂しく詰め\nチェスしてたじゃないか",
+    "translation": "それであいつ、ひとり寂しく詰め\nチェスしてたじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK79S_0010",
+    "original": "あたしは忙しかったのよ、別の計画\n立ててる最中だったんだもの",
+    "translation": "あたしは忙しかったのよ、別の計画\n立ててる最中だったんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK79S_0011",
+    "original": "他のみんなのことは知らないけどね",
+    "translation": "他のみんなのことは知らないけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK79S_0012",
+    "original": "相手をして貰えなくて可哀想だった\nわよねー、古泉くんたら",
+    "translation": "相手をして貰えなくて可哀想だった\nわよねー、古泉くんたら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK79S_0013",
+    "original": "俺は実際、あの時くわしくルールを\n知らなかったんだよ",
+    "translation": "俺は実際、あの時くわしくルールを\n知らなかったんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK79S_0014",
+    "original": "はいはい、続きいって",
+    "translation": "はいはい、続きいって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK79S_0015",
+    "original": "だからさ、あの時からずっと用意\nしてたんじゃないかなーと……",
+    "translation": "だからさ、あの時からずっと用意\nしてたんじゃないかなーと……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK79S_0016",
+    "original": "あそこにいたメンバー分の表だった\nじゃないのよ",
+    "translation": "あそこにいたメンバー分の表だった\nじゃないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK79S_0017",
+    "original": "いや、アイツなら組み合わせ表を\nパターンごとに作りかねないぞ",
+    "translation": "いや、アイツなら組み合わせ表を\nパターンごとに作りかねないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK79S_0018",
+    "original": "……かもね",
+    "translation": "……かもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK79S_0019",
+    "original": "古泉、執念のトーナメント表って\nことだ",
+    "translation": "古泉、執念のトーナメント表って\nことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK79S_0020",
+    "original": "だとしても良かったじゃないの\n使われて、本望でしょうよ",
+    "translation": "だとしても良かったじゃないの\n使われて、本望でしょうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK79S_0021",
+    "original": "そこまでチェスに固執して、あいつ\nはなんであんなに弱いんだろうな？",
+    "translation": "そこまでチェスに固執して、あいつ\nはなんであんなに弱いんだろうな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK79S_0022",
+    "original": "……そこが古泉くんらしくて\nいいんじゃない",
+    "translation": "……そこが古泉くんらしくて\nいいんじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK79S_0023",
+    "original": "涼宮さん、あの、これなんですけど",
+    "translation": "涼宮さん、あの、これなんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK79S_0024",
+    "original": "チェスのトーナメント表じゃない\nこれがどうしたの？",
+    "translation": "チェスのトーナメント表じゃない\nこれがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK79S_0025",
+    "original": "これって、まだ最後まで終わって\nなかったんでしたよね",
+    "translation": "これって、まだ最後まで終わって\nなかったんでしたよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK79S_0026",
+    "original": "そうね。でもチェスよりもこっち\nの方優先よ",
+    "translation": "そうね。でもチェスよりもこっち\nの方優先よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK79S_0027",
+    "original": "あ、あたしはチェスの結果の方が\n気になってるんですけど……",
+    "translation": "あ、あたしはチェスの結果の方が\n気になってるんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK79S_0028",
+    "original": "今からでも、キョンくんと\n対戦しませんか？",
+    "translation": "今からでも、キョンくんと\n対戦しませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK79S_0029",
+    "original": "そんなに気になるの？",
+    "translation": "そんなに気になるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK79S_0030",
+    "original": "は、はい！",
+    "translation": "は、はい！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK79S_0031",
+    "original": "じゃあ、後で全員でやりましょ\n今度はちゃんと有希も入れてね！",
+    "translation": "じゃあ、後で全員でやりましょ\n今度はちゃんと有希も入れてね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK79S_0032",
+    "original": "あうう……",
+    "translation": "あうう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK79S_0033",
+    "original": "私が不在の時にチェス勝負をしたと\n聞いた",
+    "translation": "私が不在の時にチェス勝負をしたと\n聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK79S_0034",
+    "original": "肝試しに使ったチェスがあった\nから、古泉くんが言い出したのよ",
+    "translation": "肝試しに使ったチェスがあった\nから、古泉くんが言い出したのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK79S_0035",
+    "original": "もしかして、有希もしたかった？",
+    "translation": "もしかして、有希もしたかった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK79S_0036",
+    "original": "ルールを知らない",
+    "translation": "ルールを知らない",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK79S_0037",
+    "original": "平気平気、有希ならすぐ覚えて\nキョン辺りに圧勝するわよ",
+    "translation": "平気平気、有希ならすぐ覚えて\nキョン辺りに圧勝するわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK79S_0038",
+    "original": "謎のトーナメント表があったと\n聞かされた",
+    "translation": "謎のトーナメント表があったと\n聞かされた",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK79S_0039",
+    "original": "古泉くんが用意してたあれね",
+    "translation": "古泉くんが用意してたあれね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK79S_0040",
+    "original": "謎のトーナメント表と言うより、\nいつあれが作られたかが謎なのよね",
+    "translation": "謎のトーナメント表と言うより、\nいつあれが作られたかが謎なのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK79S_0041",
+    "original": "わからない……",
+    "translation": "わからない……",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK79S_0042",
+    "original": "有希はいいのよ\nそれにしても、古泉くん……",
+    "translation": "有希はいいのよ\nそれにしても、古泉くん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK79S_0043",
+    "original": "トーナメント表を持ち歩くほど\nみんなとチェスしたかったのねぇ",
+    "translation": "トーナメント表を持ち歩くほど\nみんなとチェスしたかったのねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK79S_0044",
+    "original": "チェスである必要はないのかもしれ\nない",
+    "translation": "チェスである必要はないのかもしれ\nない",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK79S_0045",
+    "original": "あ、それはあるかも。ゲームだった\nらなんでもよかったのかもね",
+    "translation": "あ、それはあるかも。ゲームだった\nらなんでもよかったのかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK79S_0046",
+    "original": "トーナメント表ですが、配置次第で\n勝敗が左右されてしまいますね",
+    "translation": "トーナメント表ですが、配置次第で\n勝敗が左右されてしまいますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK79S_0047",
+    "original": "強い人は、どこに配置しても強いで\nしょ",
+    "translation": "強い人は、どこに配置しても強いで\nしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK79S_0048",
+    "original": "ですが、強さだけではなんともなら\nないこともあるのですよ",
+    "translation": "ですが、強さだけではなんともなら\nないこともあるのですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK79S_0049",
+    "original": "だけど、公平なものだと思うわよ？",
+    "translation": "だけど、公平なものだと思うわよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK79S_0050",
+    "original": "ところが、配置次第では不公平が生\nじることがあるんですよ",
+    "translation": "ところが、配置次第では不公平が生\nじることがあるんですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK79S_0051",
+    "original": "時の運とか、相手の得手不得手とか\n言いだしたらそうかもね",
+    "translation": "時の運とか、相手の得手不得手とか\n言いだしたらそうかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK79S_0052",
+    "original": "たとえばの話ですが……",
+    "translation": "たとえばの話ですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK79S_0053",
+    "original": "じゃんけんみたいなもので、Ａは\nＢに勝てるがＣには勝てない",
+    "translation": "じゃんけんみたいなもので、Ａは\nＢに勝てるがＣには勝てない",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK79S_0054",
+    "original": "同じように、ＣはＢには勝てないと\n仮定してみましょう",
+    "translation": "同じように、ＣはＢには勝てないと\n仮定してみましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK79S_0055",
+    "original": "相克ってやつね",
+    "translation": "相克ってやつね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK79S_0056",
+    "original": "３人トーナメントの初戦でＡとＢが\n対戦したらどうです？",
+    "translation": "３人トーナメントの初戦でＡとＢが\n対戦したらどうです？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK79S_0057",
+    "original": "Ａが勝ち抜いて、Ａに勝てるＣが\n優勝よ",
+    "translation": "Ａが勝ち抜いて、Ａに勝てるＣが\n優勝よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK79S_0058",
+    "original": "お見事、そのとおりです",
+    "translation": "お見事、そのとおりです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CK79S_0059",
+    "original": "初戦でＢとＣが当たると、Ａの勝ち\nってことになるわね",
+    "translation": "初戦でＢとＣが当たると、Ａの勝ち\nってことになるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_CK79S_0060",
+    "original": "同様にＢが勝つパターンもあります",
+    "translation": "同様にＢが勝つパターンもあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_CK79S_0061",
+    "original": "そう考えると、トーナメントは\n本当に公平なのかと思うのですよ",
+    "translation": "そう考えると、トーナメントは\n本当に公平なのかと思うのですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_CK79S_0062",
+    "original": "その一面だけ捉えるとそうね",
+    "translation": "その一面だけ捉えるとそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_CK79S_0063",
+    "original": "競技者の相性などを熟知している者\nが、誰かを勝たせることが可能です",
+    "translation": "競技者の相性などを熟知している者\nが、誰かを勝たせることが可能です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 64,
+    "key": "evt_CK79S_0064",
+    "original": "そうとも言い切れないわよ",
+    "translation": "そうとも言い切れないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_CK79S_0065",
+    "original": "といいますと？",
+    "translation": "といいますと？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 66,
+    "key": "evt_CK79S_0066",
+    "original": "あみだくじで対戦を決めれば、公平\nになるでしょ",
+    "translation": "あみだくじで対戦を決めれば、公平\nになるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_CK79S_0067",
+    "original": "組み合わせ自体が、時の運に任せて\nいるのだから、それは公平よね",
+    "translation": "組み合わせ自体が、時の運に任せて\nいるのだから、それは公平よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CK79S_0068",
+    "original": "なるほど、そうなりますね\nしかし……",
+    "translation": "なるほど、そうなりますね\nしかし……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 69,
+    "key": "evt_CK79S_0069",
+    "original": "ねえ、古泉くん。ややこしい話をす\nるから頭がこんがらがりそうよっ！",
+    "translation": "ねえ、古泉くん。ややこしい話をす\nるから頭がこんがらがりそうよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_CK79S_0070",
+    "original": "それは失礼しました",
+    "translation": "それは失礼しました",
+    "speaker": "古泉"
+  }
+]

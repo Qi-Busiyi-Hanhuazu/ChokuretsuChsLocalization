@@ -1,0 +1,331 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK29S_0000",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK29S_0001",
+    "original": "キョン、ものすごーくつまらない\nこと言う気じゃないでしょうね？",
+    "translation": "キョン、ものすごーくつまらない\nこと言う気じゃないでしょうね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK29S_0002",
+    "original": "話をする前から、いきなり牽制して\nきやがった",
+    "translation": "話をする前から、いきなり牽制して\nきやがった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK29S_0003",
+    "original": "古泉の本音って聞いたことあるか？",
+    "translation": "古泉の本音って聞いたことあるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK29S_0004",
+    "original": "本音なんて言うけど、それじゃ\nいつも言ってることは、",
+    "translation": "本音なんて言うけど、それじゃ\nいつも言ってることは、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK29S_0005",
+    "original": "建前ってことになるじゃないのよ",
+    "translation": "建前ってことになるじゃないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK29S_0006",
+    "original": "建前だろ？",
+    "translation": "建前だろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK29S_0007",
+    "original": "いつも笑顔を浮かべて調子のいい\n発言ったら、建前に決まってる",
+    "translation": "いつも笑顔を浮かべて調子のいい\n発言ったら、建前に決まってる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK29S_0008",
+    "original": "キョン……確かに古泉くんはあんた\nと違って優秀で有能で人格者だわ",
+    "translation": "キョン……確かに古泉くんはあんた\nと違って優秀で有能で人格者だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK29S_0009",
+    "original": "でもね、だからって嫉妬して揶揄\nするのはどうかと思うわよ",
+    "translation": "でもね、だからって嫉妬して揶揄\nするのはどうかと思うわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK29S_0010",
+    "original": "人として、それはダメでしょ",
+    "translation": "人として、それはダメでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK29S_0011",
+    "original": "なんで俺はハルヒに可哀想な人を\n見る目で見られないとならんのだ？",
+    "translation": "なんで俺はハルヒに可哀想な人を\n見る目で見られないとならんのだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK29S_0012",
+    "original": "あのー、涼宮さん",
+    "translation": "あのー、涼宮さん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK29S_0013",
+    "original": "なに、みくるちゃん",
+    "translation": "なに、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK29S_0014",
+    "original": "あのですねぇ、古泉くんのこと\nなんですけど……",
+    "translation": "あのですねぇ、古泉くんのこと\nなんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK29S_0015",
+    "original": "古泉くんっていつも微笑んでいて\n穏やかですよねぇ",
+    "translation": "古泉くんっていつも微笑んでいて\n穏やかですよねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK29S_0016",
+    "original": "そうね。いつもしかめっ面のキョン\nとは大違いだわ",
+    "translation": "そうね。いつもしかめっ面のキョン\nとは大違いだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK29S_0017",
+    "original": "古泉くんでも、本音ってあるんで\nしょうかね？",
+    "translation": "古泉くんでも、本音ってあるんで\nしょうかね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK29S_0018",
+    "original": "古泉くんの本音ねぇ",
+    "translation": "古泉くんの本音ねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK29S_0019",
+    "original": "もしあるとして\nそれ知りたいの、みくるちゃん？",
+    "translation": "もしあるとして\nそれ知りたいの、みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK29S_0020",
+    "original": "ううーん……どうでしょう？",
+    "translation": "ううーん……どうでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK29S_0021",
+    "original": "知りたいような、知りたくない\nような……",
+    "translation": "知りたいような、知りたくない\nような……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK29S_0022",
+    "original": "穏やかに笑ってくれてる方が\nいいかなぁ……",
+    "translation": "穏やかに笑ってくれてる方が\nいいかなぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK29S_0023",
+    "original": "言いたくなったら言うんじゃないの\nみんな好きにすればいいと思うわ",
+    "translation": "言いたくなったら言うんじゃないの\nみんな好きにすればいいと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK29S_0024",
+    "original": "そうですねぇ",
+    "translation": "そうですねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK29S_0025",
+    "original": "古泉一樹の本音",
+    "translation": "古泉一樹の本音",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK29S_0026",
+    "original": "古泉くんの本音？",
+    "translation": "古泉くんの本音？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK29S_0027",
+    "original": "そりゃあるでしょ、人間だもの",
+    "translation": "そりゃあるでしょ、人間だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK29S_0028",
+    "original": "建前は",
+    "translation": "建前は",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK29S_0029",
+    "original": "あるんじゃないの",
+    "translation": "あるんじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK29S_0030",
+    "original": "見栄張りたい時だってあるでしょう\nし、我慢だってするでしょ",
+    "translation": "見栄張りたい時だってあるでしょう\nし、我慢だってするでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK29S_0031",
+    "original": "建前が嘘で本音が真実とも限らない\nこともあるし、複雑なのよ、色々ね",
+    "translation": "建前が嘘で本音が真実とも限らない\nこともあるし、複雑なのよ、色々ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK29S_0032",
+    "original": "興味深い",
+    "translation": "興味深い",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK29S_0033",
+    "original": "それは良かったわ、有希",
+    "translation": "それは良かったわ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK29S_0034",
+    "original": "彼に僕の本音が聞きたい\nと言われてしまいましたが",
+    "translation": "彼に僕の本音が聞きたい\nと言われてしまいましたが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK29S_0035",
+    "original": "僕はそんなに裏表があるように\n見えるのでしょうか",
+    "translation": "僕はそんなに裏表があるように\n見えるのでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK29S_0036",
+    "original": "キョンが？　あいつったら失礼な\nヤツね、まったく",
+    "translation": "キョンが？　あいつったら失礼な\nヤツね、まったく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK29S_0037",
+    "original": "いえ、今に始まったことでは\nありませんので",
+    "translation": "いえ、今に始まったことでは\nありませんので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK29S_0038",
+    "original": "ぼくの笑顔はうさんくさいと\nことあるごとに言われてますからね",
+    "translation": "ぼくの笑顔はうさんくさいと\nことあるごとに言われてますからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK29S_0039",
+    "original": "キョンの代わりに謝っておくわ\nキョンは古泉くんに嫉妬してるのよ",
+    "translation": "キョンの代わりに謝っておくわ\nキョンは古泉くんに嫉妬してるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK29S_0040",
+    "original": "ＳＯＳ団の男子団員はふたりきりで\n何かと比べられちゃうからでしょ",
+    "translation": "ＳＯＳ団の男子団員はふたりきりで\n何かと比べられちゃうからでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK29S_0041",
+    "original": "悪いわね、古泉くん。許してやって",
+    "translation": "悪いわね、古泉くん。許してやって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK29S_0042",
+    "original": "僕の方が彼を羨ましく思っているの\nが本音と言えるかもしれまんね",
+    "translation": "僕の方が彼を羨ましく思っているの\nが本音と言えるかもしれまんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK29S_0043",
+    "original": "ええっ！？　古泉くんがキョンを\n羨ましく思う箇所なんてあるの？",
+    "translation": "ええっ！？　古泉くんがキョンを\n羨ましく思う箇所なんてあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK29S_0044",
+    "original": "ええ、ありますよ",
+    "translation": "ええ、ありますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK29S_0045",
+    "original": "ふーん、そうなんだ\n信じられないわ",
+    "translation": "ふーん、そうなんだ\n信じられないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK29S_0046",
+    "original": "でもどこが羨ましいかは\n秘密ですがね",
+    "translation": "でもどこが羨ましいかは\n秘密ですがね",
+    "speaker": "古泉"
+  }
+]

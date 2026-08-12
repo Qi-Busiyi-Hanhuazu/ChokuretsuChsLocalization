@@ -1,0 +1,331 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH13S_0000",
+    "original": "いい加減、何かにつけて俺のおごり\nってパターンはどうにかならんのか",
+    "translation": "いい加減、何かにつけて俺のおごり\nってパターンはどうにかならんのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH13S_0001",
+    "original": "ならないわ",
+    "translation": "ならないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH13S_0002",
+    "original": "即答かよ",
+    "translation": "即答かよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH13S_0003",
+    "original": "だってあれはペナルティだもの\n遅れてくるアンタが悪いのよ",
+    "translation": "だってあれはペナルティだもの\n遅れてくるアンタが悪いのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH13S_0004",
+    "original": "嫌だったら、遅刻しないことね",
+    "translation": "嫌だったら、遅刻しないことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH13S_0005",
+    "original": "毎回、集合時間には間に合ってる\nはずだぞ",
+    "translation": "毎回、集合時間には間に合ってる\nはずだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH13S_0006",
+    "original": "団長や他のメンバーより遅いって\nいうのが問題なのよ！",
+    "translation": "団長や他のメンバーより遅いって\nいうのが問題なのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH13S_0007",
+    "original": "無茶苦茶だな……",
+    "translation": "無茶苦茶だな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH13S_0008",
+    "original": "じゃあ、俺がおごるから合宿を\n中止して喫茶店でも行かないか？",
+    "translation": "じゃあ、俺がおごるから合宿を\n中止して喫茶店でも行かないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH13S_0009",
+    "original": "バカなこと言わないでよ！",
+    "translation": "バカなこと言わないでよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH13S_0010",
+    "original": "やっぱダメか",
+    "translation": "やっぱダメか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH13S_0011",
+    "original": "でも、今からジュースを買って休憩\nするのなら許可してもいいわ",
+    "translation": "でも、今からジュースを買って休憩\nするのなら許可してもいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH13S_0012",
+    "original": "もちろん、アンタのおごりでね",
+    "translation": "もちろん、アンタのおごりでね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH13S_0013",
+    "original": "……はいはい、分かったよ",
+    "translation": "……はいはい、分かったよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH13S_0014",
+    "original": "毎回毎回、キョンくんにおごって\nもらうのは悪いような気がします",
+    "translation": "毎回毎回、キョンくんにおごって\nもらうのは悪いような気がします",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH13S_0015",
+    "original": "あら、そんなこと気にしなくても\nいいのよ",
+    "translation": "あら、そんなこと気にしなくても\nいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH13S_0016",
+    "original": "みくるちゃんはまだ分からないかも\nしれないけど",
+    "translation": "みくるちゃんはまだ分からないかも\nしれないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH13S_0017",
+    "original": "男子っていうのは、可愛い女の子に\nご馳走することが嬉しいもんなのよ",
+    "translation": "男子っていうのは、可愛い女の子に\nご馳走することが嬉しいもんなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH13S_0018",
+    "original": "え？　そ、そうなんですか",
+    "translation": "え？　そ、そうなんですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH13S_0019",
+    "original": "そうよ。だから、キョンはああ言っ\nてても、内心喜んでるのよ",
+    "translation": "そうよ。だから、キョンはああ言っ\nてても、内心喜んでるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH13S_0020",
+    "original": "へえ……",
+    "translation": "へえ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH13S_0021",
+    "original": "というわけだから、ちょっと自販機\nまで行ってジュース買ってきましょ",
+    "translation": "というわけだから、ちょっと自販機\nまで行ってジュース買ってきましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH13S_0022",
+    "original": "もちろん、代金は後でキョンに\n請求よ",
+    "translation": "もちろん、代金は後でキョンに\n請求よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH13S_0023",
+    "original": "彼はわたしたちの飲食費を負担して\nいる",
+    "translation": "彼はわたしたちの飲食費を負担して\nいる",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH13S_0024",
+    "original": "それって、キョンの罰金のこと？",
+    "translation": "それって、キョンの罰金のこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH13S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH13S_0026",
+    "original": "そうね。言うなれば、あれは試練ね",
+    "translation": "そうね。言うなれば、あれは試練ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH13S_0027",
+    "original": "人間っていうのは、痛みや損失が\nないと学習しない生き物なの",
+    "translation": "人間っていうのは、痛みや損失が\nないと学習しない生き物なの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH13S_0028",
+    "original": "だからあたしは、あえて、キョンに\nペナルティを課してるのよ",
+    "translation": "だからあたしは、あえて、キョンに\nペナルティを課してるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH13S_0029",
+    "original": "つまり、あれはある意味キョンの\nためなの。分かった？",
+    "translation": "つまり、あれはある意味キョンの\nためなの。分かった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH13S_0030",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH13S_0031",
+    "original": "じゃあ、さっそく、キョンに学習を\nさせてあげましょ",
+    "translation": "じゃあ、さっそく、キョンに学習を\nさせてあげましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH13S_0032",
+    "original": "ジュースを飲んで水分補給よ\nもちろん代金は後でキョンに請求ね",
+    "translation": "ジュースを飲んで水分補給よ\nもちろん代金は後でキョンに請求ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH13S_0033",
+    "original": "彼の罰金に関して、いつも申し訳\nないと思っています",
+    "translation": "彼の罰金に関して、いつも申し訳\nないと思っています",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH13S_0034",
+    "original": "別に気にしなくていいのに\nアイツが毎回遅刻するのが悪いのよ",
+    "translation": "別に気にしなくていいのに\nアイツが毎回遅刻するのが悪いのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH13S_0035",
+    "original": "彼は一応、時間通りに来てはいます",
+    "translation": "彼は一応、時間通りに来てはいます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH13S_0036",
+    "original": "そこは関係ないの。あたしより遅い\nってのが問題なのよ",
+    "translation": "そこは関係ないの。あたしより遅い\nってのが問題なのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH13S_0037",
+    "original": "団長よりも後から来るなんて\n重役出勤もいいとこだわ",
+    "translation": "団長よりも後から来るなんて\n重役出勤もいいとこだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH13S_0038",
+    "original": "それを飲み物程度で許してあげる\nんだからつくづく慈悲深いわ",
+    "translation": "それを飲み物程度で許してあげる\nんだからつくづく慈悲深いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH13S_0039",
+    "original": "なるほど……",
+    "translation": "なるほど……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CH13S_0040",
+    "original": "しかし、それでも彼の経済的負担\nには少々同情してしまいます",
+    "translation": "しかし、それでも彼の経済的負担\nには少々同情してしまいます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CH13S_0041",
+    "original": "そこで提案なのですが",
+    "translation": "そこで提案なのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CH13S_0042",
+    "original": "なに？",
+    "translation": "なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CH13S_0043",
+    "original": "これから水分補給もかねて少し休憩\nしませんか？",
+    "translation": "これから水分補給もかねて少し休憩\nしませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CH13S_0044",
+    "original": "もちろん僕のおごりです",
+    "translation": "もちろん僕のおごりです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CH13S_0045",
+    "original": "いいけど、古泉くんも物好きね",
+    "translation": "いいけど、古泉くんも物好きね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CH13S_0046",
+    "original": "彼にばかり貧乏くじを引かせる\nのも忍びないですから",
+    "translation": "彼にばかり貧乏くじを引かせる\nのも忍びないですから",
+    "speaker": "古泉"
+  }
+]

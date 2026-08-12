@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN24S_0000",
+    "original": "鍵を借りたときにな、長門が予備の\n申請書を持ってきて、言うんだ",
+    "translation": "鍵を借りたときにな、長門が予備の\n申請書を持ってきて、言うんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN24S_0001",
+    "original": "書き損じがあったらいけないから\nもう一枚用意しておけって",
+    "translation": "書き損じがあったらいけないから\nもう一枚用意しておけって",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN24S_0002",
+    "original": "俺ってそんなに失敗しそうに見える\nかね？",
+    "translation": "俺ってそんなに失敗しそうに見える\nかね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN24S_0003",
+    "original": "見えるわよ、あったりまえじゃない\nキョンが失敗しなくて誰がするの",
+    "translation": "見えるわよ、あったりまえじゃない\nキョンが失敗しなくて誰がするの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN24S_0004",
+    "original": "ひどいな、その言い方はないんじゃ\nないのか？",
+    "translation": "ひどいな、その言い方はないんじゃ\nないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN24S_0005",
+    "original": "実際、失敗せずに書いたんだぞ",
+    "translation": "実際、失敗せずに書いたんだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN24S_0006",
+    "original": "そんなのできて当たり前でしょ",
+    "translation": "そんなのできて当たり前でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN24S_0007",
+    "original": "当たり前のことを心配されるくらい\n頼りないって自覚しなさいよね",
+    "translation": "当たり前のことを心配されるくらい\n頼りないって自覚しなさいよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN24S_0008",
+    "original": "俺は長門に心配されるくらい頼りな\nいのか……ちょっとショックだ",
+    "translation": "俺は長門に心配されるくらい頼りな\nいのか……ちょっとショックだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN24S_0009",
+    "original": "長門さんっていつも手際が良くて\nいいですよね……",
+    "translation": "長門さんっていつも手際が良くて\nいいですよね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN24S_0010",
+    "original": "あたしもあんな風に手際よくなりた\nいです",
+    "translation": "あたしもあんな風に手際よくなりた\nいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN24S_0011",
+    "original": "みくるちゃんは今のままでいいのよ",
+    "translation": "みくるちゃんは今のままでいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN24S_0012",
+    "original": "みくるちゃんが手際よくなっちゃっ\nたら、そんなの別人よ",
+    "translation": "みくるちゃんが手際よくなっちゃっ\nたら、そんなの別人よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN24S_0013",
+    "original": "そ、そうですか……",
+    "translation": "そ、そうですか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN24S_0014",
+    "original": "なんだか、ちょっと\n複雑な気分です……",
+    "translation": "なんだか、ちょっと\n複雑な気分です……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN24S_0015",
+    "original": "褒めてるんじゃないの。それより\n早くいかないと遅刻になっちゃうわ",
+    "translation": "褒めてるんじゃないの。それより\n早くいかないと遅刻になっちゃうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN24S_0016",
+    "original": "は、はいっ！\n待ってください～……",
+    "translation": "は、はいっ！\n待ってください～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN24S_0017",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN24S_0018",
+    "original": "有希、なに握りしめてんの？",
+    "translation": "有希、なに握りしめてんの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN24S_0019",
+    "original": "……書類",
+    "translation": "……書類",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN24S_0020",
+    "original": "音楽室の鍵を借りる際、書き損じて\nしまったときのための、予備",
+    "translation": "音楽室の鍵を借りる際、書き損じて\nしまったときのための、予備",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN24S_0021",
+    "original": "予備って……なにも書いてないじゃ\nない？　使わずに済んだの？",
+    "translation": "予備って……なにも書いてないじゃ\nない？　使わずに済んだの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN24S_0022",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN24S_0023",
+    "original": "使わなかったんなら\nもういらないでしょ",
+    "translation": "使わなかったんなら\nもういらないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN24S_0024",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN24S_0025",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN24S_0026",
+    "original": "どうしたのよ？　有希\nま、いいわ。さあ、行きましょ",
+    "translation": "どうしたのよ？　有希\nま、いいわ。さあ、行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN24S_0027",
+    "original": "長門さんはああ見えて、なかなか\n手際の良いところがありますね",
+    "translation": "長門さんはああ見えて、なかなか\n手際の良いところがありますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN24S_0028",
+    "original": "そう？",
+    "translation": "そう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN24S_0029",
+    "original": "ええ。先ほども、鍵を借り受ける際\n書き損じても平気なように",
+    "translation": "ええ。先ほども、鍵を借り受ける際\n書き損じても平気なように",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN24S_0030",
+    "original": "申請書を複数用意していたそうです",
+    "translation": "申請書を複数用意していたそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN24S_0031",
+    "original": "ふうん……ま、有希は書き損じとか\n元々あんまりなさそうだけど",
+    "translation": "ふうん……ま、有希は書き損じとか\n元々あんまりなさそうだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN24S_0032",
+    "original": "それもそうですね",
+    "translation": "それもそうですね",
+    "speaker": "古泉"
+  }
+]

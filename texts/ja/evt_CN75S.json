@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN75S_0000",
+    "original": "ハルヒ、急ぐのはわかるが後先考え\nての行動か？",
+    "translation": "ハルヒ、急ぐのはわかるが後先考え\nての行動か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN75S_0001",
+    "original": "もちろんよっ！　当然じゃない",
+    "translation": "もちろんよっ！　当然じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN75S_0002",
+    "original": "えらくあっさり言い切るなあ",
+    "translation": "えらくあっさり言い切るなあ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN75S_0003",
+    "original": "怪奇現象が本物の怪奇ならそれで\nよしなのよ",
+    "translation": "怪奇現象が本物の怪奇ならそれで\nよしなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN75S_0004",
+    "original": "なにかの錯覚なら錯覚で、それを\n証明出来ればいいの",
+    "translation": "なにかの錯覚なら錯覚で、それを\n証明出来ればいいの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN75S_0005",
+    "original": "……結局出たとこ勝負じゃないか\n成功する確率とか考えてるのか？",
+    "translation": "……結局出たとこ勝負じゃないか\n成功する確率とか考えてるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN75S_0006",
+    "original": "５分５分ってところかしら",
+    "translation": "５分５分ってところかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN75S_0007",
+    "original": "俺から見るとイチかバチかだな",
+    "translation": "俺から見るとイチかバチかだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN75S_0008",
+    "original": "無駄口叩いてるヒマがあったら\n成功するように努力しなさいっ！",
+    "translation": "無駄口叩いてるヒマがあったら\n成功するように努力しなさいっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN75S_0009",
+    "original": "具体的にどういう努力が必要なのか\n聞いてみたいところだな",
+    "translation": "具体的にどういう努力が必要なのか\n聞いてみたいところだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN75S_0010",
+    "original": "まずはさっさと歩くことよ！",
+    "translation": "まずはさっさと歩くことよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN75S_0011",
+    "original": "……そんなことだろうと思ったよ",
+    "translation": "……そんなことだろうと思ったよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN75S_0012",
+    "original": "成功確率の割り出し方って\nどうするんでしょうか？",
+    "translation": "成功確率の割り出し方って\nどうするんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN75S_0013",
+    "original": "成功確率ねぇ。それは状況を分析\nして、成功を阻害する要素を並べて",
+    "translation": "成功確率ねぇ。それは状況を分析\nして、成功を阻害する要素を並べて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN75S_0014",
+    "original": "引いてみるしかないんじゃない？",
+    "translation": "引いてみるしかないんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN75S_0015",
+    "original": "阻害要素がどれだけあるかなんて\nあたしにはわかりませんけど……",
+    "translation": "阻害要素がどれだけあるかなんて\nあたしにはわかりませんけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN75S_0016",
+    "original": "長門さんってすごいですね",
+    "translation": "長門さんってすごいですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN75S_0017",
+    "original": "有希が言ったの？",
+    "translation": "有希が言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN75S_0018",
+    "original": "はい、キョンくんから聞いた話\nなんですけどね",
+    "translation": "はい、キョンくんから聞いた話\nなんですけどね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN75S_0019",
+    "original": "あたしなら、１００％だと信じて\n確率なんて考えたりしないわね！",
+    "translation": "あたしなら、１００％だと信じて\n確率なんて考えたりしないわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN75S_0020",
+    "original": "それに、阻害要素があっても、全部\n取り除けばいいのよ！",
+    "translation": "それに、阻害要素があっても、全部\n取り除けばいいのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN75S_0021",
+    "original": "涼宮さんは長門さんと違う意味で\nすごいです……",
+    "translation": "涼宮さんは長門さんと違う意味で\nすごいです……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN75S_0022",
+    "original": "こそこそ進むのまどろっこしいわね",
+    "translation": "こそこそ進むのまどろっこしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN75S_0023",
+    "original": "見つかっても構わないからだーっと\n走って突っ切るってのはどうかしら",
+    "translation": "見つかっても構わないからだーっと\n走って突っ切るってのはどうかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN75S_0024",
+    "original": "成功確率は低いと思われる\n推奨はできない",
+    "translation": "成功確率は低いと思われる\n推奨はできない",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN75S_0025",
+    "original": "やっぱり有希もそう？\n仕方ない、今まで通り行きましょ",
+    "translation": "やっぱり有希もそう？\n仕方ない、今まで通り行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN75S_0026",
+    "original": "そちらを推奨する",
+    "translation": "そちらを推奨する",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN75S_0027",
+    "original": "一般的に、人間は行動の直前に\n無意識下で成功確率を計算するとか",
+    "translation": "一般的に、人間は行動の直前に\n無意識下で成功確率を計算するとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN75S_0028",
+    "original": "そう？　あたしはそんな覚え\nなんてないわよ",
+    "translation": "そう？　あたしはそんな覚え\nなんてないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN75S_0029",
+    "original": "それに、想像のつく結果が待ってる\nとしたら、退屈じゃない？",
+    "translation": "それに、想像のつく結果が待ってる\nとしたら、退屈じゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN75S_0030",
+    "original": "……なかなか、普通の人はそうは\n思えないものですよ",
+    "translation": "……なかなか、普通の人はそうは\n思えないものですよ",
+    "speaker": "古泉"
+  }
+]

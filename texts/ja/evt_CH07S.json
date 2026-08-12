@@ -1,0 +1,548 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH07S_0000",
+    "original": "キョン、今思いついたんだけど",
+    "translation": "キョン、今思いついたんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH07S_0001",
+    "original": "なんだ",
+    "translation": "なんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH07S_0002",
+    "original": "怪奇現象に遭遇できないまま\n朝になった場合のこと",
+    "translation": "怪奇現象に遭遇できないまま\n朝になった場合のこと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH07S_0003",
+    "original": "それならいい案がある。朝になる\n前にさっさと帰っちまうのはどうだ",
+    "translation": "それならいい案がある。朝になる\n前にさっさと帰っちまうのはどうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH07S_0004",
+    "original": "却下",
+    "translation": "却下",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH07S_0005",
+    "original": "とりあえず、一旦自宅に戻って\n休む方がいいと思うのよ",
+    "translation": "とりあえず、一旦自宅に戻って\n休む方がいいと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH07S_0006",
+    "original": "一旦って言葉が気になるが\nまあ、妥当だろうな",
+    "translation": "一旦って言葉が気になるが\nまあ、妥当だろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH07S_0007",
+    "original": "いっそ、そのままエスケープして\nしまうってのも手か",
+    "translation": "いっそ、そのままエスケープして\nしまうってのも手か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH07S_0008",
+    "original": "それで鋭気を養った後、また学校に\nきて調査を再開するの",
+    "translation": "それで鋭気を養った後、また学校に\nきて調査を再開するの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH07S_0009",
+    "original": "その間なんだけど、キョンは残って\n見張りをしといて",
+    "translation": "その間なんだけど、キョンは残って\n見張りをしといて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH07S_0010",
+    "original": "ちょっと待て。なんで俺だけ残る\nんだよ",
+    "translation": "ちょっと待て。なんで俺だけ残る\nんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH07S_0011",
+    "original": "だって、あたしたちがいない間に\n何か起こったら大変じゃない",
+    "translation": "だって、あたしたちがいない間に\n何か起こったら大変じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH07S_0012",
+    "original": "だからって、なんで俺なんだ？\nそういうのは言いだしっぺがだな",
+    "translation": "だからって、なんで俺なんだ？\nそういうのは言いだしっぺがだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH07S_0013",
+    "original": "あんた、女の子にそんなことさせる\nつもりなの？",
+    "translation": "あんた、女の子にそんなことさせる\nつもりなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH07S_0014",
+    "original": "男だったら古泉だっているだろうが",
+    "translation": "男だったら古泉だっているだろうが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH07S_0015",
+    "original": "ともかく、アンタ以外ありえないの",
+    "translation": "ともかく、アンタ以外ありえないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH07S_0016",
+    "original": "そのかわり、あたしが食べ物を調達\nしてきてあげるわ。おごりよおごり",
+    "translation": "そのかわり、あたしが食べ物を調達\nしてきてあげるわ。おごりよおごり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH07S_0017",
+    "original": "そりゃまた、お優しいことで……",
+    "translation": "そりゃまた、お優しいことで……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH07S_0018",
+    "original": "思ったんだけど……",
+    "translation": "思ったんだけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH07S_0019",
+    "original": "はい？",
+    "translation": "はい？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH07S_0020",
+    "original": "このまま何も起こらなかったとして\n明日はどうしようかしらね",
+    "translation": "このまま何も起こらなかったとして\n明日はどうしようかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH07S_0021",
+    "original": "えっと、解散して終わり……、\nじゃないんですか？",
+    "translation": "えっと、解散して終わり……、\nじゃないんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH07S_0022",
+    "original": "目的を達成してないのに？\nそんなのダメに決まってるじゃない",
+    "translation": "目的を達成してないのに？\nそんなのダメに決まってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH07S_0023",
+    "original": "はうぅ……",
+    "translation": "はうぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH07S_0024",
+    "original": "そうだわ！\nキョンに残ってもらいましょ",
+    "translation": "そうだわ！\nキョンに残ってもらいましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH07S_0025",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH07S_0026",
+    "original": "キョンに残って見張ってもらって",
+    "translation": "キョンに残って見張ってもらって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH07S_0027",
+    "original": "その間にあたしたちは家に帰って\n休んでくるの。どう、名案でしょ",
+    "translation": "その間にあたしたちは家に帰って\n休んでくるの。どう、名案でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH07S_0028",
+    "original": "そ、それはあんまりじゃ……",
+    "translation": "そ、それはあんまりじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH07S_0029",
+    "original": "大丈夫よ、みくるちゃんが手料理の\nひとつでも食べさせてあげれば",
+    "translation": "大丈夫よ、みくるちゃんが手料理の\nひとつでも食べさせてあげれば",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH07S_0030",
+    "original": "きっと喜んで見張りでもなんでも\nするわよ。微妙に納得いかないけど",
+    "translation": "きっと喜んで見張りでもなんでも\nするわよ。微妙に納得いかないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH07S_0031",
+    "original": "え、あたしのですか？",
+    "translation": "え、あたしのですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH07S_0032",
+    "original": "まあ、なんだったら……\nあたしも手伝うわね",
+    "translation": "まあ、なんだったら……\nあたしも手伝うわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH07S_0033",
+    "original": "えと、その……",
+    "translation": "えと、その……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH07S_0034",
+    "original": "うん。それがいいわ",
+    "translation": "うん。それがいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH07S_0035",
+    "original": "ご褒美にあたしとみくるちゃんの\n手料理だなんて、格別の配慮よね",
+    "translation": "ご褒美にあたしとみくるちゃんの\n手料理だなんて、格別の配慮よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH07S_0036",
+    "original": "あたしったらなんて優しいのかしら",
+    "translation": "あたしったらなんて優しいのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH07S_0037",
+    "original": "このまま幽霊とか怪奇現象に遭遇で\nきなかったらどうしようかしら",
+    "translation": "このまま幽霊とか怪奇現象に遭遇で\nきなかったらどうしようかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH07S_0038",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH07S_0039",
+    "original": "有希はどうしたらいいと思う？",
+    "translation": "有希はどうしたらいいと思う？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CH07S_0040",
+    "original": "このまま朝を迎えた場合、体力の\n消耗による判断ミスが懸念される",
+    "translation": "このまま朝を迎えた場合、体力の\n消耗による判断ミスが懸念される",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CH07S_0041",
+    "original": "そうよね、さすがに２日連続で\n徹夜は厳しいわよねえ",
+    "translation": "そうよね、さすがに２日連続で\n徹夜は厳しいわよねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CH07S_0042",
+    "original": "そうだわ、一旦家に帰って休んで\nから、再度集まるのはどうかしら",
+    "translation": "そうだわ、一旦家に帰って休んで\nから、再度集まるのはどうかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CH07S_0043",
+    "original": "でも、そうなると、あたしたちが\nいない間が問題よね……",
+    "translation": "でも、そうなると、あたしたちが\nいない間が問題よね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CH07S_0044",
+    "original": "やっぱり、誰かに残ってもらって\n見張りをしてもらうべきよね",
+    "translation": "やっぱり、誰かに残ってもらって\n見張りをしてもらうべきよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CH07S_0045",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CH07S_0046",
+    "original": "うーん……キョンよね。この場合",
+    "translation": "うーん……キョンよね。この場合",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CH07S_0047",
+    "original": "ま、その代わり何かフォローして\nあげなきゃな",
+    "translation": "ま、その代わり何かフォローして\nあげなきゃな",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CH07S_0048",
+    "original": "そうだわ、食事を作って持っていく\nっていうのはどうかしら？",
+    "translation": "そうだわ、食事を作って持っていく\nっていうのはどうかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CH07S_0049",
+    "original": "もちろん、あたしたち女子が作るの\nよ！",
+    "translation": "もちろん、あたしたち女子が作るの\nよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CH07S_0050",
+    "original": "美少女３人の手料理なんて、キョン\nには勿体ないくらいのご褒美よね",
+    "translation": "美少女３人の手料理なんて、キョン\nには勿体ないくらいのご褒美よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CH07S_0051",
+    "original": "そう思わない？",
+    "translation": "そう思わない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CH07S_0052",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_CH07S_0053",
+    "original": "とにかく、キョンも大喜び間違い\nないわ",
+    "translation": "とにかく、キョンも大喜び間違い\nないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CH07S_0054",
+    "original": "うーん、我ながらなんて素晴らしい\n配慮かしら",
+    "translation": "うーん、我ながらなんて素晴らしい\n配慮かしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CH07S_0055",
+    "original": "このまま朝になってしまうという\n可能性も考えられますが",
+    "translation": "このまま朝になってしまうという\n可能性も考えられますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CH07S_0056",
+    "original": "その後はどうしましょう？",
+    "translation": "その後はどうしましょう？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CH07S_0057",
+    "original": "さすがに２日連続は体力的にも精神\n的にも厳しいかと",
+    "translation": "さすがに２日連続は体力的にも精神\n的にも厳しいかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_CH07S_0058",
+    "original": "もちろん、涼宮さんなら団長として\nその辺りのフォローはお考えかと",
+    "translation": "もちろん、涼宮さんなら団長として\nその辺りのフォローはお考えかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CH07S_0059",
+    "original": "そうねえ……",
+    "translation": "そうねえ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_CH07S_0060",
+    "original": "一旦帰って、休んでくるのがベスト\nかしら？",
+    "translation": "一旦帰って、休んでくるのがベスト\nかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CH07S_0061",
+    "original": "でも、あたしたちがいない間が問題\nなのよね",
+    "translation": "でも、あたしたちがいない間が問題\nなのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CH07S_0062",
+    "original": "怪奇現象はこっちの都合で動いてく\nれるわけじゃないし",
+    "translation": "怪奇現象はこっちの都合で動いてく\nれるわけじゃないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_CH07S_0063",
+    "original": "確かにそうですね",
+    "translation": "確かにそうですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 64,
+    "key": "evt_CH07S_0064",
+    "original": "そうだわ、誰かに残ってもらいま\nしょう",
+    "translation": "そうだわ、誰かに残ってもらいま\nしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_CH07S_0065",
+    "original": "誰かとは？",
+    "translation": "誰かとは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 66,
+    "key": "evt_CH07S_0066",
+    "original": "あたしは論外だし、みくるちゃんは\n一人じゃ怯えて可哀想だし……",
+    "translation": "あたしは論外だし、みくるちゃんは\n一人じゃ怯えて可哀想だし……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_CH07S_0067",
+    "original": "有希は見るからに体力なさそうよね\n古泉くんを使うのも勿体ないし……",
+    "translation": "有希は見るからに体力なさそうよね\n古泉くんを使うのも勿体ないし……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CH07S_0068",
+    "original": "うん、そうするとキョンしかいない\nわね",
+    "translation": "うん、そうするとキョンしかいない\nわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_CH07S_0069",
+    "original": "さすがにそれは彼に申し訳ないの\nではありませんか？",
+    "translation": "さすがにそれは彼に申し訳ないの\nではありませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 70,
+    "key": "evt_CH07S_0070",
+    "original": "大丈夫よ。あとでフォローすれば",
+    "translation": "大丈夫よ。あとでフォローすれば",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 71,
+    "key": "evt_CH07S_0071",
+    "original": "夜に差し入れを持っていくとかね\nなんだったら手料理でもいいわ",
+    "translation": "夜に差し入れを持っていくとかね\nなんだったら手料理でもいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 72,
+    "key": "evt_CH07S_0072",
+    "original": "それは、涼宮さんがお作りになる\nのですか？",
+    "translation": "それは、涼宮さんがお作りになる\nのですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 73,
+    "key": "evt_CH07S_0073",
+    "original": "んー……ま、それでもいいけど",
+    "translation": "んー……ま、それでもいいけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 74,
+    "key": "evt_CH07S_0074",
+    "original": "なるほど。それは良い案では\nないでしょうか",
+    "translation": "なるほど。それは良い案では\nないでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 75,
+    "key": "evt_CH07S_0075",
+    "original": "団長自ら作った料理なんて、キョン\nには勿体ないくらいだわ",
+    "translation": "団長自ら作った料理なんて、キョン\nには勿体ないくらいだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 76,
+    "key": "evt_CH07S_0076",
+    "original": "さすが涼宮さん、お優しい",
+    "translation": "さすが涼宮さん、お優しい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 77,
+    "key": "evt_CH07S_0077",
+    "original": "たまにはキョンにも良い思いをさせ\nてあげないとね",
+    "translation": "たまにはキョンにも良い思いをさせ\nてあげないとね",
+    "speaker": "ハルヒ"
+  }
+]

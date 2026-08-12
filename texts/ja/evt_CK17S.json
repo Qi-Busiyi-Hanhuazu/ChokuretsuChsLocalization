@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK17S_0000",
+    "original": "そういえば、さっき古泉の携帯に\n電話があったんだが……",
+    "translation": "そういえば、さっき古泉の携帯に\n電話があったんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK17S_0001",
+    "original": "誰から？",
+    "translation": "誰から？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK17S_0002",
+    "original": "さあな。電話の相手は誰だか知らん\n俺が言いたいのは、別のことだ",
+    "translation": "さあな。電話の相手は誰だか知らん\n俺が言いたいのは、別のことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK17S_0003",
+    "original": "なによ、別のことって",
+    "translation": "なによ、別のことって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK17S_0004",
+    "original": "いくら夏休みとはいえ、学校内で\n携帯を使ってちゃイカンだろ",
+    "translation": "いくら夏休みとはいえ、学校内で\n携帯を使ってちゃイカンだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK17S_0005",
+    "original": "岡部あたりに見つかったら、没収\nされちまうぞ",
+    "translation": "岡部あたりに見つかったら、没収\nされちまうぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK17S_0006",
+    "original": "あんただって、持ってきてるでしょ",
+    "translation": "あんただって、持ってきてるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK17S_0007",
+    "original": "そりゃ……まあ、一応は",
+    "translation": "そりゃ……まあ、一応は",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK17S_0008",
+    "original": "かたいこと言ってちゃ合宿を楽しめ\nないわ。もっと柔らかく考えなさい",
+    "translation": "かたいこと言ってちゃ合宿を楽しめ\nないわ。もっと柔らかく考えなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK17S_0009",
+    "original": "柔らかくねぇ……",
+    "translation": "柔らかくねぇ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK17S_0010",
+    "original": "ま、でもキョンの指摘も一理あるわ\n岡部に没収されたら奪い返さなきゃ",
+    "translation": "ま、でもキョンの指摘も一理あるわ\n岡部に没収されたら奪い返さなきゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK17S_0011",
+    "original": "その時は、職員室に潜入して強奪ね",
+    "translation": "その時は、職員室に潜入して強奪ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK17S_0012",
+    "original": "そういうことを言いたかったんじゃ\nないんだがな……",
+    "translation": "そういうことを言いたかったんじゃ\nないんだがな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK17S_0013",
+    "original": "あのぉ、ちょっと思ったんですけど",
+    "translation": "あのぉ、ちょっと思ったんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK17S_0014",
+    "original": "歩きながら聞くわ。どうしたの？",
+    "translation": "歩きながら聞くわ。どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK17S_0015",
+    "original": "古泉くん、学校の中で携帯電話を\n使ってたみたいなんです",
+    "translation": "古泉くん、学校の中で携帯電話を\n使ってたみたいなんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK17S_0016",
+    "original": "あたしだって使ってるわよ？\nキョンを呼び出したりとか……",
+    "translation": "あたしだって使ってるわよ？\nキョンを呼び出したりとか……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK17S_0017",
+    "original": "宿直の先生に見つかると、怒られ\nちゃうかもしれません",
+    "translation": "宿直の先生に見つかると、怒られ\nちゃうかもしれません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK17S_0018",
+    "original": "岡部に？　どうして？",
+    "translation": "岡部に？　どうして？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK17S_0019",
+    "original": "だって、校内で携帯電話を使うのは\n色々とルール違反だし……",
+    "translation": "だって、校内で携帯電話を使うのは\n色々とルール違反だし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK17S_0020",
+    "original": "みくるちゃん、今は夏休みなのよ\n登校日じゃないんだし",
+    "translation": "みくるちゃん、今は夏休みなのよ\n登校日じゃないんだし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK17S_0021",
+    "original": "ちょっと使うくらい、問題ないわよ",
+    "translation": "ちょっと使うくらい、問題ないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK17S_0022",
+    "original": "だといいんですけど……",
+    "translation": "だといいんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK17S_0023",
+    "original": "急ぐわよ、有希。キョンのことだか\nらサボってるに違いないわ",
+    "translation": "急ぐわよ、有希。キョンのことだか\nらサボってるに違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK17S_0024",
+    "original": "……携帯電話で連絡を取れば、正確\nな状況が把握可能",
+    "translation": "……携帯電話で連絡を取れば、正確\nな状況が把握可能",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK17S_0025",
+    "original": "キョンの携帯を鳴らせってこと？",
+    "translation": "キョンの携帯を鳴らせってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK17S_0026",
+    "original": "古泉一樹も携帯電話を所持している",
+    "translation": "古泉一樹も携帯電話を所持している",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK17S_0027",
+    "original": "そうね、古泉くんも持ってたわね",
+    "translation": "そうね、古泉くんも持ってたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK17S_0028",
+    "original": "でも今はいいわ。それより直接\nこうして向かった方が良いもの",
+    "translation": "でも今はいいわ。それより直接\nこうして向かった方が良いもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK17S_0029",
+    "original": "なんだったら、有希が電話してみた\nら？　携帯、持ってきてるでしょ？",
+    "translation": "なんだったら、有希が電話してみた\nら？　携帯、持ってきてるでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK17S_0030",
+    "original": "今はいい……",
+    "translation": "今はいい……",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK17S_0031",
+    "original": "大丈夫よ。まあ無理にとは言わない\nけど。有希って気を遣うタイプね",
+    "translation": "大丈夫よ。まあ無理にとは言わない\nけど。有希って気を遣うタイプね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK17S_0032",
+    "original": "さあ、ちょっとペースを上げて\n現場に急行しましょう",
+    "translation": "さあ、ちょっとペースを上げて\n現場に急行しましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK17S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK17S_0034",
+    "original": "今回の合宿には、皆さん、携帯電話\nを持って参加なさってるんですね",
+    "translation": "今回の合宿には、皆さん、携帯電話\nを持って参加なさってるんですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK17S_0035",
+    "original": "そうね、校内は広いから、あると\n便利だし",
+    "translation": "そうね、校内は広いから、あると\n便利だし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK17S_0036",
+    "original": "僕も持ってきているのですが、岡部\n教諭に見つかったら、怒られますね",
+    "translation": "僕も持ってきているのですが、岡部\n教諭に見つかったら、怒られますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK17S_0037",
+    "original": "夏休みとはいえ、校舎内で堂々と\n携帯を使うのは、気が引けます",
+    "translation": "夏休みとはいえ、校舎内で堂々と\n携帯を使うのは、気が引けます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK17S_0038",
+    "original": "大丈夫、もし没収されたりしても\nＳＯＳ団で奪い返せば問題ないわ",
+    "translation": "大丈夫、もし没収されたりしても\nＳＯＳ団で奪い返せば問題ないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK17S_0039",
+    "original": "問題、あるような気もしますが……",
+    "translation": "問題、あるような気もしますが……",
+    "speaker": "古泉"
+  }
+]

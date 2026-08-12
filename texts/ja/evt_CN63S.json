@@ -1,0 +1,268 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN63S_0000",
+    "original": "今日のバーベキューはなかなか\n楽しかったな",
+    "translation": "今日のバーベキューはなかなか\n楽しかったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN63S_0001",
+    "original": "出来れば海や山でやりたかったけど\n夏らしい雰囲気は楽しめたわね",
+    "translation": "出来れば海や山でやりたかったけど\n夏らしい雰囲気は楽しめたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN63S_0002",
+    "original": "海や山でキャンプって言えば、飯は\nカレーってのが定番だな",
+    "translation": "海や山でキャンプって言えば、飯は\nカレーってのが定番だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN63S_0003",
+    "original": "けど、もっとほかの料理でもいいと\n思うのよね",
+    "translation": "けど、もっとほかの料理でもいいと\n思うのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN63S_0004",
+    "original": "カレーだったら手軽でいいだろ\n缶詰やレトルトもあるからな",
+    "translation": "カレーだったら手軽でいいだろ\n缶詰やレトルトもあるからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN63S_0005",
+    "original": "バカねキョン。手間ヒマ掛けるから\n楽しいし、美味しいんじゃないのっ",
+    "translation": "バカねキョン。手間ヒマ掛けるから\n楽しいし、美味しいんじゃないのっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN63S_0006",
+    "original": "それはまあ、そうかもな",
+    "translation": "それはまあ、そうかもな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN63S_0007",
+    "original": "手抜きで楽しむキャンプなんて\nそんなのはニセ物よっ！",
+    "translation": "手抜きで楽しむキャンプなんて\nそんなのはニセ物よっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN63S_0008",
+    "original": "カレーを作るならスパイス探しから\n始める意気込みが必要よねっ！",
+    "translation": "カレーを作るならスパイス探しから\n始める意気込みが必要よねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN63S_0009",
+    "original": "東方見聞録なみの意気込みだな",
+    "translation": "東方見聞録なみの意気込みだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN63S_0010",
+    "original": "そこまでやれば、さぞかし美味しい\nカレーが食べられると思うのよっ！",
+    "translation": "そこまでやれば、さぞかし美味しい\nカレーが食べられると思うのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN63S_0011",
+    "original": "そっか、だからカレーが王道なのね\n納得したわ",
+    "translation": "そっか、だからカレーが王道なのね\n納得したわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN63S_0012",
+    "original": "じゃあ、そろそろお遊びはやめて\nカレー作りってのはどうだ？",
+    "translation": "じゃあ、そろそろお遊びはやめて\nカレー作りってのはどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN63S_0013",
+    "original": "バカ言わないでよ、今はこっちが\n最優先なんだからっ",
+    "translation": "バカ言わないでよ、今はこっちが\n最優先なんだからっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN63S_0014",
+    "original": "ああそうですか",
+    "translation": "ああそうですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN63S_0015",
+    "original": "長門さんって、カレーが好きみたい\nですね",
+    "translation": "長門さんって、カレーが好きみたい\nですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN63S_0016",
+    "original": "カレーは日本人の国民食と化してる\nから、不思議じゃないわね",
+    "translation": "カレーは日本人の国民食と化してる\nから、不思議じゃないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN63S_0017",
+    "original": "昨日も一昨日もカレーを食べてた\nらしいですよ",
+    "translation": "昨日も一昨日もカレーを食べてた\nらしいですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN63S_0018",
+    "original": "有希に聞いたの？",
+    "translation": "有希に聞いたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN63S_0019",
+    "original": "キョンくんが言ってました",
+    "translation": "キョンくんが言ってました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN63S_0020",
+    "original": "ねぇそれ、もしかして鍋一杯に\n作ったからなんじゃないの？",
+    "translation": "ねぇそれ、もしかして鍋一杯に\n作ったからなんじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN63S_0021",
+    "original": "あっ、そっか。そうかもしれません",
+    "translation": "あっ、そっか。そうかもしれません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN63S_0022",
+    "original": "夏だと食べ物が腐りやすいから、\n急いで食べないといけませんよね",
+    "translation": "夏だと食べ物が腐りやすいから、\n急いで食べないといけませんよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN63S_0023",
+    "original": "キョンの情報って、本人と同じで\n詰めが甘いわ！",
+    "translation": "キョンの情報って、本人と同じで\n詰めが甘いわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN63S_0024",
+    "original": "う～ん、ちょっと小腹が減ったわね\n一段落したら夜食にしましょっか",
+    "translation": "う～ん、ちょっと小腹が減ったわね\n一段落したら夜食にしましょっか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN63S_0025",
+    "original": "了解",
+    "translation": "了解",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN63S_0026",
+    "original": "有希、夜食はなにが食べたい？",
+    "translation": "有希、夜食はなにが食べたい？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN63S_0027",
+    "original": "カレー",
+    "translation": "カレー",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN63S_0028",
+    "original": "カレーねえ。それはちょっと重い\nんじゃない？",
+    "translation": "カレーねえ。それはちょっと重い\nんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN63S_0029",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN63S_0030",
+    "original": "……もしかして、ほんとにカレーが\n食べたかったの？",
+    "translation": "……もしかして、ほんとにカレーが\n食べたかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN63S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN63S_0032",
+    "original": "長門さんは、カレーがお好きなので\nしょうか？",
+    "translation": "長門さんは、カレーがお好きなので\nしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN63S_0033",
+    "original": "食生活を伺ったところ、かなりの割\n合でカレーを食べてらっしゃる様で",
+    "translation": "食生活を伺ったところ、かなりの割\n合でカレーを食べてらっしゃる様で",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN63S_0034",
+    "original": "大鍋にいっぱい作っちゃったら、何\n日も連続で食べることもあるわ",
+    "translation": "大鍋にいっぱい作っちゃったら、何\n日も連続で食べることもあるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN63S_0035",
+    "original": "単に、ちょっと続いちゃっただけ\nじゃない？",
+    "translation": "単に、ちょっと続いちゃっただけ\nじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN63S_0036",
+    "original": "それに、カレーが嫌いな人ってのも\nあまりいないんじゃないかしら",
+    "translation": "それに、カレーが嫌いな人ってのも\nあまりいないんじゃないかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN63S_0037",
+    "original": "まれにいらっしゃいますけどね\nカレーが苦手な方も……",
+    "translation": "まれにいらっしゃいますけどね\nカレーが苦手な方も……",
+    "speaker": "古泉"
+  }
+]

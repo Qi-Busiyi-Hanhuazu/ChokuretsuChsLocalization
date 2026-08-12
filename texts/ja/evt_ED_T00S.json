@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_ED_T00S_0000",
+    "original": "はぁ、ひぃ……",
+    "translation": "はぁ、ひぃ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_ED_T00S_0001",
+    "original": "暑い、なんて暑さだ",
+    "translation": "暑い、なんて暑さだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_ED_T00S_0002",
+    "original": "説明もなく呼び出され、おまけに\n炎天下の中コキ使われ",
+    "translation": "説明もなく呼び出され、おまけに\n炎天下の中コキ使われ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_ED_T00S_0003",
+    "original": "今日と言う今日はハルヒに文句を\n言ってやろうと思っていたのだが",
+    "translation": "今日と言う今日はハルヒに文句を\n言ってやろうと思っていたのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_ED_T00S_0004",
+    "original": "そんな決意すらも、アスファルトの\n上に落ちたアイスのごとく",
+    "translation": "そんな決意すらも、アスファルトの\n上に落ちたアイスのごとく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_ED_T00S_0005",
+    "original": "一瞬で蒸発してしまっていた",
+    "translation": "一瞬で蒸発してしまっていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_ED_T00S_0006",
+    "original": "もうダメだ……少し休もう",
+    "translation": "もうダメだ……少し休もう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_ED_T00S_0007",
+    "original": "みくるちゃんのも美味しそう！",
+    "translation": "みくるちゃんのも美味しそう！",
+    "speaker": "妹"
+  },
+  {
+    "index": 8,
+    "key": "evt_ED_T00S_0008",
+    "original": "よかったら、これも一口\n食べますか？",
+    "translation": "よかったら、これも一口\n食べますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_ED_T00S_0009",
+    "original": "ありがとう\nそれじゃ、これもあげるね",
+    "translation": "ありがとう\nそれじゃ、これもあげるね",
+    "speaker": "妹"
+  },
+  {
+    "index": 10,
+    "key": "evt_ED_T00S_0010",
+    "original": "ハハハ、みんなで交換っこだね",
+    "translation": "ハハハ、みんなで交換っこだね",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 11,
+    "key": "evt_ED_T00S_0011",
+    "original": "なんとも楽しげな会話",
+    "translation": "なんとも楽しげな会話",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_ED_T00S_0012",
+    "original": "まるで彼女たちは、俺とは違う世界\nに住んでいるんじゃないかと思うね",
+    "translation": "まるで彼女たちは、俺とは違う世界\nに住んでいるんじゃないかと思うね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_ED_T00S_0013",
+    "original": "あ、キョンくんだ",
+    "translation": "あ、キョンくんだ",
+    "speaker": "妹"
+  },
+  {
+    "index": 14,
+    "key": "evt_ED_T00S_0014",
+    "original": "キョンくん、お疲れ様です",
+    "translation": "キョンくん、お疲れ様です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_ED_T00S_0015",
+    "original": "アイス食べてるのか……",
+    "translation": "アイス食べてるのか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 16,
+    "key": "evt_ED_T00S_0016",
+    "original": "そうだよ",
+    "translation": "そうだよ",
+    "speaker": "妹"
+  },
+  {
+    "index": 17,
+    "key": "evt_ED_T00S_0017",
+    "original": "鶴屋さんが買ってきてくれたんです",
+    "translation": "鶴屋さんが買ってきてくれたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_ED_T00S_0018",
+    "original": "ほう、ということは人数分あったり\nするのだろうか",
+    "translation": "ほう、ということは人数分あったり\nするのだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_ED_T00S_0019",
+    "original": "つかぬことをお伺いしますが",
+    "translation": "つかぬことをお伺いしますが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_ED_T00S_0020",
+    "original": "なんだい？",
+    "translation": "なんだい？",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 21,
+    "key": "evt_ED_T00S_0021",
+    "original": "俺の分とかって、あったりします？",
+    "translation": "俺の分とかって、あったりします？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_ED_T00S_0022",
+    "original": "ごめんよキョンくん。妹ちゃんに\nあげちゃったから売り切れさ",
+    "translation": "ごめんよキョンくん。妹ちゃんに\nあげちゃったから売り切れさ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 23,
+    "key": "evt_ED_T00S_0023",
+    "original": "なに……！？",
+    "translation": "なに……！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_ED_T00S_0024",
+    "original": "キョンくん、ざんねーん",
+    "translation": "キョンくん、ざんねーん",
+    "speaker": "妹"
+  },
+  {
+    "index": 25,
+    "key": "evt_ED_T00S_0025",
+    "original": "お前がいうなっ",
+    "translation": "お前がいうなっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_ED_T00S_0026",
+    "original": "あ、あの、キョンくんの分のアイス\n買ってきましょうか？",
+    "translation": "あ、あの、キョンくんの分のアイス\n買ってきましょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_ED_T00S_0027",
+    "original": "いえ、さすがにそれは",
+    "translation": "いえ、さすがにそれは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_ED_T00S_0028",
+    "original": "それじゃキョンくんには、今度\nなんかサービスしてあげるからさ",
+    "translation": "それじゃキョンくんには、今度\nなんかサービスしてあげるからさ",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 29,
+    "key": "evt_ED_T00S_0029",
+    "original": "何か無心したようで心苦しい気もし\nますが楽しみにさせてもらいますよ",
+    "translation": "何か無心したようで心苦しい気もし\nますが楽しみにさせてもらいますよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_ED_T00S_0030",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

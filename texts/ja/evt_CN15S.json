@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN15S_0000",
+    "original": "おい、ハルヒ！\nあんまり急がなくてもいいだろ",
+    "translation": "おい、ハルヒ！\nあんまり急がなくてもいいだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN15S_0001",
+    "original": "何言ってんのよ\nキョンこそのんびりしすぎよ",
+    "translation": "何言ってんのよ\nキョンこそのんびりしすぎよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN15S_0002",
+    "original": "くそ、ハルヒの足取りは速くて\nすぐに音楽室に辿りつきそうだ",
+    "translation": "くそ、ハルヒの足取りは速くて\nすぐに音楽室に辿りつきそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN15S_0003",
+    "original": "だが、長門にはできるだけ協力して\nくれと頼んだものの……",
+    "translation": "だが、長門にはできるだけ協力して\nくれと頼んだものの……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN15S_0004",
+    "original": "基本的には“観察”が任務なので\n妨害工作をしてはくれないだろう",
+    "translation": "基本的には“観察”が任務なので\n妨害工作をしてはくれないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN15S_0005",
+    "original": "例えば時空をねじまげて、いつまで\nも廊下が進まない、とか……",
+    "translation": "例えば時空をねじまげて、いつまで\nも廊下が進まない、とか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN15S_0006",
+    "original": "そんなことをしたら、逆にハルヒが\n怪奇現象だと大騒ぎしそうだな",
+    "translation": "そんなことをしたら、逆にハルヒが\n怪奇現象だと大騒ぎしそうだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN15S_0007",
+    "original": "キョン！",
+    "translation": "キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN15S_0008",
+    "original": "足が遅い、もたもたしない！\nさっさとしなさい、走りなさい！",
+    "translation": "足が遅い、もたもたしない！\nさっさとしなさい、走りなさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN15S_0009",
+    "original": "廊下を走るなと言われただろう\nお前は小学生か！",
+    "translation": "廊下を走るなと言われただろう\nお前は小学生か！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN15S_0010",
+    "original": "キョンくんが長門さんに協力を頼ん\nだとき",
+    "translation": "キョンくんが長門さんに協力を頼ん\nだとき",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN15S_0011",
+    "original": "長門さんはとりあえず承諾した……",
+    "translation": "長門さんはとりあえず承諾した……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN15S_0012",
+    "original": "長門さんは観察することが任務の\nはずなのに",
+    "translation": "長門さんは観察することが任務の\nはずなのに",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN15S_0013",
+    "original": "みくるちゃん？",
+    "translation": "みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN15S_0014",
+    "original": "[#SK0]は、はひゅわいっ！？",
+    "translation": "[#SK0]は、はひゅわいっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN15S_0015",
+    "original": "どうしたの、立ち止まっちゃって\nさっさと行きましょう！",
+    "translation": "どうしたの、立ち止まっちゃって\nさっさと行きましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN15S_0016",
+    "original": "は、はい！　今行きますっ",
+    "translation": "は、はい！　今行きますっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN15S_0017",
+    "original": "……あ\n待って",
+    "translation": "……あ\n待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN15S_0018",
+    "original": "なに、有希、どうかしたの？",
+    "translation": "なに、有希、どうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN15S_0019",
+    "original": "……靴が、脱げた",
+    "translation": "……靴が、脱げた",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN15S_0020",
+    "original": "靴？　どこに？",
+    "translation": "靴？　どこに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN15S_0021",
+    "original": "あそこ",
+    "translation": "あそこ",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN15S_0022",
+    "original": "……なんであんな遠くで脱げてるの\nよ？　すぐに気がつかないわけ？",
+    "translation": "……なんであんな遠くで脱げてるの\nよ？　すぐに気がつかないわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN15S_0023",
+    "original": "取ってくる",
+    "translation": "取ってくる",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN15S_0024",
+    "original": "早くね！",
+    "translation": "早くね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN15S_0025",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN15S_0026",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN15S_0027",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN15S_0028",
+    "original": "有希！\n早くね！",
+    "translation": "有希！\n早くね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN15S_0029",
+    "original": "……諒解",
+    "translation": "……諒解",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN15S_0030",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN15S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN15S_0032",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN15S_0033",
+    "original": "変わらないじゃない！　ああもう\nじれったいわね！",
+    "translation": "変わらないじゃない！　ああもう\nじれったいわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN15S_0034",
+    "original": "はい有希、上履き！",
+    "translation": "はい有希、上履き！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN15S_0035",
+    "original": "……ありがと",
+    "translation": "……ありがと",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN15S_0036",
+    "original": "履いたら急ぐわよ、ああもう、手間\n取っちゃった！",
+    "translation": "履いたら急ぐわよ、ああもう、手間\n取っちゃった！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN15S_0037",
+    "original": "[#P06]……行動への干渉は、許容の範囲内",
+    "translation": "[#P06]……行動への干渉は、許容の範囲内",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN15S_0038",
+    "original": "なんの話？",
+    "translation": "なんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN15S_0039",
+    "original": "別に",
+    "translation": "別に",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN15S_0040",
+    "original": "長門さんは、意外とＳＯＳ団の活動\nを楽しんでいるようにも見えますね",
+    "translation": "長門さんは、意外とＳＯＳ団の活動\nを楽しんでいるようにも見えますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN15S_0041",
+    "original": "そりゃそうよ、ＳＯＳ団なんだから",
+    "translation": "そりゃそうよ、ＳＯＳ団なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN15S_0042",
+    "original": "なにごとも無関心なように見えて\nいろいろと手伝ってくれる理由は",
+    "translation": "なにごとも無関心なように見えて\nいろいろと手伝ってくれる理由は",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN15S_0043",
+    "original": "彼女がＳＯＳ団や、ひいては涼宮さ\nんを、そう、気に入っているから",
+    "translation": "彼女がＳＯＳ団や、ひいては涼宮さ\nんを、そう、気に入っているから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN15S_0044",
+    "original": "なのでしょうね",
+    "translation": "なのでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN15S_0045",
+    "original": "そうなのかしら？\nでも、有希が楽しんでるのは同感ね",
+    "translation": "そうなのかしら？\nでも、有希が楽しんでるのは同感ね",
+    "speaker": "ハルヒ"
+  }
+]

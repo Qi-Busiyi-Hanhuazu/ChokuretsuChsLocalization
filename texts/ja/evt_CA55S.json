@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA55S_0000",
+    "original": "キョン……",
+    "translation": "キョン……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA55S_0001",
+    "original": "なんだ？",
+    "translation": "なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA55S_0002",
+    "original": "なんか変な妄想してない？",
+    "translation": "なんか変な妄想してない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA55S_0003",
+    "original": "してないぞ",
+    "translation": "してないぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA55S_0004",
+    "original": "ふーん、じゃなんでなのかしらね\nドロ浴びしてる象みたいな顔してる",
+    "translation": "ふーん、じゃなんでなのかしらね\nドロ浴びしてる象みたいな顔してる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA55S_0005",
+    "original": "それはどんな顔なんだよ",
+    "translation": "それはどんな顔なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA55S_0006",
+    "original": "鼻が長い",
+    "translation": "鼻が長い",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA55S_0007",
+    "original": "象はいつだって鼻は長いだろ！",
+    "translation": "象はいつだって鼻は長いだろ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA55S_0008",
+    "original": "訂正、鼻の下が長い",
+    "translation": "訂正、鼻の下が長い",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA55S_0009",
+    "original": "あのなぁ……",
+    "translation": "あのなぁ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA55S_0010",
+    "original": "時々こいつこそが超能力者じゃない\nかと思うカンの良さだよ",
+    "translation": "時々こいつこそが超能力者じゃない\nかと思うカンの良さだよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA55S_0011",
+    "original": "まあ、超能力どころでない能力の\n持ち主なんだが",
+    "translation": "まあ、超能力どころでない能力の\n持ち主なんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA55S_0012",
+    "original": "いいがかりだ。俺はただ歩いていた\nだけで、俺の顔はいつだってこうだ",
+    "translation": "いいがかりだ。俺はただ歩いていた\nだけで、俺の顔はいつだってこうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA55S_0013",
+    "original": "そういうことにしといてあげるわ",
+    "translation": "そういうことにしといてあげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA55S_0014",
+    "original": "朝比奈さんのぬくもりを思い出して\nいたなんて知れたら、死刑確定だな",
+    "translation": "朝比奈さんのぬくもりを思い出して\nいたなんて知れたら、死刑確定だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA55S_0015",
+    "original": "あ、あの……あたしのぬくもりって\nどういう意味なんでしょう？",
+    "translation": "あ、あの……あたしのぬくもりって\nどういう意味なんでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA55S_0016",
+    "original": "誰がそんな頭が沸くようなことを\n言ったの？",
+    "translation": "誰がそんな頭が沸くようなことを\n言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA55S_0017",
+    "original": "って、考えるまでもなく\nキョンね！　まちがいないわ！",
+    "translation": "って、考えるまでもなく\nキョンね！　まちがいないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA55S_0018",
+    "original": "そう……い、いえっ、\nち、ちがいますよぅ",
+    "translation": "そう……い、いえっ、\nち、ちがいますよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA55S_0019",
+    "original": "いいのよアイツをかばう必要なんて\nないわ！　後でとっちめてやるから",
+    "translation": "いいのよアイツをかばう必要なんて\nないわ！　後でとっちめてやるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA55S_0020",
+    "original": "暗闇に怯えた朝比奈みくるは\n彼の身体にしがみついた",
+    "translation": "暗闇に怯えた朝比奈みくるは\n彼の身体にしがみついた",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA55S_0021",
+    "original": "彼って……もしかしてキョン？",
+    "translation": "彼って……もしかしてキョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA55S_0022",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA55S_0023",
+    "original": "まったく、どーせ鼻の下でれーっと\n伸ばしてたんでしょ、あいつ！",
+    "translation": "まったく、どーせ鼻の下でれーっと\n伸ばしてたんでしょ、あいつ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA55S_0024",
+    "original": "それは未確認",
+    "translation": "それは未確認",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA55S_0025",
+    "original": "決まってるわ！　伸ばしてたわよ！",
+    "translation": "決まってるわ！　伸ばしてたわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA55S_0026",
+    "original": "すみません、涼宮さん。朝比奈さん\nの話なのですが――",
+    "translation": "すみません、涼宮さん。朝比奈さん\nの話なのですが――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA55S_0027",
+    "original": "みくるちゃんの話？　大事な話？",
+    "translation": "みくるちゃんの話？　大事な話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA55S_0028",
+    "original": "いえ、どちらかというとゴシップな\n内容の話です",
+    "translation": "いえ、どちらかというとゴシップな\n内容の話です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA55S_0029",
+    "original": "それなら、後で聞くわ。キョンたち\nがシビレを切らして待ってるから",
+    "translation": "それなら、後で聞くわ。キョンたち\nがシビレを切らして待ってるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA55S_0030",
+    "original": "古泉くん、急ぎましょう",
+    "translation": "古泉くん、急ぎましょう",
+    "speaker": "ハルヒ"
+  }
+]

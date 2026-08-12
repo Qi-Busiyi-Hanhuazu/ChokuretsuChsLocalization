@@ -1,0 +1,184 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN67S_0000",
+    "original": "ハルヒ、おまえってしょっちゅう\n証拠を求めてくるよな？",
+    "translation": "ハルヒ、おまえってしょっちゅう\n証拠を求めてくるよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN67S_0001",
+    "original": "論より証拠って言葉があるしキョン\nの言ってることっていい加減だもの",
+    "translation": "論より証拠って言葉があるしキョン\nの言ってることっていい加減だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN67S_0002",
+    "original": "おいおい、ひどい言いようだな",
+    "translation": "おいおい、ひどい言いようだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN67S_0003",
+    "original": "信用出来る相手だったら、あたしも\nそんなこと言わないわよ",
+    "translation": "信用出来る相手だったら、あたしも\nそんなこと言わないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN67S_0004",
+    "original": "だって有希やみくるちゃんには\n証拠を出せって言わないでしょ",
+    "translation": "だって有希やみくるちゃんには\n証拠を出せって言わないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN67S_0005",
+    "original": "そこはかとなくムカつくな、おい",
+    "translation": "そこはかとなくムカつくな、おい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN67S_0006",
+    "original": "証拠って中々集まりませんね",
+    "translation": "証拠って中々集まりませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN67S_0007",
+    "original": "七不思議の証拠のこと？",
+    "translation": "七不思議の証拠のこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN67S_0008",
+    "original": "え……ええ、そうです、怪談話の\n検証の証拠です。もちろん！",
+    "translation": "え……ええ、そうです、怪談話の\n検証の証拠です。もちろん！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN67S_0009",
+    "original": "そんなことはないわ。ちゃんと証拠\n集まってるわよ",
+    "translation": "そんなことはないわ。ちゃんと証拠\n集まってるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN67S_0010",
+    "original": "デマばっかりってのは気に入らない\nけどね",
+    "translation": "デマばっかりってのは気に入らない\nけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN67S_0011",
+    "original": "デマ、ですか",
+    "translation": "デマ、ですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN67S_0012",
+    "original": "そうよ。少なくともデマだって解明\nされたわけだし、立派な証拠よ",
+    "translation": "そうよ。少なくともデマだって解明\nされたわけだし、立派な証拠よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN67S_0013",
+    "original": "でもいい加減、そろそろ本物に巡り\n会いたいわね",
+    "translation": "でもいい加減、そろそろ本物に巡り\n会いたいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN67S_0014",
+    "original": "あたしは本物はイヤですぅぅっ",
+    "translation": "あたしは本物はイヤですぅぅっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN67S_0015",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN67S_0016",
+    "original": "ん？　なにやってんの？",
+    "translation": "ん？　なにやってんの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN67S_0017",
+    "original": "……これ",
+    "translation": "……これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN67S_0018",
+    "original": "なに、これ？　雑草じゃない",
+    "translation": "なに、これ？　雑草じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN67S_0019",
+    "original": "食用には適さない",
+    "translation": "食用には適さない",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN67S_0020",
+    "original": "……まあ、あんまり雑草は食べない\nわね。有希も食べちゃだめよ",
+    "translation": "……まあ、あんまり雑草は食べない\nわね。有希も食べちゃだめよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN67S_0021",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN67S_0022",
+    "original": "どうしたの？　急に考え込んじゃっ\nて……何かあった？",
+    "translation": "どうしたの？　急に考え込んじゃっ\nて……何かあった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN67S_0023",
+    "original": "いえ、なんでもありません",
+    "translation": "いえ、なんでもありません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN67S_0024",
+    "original": "[#P06]……コンピ研の方々に起こった現象\nを、涼宮さんには語れませんね……",
+    "translation": "[#P06]……コンピ研の方々に起こった現象\nを、涼宮さんには語れませんね……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN67S_0025",
+    "original": "行くわよ、古泉くん。急がなきゃ",
+    "translation": "行くわよ、古泉くん。急がなきゃ",
+    "speaker": "ハルヒ"
+  }
+]

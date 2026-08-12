@@ -1,0 +1,436 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA27S_0000",
+    "original": "朝比奈さんの面白話をしてやろう",
+    "translation": "朝比奈さんの面白話をしてやろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA27S_0001",
+    "original": "ん、どうぞ",
+    "translation": "ん、どうぞ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA27S_0002",
+    "original": "音楽室の鍵を借りに職員室へ行った\nじゃないか",
+    "translation": "音楽室の鍵を借りに職員室へ行った\nじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA27S_0003",
+    "original": "そうね。古泉くんも一緒だっけ？",
+    "translation": "そうね。古泉くんも一緒だっけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA27S_0004",
+    "original": "で朝比奈さんが鍵を借りてくれた\nんだが、転んでしまってな",
+    "translation": "で朝比奈さんが鍵を借りてくれた\nんだが、転んでしまってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA27S_0005",
+    "original": "あらら、痛そうね",
+    "translation": "あらら、痛そうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA27S_0006",
+    "original": "ああ、痛そうにしてた、気の毒にな",
+    "translation": "ああ、痛そうにしてた、気の毒にな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA27S_0007",
+    "original": "それでどうしたの？　まさかそれ\nだけだなんて言わないわよね？",
+    "translation": "それでどうしたの？　まさかそれ\nだけだなんて言わないわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA27S_0008",
+    "original": "大丈夫だ",
+    "translation": "大丈夫だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA27S_0009",
+    "original": "凄まなくても、言わないって\nそれで、借りた鍵を落としたんだよ",
+    "translation": "凄まなくても、言わないって\nそれで、借りた鍵を落としたんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA27S_0010",
+    "original": "で、まあ俺と古泉と朝比奈さんで\n探したんだけど、見つからなくて",
+    "translation": "で、まあ俺と古泉と朝比奈さんで\n探したんだけど、見つからなくて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA27S_0011",
+    "original": "……あ、なーんか、オチが見えて\nきた気がするわ",
+    "translation": "……あ、なーんか、オチが見えて\nきた気がするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA27S_0012",
+    "original": "結局は……",
+    "translation": "結局は……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA27S_0013",
+    "original": "みくるちゃんが持ってた？",
+    "translation": "みくるちゃんが持ってた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA27S_0014",
+    "original": "正解だ。朝比奈さんのポケットに\n入ってたよ",
+    "translation": "正解だ。朝比奈さんのポケットに\n入ってたよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA27S_0015",
+    "original": "あはははっ、さーすがみくるちゃん\nハズさないわー！",
+    "translation": "あはははっ、さーすがみくるちゃん\nハズさないわー！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA27S_0016",
+    "original": "ハルヒは立ち止まって笑っている",
+    "translation": "ハルヒは立ち止まって笑っている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA27S_0017",
+    "original": "中々効果のある足止めだったな",
+    "translation": "中々効果のある足止めだったな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA27S_0018",
+    "original": "申し訳ないが、朝比奈さんの\nうっかりに感謝したい",
+    "translation": "申し訳ないが、朝比奈さんの\nうっかりに感謝したい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA27S_0019",
+    "original": "あたしまた失敗してしまいました",
+    "translation": "あたしまた失敗してしまいました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA27S_0020",
+    "original": "ふーん、みくるちゃん\n今度はどんなドジ？",
+    "translation": "ふーん、みくるちゃん\n今度はどんなドジ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA27S_0021",
+    "original": "涼宮さん、なんでそんなに楽しそう\nなんですか？",
+    "translation": "涼宮さん、なんでそんなに楽しそう\nなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA27S_0022",
+    "original": "期待してるから。さあ、話してよ",
+    "translation": "期待してるから。さあ、話してよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA27S_0023",
+    "original": "はうっ、ええとですね、音楽室の\n鍵を借りにいったじゃないですかぁ",
+    "translation": "はうっ、ええとですね、音楽室の\n鍵を借りにいったじゃないですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA27S_0024",
+    "original": "キョンと古泉くんと一緒だったわね",
+    "translation": "キョンと古泉くんと一緒だったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA27S_0025",
+    "original": "はい、それであたしが手に持ってて\n廊下で転んでしまったんです",
+    "translation": "はい、それであたしが手に持ってて\n廊下で転んでしまったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA27S_0026",
+    "original": "それで鍵がなくなったのね？",
+    "translation": "それで鍵がなくなったのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA27S_0027",
+    "original": "そうなんです",
+    "translation": "そうなんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA27S_0028",
+    "original": "どこにいったのかわからなくて\n廊下を全部探したんです",
+    "translation": "どこにいったのかわからなくて\n廊下を全部探したんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA27S_0029",
+    "original": "３人がかりで",
+    "translation": "３人がかりで",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA27S_0030",
+    "original": "はい、転んでぶつけたお尻は痛いし",
+    "translation": "はい、転んでぶつけたお尻は痛いし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA27S_0031",
+    "original": "それは大変ね。大丈夫なの？",
+    "translation": "それは大変ね。大丈夫なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA27S_0032",
+    "original": "あ、さすがにもう痛くないです",
+    "translation": "あ、さすがにもう痛くないです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA27S_0033",
+    "original": "んじゃ続きをどうぞ",
+    "translation": "んじゃ続きをどうぞ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA27S_0034",
+    "original": "廊下のどこにも鍵が落ちてなくて\nですね……そうしたら",
+    "translation": "廊下のどこにも鍵が落ちてなくて\nですね……そうしたら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA27S_0035",
+    "original": "そうしたら？",
+    "translation": "そうしたら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA27S_0036",
+    "original": "スカートから音が……うううっ",
+    "translation": "スカートから音が……うううっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA27S_0037",
+    "original": "なんと、いつのまにかスカートの\nポケットに入っていたのね！？",
+    "translation": "なんと、いつのまにかスカートの\nポケットに入っていたのね！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA27S_0038",
+    "original": "はぅぅ……その通りです",
+    "translation": "はぅぅ……その通りです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA27S_0039",
+    "original": "あはははっ、みくるちゃんらしくて\nいい感じのお話だったわー",
+    "translation": "あはははっ、みくるちゃんらしくて\nいい感じのお話だったわー",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA27S_0040",
+    "original": "ぐすん……あたしらしい……ですか",
+    "translation": "ぐすん……あたしらしい……ですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA27S_0041",
+    "original": "ごめん、ごめん。涙ぐまないで、ね",
+    "translation": "ごめん、ごめん。涙ぐまないで、ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA27S_0042",
+    "original": "朝比奈みくるが失敗した話",
+    "translation": "朝比奈みくるが失敗した話",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA27S_0043",
+    "original": "へえ、それは興味深いわね",
+    "translation": "へえ、それは興味深いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA27S_0044",
+    "original": "朝比奈みくるは廊下で転んだ",
+    "translation": "朝比奈みくるは廊下で転んだ",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA27S_0045",
+    "original": "ふんふん、それで？",
+    "translation": "ふんふん、それで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA27S_0046",
+    "original": "鍵を落とした。廊下を探したが\n見つからない",
+    "translation": "鍵を落とした。廊下を探したが\n見つからない",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA27S_0047",
+    "original": "はいはい、みくるちゃんらしいわ",
+    "translation": "はいはい、みくるちゃんらしいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA27S_0048",
+    "original": "鍵は、朝比奈みくるのポケットから\n発見された。落としてはいなかった",
+    "translation": "鍵は、朝比奈みくるのポケットから\n発見された。落としてはいなかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CA27S_0049",
+    "original": "……有希はもう少し話す量を増やし\nて",
+    "translation": "……有希はもう少し話す量を増やし\nて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CA27S_0050",
+    "original": "話し方を練習した方がいいかもね",
+    "translation": "話し方を練習した方がいいかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CA27S_0051",
+    "original": "努力する",
+    "translation": "努力する",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_CA27S_0052",
+    "original": "いかにも朝比奈さんらしい\nエピソードがあったのですが",
+    "translation": "いかにも朝比奈さんらしい\nエピソードがあったのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_CA27S_0053",
+    "original": "聞かせてちょうだい、古泉くん",
+    "translation": "聞かせてちょうだい、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CA27S_0054",
+    "original": "音楽室の鍵を借りた後に、彼女は\n転んでしまったんです",
+    "translation": "音楽室の鍵を借りた後に、彼女は\n転んでしまったんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CA27S_0055",
+    "original": "で、鍵を見失ってしまったのですね",
+    "translation": "で、鍵を見失ってしまったのですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CA27S_0056",
+    "original": "廊下を探したのですが、どこにも\n見つからない",
+    "translation": "廊下を探したのですが、どこにも\n見つからない",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CA27S_0057",
+    "original": "さて、鍵はどこにいったでしょう？",
+    "translation": "さて、鍵はどこにいったでしょう？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_CA27S_0058",
+    "original": "みくるちゃんの……\nポケットでしょ？",
+    "translation": "みくるちゃんの……\nポケットでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CA27S_0059",
+    "original": "さすがは涼宮さん\n正解です",
+    "translation": "さすがは涼宮さん\n正解です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CA27S_0060",
+    "original": "簡単な推理ね。ヒントはあったもの",
+    "translation": "簡単な推理ね。ヒントはあったもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CA27S_0061",
+    "original": "そうですね。いかにも朝比奈さん\nらしいがヒントでした",
+    "translation": "そうですね。いかにも朝比奈さん\nらしいがヒントでした",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN34S_0000",
+    "original": "なあハルヒ。無量大数って知ってる\nか？",
+    "translation": "なあハルヒ。無量大数って知ってる\nか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN34S_0001",
+    "original": "なによいきなり。それくらい知って\nるわ。数字の単位でしょ",
+    "translation": "なによいきなり。それくらい知って\nるわ。数字の単位でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN34S_0002",
+    "original": "それくらいは俺も知ってる。どれく\nらいのでかさなんだろうと思ってな",
+    "translation": "それくらいは俺も知ってる。どれく\nらいのでかさなんだろうと思ってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN34S_0003",
+    "original": "あんたってほんと、モノ知らずねえ",
+    "translation": "あんたってほんと、モノ知らずねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN34S_0004",
+    "original": "ハルヒは呆れた顔をしつつ、俺に\n数字の位について講義した",
+    "translation": "ハルヒは呆れた顔をしつつ、俺に\n数字の位について講義した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN34S_0005",
+    "original": "良く判らんが、とにかく大きいと\nいうことは理解できた",
+    "translation": "良く判らんが、とにかく大きいと\nいうことは理解できた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN34S_0006",
+    "original": "なに、よくわからないんだったら\n今度みっちり教えてあげるわよ",
+    "translation": "なに、よくわからないんだったら\n今度みっちり教えてあげるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN34S_0007",
+    "original": "いや、それは遠慮しておく",
+    "translation": "いや、それは遠慮しておく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN34S_0008",
+    "original": "す、涼宮さん。無量大数って\n単位はどんな大きさなんですか？",
+    "translation": "す、涼宮さん。無量大数って\n単位はどんな大きさなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN34S_0009",
+    "original": "不可思議の上の位……つまり\n数字で言うと１０の６８乗よ",
+    "translation": "不可思議の上の位……つまり\n数字で言うと１０の６８乗よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN34S_0010",
+    "original": "一説では８８乗ってのもあるらしい\nけど、どっちにしろすごい数だわ",
+    "translation": "一説では８８乗ってのもあるらしい\nけど、どっちにしろすごい数だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN34S_0011",
+    "original": "ふぇぇ、途方もない単位なんですね\nそ、想像もつきません",
+    "translation": "ふぇぇ、途方もない単位なんですね\nそ、想像もつきません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN34S_0012",
+    "original": "まあ、少なくとも高校生レベルの\n数学で使う単位じゃないし",
+    "translation": "まあ、少なくとも高校生レベルの\n数学で使う単位じゃないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN34S_0013",
+    "original": "ぶっちゃけて言うと、\n縁がない単位よね",
+    "translation": "ぶっちゃけて言うと、\n縁がない単位よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN34S_0014",
+    "original": "無量大数",
+    "translation": "無量大数",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN34S_0015",
+    "original": "日本語の数字の位の、一番最後の\n呼び方ね",
+    "translation": "日本語の数字の位の、一番最後の\n呼び方ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN34S_0016",
+    "original": "そう。１０の６８乗",
+    "translation": "そう。１０の６８乗",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN34S_0017",
+    "original": "あたしはもう一つ前の方がスキだわ",
+    "translation": "あたしはもう一つ前の方がスキだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN34S_0018",
+    "original": "不可思議\n１０の６４乗",
+    "translation": "不可思議\n１０の６４乗",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN34S_0019",
+    "original": "なんたって名前がいいわ\n不可思議よ、不可思議！",
+    "translation": "なんたって名前がいいわ\n不可思議よ、不可思議！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN34S_0020",
+    "original": "突然ですが、無量大数という数値を\n涼宮さんはご存知でしょうか？",
+    "translation": "突然ですが、無量大数という数値を\n涼宮さんはご存知でしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN34S_0021",
+    "original": "不可思議の上の位で、無限とは違う\nって教わったわね",
+    "translation": "不可思議の上の位で、無限とは違う\nって教わったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN34S_0022",
+    "original": "感覚的には無限に近い印象だと思う\nのですが、どう思われますか？",
+    "translation": "感覚的には無限に近い印象だと思う\nのですが、どう思われますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN34S_0023",
+    "original": "中途半端に無量大数じゃなく超不可\n思議でいいじゃないって思うわ",
+    "translation": "中途半端に無量大数じゃなく超不可\n思議でいいじゃないって思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN34S_0024",
+    "original": "その方がわかりやすいですね",
+    "translation": "その方がわかりやすいですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN34S_0025",
+    "original": "なんでも小難しくすればいいって\nものじゃないと思うのよねっ",
+    "translation": "なんでも小難しくすればいいって\nものじゃないと思うのよねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN34S_0026",
+    "original": "おっしゃる通りです",
+    "translation": "おっしゃる通りです",
+    "speaker": "古泉"
+  }
+]

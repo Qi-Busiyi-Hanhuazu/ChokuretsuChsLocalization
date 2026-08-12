@@ -1,0 +1,373 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA78S_0000",
+    "original": "朝比奈さんは心配性だよな",
+    "translation": "朝比奈さんは心配性だよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA78S_0001",
+    "original": "そうねぇ。だから恐がりなのかも\n心配するの止めればいいのに",
+    "translation": "そうねぇ。だから恐がりなのかも\n心配するの止めればいいのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA78S_0002",
+    "original": "おまえは心配性とは真逆だよな",
+    "translation": "おまえは心配性とは真逆だよな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA78S_0003",
+    "original": "当然よ。先を心配してどうするのよ\n無意味でしょ？",
+    "translation": "当然よ。先を心配してどうするのよ\n無意味でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA78S_0004",
+    "original": "いや、そう言い切られてもな……",
+    "translation": "いや、そう言い切られてもな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA78S_0005",
+    "original": "先のことは判らないんだもの",
+    "translation": "先のことは判らないんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA78S_0006",
+    "original": "判らないことに不安なんて\nあたしの主義じゃないわ",
+    "translation": "判らないことに不安なんて\nあたしの主義じゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA78S_0007",
+    "original": "それに、判らないから面白いんで\nしょ！",
+    "translation": "それに、判らないから面白いんで\nしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA78S_0008",
+    "original": "結果のわかってるものなんてつまら\nないと思わない？",
+    "translation": "結果のわかってるものなんてつまら\nないと思わない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA78S_0009",
+    "original": "振り回される身にも少しはなって\n欲しいものだぜ",
+    "translation": "振り回される身にも少しはなって\n欲しいものだぜ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA78S_0010",
+    "original": "あたし、よく言われて気になってる\nことがあるんですけど……",
+    "translation": "あたし、よく言われて気になってる\nことがあるんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA78S_0011",
+    "original": "そ、相談に乗っていただけないで\nしょうかっ",
+    "translation": "そ、相談に乗っていただけないで\nしょうかっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA78S_0012",
+    "original": "ごめん、今は忙しいから後にして\n頂戴。あと少しで現場なんだから",
+    "translation": "ごめん、今は忙しいから後にして\n頂戴。あと少しで現場なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA78S_0013",
+    "original": "お、お願いしますぅ、このままだと\nその、すごく気になってしまって",
+    "translation": "お、お願いしますぅ、このままだと\nその、すごく気になってしまって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA78S_0014",
+    "original": "ねえ、みくるちゃん。ウデにすがり\nついたら、歩けなくなるでしょ",
+    "translation": "ねえ、みくるちゃん。ウデにすがり\nついたら、歩けなくなるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA78S_0015",
+    "original": "ほら、ちゃんと歩きなさい\nもうすぐ現場につくんだから",
+    "translation": "ほら、ちゃんと歩きなさい\nもうすぐ現場につくんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA78S_0016",
+    "original": "すみません、でもでも\n少しだけでもお願いしますぅ",
+    "translation": "すみません、でもでも\n少しだけでもお願いしますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA78S_0017",
+    "original": "……へぇ、みくるちゃんにしては\nかなり粘るのね",
+    "translation": "……へぇ、みくるちゃんにしては\nかなり粘るのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA78S_0018",
+    "original": "……す、すみません\nでもでも、お願いしますぅ～",
+    "translation": "……す、すみません\nでもでも、お願いしますぅ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA78S_0019",
+    "original": "分かったわ、ちょっとだけよ",
+    "translation": "分かったわ、ちょっとだけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA78S_0020",
+    "original": "あ、ありがとうございます！",
+    "translation": "あ、ありがとうございます！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA78S_0021",
+    "original": "で、相談って、どんな事なの？",
+    "translation": "で、相談って、どんな事なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA78S_0022",
+    "original": "えっと、あたしって……\n必要以上に心配性なんでしょうか？",
+    "translation": "えっと、あたしって……\n必要以上に心配性なんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA78S_0023",
+    "original": "自分だとそんなに考えすぎてるって\n思わないんですけど",
+    "translation": "自分だとそんなに考えすぎてるって\n思わないんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA78S_0024",
+    "original": "そうねぇ、みくるちゃんって\nそういうところはあるかもね",
+    "translation": "そうねぇ、みくるちゃんって\nそういうところはあるかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA78S_0025",
+    "original": "ええっ、そうなんですかぁ？\n気づかなかったです",
+    "translation": "ええっ、そうなんですかぁ？\n気づかなかったです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA78S_0026",
+    "original": "まあ、自分では気づかないって\n言うのはセオリーだけど",
+    "translation": "まあ、自分では気づかないって\n言うのはセオリーだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA78S_0027",
+    "original": "みくるちゃんの場合は、重症って\n感じだから、普通気づくでしょ",
+    "translation": "みくるちゃんの場合は、重症って\n感じだから、普通気づくでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA78S_0028",
+    "original": "あたしって、じゅ、重症\nなんですか？",
+    "translation": "あたしって、じゅ、重症\nなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA78S_0029",
+    "original": "どうしよう、おかしいのかな？\nああっ、気になりますぅ",
+    "translation": "どうしよう、おかしいのかな？\nああっ、気になりますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA78S_0030",
+    "original": "ほらみなさい、そういうところが\n心配性なのよ",
+    "translation": "ほらみなさい、そういうところが\n心配性なのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA78S_0031",
+    "original": "あっ、た、たしかにそうかも\nしれませんね",
+    "translation": "あっ、た、たしかにそうかも\nしれませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA78S_0032",
+    "original": "自覚したのなら、もう大丈夫ね\n先を急ぎましょ",
+    "translation": "自覚したのなら、もう大丈夫ね\n先を急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA78S_0033",
+    "original": "えっ、あ、あの！　じゃあ\n心配性を直す方法を教えてください",
+    "translation": "えっ、あ、あの！　じゃあ\n心配性を直す方法を教えてください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA78S_0034",
+    "original": "残念だけど、すぐに直す方法なんて\nないと思うのよ",
+    "translation": "残念だけど、すぐに直す方法なんて\nないと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA78S_0035",
+    "original": "習うより慣れろって言うでしょ",
+    "translation": "習うより慣れろって言うでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA78S_0036",
+    "original": "心配ごとにぶち当たる勢いで\n挑めばそのうち慣れるから",
+    "translation": "心配ごとにぶち当たる勢いで\n挑めばそのうち慣れるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA78S_0037",
+    "original": "ええっ、そんなぁ",
+    "translation": "ええっ、そんなぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA78S_0038",
+    "original": "え、えっとえっと、\nじゃあ、他の悩みを……",
+    "translation": "え、えっとえっと、\nじゃあ、他の悩みを……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA78S_0039",
+    "original": "そんなことよりも、こっちが\n気になるのよ",
+    "translation": "そんなことよりも、こっちが\n気になるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA78S_0040",
+    "original": "ほらほら、もうすぐナゾの現象を\nこの目で見るチャンスよ！",
+    "translation": "ほらほら、もうすぐナゾの現象を\nこの目で見るチャンスよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA78S_0041",
+    "original": "ああっ、ダメですぅ、\n涼宮さん、待ってくださぁい",
+    "translation": "ああっ、ダメですぅ、\n涼宮さん、待ってくださぁい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA78S_0042",
+    "original": "朝比奈みくるが心配していた",
+    "translation": "朝比奈みくるが心配していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CA78S_0043",
+    "original": "なにを？",
+    "translation": "なにを？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CA78S_0044",
+    "original": "この合宿で、怪奇現象が本当に\n発生しないかどうか",
+    "translation": "この合宿で、怪奇現象が本当に\n発生しないかどうか",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CA78S_0045",
+    "original": "ああ、ようはオバケが怖いってこと\nね……みくるちゃんらしいわ",
+    "translation": "ああ、ようはオバケが怖いってこと\nね……みくるちゃんらしいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CA78S_0046",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CA78S_0047",
+    "original": "朝比奈さんは、心配性な方ですね",
+    "translation": "朝比奈さんは、心配性な方ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CA78S_0048",
+    "original": "聞いた話なのですが、班を分けて\n行動している際も、",
+    "translation": "聞いた話なのですが、班を分けて\n行動している際も、",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CA78S_0049",
+    "original": "常に、別の班の心配までなさって\nおられるのだとか",
+    "translation": "常に、別の班の心配までなさって\nおられるのだとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CA78S_0050",
+    "original": "ＳＯＳ団全体のことを、ちゃんと\n考えてるのは、みくるちゃんね",
+    "translation": "ＳＯＳ団全体のことを、ちゃんと\n考えてるのは、みくるちゃんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CA78S_0051",
+    "original": "キョンも、こういうところを少しは\n見習えばいいのに",
+    "translation": "キョンも、こういうところを少しは\n見習えばいいのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CA78S_0052",
+    "original": "彼も彼なりに、苦労してると思うの\nですが……",
+    "translation": "彼も彼なりに、苦労してると思うの\nですが……",
+    "speaker": "古泉"
+  }
+]

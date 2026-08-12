@@ -1,0 +1,1377 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV5_011S_0000",
+    "original": "古泉にハルヒを部室で足止めさせ\n俺と朝比奈さんは昇降口に来た",
+    "translation": "古泉にハルヒを部室で足止めさせ\n俺と朝比奈さんは昇降口に来た",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV5_011S_0001",
+    "original": "ハルヒには鏡を見張るという名目を\n言ってやって来たわけだが……",
+    "translation": "ハルヒには鏡を見張るという名目を\n言ってやって来たわけだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV5_011S_0002",
+    "original": "キョンくん、本当にこの鏡を\n壊しちゃうんですか？",
+    "translation": "キョンくん、本当にこの鏡を\n壊しちゃうんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV5_011S_0003",
+    "original": "むろん本気ですよ。この鏡さえ\nなければ、怪異が起きないなら",
+    "translation": "むろん本気ですよ。この鏡さえ\nなければ、怪異が起きないなら",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV5_011S_0004",
+    "original": "公共物損壊は……犯罪じゃあ？",
+    "translation": "公共物損壊は……犯罪じゃあ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV5_011S_0005",
+    "original": "事故です。弁償してもいい",
+    "translation": "事故です。弁償してもいい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV5_011S_0006",
+    "original": "ハルヒの暴走を防げるなら\n安いもんです",
+    "translation": "ハルヒの暴走を防げるなら\n安いもんです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV5_011S_0007",
+    "original": "鏡一枚で世界の平和が保てるなら\nＣＯ２問題より手軽な世界貢献だ",
+    "translation": "鏡一枚で世界の平和が保てるなら\nＣＯ２問題より手軽な世界貢献だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV5_011S_0008",
+    "original": "環境に優しい判断とはこのことだな",
+    "translation": "環境に優しい判断とはこのことだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV5_011S_0009",
+    "original": "そ、そうですよね！　ごめんなさい\n鏡さん、割らせてくださいっ",
+    "translation": "そ、そうですよね！　ごめんなさい\n鏡さん、割らせてくださいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV5_011S_0010",
+    "original": "物にも優しい朝比奈さんであった",
+    "translation": "物にも優しい朝比奈さんであった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV5_011S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV5_011S_0012",
+    "original": "近くの教室から椅子を持ち出して\n鏡に振りかざす",
+    "translation": "近くの教室から椅子を持ち出して\n鏡に振りかざす",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV5_011S_0013",
+    "original": "鈍い音がした",
+    "translation": "鈍い音がした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV5_011S_0014",
+    "original": "……あれぇ？",
+    "translation": "……あれぇ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV5_011S_0015",
+    "original": "耳を押さえていた朝比奈さんが\n不思議そうな声を上げる",
+    "translation": "耳を押さえていた朝比奈さんが\n不思議そうな声を上げる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV5_011S_0016",
+    "original": "割れませんねぇ？　キョンくん\n手加減しました？",
+    "translation": "割れませんねぇ？　キョンくん\n手加減しました？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV5_011S_0017",
+    "original": "いや……けっこう本気でやりました\nもう一度やってみます。ふんっ！",
+    "translation": "いや……けっこう本気でやりました\nもう一度やってみます。ふんっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV5_011S_0018",
+    "original": "壊れない……です",
+    "translation": "壊れない……です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV5_011S_0019",
+    "original": "おかしいな。もう一回……\nどりゃあっ！",
+    "translation": "おかしいな。もう一回……\nどりゃあっ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV5_011S_0020",
+    "original": "腕がしびれるほど、試しても鏡は\nびくともしてくれない",
+    "translation": "腕がしびれるほど、試しても鏡は\nびくともしてくれない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV5_011S_0021",
+    "original": "防弾ガラス製の鏡……でしょうか？",
+    "translation": "防弾ガラス製の鏡……でしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV5_011S_0022",
+    "original": "これも異空間怪異の一種とか",
+    "translation": "これも異空間怪異の一種とか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV5_011S_0023",
+    "original": "あ、もしかして涼宮さんの能力と\n関係しているんでしょうか？",
+    "translation": "あ、もしかして涼宮さんの能力と\n関係しているんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV5_011S_0024",
+    "original": "この鏡から現れる分身が見たくて\nそれで……",
+    "translation": "この鏡から現れる分身が見たくて\nそれで……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV5_011S_0025",
+    "original": "あり得ない話ではないですが……",
+    "translation": "あり得ない話ではないですが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV5_011S_0026",
+    "original": "これは長門に相談すべき事態だな",
+    "translation": "これは長門に相談すべき事態だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV5_011S_0027",
+    "original": "長門さんならどうなっているか、\nわかるかも知れませんね",
+    "translation": "長門さんならどうなっているか、\nわかるかも知れませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV5_011S_0028",
+    "original": "長門の携帯に電話をかけて訊ねて\nみることにした",
+    "translation": "長門の携帯に電話をかけて訊ねて\nみることにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV5_011S_0029",
+    "original": "長門さんどう言ってました？",
+    "translation": "長門さんどう言ってました？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV5_011S_0030",
+    "original": "この学校は半ば異空間化していて\n物理干渉が成り立たないそうです",
+    "translation": "この学校は半ば異空間化していて\n物理干渉が成り立たないそうです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV5_011S_0031",
+    "original": "異空間化……状況はどんどん悪化\nしてるんですね……ということは",
+    "translation": "異空間化……状況はどんどん悪化\nしてるんですね……ということは",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV5_011S_0032",
+    "original": "物理的な力では、鏡は壊せないって\nことらしいですよ",
+    "translation": "物理的な力では、鏡は壊せないって\nことらしいですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV5_011S_0033",
+    "original": "はぅぅ……でも、このまま放置でき\nませんよね？",
+    "translation": "はぅぅ……でも、このまま放置でき\nませんよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV5_011S_0034",
+    "original": "涼宮さんの分身なんて現れたら……",
+    "translation": "涼宮さんの分身なんて現れたら……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV5_011S_0035",
+    "original": "せっ、世界……崩壊！？　なんて\n事にも",
+    "translation": "せっ、世界……崩壊！？　なんて\n事にも",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV5_011S_0036",
+    "original": "モップに異空間用の新機能を追加\nしたものがあるらしいんですが",
+    "translation": "モップに異空間用の新機能を追加\nしたものがあるらしいんですが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV5_011S_0037",
+    "original": "それ、取りに行きましょう！\n長門さん今どこにいるんですか？",
+    "translation": "それ、取りに行きましょう！\n長門さん今どこにいるんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV5_011S_0038",
+    "original": "断りました",
+    "translation": "断りました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV5_011S_0039",
+    "original": "えええっ！？　な、なんで断ったん\nですか？　キョンくん",
+    "translation": "えええっ！？　な、なんで断ったん\nですか？　キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV5_011S_0040",
+    "original": "多分、焼け石に水だろうって長門が\n言うんで……",
+    "translation": "多分、焼け石に水だろうって長門が\n言うんで……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV5_011S_0041",
+    "original": "あぅぅぅ……",
+    "translation": "あぅぅぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV5_011S_0042",
+    "original": "鏡をなんとかする別の方法を\n考えるしかないですね",
+    "translation": "鏡をなんとかする別の方法を\n考えるしかないですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV5_011S_0043",
+    "original": "壊せないなら別の方法を考えないと",
+    "translation": "壊せないなら別の方法を考えないと",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV5_011S_0044",
+    "original": "別の方法……ですか。んん～",
+    "translation": "別の方法……ですか。んん～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV5_011S_0045",
+    "original": "ハルヒにこの鏡を見せないように\nするには……隠すか",
+    "translation": "ハルヒにこの鏡を見せないように\nするには……隠すか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV5_011S_0046",
+    "original": "隠す……あっ！　鏡を壁と同じ色で\n塗るのはどうでしょう？",
+    "translation": "隠す……あっ！　鏡を壁と同じ色で\n塗るのはどうでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV5_011S_0047",
+    "original": "朝比奈さんが顔を輝かせて、大胆な\n意見を言う",
+    "translation": "朝比奈さんが顔を輝かせて、大胆な\n意見を言う",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV5_011S_0048",
+    "original": "ペンキで塗れば、たとえ鏡がある\nって気づいても姿は映らないから",
+    "translation": "ペンキで塗れば、たとえ鏡がある\nって気づいても姿は映らないから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV5_011S_0049",
+    "original": "分身は現れない……ねっ！",
+    "translation": "分身は現れない……ねっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV5_011S_0050",
+    "original": "確かに……良い案だと思います",
+    "translation": "確かに……良い案だと思います",
+    "speaker": "キョン"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV5_011S_0051",
+    "original": "ふふっ、でしょう？",
+    "translation": "ふふっ、でしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV5_011S_0052",
+    "original": "嬉しそうな朝比奈さんに水を差す\nのは心が痛むのだが",
+    "translation": "嬉しそうな朝比奈さんに水を差す\nのは心が痛むのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV5_011S_0053",
+    "original": "壊せない鏡にペンキを塗れるか\nどうか怪しいと思いますよ",
+    "translation": "壊せない鏡にペンキを塗れるか\nどうか怪しいと思いますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV5_011S_0054",
+    "original": "はぅっ……そ、そうですね",
+    "translation": "はぅっ……そ、そうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV5_011S_0055",
+    "original": "試しに鏡にペンを走らせたが、案の\n定インクの跡さえ付かなかった",
+    "translation": "試しに鏡にペンを走らせたが、案の\n定インクの跡さえ付かなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV5_011S_0056",
+    "original": "自分でも良い案かなって思ったん\nですけど……残念です",
+    "translation": "自分でも良い案かなって思ったん\nですけど……残念です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV5_011S_0057",
+    "original": "直接的には何もできないとなると\n後は間接的手段か",
+    "translation": "直接的には何もできないとなると\n後は間接的手段か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV5_011S_0058",
+    "original": "間接的……んー、間接的なら何かを\n使ってどうにかするんですよね",
+    "translation": "間接的……んー、間接的なら何かを\n使ってどうにかするんですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV5_011S_0059",
+    "original": "あ！　鏡を覆ってしまうのはどう\nですか？　紙とか布とかで",
+    "translation": "あ！　鏡を覆ってしまうのはどう\nですか？　紙とか布とかで",
+    "speaker": "みくる"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV5_011S_0060",
+    "original": "覆ってもすぐ剥がせるんじゃ",
+    "translation": "覆ってもすぐ剥がせるんじゃ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV5_011S_0061",
+    "original": "あっ、そうか。それじゃあダメ\nですよね～、うーん",
+    "translation": "あっ、そうか。それじゃあダメ\nですよね～、うーん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV5_011S_0062",
+    "original": "いや、ダメではないかもしれません\nその意見",
+    "translation": "いや、ダメではないかもしれません\nその意見",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV5_011S_0063",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV5_011S_0064",
+    "original": "２時２２分２２秒を１秒でも過ぎ\nればいいんですよ",
+    "translation": "２時２２分２２秒を１秒でも過ぎ\nればいいんですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV5_011S_0065",
+    "original": "正確には、ハルヒが過ぎてしまった\nと思えばいいんだ",
+    "translation": "正確には、ハルヒが過ぎてしまった\nと思えばいいんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV5_011S_0066",
+    "original": "ギリギリまで足止めして、覆った\nものを外す時間もなくしてしまえば",
+    "translation": "ギリギリまで足止めして、覆った\nものを外す時間もなくしてしまえば",
+    "speaker": "キョン"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV5_011S_0067",
+    "original": "めくった時には時間が過ぎてたと\n涼宮さんが思いこんでくれれば",
+    "translation": "めくった時には時間が過ぎてたと\n涼宮さんが思いこんでくれれば",
+    "speaker": "みくる"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV5_011S_0068",
+    "original": "何も起きない",
+    "translation": "何も起きない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV5_011S_0069",
+    "original": "やりましょう！　何にもしない\nより、ずうっといいはずです",
+    "translation": "やりましょう！　何にもしない\nより、ずうっといいはずです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV5_011S_0070",
+    "original": "朝比奈さんはたいそう前向きで\nやる気満々だった",
+    "translation": "朝比奈さんはたいそう前向きで\nやる気満々だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV5_011S_0071",
+    "original": "ダメでしょうね\nめくられたら終わりです",
+    "translation": "ダメでしょうね\nめくられたら終わりです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV5_011S_0072",
+    "original": "他に何か手はないでしょうか……",
+    "translation": "他に何か手はないでしょうか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV5_011S_0073",
+    "original": "うーん……",
+    "translation": "うーん……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV5_011S_0074",
+    "original": "ねぇ、キョンくん。やっぱり鏡を\n覆うのにしませんか？",
+    "translation": "ねぇ、キョンくん。やっぱり鏡を\n覆うのにしませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV5_011S_0075",
+    "original": "こうして悩んでいても時間は過ぎる\nわけですし",
+    "translation": "こうして悩んでいても時間は過ぎる\nわけですし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV5_011S_0076",
+    "original": "覆ってしまえば、少なくとも側に来\nて外すまでは安全でしょう？",
+    "translation": "覆ってしまえば、少なくとも側に来\nて外すまでは安全でしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV5_011S_0077",
+    "original": "そうか、うっかり映り込んだり\n遠くから映ることもないですよね",
+    "translation": "そうか、うっかり映り込んだり\n遠くから映ることもないですよね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV5_011S_0078",
+    "original": "いざとなったら、ハルヒを邪魔して\n足止めすればいい",
+    "translation": "いざとなったら、ハルヒを邪魔して\n足止めすればいい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV5_011S_0079",
+    "original": "ダメもとだと思ってやりましょう！",
+    "translation": "ダメもとだと思ってやりましょう！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV5_011S_0080",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 81,
+    "key": "evt_EV5_011S_0081",
+    "original": "教室のカーテンを拝借してきて\n昇降口の鏡を覆った",
+    "translation": "教室のカーテンを拝借してきて\n昇降口の鏡を覆った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV5_011S_0082",
+    "original": "懐中電灯しか使えないなら、一瞬は\n壁と同化して見え誤魔化せそうだ",
+    "translation": "懐中電灯しか使えないなら、一瞬は\n壁と同化して見え誤魔化せそうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV5_011S_0083",
+    "original": "ふたりで出来映えをたたえ合う",
+    "translation": "ふたりで出来映えをたたえ合う",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV5_011S_0084",
+    "original": "ねえ、キョンくん",
+    "translation": "ねえ、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV5_011S_0085",
+    "original": "なんでしょう、朝比奈さん",
+    "translation": "なんでしょう、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV5_011S_0086",
+    "original": "ちょっと不安に思ったんですけど",
+    "translation": "ちょっと不安に思ったんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV5_011S_0087",
+    "original": "分身が現れる鏡って、この鏡限定\nなんでしょうか？",
+    "translation": "分身が現れる鏡って、この鏡限定\nなんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV5_011S_0088",
+    "original": "別の鏡でも現れる可能性ってない\nんでしょうか？",
+    "translation": "別の鏡でも現れる可能性ってない\nんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV5_011S_0089",
+    "original": "ううん、考えすぎですね",
+    "translation": "ううん、考えすぎですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV5_011S_0090",
+    "original": "あり得るな……大いにあり得る",
+    "translation": "あり得るな……大いにあり得る",
+    "speaker": "キョン"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV5_011S_0091",
+    "original": "学校が異空間化しつつあると長門が\n言っていた",
+    "translation": "学校が異空間化しつつあると長門が\n言っていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV5_011S_0092",
+    "original": "つまりはいつどこで怪異が起きても\n不思議じゃない",
+    "translation": "つまりはいつどこで怪異が起きても\n不思議じゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV5_011S_0093",
+    "original": "どの鏡でも２時２２分２２秒に\n映った人をコピーしかねない",
+    "translation": "どの鏡でも２時２２分２２秒に\n映った人をコピーしかねない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV5_011S_0094",
+    "original": "ナイスです、朝比奈さん",
+    "translation": "ナイスです、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV5_011S_0095",
+    "original": "わ、そ、そうですか？",
+    "translation": "わ、そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV5_011S_0096",
+    "original": "ハルヒが見る可能性がある鏡は\nすべて覆いをかけましょう",
+    "translation": "ハルヒが見る可能性がある鏡は\nすべて覆いをかけましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV5_011S_0097",
+    "original": "それは考えすぎかも知れませんね",
+    "translation": "それは考えすぎかも知れませんね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV5_011S_0098",
+    "original": "そうですよねぇ！",
+    "translation": "そうですよねぇ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV5_011S_0099",
+    "original": "朝比奈さんは俺に否定されたのに\n嬉しそうにうなずく",
+    "translation": "朝比奈さんは俺に否定されたのに\n嬉しそうにうなずく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV5_011S_0100",
+    "original": "あたし恐がりだから、余計なことを\n考えてしまうんですね",
+    "translation": "あたし恐がりだから、余計なことを\n考えてしまうんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV5_011S_0101",
+    "original": "学校の鏡という鏡が、そんな悪魔の\n映し鏡みたいになるなんて",
+    "translation": "学校の鏡という鏡が、そんな悪魔の\n映し鏡みたいになるなんて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV5_011S_0102",
+    "original": "あり得ませんよねぇ",
+    "translation": "あり得ませんよねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV5_011S_0103",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV5_011S_0104",
+    "original": "明るい朝比奈さんの声とは正反対に\n俺はどんどん不安になってきた",
+    "translation": "明るい朝比奈さんの声とは正反対に\n俺はどんどん不安になってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV5_011S_0105",
+    "original": "あの……念のために、ハルヒが見る\n可能性がある鏡を覆いましょうか？",
+    "translation": "あの……念のために、ハルヒが見る\n可能性がある鏡を覆いましょうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV5_011S_0106",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV5_011S_0107",
+    "original": "あくまで、念のためってことで",
+    "translation": "あくまで、念のためってことで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV5_011S_0108",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "evt_EV5_011S_0109",
+    "original": "鏡がそんなに多くないのは助かった\nせいぜいトイレや水飲み場程度だ",
+    "translation": "鏡がそんなに多くないのは助かった\nせいぜいトイレや水飲み場程度だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV5_011S_0110",
+    "original": "さすがにトイレだけは、朝比奈さん\nと手分けすることになったが",
+    "translation": "さすがにトイレだけは、朝比奈さん\nと手分けすることになったが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV5_011S_0111",
+    "original": "作業は手間取らなかった",
+    "translation": "作業は手間取らなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV5_011S_0112",
+    "original": "ふぅっ、女子トイレは終了です",
+    "translation": "ふぅっ、女子トイレは終了です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV5_011S_0113",
+    "original": "こっちも終わりました",
+    "translation": "こっちも終わりました",
+    "speaker": "キョン"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV5_011S_0114",
+    "original": "朝比奈さん、ひとりで女子トイレは\n怖くなかったんですか？",
+    "translation": "朝比奈さん、ひとりで女子トイレは\n怖くなかったんですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV5_011S_0115",
+    "original": "せめて出口で待っているべきだった\nと、後悔しきりなのだが",
+    "translation": "せめて出口で待っているべきだった\nと、後悔しきりなのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV5_011S_0116",
+    "original": "はぅ…………忘れてました、怖いの",
+    "translation": "はぅ…………忘れてました、怖いの",
+    "speaker": "みくる"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV5_011S_0117",
+    "original": "言わなきゃ良かったですね",
+    "translation": "言わなきゃ良かったですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV5_011S_0118",
+    "original": "……ううっ、トイレの怪談なんて\n思い出しちゃダメ～",
+    "translation": "……ううっ、トイレの怪談なんて\n思い出しちゃダメ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV5_011S_0119",
+    "original": "鏡に映る自分の後ろに老婆……とか\n思い浮かべちゃダメぇ～",
+    "translation": "鏡に映る自分の後ろに老婆……とか\n思い浮かべちゃダメぇ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV5_011S_0120",
+    "original": "朝比奈さんは懸命に自分に言い聞か\nせていらっしゃる",
+    "translation": "朝比奈さんは懸命に自分に言い聞か\nせていらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV5_011S_0121",
+    "original": "しかしハルヒの分身が大量出現して\n世界崩壊の危機の方がより恐ろしい",
+    "translation": "しかしハルヒの分身が大量出現して\n世界崩壊の危機の方がより恐ろしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV5_011S_0122",
+    "original": "あんなのが大量に出たら、間違い\nなく未曾有の危機ってヤツだろう",
+    "translation": "あんなのが大量に出たら、間違い\nなく未曾有の危機ってヤツだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV5_011S_0123",
+    "original": "怪談なんてそれに比肩できないと\n思うんだが……",
+    "translation": "怪談なんてそれに比肩できないと\n思うんだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV5_011S_0124",
+    "original": "ああっ！",
+    "translation": "ああっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV5_011S_0125",
+    "original": "な、なんですか急に、朝比奈さん",
+    "translation": "な、なんですか急に、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV5_011S_0126",
+    "original": "鏡……鏡ですよ！　キョンくん",
+    "translation": "鏡……鏡ですよ！　キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV5_011S_0127",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV5_011S_0128",
+    "original": "何で今まで気づかなかったんだろう\nあたしったらマヌケですぅ～",
+    "translation": "何で今まで気づかなかったんだろう\nあたしったらマヌケですぅ～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV5_011S_0129",
+    "original": "何をさしてるかわかりませんが",
+    "translation": "何をさしてるかわかりませんが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV5_011S_0130",
+    "original": "女の子は大抵、小物を持ち歩きます",
+    "translation": "女の子は大抵、小物を持ち歩きます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV5_011S_0131",
+    "original": "はぁ……",
+    "translation": "はぁ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV5_011S_0132",
+    "original": "リップやミニブラシ……それに手鏡",
+    "translation": "リップやミニブラシ……それに手鏡",
+    "speaker": "みくる"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV5_011S_0133",
+    "original": "手鏡？",
+    "translation": "手鏡？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV5_011S_0134",
+    "original": "手のひらに収まるくらいの小さな\n鏡を持ってるんですよぉ！",
+    "translation": "手のひらに収まるくらいの小さな\n鏡を持ってるんですよぉ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV5_011S_0135",
+    "original": "ハルヒも？",
+    "translation": "ハルヒも？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV5_011S_0136",
+    "original": "わからないけど、可能性は高い\nんじゃないでしょうか",
+    "translation": "わからないけど、可能性は高い\nんじゃないでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV5_011S_0137",
+    "original": "あいつの持ち物なんて、想像も\nつきません",
+    "translation": "あいつの持ち物なんて、想像も\nつきません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV5_011S_0138",
+    "original": "でも女の子です、涼宮さんは！",
+    "translation": "でも女の子です、涼宮さんは！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV5_011S_0139",
+    "original": "ハルヒなら、鏡は色んなことに\n使える便利アイテムだくらいは",
+    "translation": "ハルヒなら、鏡は色んなことに\n使える便利アイテムだくらいは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV5_011S_0140",
+    "original": "言いそうだしな",
+    "translation": "言いそうだしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV5_011S_0141",
+    "original": "持っていてもおかしくないか",
+    "translation": "持っていてもおかしくないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV5_011S_0142",
+    "original": "部室に戻って捜してみましょう",
+    "translation": "部室に戻って捜してみましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV5_011S_0143",
+    "original": "ですね",
+    "translation": "ですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV5_011S_0144",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 145,
+    "key": "evt_EV5_011S_0145",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "evt_EV5_011S_0146",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "evt_EV5_011S_0147",
+    "original": "あら、みくるちゃんどうしたの？",
+    "translation": "あら、みくるちゃんどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV5_011S_0148",
+    "original": "忘れ物ですか？",
+    "translation": "忘れ物ですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV5_011S_0149",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "evt_EV5_011S_0150",
+    "original": "すみません。ちょっと必要なものが\nあって取りにきたんです",
+    "translation": "すみません。ちょっと必要なものが\nあって取りにきたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV5_011S_0151",
+    "original": "そう。ね、鏡はどう？　何か予兆\nみたいなものは起きたりしてない？",
+    "translation": "そう。ね、鏡はどう？　何か予兆\nみたいなものは起きたりしてない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV5_011S_0152",
+    "original": "してないみたいです",
+    "translation": "してないみたいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV5_011S_0153",
+    "original": "むぅ、しっかり見張ってね。今度\nこそ絶対何かが起きるから",
+    "translation": "むぅ、しっかり見張ってね。今度\nこそ絶対何かが起きるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV5_011S_0154",
+    "original": "期待したいところですね",
+    "translation": "期待したいところですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV5_011S_0155",
+    "original": "あは……が、がんばりますぅ",
+    "translation": "あは……が、がんばりますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV5_011S_0156",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 157,
+    "key": "evt_EV5_011S_0157",
+    "original": "お願いね、みくるちゃん",
+    "translation": "お願いね、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV5_011S_0158",
+    "original": "はぅぅ……",
+    "translation": "はぅぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV5_011S_0159",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "evt_EV5_011S_0160",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "evt_EV5_011S_0161",
+    "original": "猫の目を盗んで移動するネズミの\nようにびくつきながら",
+    "translation": "猫の目を盗んで移動するネズミの\nようにびくつきながら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV5_011S_0162",
+    "original": "朝比奈さんが戻ってきた",
+    "translation": "朝比奈さんが戻ってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV5_011S_0163",
+    "original": "はぁはぁ……ああっ、ドキドキ\nしました～……はぁぁ",
+    "translation": "はぁはぁ……ああっ、ドキドキ\nしました～……はぁぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV5_011S_0164",
+    "original": "で、どうでした？",
+    "translation": "で、どうでした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV5_011S_0165",
+    "original": "あ、ありました手鏡……やりました\nあたし！　これです",
+    "translation": "あ、ありました手鏡……やりました\nあたし！　これです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV5_011S_0166",
+    "original": "意気揚々と手鏡をかざしてみせる",
+    "translation": "意気揚々と手鏡をかざしてみせる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV5_011S_0167",
+    "original": "素晴らしいです、朝比奈さん！",
+    "translation": "素晴らしいです、朝比奈さん！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 168,
+    "key": "evt_EV5_011S_0168",
+    "original": "これで世界は安全でしょうか？",
+    "translation": "これで世界は安全でしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV5_011S_0169",
+    "original": "……まぁ、少し近づいた感じです\nでも良く探しあてられましたね",
+    "translation": "……まぁ、少し近づいた感じです\nでも良く探しあてられましたね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV5_011S_0170",
+    "original": "鞄がまとめて置いてあったんです",
+    "translation": "鞄がまとめて置いてあったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 171,
+    "key": "evt_EV5_011S_0171",
+    "original": "だから、自分の鞄を探すふりで\n涼宮さんの荷物を探れて……",
+    "translation": "だから、自分の鞄を探すふりで\n涼宮さんの荷物を探れて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV5_011S_0172",
+    "original": "でもこれって……泥棒ですよねぇ",
+    "translation": "でもこれって……泥棒ですよねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV5_011S_0173",
+    "original": "悲痛な顔でうなだれてしまう",
+    "translation": "悲痛な顔でうなだれてしまう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV5_011S_0174",
+    "original": "そこはそれ、義賊ってことで",
+    "translation": "そこはそれ、義賊ってことで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV5_011S_0175",
+    "original": "義賊……ですか？",
+    "translation": "義賊……ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV5_011S_0176",
+    "original": "庶民の味方として大人気",
+    "translation": "庶民の味方として大人気",
+    "speaker": "キョン"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV5_011S_0177",
+    "original": "はぁ……でも泥棒ですよね",
+    "translation": "はぁ……でも泥棒ですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 178,
+    "key": "evt_EV5_011S_0178",
+    "original": "拝借しただけなので、ハルヒが\n気づく前にかえせます",
+    "translation": "拝借しただけなので、ハルヒが\n気づく前にかえせます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV5_011S_0179",
+    "original": "でも……黙って持ち出したことには\nかわりありませんよね",
+    "translation": "でも……黙って持ち出したことには\nかわりありませんよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV5_011S_0180",
+    "original": "……ごめんなさい、涼宮さん",
+    "translation": "……ごめんなさい、涼宮さん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV5_011S_0181",
+    "original": "朝比奈さんはつぶやいて部室の方に\n頭を下げたのだった",
+    "translation": "朝比奈さんはつぶやいて部室の方に\n頭を下げたのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 182,
+    "key": "evt_EV5_011S_0182",
+    "original": "借りただけですよ",
+    "translation": "借りただけですよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV5_011S_0183",
+    "original": "問題の時間が過ぎたら、返せばいい\n気づかれませんよ",
+    "translation": "問題の時間が過ぎたら、返せばいい\n気づかれませんよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV5_011S_0184",
+    "original": "でも……返しても、勝手に持って\nきたことには変わりませんよ……",
+    "translation": "でも……返しても、勝手に持って\nきたことには変わりませんよ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV5_011S_0185",
+    "original": "朝比奈さんは善良だと痛感して\nしまう悲しげな表情だった",
+    "translation": "朝比奈さんは善良だと痛感して\nしまう悲しげな表情だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV5_011S_0186",
+    "original": "ともあれ、鏡をなんとかするという\n目標はなんとか達成できたのだった",
+    "translation": "ともあれ、鏡をなんとかするという\n目標はなんとか達成できたのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV5_011S_0187",
+    "original": "長門に相談する",
+    "translation": "長門に相談する",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 188,
+    "key": "evt_EV5_011S_0188",
+    "original": "別の方法を考える",
+    "translation": "別の方法を考える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 189,
+    "key": "evt_EV5_011S_0189",
+    "original": "ダメじゃない",
+    "translation": "ダメじゃない",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 190,
+    "key": "evt_EV5_011S_0190",
+    "original": "ダメでしょう",
+    "translation": "ダメでしょう",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 191,
+    "key": "evt_EV5_011S_0191",
+    "original": "あり得る",
+    "translation": "あり得る",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 192,
+    "key": "evt_EV5_011S_0192",
+    "original": "考えすぎ",
+    "translation": "考えすぎ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 193,
+    "key": "evt_EV5_011S_0193",
+    "original": "義賊ってことで",
+    "translation": "義賊ってことで",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 194,
+    "key": "evt_EV5_011S_0194",
+    "original": "借りただけです",
+    "translation": "借りただけです",
+    "speaker": "CHOICE"
+  }
+]

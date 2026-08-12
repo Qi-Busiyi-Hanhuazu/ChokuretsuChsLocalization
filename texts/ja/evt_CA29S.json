@@ -1,0 +1,240 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA29S_0000",
+    "original": "今日のバーベキュー、レシピは\n朝比奈さんが考案したんだが",
+    "translation": "今日のバーベキュー、レシピは\n朝比奈さんが考案したんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA29S_0001",
+    "original": "だからなによ？",
+    "translation": "だからなによ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA29S_0002",
+    "original": "お前も、少しはそういった女性らし\nい一面を見せたらどうだ",
+    "translation": "お前も、少しはそういった女性らし\nい一面を見せたらどうだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA29S_0003",
+    "original": "料理イコール女性らしさ、っていう\nその概念が理解できないわ",
+    "translation": "料理イコール女性らしさ、っていう\nその概念が理解できないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA29S_0004",
+    "original": "あんたの言う通りなら、コックや\nシェフは女性ばかりのはずでしょ",
+    "translation": "あんたの言う通りなら、コックや\nシェフは女性ばかりのはずでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA29S_0005",
+    "original": "う……それは、まあ、そうだが",
+    "translation": "う……それは、まあ、そうだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA29S_0006",
+    "original": "バカなこと言ってないで、早く行く\nわよ",
+    "translation": "バカなこと言ってないで、早く行く\nわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA29S_0007",
+    "original": "あのっ、お夕食のバーベキュー\nいかがでしたかっ？",
+    "translation": "あのっ、お夕食のバーベキュー\nいかがでしたかっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA29S_0008",
+    "original": "ええ、存分に楽しんだわ！\nまた今度やりたいわね",
+    "translation": "ええ、存分に楽しんだわ！\nまた今度やりたいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA29S_0009",
+    "original": "お食事はどうでした？　何か嫌いな\nものとか無かったですか？",
+    "translation": "お食事はどうでした？　何か嫌いな\nものとか無かったですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA29S_0010",
+    "original": "どれも美味しかったけど……\nどうして？",
+    "translation": "どれも美味しかったけど……\nどうして？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA29S_0011",
+    "original": "えっと、食材を選んだの、あたし\nなんです。トウモロコシとか",
+    "translation": "えっと、食材を選んだの、あたし\nなんです。トウモロコシとか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA29S_0012",
+    "original": "トウモロコシも良かったわ。焼くと\n香ばしいし。大正解ね",
+    "translation": "トウモロコシも良かったわ。焼くと\n香ばしいし。大正解ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA29S_0013",
+    "original": "よかったぁ……",
+    "translation": "よかったぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA29S_0014",
+    "original": "そうね、みくるちゃんにはバーベ\nキュー功労賞をあげるわ",
+    "translation": "そうね、みくるちゃんにはバーベ\nキュー功労賞をあげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA29S_0015",
+    "original": "あとで腕章を進呈するわね\nおもいっきり、威張ってもいいわよ",
+    "translation": "あとで腕章を進呈するわね\nおもいっきり、威張ってもいいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA29S_0016",
+    "original": "あ、ありがとうございますぅ……",
+    "translation": "あ、ありがとうございますぅ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA29S_0017",
+    "original": "レシピ",
+    "translation": "レシピ",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA29S_0018",
+    "original": "ん？　なに？　どうしたの？",
+    "translation": "ん？　なに？　どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA29S_0019",
+    "original": "夕食の食材と構成は、朝比奈みくる\nの考案に基づくレシピ",
+    "translation": "夕食の食材と構成は、朝比奈みくる\nの考案に基づくレシピ",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA29S_0020",
+    "original": "栄養のバランスを重視、カロリーの\n適量摂取を目的とした献立",
+    "translation": "栄養のバランスを重視、カロリーの\n適量摂取を目的とした献立",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA29S_0021",
+    "original": "なるほどね。そういえば、野菜も\nしっかり食べたような気がするわ",
+    "translation": "なるほどね。そういえば、野菜も\nしっかり食べたような気がするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA29S_0022",
+    "original": "バーベキューだし、レシピと呼べる\nかどうかは疑問だけど",
+    "translation": "バーベキューだし、レシピと呼べる\nかどうかは疑問だけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA29S_0023",
+    "original": "でも突然、どうしたのよ？",
+    "translation": "でも突然、どうしたのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA29S_0024",
+    "original": "朝比奈みくるの功績",
+    "translation": "朝比奈みくるの功績",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA29S_0025",
+    "original": "ふむ、そうね。ご飯がおいしかった\nのは、みくるちゃんのお手柄ね",
+    "translation": "ふむ、そうね。ご飯がおいしかった\nのは、みくるちゃんのお手柄ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA29S_0026",
+    "original": "でも、バーベキューが楽しかった\nのは、団員みんなの功績よ",
+    "translation": "でも、バーベキューが楽しかった\nのは、団員みんなの功績よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA29S_0027",
+    "original": "有希、もちろんあたなもねっ！",
+    "translation": "有希、もちろんあたなもねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA29S_0028",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA29S_0029",
+    "original": "そういえば、涼宮さんはご存知\nですか？",
+    "translation": "そういえば、涼宮さんはご存知\nですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA29S_0030",
+    "original": "今日のバーベキュー、素材の選択は\n朝比奈さんが考案したそうですよ",
+    "translation": "今日のバーベキュー、素材の選択は\n朝比奈さんが考案したそうですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA29S_0031",
+    "original": "そんな話は、後で聞くわ！",
+    "translation": "そんな話は、後で聞くわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA29S_0032",
+    "original": "今はとにかく、急いでるの！",
+    "translation": "今はとにかく、急いでるの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA29S_0033",
+    "original": "これはどうも、話の振り方を間違え\nてしまったようですね……",
+    "translation": "これはどうも、話の振り方を間違え\nてしまったようですね……",
+    "speaker": "古泉"
+  }
+]

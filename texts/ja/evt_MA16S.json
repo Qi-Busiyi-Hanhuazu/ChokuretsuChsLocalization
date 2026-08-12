@@ -1,0 +1,348 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA16S_0000",
+    "original": "プールまであと少しね",
+    "translation": "プールまであと少しね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA16S_0001",
+    "original": "一気に行くわよ",
+    "translation": "一気に行くわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA16S_0002",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA16S_0003",
+    "original": "なによ",
+    "translation": "なによ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA16S_0004",
+    "original": "せっかく夜の学校にいるんだ\n校庭で花火でもしないか？",
+    "translation": "せっかく夜の学校にいるんだ\n校庭で花火でもしないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA16S_0005",
+    "original": "さっき買い出しに行った時\n買っておいたんだ",
+    "translation": "さっき買い出しに行った時\n買っておいたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA16S_0006",
+    "original": "アンタ、バカじゃないの",
+    "translation": "アンタ、バカじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA16S_0007",
+    "original": "そんなことしたら見つかっちゃう\nじゃない",
+    "translation": "そんなことしたら見つかっちゃう\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA16S_0008",
+    "original": "見回りがいるってこと忘れたの？",
+    "translation": "見回りがいるってこと忘れたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA16S_0009",
+    "original": "そ、そうか、そうだったな",
+    "translation": "そ、そうか、そうだったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA16S_0010",
+    "original": "もう、しっかりしてよね",
+    "translation": "もう、しっかりしてよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA16S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA16S_0012",
+    "original": "あの、涼宮さん、この後で花火を\nしませんか？",
+    "translation": "あの、涼宮さん、この後で花火を\nしませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA16S_0013",
+    "original": "花火？",
+    "translation": "花火？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA16S_0014",
+    "original": "は、はい。さっき買い出しの時に\n買っておいたんです",
+    "translation": "は、はい。さっき買い出しの時に\n買っておいたんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA16S_0015",
+    "original": "それはいいけど……\n場所が問題よね",
+    "translation": "それはいいけど……\n場所が問題よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA16S_0016",
+    "original": "学校の敷地内だと、見回りの教師に\n見つかっちゃうかもしれないし",
+    "translation": "学校の敷地内だと、見回りの教師に\n見つかっちゃうかもしれないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA16S_0017",
+    "original": "下手したら、近所の人に通報され\nちゃうかも",
+    "translation": "下手したら、近所の人に通報され\nちゃうかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA16S_0018",
+    "original": "つ、通報ですか",
+    "translation": "つ、通報ですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA16S_0019",
+    "original": "そうよ",
+    "translation": "そうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA16S_0020",
+    "original": "バカなことする一部の人間のせいで\n気軽に花火もできないんだから",
+    "translation": "バカなことする一部の人間のせいで\n気軽に花火もできないんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA16S_0021",
+    "original": "そう、ですか……",
+    "translation": "そう、ですか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA16S_0022",
+    "original": "まあ、みくるちゃんがそこまで言う\nなら、場所を探しておくわ",
+    "translation": "まあ、みくるちゃんがそこまで言う\nなら、場所を探しておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA16S_0023",
+    "original": "さすがに今日すぐってワケにはいか\nないけど",
+    "translation": "さすがに今日すぐってワケにはいか\nないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA16S_0024",
+    "original": "は、はい。ありがとうございます",
+    "translation": "は、はい。ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA16S_0025",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "evt_MA16S_0026",
+    "original": "花火を買っておいた",
+    "translation": "花火を買っておいた",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA16S_0027",
+    "original": "あら、有希が何かをやりたいなんて\n珍しいわね",
+    "translation": "あら、有希が何かをやりたいなんて\n珍しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA16S_0028",
+    "original": "この間やったのがよっぽど\n気に入ったの？",
+    "translation": "この間やったのがよっぽど\n気に入ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA16S_0029",
+    "original": "……わりと",
+    "translation": "……わりと",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA16S_0030",
+    "original": "でも、今晩花火をするのはちょっと\n難しいわね",
+    "translation": "でも、今晩花火をするのはちょっと\n難しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA16S_0031",
+    "original": "最近じゃ、どんなに広い場所でも\n火を使うだけで問題になるんだから",
+    "translation": "最近じゃ、どんなに広い場所でも\n火を使うだけで問題になるんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA16S_0032",
+    "original": "まったく、一部のバカのせいで\nとんだとばっちりだわ",
+    "translation": "まったく、一部のバカのせいで\nとんだとばっちりだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA16S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA16S_0034",
+    "original": "あ、もしかして、ショックだった？",
+    "translation": "あ、もしかして、ショックだった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA16S_0035",
+    "original": "しょうがないわね、どこか花火の\n出来る場所を探しておくわ",
+    "translation": "しょうがないわね、どこか花火の\n出来る場所を探しておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA16S_0036",
+    "original": "さすがに今日すぐとはいかないけど",
+    "translation": "さすがに今日すぐとはいかないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA16S_0037",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA16S_0038",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "evt_MA16S_0039",
+    "original": "実は、先ほどの買い出しの時に\n花火を見つけたのですが",
+    "translation": "実は、先ほどの買い出しの時に\n花火を見つけたのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA16S_0040",
+    "original": "花火？",
+    "translation": "花火？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA16S_0041",
+    "original": "いかがでしょう、空き地を借りて\nやってみるのは",
+    "translation": "いかがでしょう、空き地を借りて\nやってみるのは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA16S_0042",
+    "original": "そうね、学校でやるわけにはいか\nないし",
+    "translation": "そうね、学校でやるわけにはいか\nないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA16S_0043",
+    "original": "……でもやっぱり、今晩は止めて\nおきましょ",
+    "translation": "……でもやっぱり、今晩は止めて\nおきましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA16S_0044",
+    "original": "あまり時間もないことだし\nそれに花火は前にもやったわ",
+    "translation": "あまり時間もないことだし\nそれに花火は前にもやったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA16S_0045",
+    "original": "そうですか",
+    "translation": "そうですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA16S_0046",
+    "original": "まあ、夏はまだこれからなんだし\nもう一回くらいやってもいいわね",
+    "translation": "まあ、夏はまだこれからなんだし\nもう一回くらいやってもいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA16S_0047",
+    "original": "では、その際の場所確保はお任せ\nください",
+    "translation": "では、その際の場所確保はお任せ\nください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA16S_0048",
+    "original": "期待してるわ、古泉くん",
+    "translation": "期待してるわ、古泉くん",
+    "speaker": "ハルヒ"
+  }
+]

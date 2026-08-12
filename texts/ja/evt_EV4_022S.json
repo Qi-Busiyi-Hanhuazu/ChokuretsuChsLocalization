@@ -1,0 +1,798 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV4_022S_0000",
+    "original": "事態は深刻だ",
+    "translation": "事態は深刻だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV4_022S_0001",
+    "original": "すっかりおかしくなったコンピ研の\n姿をハルヒが目撃しちまったら――",
+    "translation": "すっかりおかしくなったコンピ研の\n姿をハルヒが目撃しちまったら――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV4_022S_0002",
+    "original": "本当に、取り返しのつかないことに\nなってしまうだろう",
+    "translation": "本当に、取り返しのつかないことに\nなってしまうだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV4_022S_0003",
+    "original": "いざとなったら多少強引な手を使っ\nてでもハルヒを学校から連れ出すぞ",
+    "translation": "いざとなったら多少強引な手を使っ\nてでもハルヒを学校から連れ出すぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV4_022S_0004",
+    "original": "やむを得ませんね。状況が状況です",
+    "translation": "やむを得ませんね。状況が状況です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV4_022S_0005",
+    "original": "ですが、まずは出来るだけ我々の力\nで涼宮さんを引き止めましょう",
+    "translation": "ですが、まずは出来るだけ我々の力\nで涼宮さんを引き止めましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV4_022S_0006",
+    "original": "そうだな。今の俺たちの相手は……",
+    "translation": "そうだな。今の俺たちの相手は……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV4_022S_0007",
+    "original": "涼宮ハルヒ一人だ",
+    "translation": "涼宮ハルヒ一人だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV4_022S_0008",
+    "original": "頷きあった俺たちは、部室のドアを\n開けて、意気揚々と乗り込んだ",
+    "translation": "頷きあった俺たちは、部室のドアを\n開けて、意気揚々と乗り込んだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV4_022S_0009",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_EV4_022S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_EV4_022S_0011",
+    "original": "え？　あれ？　もう戻ってきたの？",
+    "translation": "え？　あれ？　もう戻ってきたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV4_022S_0012",
+    "original": "さすがにちょっと、早過ぎない？",
+    "translation": "さすがにちょっと、早過ぎない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV4_022S_0013",
+    "original": "あ、ああ……ちょっと、肝試しを\n始める前に、用事を思い出した",
+    "translation": "あ、ああ……ちょっと、肝試しを\n始める前に、用事を思い出した",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV4_022S_0014",
+    "original": "用事？　なんの用事よ？",
+    "translation": "用事？　なんの用事よ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV4_022S_0015",
+    "original": "なぜか、早くも不機嫌モードに突入\nし始めている。……マズイな",
+    "translation": "なぜか、早くも不機嫌モードに突入\nし始めている。……マズイな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV4_022S_0016",
+    "original": "まさか、面倒になったから逃げ帰っ\nてきたんじゃないでしょうね！",
+    "translation": "まさか、面倒になったから逃げ帰っ\nてきたんじゃないでしょうね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV4_022S_0017",
+    "original": "違う。あー、違う……と思う",
+    "translation": "違う。あー、違う……と思う",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV4_022S_0018",
+    "original": "なにそのハッキリしない態度",
+    "translation": "なにそのハッキリしない態度",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV4_022S_0019",
+    "original": "ちゃんと肝試しをした証拠に踊り場\nからチェスの駒を取ってくること",
+    "translation": "ちゃんと肝試しをした証拠に踊り場\nからチェスの駒を取ってくること",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV4_022S_0020",
+    "original": "そう言っておいたわよね？",
+    "translation": "そう言っておいたわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV4_022S_0021",
+    "original": "いえ、逃げ帰ってきたわけではなく\n確認したいことがあって戻りました",
+    "translation": "いえ、逃げ帰ってきたわけではなく\n確認したいことがあって戻りました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV4_022S_0022",
+    "original": "さっと、古泉が俺とハルヒの間に\n割って入った",
+    "translation": "さっと、古泉が俺とハルヒの間に\n割って入った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV4_022S_0023",
+    "original": "……確認したいこと？",
+    "translation": "……確認したいこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV4_022S_0024",
+    "original": "ええ。ルールの確認と、それから\nちょっとした提案です",
+    "translation": "ええ。ルールの確認と、それから\nちょっとした提案です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV4_022S_0025",
+    "original": "あたしの決めたルールに不満がある\nとか、そういう話なの？",
+    "translation": "あたしの決めたルールに不満がある\nとか、そういう話なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV4_022S_0026",
+    "original": "ますます不機嫌になるハルヒ",
+    "translation": "ますます不機嫌になるハルヒ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV4_022S_0027",
+    "original": "まさか。その逆ですよ",
+    "translation": "まさか。その逆ですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV4_022S_0028",
+    "original": "せっかく、これだけ秀逸なイベント\nを用意なさったんです",
+    "translation": "せっかく、これだけ秀逸なイベント\nを用意なさったんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV4_022S_0029",
+    "original": "もう一歩、これを発展させる形で\n楽しめないか……と思いまして",
+    "translation": "もう一歩、これを発展させる形で\n楽しめないか……と思いまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV4_022S_0030",
+    "original": "この肝試しを、発展させる？",
+    "translation": "この肝試しを、発展させる？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV4_022S_0031",
+    "original": "少しだけ、ハルヒの表情が和らいだ",
+    "translation": "少しだけ、ハルヒの表情が和らいだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV4_022S_0032",
+    "original": "例えば、今のルールでは、校舎外に\n出ることも許されてますよね",
+    "translation": "例えば、今のルールでは、校舎外に\n出ることも許されてますよね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV4_022S_0033",
+    "original": "そうね。その方が盛り上がるかと\n思ったし",
+    "translation": "そうね。その方が盛り上がるかと\n思ったし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV4_022S_0034",
+    "original": "そこです。むしろ閉鎖された暗闇の\n方が、より恐怖が勝るかと",
+    "translation": "そこです。むしろ閉鎖された暗闇の\n方が、より恐怖が勝るかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV4_022S_0035",
+    "original": "……どういうこと？",
+    "translation": "……どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV4_022S_0036",
+    "original": "外に出てみてわかったのですが\n思った以上に明るいのです",
+    "translation": "外に出てみてわかったのですが\n思った以上に明るいのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV4_022S_0037",
+    "original": "まあ、月も出てるしな。いくつか\n小さな照明もついてる",
+    "translation": "まあ、月も出てるしな。いくつか\n小さな照明もついてる",
+    "speaker": "キョン"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV4_022S_0038",
+    "original": "しかし校舎内は、非常灯の明かり\n程度で、ほぼ真っ暗な状態です",
+    "translation": "しかし校舎内は、非常灯の明かり\n程度で、ほぼ真っ暗な状態です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV4_022S_0039",
+    "original": "……それで？",
+    "translation": "……それで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV4_022S_0040",
+    "original": "活動範囲を校舎内限定にした上で\nそこに脅かし役を配置する――",
+    "translation": "活動範囲を校舎内限定にした上で\nそこに脅かし役を配置する――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV4_022S_0041",
+    "original": "暗闇の中から、脅かし役が参加者を\n怖がらせるわけです",
+    "translation": "暗闇の中から、脅かし役が参加者を\n怖がらせるわけです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV4_022S_0042",
+    "original": "脅かし役……なるほど、それは\n盲点だったわ",
+    "translation": "脅かし役……なるほど、それは\n盲点だったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV4_022S_0043",
+    "original": "より盛り上がると思うのですが、\nいかがでしょうか？",
+    "translation": "より盛り上がると思うのですが、\nいかがでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV4_022S_0044",
+    "original": "いいわね、そのアイデアはなかなか\n有用だわ。さすが古泉くんね",
+    "translation": "いいわね、そのアイデアはなかなか\n有用だわ。さすが古泉くんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV4_022S_0045",
+    "original": "おそれいります",
+    "translation": "おそれいります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV4_022S_0046",
+    "original": "あっという間に、ハルヒを丸めこん\nじまったぞ、古泉のやつ",
+    "translation": "あっという間に、ハルヒを丸めこん\nじまったぞ、古泉のやつ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV4_022S_0047",
+    "original": "ここは、俺も一つくらい、新ルール\nとやらの嘘提案に乗ってみるか",
+    "translation": "ここは、俺も一つくらい、新ルール\nとやらの嘘提案に乗ってみるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV4_022S_0048",
+    "original": "俺からも提案があるんだが\nこういうのはどうだ？",
+    "translation": "俺からも提案があるんだが\nこういうのはどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV4_022S_0049",
+    "original": "取ってくる物の中に、偽物を混ぜる\nってのはどうだ？",
+    "translation": "取ってくる物の中に、偽物を混ぜる\nってのはどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV4_022S_0050",
+    "original": "偽物？　どういうこと？",
+    "translation": "偽物？　どういうこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV4_022S_0051",
+    "original": "そのままの意味だ。偽物を間違えて\n持ってきたらアウト",
+    "translation": "そのままの意味だ。偽物を間違えて\n持ってきたらアウト",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV4_022S_0052",
+    "original": "もう一度、正しいアイテムを探しに\n行かなきゃならない",
+    "translation": "もう一度、正しいアイテムを探しに\n行かなきゃならない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV4_022S_0053",
+    "original": "当たりとハズレを用意するという\nわけですか",
+    "translation": "当たりとハズレを用意するという\nわけですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV4_022S_0054",
+    "original": "そうだ。グッと緊迫感が増すと思う\nんだが……",
+    "translation": "そうだ。グッと緊迫感が増すと思う\nんだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV4_022S_0055",
+    "original": "キョンにしては、なかなか使える\nアイデアじゃない",
+    "translation": "キョンにしては、なかなか使える\nアイデアじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV4_022S_0056",
+    "original": "ハズレを引いたら罰ゲームでもいい\nわね",
+    "translation": "ハズレを引いたら罰ゲームでもいい\nわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV4_022S_0057",
+    "original": "うん。それ、採用するわ！！",
+    "translation": "うん。それ、採用するわ！！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV4_022S_0058",
+    "original": "どうやら、お気に召したようだ",
+    "translation": "どうやら、お気に召したようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV4_022S_0059",
+    "original": "賞品を用意するのは、どうだ？",
+    "translation": "賞品を用意するのは、どうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV4_022S_0060",
+    "original": "タイムを計って、一番早く行って\nきた人物に、金一封とかな",
+    "translation": "タイムを計って、一番早く行って\nきた人物に、金一封とかな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV4_022S_0061",
+    "original": "……夏の風物詩に、野暮な欲望を\n混ぜ込もうとしないで欲しいわ",
+    "translation": "……夏の風物詩に、野暮な欲望を\n混ぜ込もうとしないで欲しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV4_022S_0062",
+    "original": "目標があった方が盛り上がるだろ",
+    "translation": "目標があった方が盛り上がるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV4_022S_0063",
+    "original": "それにしたって、金一封ってことは\nないでしょ",
+    "translation": "それにしたって、金一封ってことは\nないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV4_022S_0064",
+    "original": "なんでもかんでも金銭を絡めるのは\n悪い政治家のやり口みたいよ",
+    "translation": "なんでもかんでも金銭を絡めるのは\n悪い政治家のやり口みたいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV4_022S_0065",
+    "original": "そりゃ悪かったな",
+    "translation": "そりゃ悪かったな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV4_022S_0066",
+    "original": "金一封はともかく、アイデア自体は\n素晴らしいと思います",
+    "translation": "金一封はともかく、アイデア自体は\n素晴らしいと思います",
+    "speaker": "古泉"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV4_022S_0067",
+    "original": "確かに、目標があった方が盛り上が\nるのではないでしょうか",
+    "translation": "確かに、目標があった方が盛り上が\nるのではないでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV4_022S_0068",
+    "original": "まさか古泉に助け舟を出されるとは",
+    "translation": "まさか古泉に助け舟を出されるとは",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV4_022S_0069",
+    "original": "例えば？　古泉くんなら、どんな\n賞品が欲しいと思う？",
+    "translation": "例えば？　古泉くんなら、どんな\n賞品が欲しいと思う？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV4_022S_0070",
+    "original": "そうですね、僕なら……",
+    "translation": "そうですね、僕なら……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV4_022S_0071",
+    "original": "全員、僕とテーブルゲームをしなく\nてはならない日を作って頂こうかと",
+    "translation": "全員、僕とテーブルゲームをしなく\nてはならない日を作って頂こうかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV4_022S_0072",
+    "original": "オセロ、チェス、カードゲームでも\n構いませんが",
+    "translation": "オセロ、チェス、カードゲームでも\n構いませんが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV4_022S_0073",
+    "original": "そういう形なら、実現できそうね\nそれに夢があるわ",
+    "translation": "そういう形なら、実現できそうね\nそれに夢があるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV4_022S_0074",
+    "original": "金一封、なんかと違ってね",
+    "translation": "金一封、なんかと違ってね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV4_022S_0075",
+    "original": "悪かったな、即物的で",
+    "translation": "悪かったな、即物的で",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV4_022S_0076",
+    "original": "更にスリリングにするために、制限\n時間を設けてはいかがでしょう？",
+    "translation": "更にスリリングにするために、制限\n時間を設けてはいかがでしょう？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV4_022S_0077",
+    "original": "なるほど、それもいいかもね",
+    "translation": "なるほど、それもいいかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV4_022S_0078",
+    "original": "やはり、ゲームを盛り上げるには\n制限やペナルティが必須かと",
+    "translation": "やはり、ゲームを盛り上げるには\n制限やペナルティが必須かと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV4_022S_0079",
+    "original": "あのな、既にこの肝試し自体が、罰\nゲームみたいなものなんだぞ",
+    "translation": "あのな、既にこの肝試し自体が、罰\nゲームみたいなものなんだぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV4_022S_0080",
+    "original": "話を聞いてると、確かに、まだまだ\n面白く出来そうな気がしてきたわ",
+    "translation": "話を聞いてると、確かに、まだまだ\n面白く出来そうな気がしてきたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV4_022S_0081",
+    "original": "でも、今からルールを仕切り直して\n再開するには、時間が足りないわね",
+    "translation": "でも、今からルールを仕切り直して\n再開するには、時間が足りないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV4_022S_0082",
+    "original": "人数も足りないと思うぞ。脅かし役\nは参加者の他に必要だからな",
+    "translation": "人数も足りないと思うぞ。脅かし役\nは参加者の他に必要だからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV4_022S_0083",
+    "original": "残念だわ。せっかく良いアイデアが\nたくさん出たのに",
+    "translation": "残念だわ。せっかく良いアイデアが\nたくさん出たのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV4_022S_0084",
+    "original": "なにも、急いで実行に移す必要は\nありませんよ",
+    "translation": "なにも、急いで実行に移す必要は\nありませんよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV4_022S_0085",
+    "original": "そうね。今日で夏が終わるってワケ\nじゃないし",
+    "translation": "そうね。今日で夏が終わるってワケ\nじゃないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV4_022S_0086",
+    "original": "古泉くんとキョンのアイデアは、次\nの肝試し大会で採用しましょう！",
+    "translation": "古泉くんとキョンのアイデアは、次\nの肝試し大会で採用しましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV4_022S_0087",
+    "original": "すっかり上機嫌になったハルヒが\nさらりと恐ろしいことを言った",
+    "translation": "すっかり上機嫌になったハルヒが\nさらりと恐ろしいことを言った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV4_022S_0088",
+    "original": "次があるのか。勘弁してくれ……",
+    "translation": "次があるのか。勘弁してくれ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV4_022S_0089",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 90,
+    "key": "evt_EV4_022S_0090",
+    "original": "[#P06]……どうやら、上手くまとまった\nようですね[#P00]",
+    "translation": "[#P06]……どうやら、上手くまとまった\nようですね[#P00]",
+    "speaker": "古泉"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV4_022S_0091",
+    "original": "ハルヒに聞こえない程度の小声で\n古泉がささやいてきた",
+    "translation": "ハルヒに聞こえない程度の小声で\n古泉がささやいてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV4_022S_0092",
+    "original": "あの状況下で、あれだけ流暢なウソ\nをつけたのは、大したもんだ",
+    "translation": "あの状況下で、あれだけ流暢なウソ\nをつけたのは、大したもんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV4_022S_0093",
+    "original": "はは、褒めて頂いていると思うこと\nにしましょう",
+    "translation": "はは、褒めて頂いていると思うこと\nにしましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV4_022S_0094",
+    "original": "褒めてるさ。実際、ハルヒの足止め\nにも成功したんだからな",
+    "translation": "褒めてるさ。実際、ハルヒの足止め\nにも成功したんだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV4_022S_0095",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 96,
+    "key": "evt_EV4_022S_0096",
+    "original": "だが、予定外にも次の肝試しなどと\nいう荷物まで背負い込んじまったぞ",
+    "translation": "だが、予定外にも次の肝試しなどと\nいう荷物まで背負い込んじまったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV4_022S_0097",
+    "original": "この場を切り抜けるには、やむをえ\nない手段だったんです",
+    "translation": "この場を切り抜けるには、やむをえ\nない手段だったんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV4_022S_0098",
+    "original": "一難さって、また一難か……未来の\n自分に借金したような気分だ",
+    "translation": "一難さって、また一難か……未来の\n自分に借金したような気分だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV4_022S_0099",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 100,
+    "key": "evt_EV4_022S_0100",
+    "original": "しかし、これでずいぶん時間は\n稼ぐことができた",
+    "translation": "しかし、これでずいぶん時間は\n稼ぐことができた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV4_022S_0101",
+    "original": "あとは長門と朝比奈さんが首尾良く\nコンピ研を捕らえてくれれば……",
+    "translation": "あとは長門と朝比奈さんが首尾良く\nコンピ研を捕らえてくれれば……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV4_022S_0102",
+    "original": "さて、次回への教訓も得たところで\n２人とも、何か忘れてないかしら？",
+    "translation": "さて、次回への教訓も得たところで\n２人とも、何か忘れてないかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV4_022S_0103",
+    "original": "なんだ？",
+    "translation": "なんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV4_022S_0104",
+    "original": "まだ今回の肝試しが終わってないで\nしょーが！",
+    "translation": "まだ今回の肝試しが終わってないで\nしょーが！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV4_022S_0105",
+    "original": "うっ……",
+    "translation": "うっ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV4_022S_0106",
+    "original": "そういえば、そうでした",
+    "translation": "そういえば、そうでした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV4_022S_0107",
+    "original": "いいからさっさと行って来なさい！",
+    "translation": "いいからさっさと行って来なさい！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV4_022S_0108",
+    "original": "こうして、俺たちは都合よく部室を\n追い出されたのだった",
+    "translation": "こうして、俺たちは都合よく部室を\n追い出されたのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV4_022S_0109",
+    "original": "偽物を混ぜる",
+    "translation": "偽物を混ぜる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV4_022S_0110",
+    "original": "賞品を用意する",
+    "translation": "賞品を用意する",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV4_022S_0111",
+    "original": "古泉を称える",
+    "translation": "古泉を称える",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV4_022S_0112",
+    "original": "皮肉を返す",
+    "translation": "皮肉を返す",
+    "speaker": "CHOICE"
+  }
+]

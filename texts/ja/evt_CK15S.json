@@ -1,0 +1,352 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK15S_0000",
+    "original": "おい、ハルヒ。おまえから古泉に\n言ってやってくれ",
+    "translation": "おい、ハルヒ。おまえから古泉に\n言ってやってくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK15S_0001",
+    "original": "古泉くんに？　なにを？",
+    "translation": "古泉くんに？　なにを？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK15S_0002",
+    "original": "その張り付いたような笑顔をなんと\nかしろと。うさんくさいぞ",
+    "translation": "その張り付いたような笑顔をなんと\nかしろと。うさんくさいぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK15S_0003",
+    "original": "……バカじゃないの？",
+    "translation": "……バカじゃないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK15S_0004",
+    "original": "俺は真面目に言ってるつもりだぞ",
+    "translation": "俺は真面目に言ってるつもりだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK15S_0005",
+    "original": "別に古泉くんだって、一日中笑顔で\nいるわけじゃないでしょーが",
+    "translation": "別に古泉くんだって、一日中笑顔で\nいるわけじゃないでしょーが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK15S_0006",
+    "original": "そうか？　俺には笑顔型の面でも\nつけてるかのように見えるんだが",
+    "translation": "そうか？　俺には笑顔型の面でも\nつけてるかのように見えるんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK15S_0007",
+    "original": "そんな人がいるわけないじゃない",
+    "translation": "そんな人がいるわけないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK15S_0008",
+    "original": "バカなこと言ってないで、先に進む\nわよ、急いでるんだから！",
+    "translation": "バカなこと言ってないで、先に進む\nわよ、急いでるんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK15S_0009",
+    "original": "……ハルヒの古泉に対する信頼度は\n高いらしいな、さすがだ",
+    "translation": "……ハルヒの古泉に対する信頼度は\n高いらしいな、さすがだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK15S_0010",
+    "original": "涼宮さん、古泉くんの怒った顔って\n見たことありますか？",
+    "translation": "涼宮さん、古泉くんの怒った顔って\n見たことありますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK15S_0011",
+    "original": "古泉くんの怒った顔？　ないけど",
+    "translation": "古泉くんの怒った顔？　ないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK15S_0012",
+    "original": "いつも笑顔で、ニコニコしてるから\n見たことないんですよね……",
+    "translation": "いつも笑顔で、ニコニコしてるから\n見たことないんですよね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK15S_0013",
+    "original": "それが、どうかしたの？",
+    "translation": "それが、どうかしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK15S_0014",
+    "original": "いつもあんなに笑顔で、疲れないの\nかなあって、そう思って",
+    "translation": "いつもあんなに笑顔で、疲れないの\nかなあって、そう思って",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK15S_0015",
+    "original": "疲れてたら、疲れてるような顔に\nなるでしょ。なに言ってるの",
+    "translation": "疲れてたら、疲れてるような顔に\nなるでしょ。なに言ってるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK15S_0016",
+    "original": "キョンなんか、いつも疲れきった顔\nで文句ばっかり言ってるじゃない",
+    "translation": "キョンなんか、いつも疲れきった顔\nで文句ばっかり言ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK15S_0017",
+    "original": "キョンくんは、時々、笑ったりもし\nてますけど……",
+    "translation": "キョンくんは、時々、笑ったりもし\nてますけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK15S_0018",
+    "original": "苦笑いってやつね、あんなの笑顔の\nうちには入らないわ",
+    "translation": "苦笑いってやつね、あんなの笑顔の\nうちには入らないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK15S_0019",
+    "original": "みくるちゃん、しっかり観察眼を\n養わなきゃダメよ",
+    "translation": "みくるちゃん、しっかり観察眼を\n養わなきゃダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK15S_0020",
+    "original": "は、はぁい……",
+    "translation": "は、はぁい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK15S_0021",
+    "original": "スマイル……",
+    "translation": "スマイル……",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK15S_0022",
+    "original": "え？　今、なにか言った？",
+    "translation": "え？　今、なにか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK15S_0023",
+    "original": "わたしにはスマイルが足りない",
+    "translation": "わたしにはスマイルが足りない",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK15S_0024",
+    "original": "スマイルって、笑顔のこと？",
+    "translation": "スマイルって、笑顔のこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK15S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK15S_0026",
+    "original": "どうしちゃったの有希、突然そんな\nこと言い出して",
+    "translation": "どうしちゃったの有希、突然そんな\nこと言い出して",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK15S_0027",
+    "original": "古泉一樹",
+    "translation": "古泉一樹",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK15S_0028",
+    "original": "常時、笑顔を絶やさず生活している",
+    "translation": "常時、笑顔を絶やさず生活している",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK15S_0029",
+    "original": "古泉くんと自分を比べて、笑顔が\n足りないなぁ……って思ったの？",
+    "translation": "古泉くんと自分を比べて、笑顔が\n足りないなぁ……って思ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK15S_0030",
+    "original": "わからない\nでも、そうなのかも知れない",
+    "translation": "わからない\nでも、そうなのかも知れない",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK15S_0031",
+    "original": "そんなの気にすることないわ、有希\nそれが有希のキャラなんだから！",
+    "translation": "そんなの気にすることないわ、有希\nそれが有希のキャラなんだから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK15S_0032",
+    "original": "わたしのキャラ",
+    "translation": "わたしのキャラ",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK15S_0033",
+    "original": "そう、有希のキャラは無口で\n無表情でクール",
+    "translation": "そう、有希のキャラは無口で\n無表情でクール",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK15S_0034",
+    "original": "無理して笑っても、意味ないわよ",
+    "translation": "無理して笑っても、意味ないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK15S_0035",
+    "original": "そう？",
+    "translation": "そう？",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK15S_0036",
+    "original": "気にしない気にしない。ほら、先を\n急ぐわよ。ピアノが逃げちゃう",
+    "translation": "気にしない気にしない。ほら、先を\n急ぐわよ。ピアノが逃げちゃう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK15S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK15S_0038",
+    "original": "そういえば、つい先程のことですが",
+    "translation": "そういえば、つい先程のことですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK15S_0039",
+    "original": "僕の顔について、貴重な意見を頂き\nまして……",
+    "translation": "僕の顔について、貴重な意見を頂き\nまして……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK15S_0040",
+    "original": "古泉くんの顔？",
+    "translation": "古泉くんの顔？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK15S_0041",
+    "original": "ええ。その方がおっしゃるには、僕\nは四六時中笑顔で、不気味だとか",
+    "translation": "ええ。その方がおっしゃるには、僕\nは四六時中笑顔で、不気味だとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK15S_0042",
+    "original": "キョンね、そんな失礼なことを言う\nのは。キョンしか考えられないわ",
+    "translation": "キョンね、そんな失礼なことを言う\nのは。キョンしか考えられないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK15S_0043",
+    "original": "ご明察、恐れ入ります",
+    "translation": "ご明察、恐れ入ります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK15S_0044",
+    "original": "気にしちゃダメよ、キョンだって\nいつも仏頂面だし",
+    "translation": "気にしちゃダメよ、キョンだって\nいつも仏頂面だし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK15S_0045",
+    "original": "たまに笑ったかと思ったら、苦笑い\nばっかりだもの",
+    "translation": "たまに笑ったかと思ったら、苦笑い\nばっかりだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK15S_0046",
+    "original": "有希だって、表情豊かとは言えない\nわけだし、気にすることないわ",
+    "translation": "有希だって、表情豊かとは言えない\nわけだし、気にすることないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK15S_0047",
+    "original": "ありがとうございます",
+    "translation": "ありがとうございます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK15S_0048",
+    "original": "……ま、確かに一度くらいは、古泉\nくんの怒った顔も見たいけどね",
+    "translation": "……ま、確かに一度くらいは、古泉\nくんの怒った顔も見たいけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK15S_0049",
+    "original": "機会があれば、ぜひ",
+    "translation": "機会があれば、ぜひ",
+    "speaker": "古泉"
+  }
+]

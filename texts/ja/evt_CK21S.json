@@ -1,0 +1,429 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK21S_0000",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK21S_0001",
+    "original": "そんなに怪奇現象の謎解きがしたい\nなら、古泉に任せたらどうだ？",
+    "translation": "そんなに怪奇現象の謎解きがしたい\nなら、古泉に任せたらどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK21S_0002",
+    "original": "どうしてココで、古泉くんの名前が\n出るのよ？",
+    "translation": "どうしてココで、古泉くんの名前が\n出るのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK21S_0003",
+    "original": "あいつ、見かけによらず推理マニア\nだからな。喜んで協力してくれるぞ",
+    "translation": "あいつ、見かけによらず推理マニア\nだからな。喜んで協力してくれるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK21S_0004",
+    "original": "見かけによるじゃない。古泉くんは\nそういうの得意そうだわ",
+    "translation": "見かけによるじゃない。古泉くんは\nそういうの得意そうだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK21S_0005",
+    "original": "どこかの誰かさんとは違ってね",
+    "translation": "どこかの誰かさんとは違ってね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK21S_0006",
+    "original": "ご察しの通り、俺は推理なんてのは\n苦手中の苦手でね",
+    "translation": "ご察しの通り、俺は推理なんてのは\n苦手中の苦手でね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK21S_0007",
+    "original": "面倒なことは、出来るやつに任せた\n方が早い。効率的だと思うぞ",
+    "translation": "面倒なことは、出来るやつに任せた\n方が早い。効率的だと思うぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK21S_0008",
+    "original": "ただの怠けグセでしょーが",
+    "translation": "ただの怠けグセでしょーが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK21S_0009",
+    "original": "バカなこと言ってないで、早く\n音楽室に行くわよ！",
+    "translation": "バカなこと言ってないで、早く\n音楽室に行くわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK21S_0010",
+    "original": "へいへい、仰せのままに団長どの",
+    "translation": "へいへい、仰せのままに団長どの",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK21S_0011",
+    "original": "あの、涼宮さんって、推理が上手\nですよね？",
+    "translation": "あの、涼宮さんって、推理が上手\nですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK21S_0012",
+    "original": "あたしが推理上手？　どうして？",
+    "translation": "あたしが推理上手？　どうして？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK21S_0013",
+    "original": "だって、人喰い教室の件も、涼宮\nさんの推理で解決したし……",
+    "translation": "だって、人喰い教室の件も、涼宮\nさんの推理で解決したし……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK21S_0014",
+    "original": "ま、上手ってほどじゃないけど\n得意な方ではあるわね",
+    "translation": "ま、上手ってほどじゃないけど\n得意な方ではあるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK21S_0015",
+    "original": "実は、古泉くんも推理が上手だって\nキョンくんが言ってました",
+    "translation": "実は、古泉くんも推理が上手だって\nキョンくんが言ってました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK21S_0016",
+    "original": "古泉くんは、この前も\n面白いシナリオ考えてくれたでしょ",
+    "translation": "古泉くんは、この前も\n面白いシナリオ考えてくれたでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK21S_0017",
+    "original": "あんな仕掛けを考えるくらいだし\n相当な推理マニアと見たわ",
+    "translation": "あんな仕掛けを考えるくらいだし\n相当な推理マニアと見たわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK21S_0018",
+    "original": "ＳＯＳ団には、二人の名探偵が\nいることになりますね～",
+    "translation": "ＳＯＳ団には、二人の名探偵が\nいることになりますね～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK21S_0019",
+    "original": "違うわ、みくるちゃん",
+    "translation": "違うわ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK21S_0020",
+    "original": "あたしは、言わば名探偵をはるかに\n越えた超探偵だもの",
+    "translation": "あたしは、言わば名探偵をはるかに\n越えた超探偵だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK21S_0021",
+    "original": "古泉くんは、名探偵かもしれない\nけど",
+    "translation": "古泉くんは、名探偵かもしれない\nけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK21S_0022",
+    "original": "でも、推理で謎を解き明かすよりも\n本当の怪奇現象に出会いたいわね",
+    "translation": "でも、推理で謎を解き明かすよりも\n本当の怪奇現象に出会いたいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK21S_0023",
+    "original": "そ、そうですね……",
+    "translation": "そ、そうですね……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK21S_0024",
+    "original": "今度こそ期待してるわ。待ってなさ\nい、音楽室！",
+    "translation": "今度こそ期待してるわ。待ってなさ\nい、音楽室！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK21S_0025",
+    "original": "あーもうっ、音楽室って遠いわね！\nもっと近くに作りなさいよ、ったく",
+    "translation": "あーもうっ、音楽室って遠いわね！\nもっと近くに作りなさいよ、ったく",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK21S_0026",
+    "original": "……急用？",
+    "translation": "……急用？",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK21S_0027",
+    "original": "急用って、決まってるじゃない\n怪奇現象を見逃さないためでしょ",
+    "translation": "急用って、決まってるじゃない\n怪奇現象を見逃さないためでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK21S_0028",
+    "original": "またイタズラである可能性も否定\nできない",
+    "translation": "またイタズラである可能性も否定\nできない",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK21S_0029",
+    "original": "事実、古泉一樹の推理では今回も\n何者かのイタズラが疑われている",
+    "translation": "事実、古泉一樹の推理では今回も\n何者かのイタズラが疑われている",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK21S_0030",
+    "original": "へえ、古泉くんはそんな風に推理し\nてるのね。面白いじゃない",
+    "translation": "へえ、古泉くんはそんな風に推理し\nてるのね。面白いじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK21S_0031",
+    "original": "あたしもバカじゃないわ。その可能\n性も考えてるけど……",
+    "translation": "あたしもバカじゃないわ。その可能\n性も考えてるけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK21S_0032",
+    "original": "でも、実際に怪奇現象だった方が\n何万倍も面白いじゃない。でしょ？",
+    "translation": "でも、実際に怪奇現象だった方が\n何万倍も面白いじゃない。でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK21S_0033",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK21S_0034",
+    "original": "有希には分からないかしらね",
+    "translation": "有希には分からないかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK21S_0035",
+    "original": "まあいいわ、とにかく現場の確保と\n再調査が優先事項よ",
+    "translation": "まあいいわ、とにかく現場の確保と\n再調査が優先事項よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK21S_0036",
+    "original": "どっちに転んでも、楽しむのが\nＳＯＳ団なんだから",
+    "translation": "どっちに転んでも、楽しむのが\nＳＯＳ団なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK21S_0037",
+    "original": "どうやら、涼宮さんも僕と同じタイ\nプのようですね",
+    "translation": "どうやら、涼宮さんも僕と同じタイ\nプのようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK21S_0038",
+    "original": "同じタイプ？　いきなり、なに？",
+    "translation": "同じタイプ？　いきなり、なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK21S_0039",
+    "original": "実は、アレコレと物事を推理して\n謎を追及するのが好きなんです",
+    "translation": "実は、アレコレと物事を推理して\n謎を追及するのが好きなんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK21S_0040",
+    "original": "ああ！　そういうことね！",
+    "translation": "ああ！　そういうことね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK21S_0041",
+    "original": "あたしも当然、そういうのは好きよ",
+    "translation": "あたしも当然、そういうのは好きよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK21S_0042",
+    "original": "しかし驚きました。例の人喰い教室\nの一件では、見事な推理でしたね",
+    "translation": "しかし驚きました。例の人喰い教室\nの一件では、見事な推理でしたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK21S_0043",
+    "original": "まあ当然の結果ね。あれだけ証拠が\nそろっていたもの",
+    "translation": "まあ当然の結果ね。あれだけ証拠が\nそろっていたもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK21S_0044",
+    "original": "あたしとしては、楽勝だったわ",
+    "translation": "あたしとしては、楽勝だったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK21S_0045",
+    "original": "怪奇現象じゃなかったことだけは\n残念だったけど……",
+    "translation": "怪奇現象じゃなかったことだけは\n残念だったけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK21S_0046",
+    "original": "もしかすると、今回のピアノ騒動も\n怪奇現象ではないかもしれませんね",
+    "translation": "もしかすると、今回のピアノ騒動も\n怪奇現象ではないかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK21S_0047",
+    "original": "だとしたら、また、あたしの名推理\nで謎を解き明かして見せるわ",
+    "translation": "だとしたら、また、あたしの名推理\nで謎を解き明かして見せるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK21S_0048",
+    "original": "古泉くんも、もう色々と推理を始め\nてるんでしょ？",
+    "translation": "古泉くんも、もう色々と推理を始め\nてるんでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK21S_0049",
+    "original": "ええ、ひそかに。今度は涼宮さん\nよりも早く、披露したいものです",
+    "translation": "ええ、ひそかに。今度は涼宮さん\nよりも早く、披露したいものです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK21S_0050",
+    "original": "ふっふーん、そうはいかないわ",
+    "translation": "ふっふーん、そうはいかないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK21S_0051",
+    "original": "ま、とにかく今は、くだらない\nイタズラじゃなくて……",
+    "translation": "ま、とにかく今は、くだらない\nイタズラじゃなくて……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK21S_0052",
+    "original": "本当の怪奇現象であって欲しい\nわね。そのための合宿なんだし",
+    "translation": "本当の怪奇現象であって欲しい\nわね。そのための合宿なんだし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK21S_0053",
+    "original": "そうですね……",
+    "translation": "そうですね……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK21S_0054",
+    "original": "古泉くんとしては、イタズラ説に\n傾いてるわけ？",
+    "translation": "古泉くんとしては、イタズラ説に\n傾いてるわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK21S_0055",
+    "original": "おっと、その手には乗りません\nライバルに情報は与えませんよ",
+    "translation": "おっと、その手には乗りません\nライバルに情報は与えませんよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK21S_0056",
+    "original": "なかなか手厳しいわね。面白く\nなってきたわ！",
+    "translation": "なかなか手厳しいわね。面白く\nなってきたわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK21S_0057",
+    "original": "どっちにしても、現場は音楽室だわ\n急いで行きましょう！",
+    "translation": "どっちにしても、現場は音楽室だわ\n急いで行きましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK21S_0058",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CK21S_0059",
+    "original": "……涼宮さん、申し訳ありませんが\n怪奇現象では、困るんですよ",
+    "translation": "……涼宮さん、申し訳ありませんが\n怪奇現象では、困るんですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CK21S_0060",
+    "original": "世界が壊れてしまいますから",
+    "translation": "世界が壊れてしまいますから",
+    "speaker": "古泉"
+  }
+]

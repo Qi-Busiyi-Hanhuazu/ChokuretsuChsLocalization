@@ -1,0 +1,352 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK18S_0000",
+    "original": "おい、ハルヒ。疲れているときは\n糖分をとると良いらしいな",
+    "translation": "おい、ハルヒ。疲れているときは\n糖分をとると良いらしいな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK18S_0001",
+    "original": "またいきなり……何の話よ？",
+    "translation": "またいきなり……何の話よ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK18S_0002",
+    "original": "古泉が、そういって俺にアメ玉を\nくれたんだ。常備しているらしいな",
+    "translation": "古泉が、そういって俺にアメ玉を\nくれたんだ。常備しているらしいな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK18S_0003",
+    "original": "へえ？　古泉くんって、そんなもの\n持ち歩いてたのね。知らなかったわ",
+    "translation": "へえ？　古泉くんって、そんなもの\n持ち歩いてたのね。知らなかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK18S_0004",
+    "original": "で、ココにそのアメ玉があるんだが",
+    "translation": "で、ココにそのアメ玉があるんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK18S_0005",
+    "original": "欲しかったら、やるぞ",
+    "translation": "欲しかったら、やるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK18S_0006",
+    "original": "別に疲れてないし、欲しくないわよ",
+    "translation": "別に疲れてないし、欲しくないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK18S_0007",
+    "original": "そんなこと言って、ちょっとでも\n休憩しようとしてるんでしょ",
+    "translation": "そんなこと言って、ちょっとでも\n休憩しようとしてるんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK18S_0008",
+    "original": "……俺は疲れてるからな",
+    "translation": "……俺は疲れてるからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK18S_0009",
+    "original": "じゃあキョン、あんたが食べなさい\nその古泉くんにもらったアメ玉",
+    "translation": "じゃあキョン、あんたが食べなさい\nその古泉くんにもらったアメ玉",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK18S_0010",
+    "original": "ただし、歩きながら食べること",
+    "translation": "ただし、歩きながら食べること",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK18S_0011",
+    "original": "いや、俺も今は遠慮しておこう",
+    "translation": "いや、俺も今は遠慮しておこう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK18S_0012",
+    "original": "そ、そうだ。涼宮さん、アメでも\n食べませんかぁ？",
+    "translation": "そ、そうだ。涼宮さん、アメでも\n食べませんかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK18S_0013",
+    "original": "アメ？　アメって、アメ玉のこと？",
+    "translation": "アメ？　アメって、アメ玉のこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK18S_0014",
+    "original": "はい。古泉くんにもらったんです",
+    "translation": "はい。古泉くんにもらったんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK18S_0015",
+    "original": "正確に言うと、古泉くんにもらった\nキョンくんから、もらいました",
+    "translation": "正確に言うと、古泉くんにもらった\nキョンくんから、もらいました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK18S_0016",
+    "original": "なにそれ。キョンのやつ、人から\nもらった物を横流ししたの？",
+    "translation": "なにそれ。キョンのやつ、人から\nもらった物を横流ししたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK18S_0017",
+    "original": "よ、横流しとは少し違うと思います\nけど……",
+    "translation": "よ、横流しとは少し違うと思います\nけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK18S_0018",
+    "original": "アメ玉ねえ……まあ、今は遠慮して\nおくわ",
+    "translation": "アメ玉ねえ……まあ、今は遠慮して\nおくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK18S_0019",
+    "original": "この後、お昼ご飯も食べなくちゃ\nいけないし",
+    "translation": "この後、お昼ご飯も食べなくちゃ\nいけないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK18S_0020",
+    "original": "そうですかぁ……",
+    "translation": "そうですかぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK18S_0021",
+    "original": "それより、みくるちゃん。もっと\nペース上げて走らなきゃ！",
+    "translation": "それより、みくるちゃん。もっと\nペース上げて走らなきゃ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK18S_0022",
+    "original": "は、走るんですかぁ？",
+    "translation": "は、走るんですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK18S_0023",
+    "original": "早歩きでもいいけど、急ぐわよ！",
+    "translation": "早歩きでもいいけど、急ぐわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK18S_0024",
+    "original": "は、はぁぁい……",
+    "translation": "は、はぁぁい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK18S_0025",
+    "original": "これ、食べて",
+    "translation": "これ、食べて",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK18S_0026",
+    "original": "え、なに？　突然どうしたの？\nこれって……アメ玉？",
+    "translation": "え、なに？　突然どうしたの？\nこれって……アメ玉？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK18S_0027",
+    "original": "糖分を補給。脳神経、シナプス活動\nはエネルギーを大量に消費する",
+    "translation": "糖分を補給。脳神経、シナプス活動\nはエネルギーを大量に消費する",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK18S_0028",
+    "original": "食べて",
+    "translation": "食べて",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK18S_0029",
+    "original": "有希が持ってきたの？　これ",
+    "translation": "有希が持ってきたの？　これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK18S_0030",
+    "original": "わたしじゃない",
+    "translation": "わたしじゃない",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK18S_0031",
+    "original": "所持していたのは、古泉一樹",
+    "translation": "所持していたのは、古泉一樹",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK18S_0032",
+    "original": "へえ、古泉くんが……人は見かけに\nよらないわね",
+    "translation": "へえ、古泉くんが……人は見かけに\nよらないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK18S_0033",
+    "original": "でも、今はいいわ。それは有希が\n食べちゃいなさい",
+    "translation": "でも、今はいいわ。それは有希が\n食べちゃいなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK18S_0034",
+    "original": "わたしはいい",
+    "translation": "わたしはいい",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK18S_0035",
+    "original": "そう？　じゃあもらっておくわ\n後で食べるから",
+    "translation": "そう？　じゃあもらっておくわ\n後で食べるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK18S_0036",
+    "original": "今はそれより、音楽室よ！",
+    "translation": "今はそれより、音楽室よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK18S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK18S_0038",
+    "original": "涼宮さん、少しお疲れではありませ\nんか？　調査に続く調査で……",
+    "translation": "涼宮さん、少しお疲れではありませ\nんか？　調査に続く調査で……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK18S_0039",
+    "original": "ううん、別に疲れてはいないけど",
+    "translation": "ううん、別に疲れてはいないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK18S_0040",
+    "original": "そうですか。もしお疲れでしたら\nこれを差し上げようと思いまして",
+    "translation": "そうですか。もしお疲れでしたら\nこれを差し上げようと思いまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK18S_0041",
+    "original": "なにそれ？　アメ玉？",
+    "translation": "なにそれ？　アメ玉？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK18S_0042",
+    "original": "ええ。疲れているとき……特に頭脳\n労働には糖分が一番です",
+    "translation": "ええ。疲れているとき……特に頭脳\n労働には糖分が一番です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK18S_0043",
+    "original": "推理一つとっても、脳内では活発に\n神経細胞が動いてますからね",
+    "translation": "推理一つとっても、脳内では活発に\n神経細胞が動いてますからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK18S_0044",
+    "original": "気持ちだけで十分だわ。あたしの脳\nは、ヤワには出来てないから",
+    "translation": "気持ちだけで十分だわ。あたしの脳\nは、ヤワには出来てないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK18S_0045",
+    "original": "おみそれいたしました",
+    "translation": "おみそれいたしました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK18S_0046",
+    "original": "でも古泉くん、そんなモノずっと\n持ち歩いてるの？",
+    "translation": "でも古泉くん、そんなモノずっと\n持ち歩いてるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK18S_0047",
+    "original": "いえ、たまたまですよ",
+    "translation": "いえ、たまたまですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK18S_0048",
+    "original": "キョンの妹ちゃんにあげたら、喜ぶ\nかもしれないわ",
+    "translation": "キョンの妹ちゃんにあげたら、喜ぶ\nかもしれないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK18S_0049",
+    "original": "そうしましょう",
+    "translation": "そうしましょう",
+    "speaker": "古泉"
+  }
+]

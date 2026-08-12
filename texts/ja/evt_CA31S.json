@@ -1,0 +1,198 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA31S_0000",
+    "original": "おい、買い出しは本当に大変だった\nんだぞ",
+    "translation": "おい、買い出しは本当に大変だった\nんだぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA31S_0001",
+    "original": "朝比奈さんが頑張ってくれたおかげ\nで、ツケにしてもらったんだからな",
+    "translation": "朝比奈さんが頑張ってくれたおかげ\nで、ツケにしてもらったんだからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA31S_0002",
+    "original": "最初から、財布を忘れなければ何も\n問題なんか起きなかったでしょ",
+    "translation": "最初から、財布を忘れなければ何も\n問題なんか起きなかったでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA31S_0003",
+    "original": "まあ、そりゃそうだが",
+    "translation": "まあ、そりゃそうだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA31S_0004",
+    "original": "けどな、お前が商店街に行って\nツケで買い物しようとしても",
+    "translation": "けどな、お前が商店街に行って\nツケで買い物しようとしても",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA31S_0005",
+    "original": "多分無理だ。ツケにできたのは\n朝比奈さんのお手柄だ",
+    "translation": "多分無理だ。ツケにできたのは\n朝比奈さんのお手柄だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA31S_0006",
+    "original": "ツケで買い物するくらいなら、全部\nキョンにおごらせるわ",
+    "translation": "ツケで買い物するくらいなら、全部\nキョンにおごらせるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA31S_0007",
+    "original": "……それは勘弁してくれ",
+    "translation": "……それは勘弁してくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA31S_0008",
+    "original": "買出しのとき、お財布を忘れて\nすごく困ってたときに……",
+    "translation": "買出しのとき、お財布を忘れて\nすごく困ってたときに……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA31S_0009",
+    "original": "キョンくんが、励ましてくれたん\nです。頑張ろうって",
+    "translation": "キョンくんが、励ましてくれたん\nです。頑張ろうって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA31S_0010",
+    "original": "またアバウトな励まし方ね……",
+    "translation": "またアバウトな励まし方ね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA31S_0011",
+    "original": "そういう時は、具体的な解決策を\n提示しなきゃ。ただ無責任なだけよ",
+    "translation": "そういう時は、具体的な解決策を\n提示しなきゃ。ただ無責任なだけよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA31S_0012",
+    "original": "で、でも、元気が出ましたから",
+    "translation": "で、でも、元気が出ましたから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA31S_0013",
+    "original": "みくるちゃん、そうやってキョンを\n甘やかしちゃダメよ。まったくもう",
+    "translation": "みくるちゃん、そうやってキョンを\n甘やかしちゃダメよ。まったくもう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA31S_0014",
+    "original": "え、ええとぉ……",
+    "translation": "え、ええとぉ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA31S_0015",
+    "original": "朝比奈みくるは、頑張っている",
+    "translation": "朝比奈みくるは、頑張っている",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA31S_0016",
+    "original": "へ？　なに？　みくるちゃんが\nどうかした？",
+    "translation": "へ？　なに？　みくるちゃんが\nどうかした？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA31S_0017",
+    "original": "朝比奈みくるに対する総合評価",
+    "translation": "朝比奈みくるに対する総合評価",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA31S_0018",
+    "original": "そうね……うん、今回の合宿は割と\n頑張ってる方じゃないかしら",
+    "translation": "そうね……うん、今回の合宿は割と\n頑張ってる方じゃないかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA31S_0019",
+    "original": "あれだけ怖がってるのに、ちゃんと\n逃げ出さずについてきてるものね",
+    "translation": "あれだけ怖がってるのに、ちゃんと\n逃げ出さずについてきてるものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA31S_0020",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA31S_0021",
+    "original": "安心して、有希もちゃんと頑張って\nるわよ",
+    "translation": "安心して、有希もちゃんと頑張って\nるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA31S_0022",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA31S_0023",
+    "original": "夕食の買出しですが……朝比奈さん\nが財布をお忘れになったそうですね",
+    "translation": "夕食の買出しですが……朝比奈さん\nが財布をお忘れになったそうですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA31S_0024",
+    "original": "それでも、信用取引で現金後払いに\n成功したと聞きました",
+    "translation": "それでも、信用取引で現金後払いに\n成功したと聞きました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA31S_0025",
+    "original": "みくるちゃんの可愛さの勝利だわ",
+    "translation": "みくるちゃんの可愛さの勝利だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA31S_0026",
+    "original": "同じ手を使えば、色々な店に行って\nツケで買い物ができそうね",
+    "translation": "同じ手を使えば、色々な店に行って\nツケで買い物ができそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA31S_0027",
+    "original": "それは……少し問題があるような\n気もしますが……",
+    "translation": "それは……少し問題があるような\n気もしますが……",
+    "speaker": "古泉"
+  }
+]

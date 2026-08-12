@@ -1,0 +1,324 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK30S_0000",
+    "original": "なあ、古泉は奸智に長けていると\n思わないか？",
+    "translation": "なあ、古泉は奸智に長けていると\n思わないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK30S_0001",
+    "original": "突然、何よ？",
+    "translation": "突然、何よ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK30S_0002",
+    "original": "思いついたんで言ってみた",
+    "translation": "思いついたんで言ってみた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK30S_0003",
+    "original": "あ、そう。で、それがどうしたの？",
+    "translation": "あ、そう。で、それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK30S_0004",
+    "original": "どうしたと言うわけじゃないが",
+    "translation": "どうしたと言うわけじゃないが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK30S_0005",
+    "original": "いいじゃない、奸智に長けてて\nアホよりよっぽど役に立つわ",
+    "translation": "いいじゃない、奸智に長けてて\nアホよりよっぽど役に立つわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK30S_0006",
+    "original": "いうなれば、古泉くんはＳＯＳ団の\n軍師ってところよね",
+    "translation": "いうなれば、古泉くんはＳＯＳ団の\n軍師ってところよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK30S_0007",
+    "original": "もちろん大将はあたし",
+    "translation": "もちろん大将はあたし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK30S_0008",
+    "original": "キョンは足軽辺りが妥当ね",
+    "translation": "キョンは足軽辺りが妥当ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK30S_0009",
+    "original": "足軽かよ",
+    "translation": "足軽かよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK30S_0010",
+    "original": "涼宮さん、キョンくんがですね",
+    "translation": "涼宮さん、キョンくんがですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK30S_0011",
+    "original": "古泉くんは奸智に長けているって\n言ってたんですけど驚きませんか？",
+    "translation": "古泉くんは奸智に長けているって\n言ってたんですけど驚きませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK30S_0012",
+    "original": "ふーん。あたしはむしろ。キョンが\n奸智と言う言葉を知っていたという",
+    "translation": "ふーん。あたしはむしろ。キョンが\n奸智と言う言葉を知っていたという",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK30S_0013",
+    "original": "その事に驚愕するわ",
+    "translation": "その事に驚愕するわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK30S_0014",
+    "original": "そうですね。普段使わない言葉\nですもんね",
+    "translation": "そうですね。普段使わない言葉\nですもんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK30S_0015",
+    "original": "なにげに、キョンくんって物知り\nなんですね",
+    "translation": "なにげに、キョンくんって物知り\nなんですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK30S_0016",
+    "original": "びっくりする時があります",
+    "translation": "びっくりする時があります",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK30S_0017",
+    "original": "で、みくるちゃんは何が言いた\nかったのか聞いていい？",
+    "translation": "で、みくるちゃんは何が言いた\nかったのか聞いていい？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK30S_0018",
+    "original": "えーと……奸智って何でしょうか？",
+    "translation": "えーと……奸智って何でしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK30S_0019",
+    "original": "古泉一樹は奸智に長けていると\n言っていた",
+    "translation": "古泉一樹は奸智に長けていると\n言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK30S_0020",
+    "original": "それ、キョンが言ったの？",
+    "translation": "それ、キョンが言ったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK30S_0021",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK30S_0022",
+    "original": "奸智ときたか。ふむう",
+    "translation": "奸智ときたか。ふむう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK30S_0023",
+    "original": "奸智とは悪知恵のこと",
+    "translation": "奸智とは悪知恵のこと",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK30S_0024",
+    "original": "知ってるわ。キョンにしては難しい\n言葉を知ってるじゃない",
+    "translation": "知ってるわ。キョンにしては難しい\n言葉を知ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK30S_0025",
+    "original": "でもあたし的には、古泉くんって\nもっとクリーンなイメージなのよね",
+    "translation": "でもあたし的には、古泉くんって\nもっとクリーンなイメージなのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK30S_0026",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK30S_0027",
+    "original": "ま、キョンのやっかみねきっと",
+    "translation": "ま、キョンのやっかみねきっと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK30S_0028",
+    "original": "涼宮さん、実は彼に奸智に長けて\nいると言われたのですが",
+    "translation": "涼宮さん、実は彼に奸智に長けて\nいると言われたのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK30S_0029",
+    "original": "へえ、奸智なんて言葉良く知ってた\nわねえ、あのキョンが",
+    "translation": "へえ、奸智なんて言葉良く知ってた\nわねえ、あのキョンが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK30S_0030",
+    "original": "あなたが気にするのはそこですか",
+    "translation": "あなたが気にするのはそこですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK30S_0031",
+    "original": "あはは、じゃあ、古泉くんはどこが\n気になるのよ？",
+    "translation": "あはは、じゃあ、古泉くんはどこが\n気になるのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK30S_0032",
+    "original": "僕は彼に、いったいどう思われて\nいるのかと、少々心配になりまして",
+    "translation": "僕は彼に、いったいどう思われて\nいるのかと、少々心配になりまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK30S_0033",
+    "original": "奸智ったら悪賢いって意味だものね\n少なくとも賢さは認めてるわけね",
+    "translation": "奸智ったら悪賢いって意味だものね\n少なくとも賢さは認めてるわけね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK30S_0034",
+    "original": "僕がいつも悪知恵を働かせているか\nのような言いようでした",
+    "translation": "僕がいつも悪知恵を働かせているか\nのような言いようでした",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK30S_0035",
+    "original": "キョンったらホント\n失礼なヤツだわね",
+    "translation": "キョンったらホント\n失礼なヤツだわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK30S_0036",
+    "original": "もしかして、僕は彼に嫌われて\nいるのでしょうか？",
+    "translation": "もしかして、僕は彼に嫌われて\nいるのでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK30S_0037",
+    "original": "んー、それはないと思うけど",
+    "translation": "んー、それはないと思うけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK30S_0038",
+    "original": "キョンは大雑把だけど、あれで意外\nと好き嫌いはハッキリしてるもの",
+    "translation": "キョンは大雑把だけど、あれで意外\nと好き嫌いはハッキリしてるもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK30S_0039",
+    "original": "どうしました？　僕にはなぜか涼宮\nさんが楽しげに見えるのですが？",
+    "translation": "どうしました？　僕にはなぜか涼宮\nさんが楽しげに見えるのですが？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK30S_0040",
+    "original": "古泉くんでも他人の気持ちが\n気になるんだなーって思ったのよ",
+    "translation": "古泉くんでも他人の気持ちが\n気になるんだなーって思ったのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK30S_0041",
+    "original": "気になりますよ。僕は基本的に\n小心者の様ですからね",
+    "translation": "気になりますよ。僕は基本的に\n小心者の様ですからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK30S_0042",
+    "original": "まんま、キョンに言ってみれば\nいいわよ、直接",
+    "translation": "まんま、キョンに言ってみれば\nいいわよ、直接",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK30S_0043",
+    "original": "うさんくさいと言われて終わりそう\nな気がしますが",
+    "translation": "うさんくさいと言われて終わりそう\nな気がしますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK30S_0044",
+    "original": "あははははっ、あたしもそう思うわ",
+    "translation": "あははははっ、あたしもそう思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK30S_0045",
+    "original": "なぜこの話題であなたにこれだけ\nウケるのか、僕にはわかりません",
+    "translation": "なぜこの話題であなたにこれだけ\nウケるのか、僕にはわかりません",
+    "speaker": "古泉"
+  }
+]

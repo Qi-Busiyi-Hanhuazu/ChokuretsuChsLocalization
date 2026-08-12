@@ -1,0 +1,349 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA27S_0000",
+    "original": "なぜだか分からないけど、キョンは\nこっちにいるような気がするのよね",
+    "translation": "なぜだか分からないけど、キョンは\nこっちにいるような気がするのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA27S_0001",
+    "original": "それに、なんだかもの凄く面白そう\nな気もするのよ",
+    "translation": "それに、なんだかもの凄く面白そう\nな気もするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA27S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_MA27S_0003",
+    "original": "で、でも、そっちは異空間が……",
+    "translation": "で、でも、そっちは異空間が……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA27S_0004",
+    "original": "行ってみましょ、みくるちゃん",
+    "translation": "行ってみましょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA27S_0005",
+    "original": "だ、ダメですそっちは！？",
+    "translation": "だ、ダメですそっちは！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA27S_0006",
+    "original": "ん？　どうしたの",
+    "translation": "ん？　どうしたの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA27S_0007",
+    "original": "えと、その……",
+    "translation": "えと、その……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA27S_0008",
+    "original": "汚れてるので、このモップで先に\nお掃除しようかなぁって",
+    "translation": "汚れてるので、このモップで先に\nお掃除しようかなぁって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA27S_0009",
+    "original": "掃除はいいけど、そんなに振り回し\nたら掃除の意味ないんじゃないの",
+    "translation": "掃除はいいけど、そんなに振り回し\nたら掃除の意味ないんじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA27S_0010",
+    "original": "だ、大丈夫です",
+    "translation": "だ、大丈夫です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA27S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA27S_0012",
+    "original": "まあいいわ、とにかくキョンが\nいる場所へ……あれ？",
+    "translation": "まあいいわ、とにかくキョンが\nいる場所へ……あれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA27S_0013",
+    "original": "さっきまで、こっちの方にキョンが\nいるような気がしてたのに",
+    "translation": "さっきまで、こっちの方にキョンが\nいるような気がしてたのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA27S_0014",
+    "original": "今はぜんぜんそんな気がしないわ\n……なんでかしら？",
+    "translation": "今はぜんぜんそんな気がしないわ\n……なんでかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA27S_0015",
+    "original": "よかった、長門さんがモップに付け\nてくれた新機能が役に立ったみたい",
+    "translation": "よかった、長門さんがモップに付け\nてくれた新機能が役に立ったみたい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA27S_0016",
+    "original": "有希、行ってみましょ",
+    "translation": "有希、行ってみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA27S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_MA27S_0018",
+    "original": "待って、そっちは準備中",
+    "translation": "待って、そっちは準備中",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA27S_0019",
+    "original": "なに、急に\n準備中って、何かあるの？",
+    "translation": "なに、急に\n準備中って、何かあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA27S_0020",
+    "original": "少し待って",
+    "translation": "少し待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA27S_0021",
+    "original": "いいけど、どうしたの？",
+    "translation": "いいけど、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA27S_0022",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA27S_0023",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA27S_0024",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA27S_0025",
+    "original": "……ねえ、そろそろいいかしら？",
+    "translation": "……ねえ、そろそろいいかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA27S_0026",
+    "original": "部分的な正常化を完了",
+    "translation": "部分的な正常化を完了",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA27S_0027",
+    "original": "よく分からないけど、お祈りだか\nおまじないだかでもしてたの？",
+    "translation": "よく分からないけど、お祈りだか\nおまじないだかでもしてたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA27S_0028",
+    "original": "そう解釈してもらってかまわない",
+    "translation": "そう解釈してもらってかまわない",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA27S_0029",
+    "original": "ま、別にいいけど……あれ？\nうーん、おかしいわね",
+    "translation": "ま、別にいいけど……あれ？\nうーん、おかしいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA27S_0030",
+    "original": "さっきまでこっちにキョンがいる\nような気がしてたのに",
+    "translation": "さっきまでこっちにキョンがいる\nような気がしてたのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA27S_0031",
+    "original": "古泉くん、こっちに行って見ましょ",
+    "translation": "古泉くん、こっちに行って見ましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA27S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_MA27S_0033",
+    "original": "申し訳ありません、涼宮さん\n少々お待ちいただけますか？",
+    "translation": "申し訳ありません、涼宮さん\n少々お待ちいただけますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA27S_0034",
+    "original": "別にいいけど、どうかした？",
+    "translation": "別にいいけど、どうかした？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA27S_0035",
+    "original": "では……",
+    "translation": "では……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA27S_0036",
+    "original": "……なにやってるの、古泉くん",
+    "translation": "……なにやってるの、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA27S_0037",
+    "original": "見ての通り、モップで磨いています",
+    "translation": "見ての通り、モップで磨いています",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA27S_0038",
+    "original": "古泉くんはそういう冗談はしないと\n思ってたんだけど",
+    "translation": "古泉くんはそういう冗談はしないと\n思ってたんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA27S_0039",
+    "original": "いえ、冗談ではありませんよ\nいたって真剣です",
+    "translation": "いえ、冗談ではありませんよ\nいたって真剣です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA27S_0040",
+    "original": "……まあ、いいけど",
+    "translation": "……まあ、いいけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA27S_0041",
+    "original": "はい。完了しました",
+    "translation": "はい。完了しました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA27S_0042",
+    "original": "そう。じゃあ行きましょうか\nって、あれ？",
+    "translation": "そう。じゃあ行きましょうか\nって、あれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA27S_0043",
+    "original": "変ね、さっきまでこっちにキョンが\nいるような気がしてたのに",
+    "translation": "変ね、さっきまでこっちにキョンが\nいるような気がしてたのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA27S_0044",
+    "original": "今は逆にこっちじゃないような\n気がするわ",
+    "translation": "今は逆にこっちじゃないような\n気がするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA27S_0045",
+    "original": "それは、いわゆる虫の知らせでは\nないでしょうか？",
+    "translation": "それは、いわゆる虫の知らせでは\nないでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA27S_0046",
+    "original": "うーん、そうかも……\nなら反対の方に行ってみましょ",
+    "translation": "うーん、そうかも……\nなら反対の方に行ってみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA27S_0047",
+    "original": "はい",
+    "translation": "はい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA27S_0048",
+    "original": "長門さんからいただいた新機能が\n役に立ったようですね",
+    "translation": "長門さんからいただいた新機能が\n役に立ったようですね",
+    "speaker": "古泉"
+  }
+]

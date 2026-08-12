@@ -1,0 +1,492 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN25S_0000",
+    "original": "しかし、『お座り』か……",
+    "translation": "しかし、『お座り』か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN25S_0001",
+    "original": "長門が消しゴムをおとなしくさせる\nときに言った台詞を思い出していた",
+    "translation": "長門が消しゴムをおとなしくさせる\nときに言った台詞を思い出していた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN25S_0002",
+    "original": "ん、なにがお座りなの？",
+    "translation": "ん、なにがお座りなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN25S_0003",
+    "original": "いや、長門が……って",
+    "translation": "いや、長門が……って",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN25S_0004",
+    "original": "いかん、口が滑った",
+    "translation": "いかん、口が滑った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN25S_0005",
+    "original": "有希が？　なんのことかしら",
+    "translation": "有希が？　なんのことかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN25S_0006",
+    "original": "い、いや、前にどこかで犬を見かけ\nてな……その犬に長門が言ったんだ",
+    "translation": "い、いや、前にどこかで犬を見かけ\nてな……その犬に長門が言ったんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN25S_0007",
+    "original": "いつもの無表情で、冷静に\nその様子を思い出してただけだ",
+    "translation": "いつもの無表情で、冷静に\nその様子を思い出してただけだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN25S_0008",
+    "original": "そう、別にどうでもいいけど\nちゃんと歩いてよね。急ぐんだから",
+    "translation": "そう、別にどうでもいいけど\nちゃんと歩いてよね。急ぐんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN25S_0009",
+    "original": "お、おう。悪いな",
+    "translation": "お、おう。悪いな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN25S_0010",
+    "original": "なんとかごまかせたようだ……ふう",
+    "translation": "なんとかごまかせたようだ……ふう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN25S_0011",
+    "original": "長門さんって、動物好きなんでしょ\nうか？",
+    "translation": "長門さんって、動物好きなんでしょ\nうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN25S_0012",
+    "original": "急にどうして？\nまあ、嫌いじゃないみたいだけど",
+    "translation": "急にどうして？\nまあ、嫌いじゃないみたいだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN25S_0013",
+    "original": "なんていうか……あんまり動物とか\nに興味がないような雰囲気だから",
+    "translation": "なんていうか……あんまり動物とか\nに興味がないような雰囲気だから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN25S_0014",
+    "original": "そうねえ、有希はすっごくインドア\n派だもんね",
+    "translation": "そうねえ、有希はすっごくインドア\n派だもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN25S_0015",
+    "original": "でも、みんなで何かしようってとき\nには、ちゃんと来るじゃない",
+    "translation": "でも、みんなで何かしようってとき\nには、ちゃんと来るじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN25S_0016",
+    "original": "動物もそれと同じで、興味ないよう\nに見えて実は大好きなのよ、きっと",
+    "translation": "動物もそれと同じで、興味ないよう\nに見えて実は大好きなのよ、きっと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN25S_0017",
+    "original": "そういうものですか……",
+    "translation": "そういうものですか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN25S_0018",
+    "original": "……待って",
+    "translation": "……待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN25S_0019",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN25S_0020",
+    "original": "こっちを通った方がいい",
+    "translation": "こっちを通った方がいい",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN25S_0021",
+    "original": "廊下じゃなくて、教室の中を？\nなんで？",
+    "translation": "廊下じゃなくて、教室の中を？\nなんで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN25S_0022",
+    "original": "……そっちは、危険",
+    "translation": "……そっちは、危険",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN25S_0023",
+    "original": "危険？　危険って？",
+    "translation": "危険？　危険って？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN25S_0024",
+    "original": "……見つかるおそれがある",
+    "translation": "……見つかるおそれがある",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN25S_0025",
+    "original": "見つかるって……",
+    "translation": "見つかるって……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN25S_0026",
+    "original": "事件の、犯人",
+    "translation": "事件の、犯人",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN25S_0027",
+    "original": "なんですって！？",
+    "translation": "なんですって！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN25S_0028",
+    "original": "……つまり、相手に見つからないよ\nうに先回りして出し抜くってこと？",
+    "translation": "……つまり、相手に見つからないよ\nうに先回りして出し抜くってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN25S_0029",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN25S_0030",
+    "original": "そういうことなら、判ったわ",
+    "translation": "そういうことなら、判ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN25S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN25S_0032",
+    "original": "………………！",
+    "translation": "………………！",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN25S_0033",
+    "original": "……情報結合を一旦解除",
+    "translation": "……情報結合を一旦解除",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN25S_0034",
+    "original": "その後、通常の属性に書き換えて\n再構成する",
+    "translation": "その後、通常の属性に書き換えて\n再構成する",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN25S_0035",
+    "original": "……抵抗を確認",
+    "translation": "……抵抗を確認",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN25S_0036",
+    "original": "自己修復作用が働いている\nだけど、遅いし、不完全",
+    "translation": "自己修復作用が働いている\nだけど、遅いし、不完全",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN25S_0037",
+    "original": "………………！",
+    "translation": "………………！",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN25S_0038",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN25S_0039",
+    "original": "脅威を確認\nだけど、非力",
+    "translation": "脅威を確認\nだけど、非力",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN25S_0040",
+    "original": "………………！",
+    "translation": "………………！",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN25S_0041",
+    "original": "……再構成を開始",
+    "translation": "……再構成を開始",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN25S_0042",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN25S_0043",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN25S_0044",
+    "original": "……完了",
+    "translation": "……完了",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN25S_0045",
+    "original": "有希、どうしたの、来ないの？",
+    "translation": "有希、どうしたの、来ないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN25S_0046",
+    "original": "大丈夫、もう終わった\nそっちを通っても良い",
+    "translation": "大丈夫、もう終わった\nそっちを通っても良い",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN25S_0047",
+    "original": "へ？\n相手をやりすごしたってこと？",
+    "translation": "へ？\n相手をやりすごしたってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN25S_0048",
+    "original": "そんなところ",
+    "translation": "そんなところ",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN25S_0049",
+    "original": "有希は見つからなかったの？",
+    "translation": "有希は見つからなかったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN25S_0050",
+    "original": "わたしは警戒されていない",
+    "translation": "わたしは警戒されていない",
+    "speaker": "長門"
+  },
+  {
+    "index": 51,
+    "key": "evt_CN25S_0051",
+    "original": "存在自体、気付かれていない\n可能性が高い",
+    "translation": "存在自体、気付かれていない\n可能性が高い",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_CN25S_0052",
+    "original": "そっか、なんにも関係ないと思われ\nてるのね",
+    "translation": "そっか、なんにも関係ないと思われ\nてるのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CN25S_0053",
+    "original": "ねえ有希、犯人ってどんなやつ？",
+    "translation": "ねえ有希、犯人ってどんなやつ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CN25S_0054",
+    "original": "……難しい",
+    "translation": "……難しい",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_CN25S_0055",
+    "original": "ちゃんと見れなかったのかしら？",
+    "translation": "ちゃんと見れなかったのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CN25S_0056",
+    "original": "見ることは不可能\n視覚に反応する相手ではないよう",
+    "translation": "見ることは不可能\n視覚に反応する相手ではないよう",
+    "speaker": "長門"
+  },
+  {
+    "index": 57,
+    "key": "evt_CN25S_0057",
+    "original": "ふむ、なるほど……敵もさるものね",
+    "translation": "ふむ、なるほど……敵もさるものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CN25S_0058",
+    "original": "それじゃ有希、急ぎましょう\nせっかくやり過ごせたんだから",
+    "translation": "それじゃ有希、急ぎましょう\nせっかくやり過ごせたんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CN25S_0059",
+    "original": "このまま先回りよ！",
+    "translation": "このまま先回りよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_CN25S_0060",
+    "original": "……判った",
+    "translation": "……判った",
+    "speaker": "長門"
+  },
+  {
+    "index": 61,
+    "key": "evt_CN25S_0061",
+    "original": "あれ、でも……おかしいわ\n“犯人”ってなんの話？",
+    "translation": "あれ、でも……おかしいわ\n“犯人”ってなんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CN25S_0062",
+    "original": "長門さんは大したものですね",
+    "translation": "長門さんは大したものですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CN25S_0063",
+    "original": "いきなり、どうしたの？",
+    "translation": "いきなり、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CN25S_0064",
+    "original": "僕などには到底対処できないような\n状況でも、落ち着いて対処できる",
+    "translation": "僕などには到底対処できないような\n状況でも、落ち着いて対処できる",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_CN25S_0065",
+    "original": "素晴らしい能力の持ち主だと\nそう、思いましたので",
+    "translation": "素晴らしい能力の持ち主だと\nそう、思いましたので",
+    "speaker": "古泉"
+  },
+  {
+    "index": 66,
+    "key": "evt_CN25S_0066",
+    "original": "なんのことか良く判らないけど……",
+    "translation": "なんのことか良く判らないけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_CN25S_0067",
+    "original": "まあ、有希が大した娘だってのは\n同意できるわね",
+    "translation": "まあ、有希が大した娘だってのは\n同意できるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CN25S_0068",
+    "original": "それを見破る古泉くんもなかなか\n大したものだと思うわ",
+    "translation": "それを見破る古泉くんもなかなか\n大したものだと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_CN25S_0069",
+    "original": "ありがとうございます",
+    "translation": "ありがとうございます",
+    "speaker": "古泉"
+  }
+]

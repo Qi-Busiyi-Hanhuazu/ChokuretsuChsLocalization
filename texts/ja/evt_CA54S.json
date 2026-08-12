@@ -1,0 +1,303 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA54S_0000",
+    "original": "古泉はヒドイ男なんだ",
+    "translation": "古泉はヒドイ男なんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA54S_0001",
+    "original": "はぁ？　キョン、また言いがかり\nなの？　男の嫉妬は見苦しいわよ",
+    "translation": "はぁ？　キョン、また言いがかり\nなの？　男の嫉妬は見苦しいわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA54S_0002",
+    "original": "あのな、なんで俺が古泉に嫉妬\nなんぞせにゃならんのだ",
+    "translation": "あのな、なんで俺が古泉に嫉妬\nなんぞせにゃならんのだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA54S_0003",
+    "original": "そりゃ、古泉くんがＳＯＳ団に\n入ってからは、",
+    "translation": "そりゃ、古泉くんがＳＯＳ団に\n入ってからは、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA54S_0004",
+    "original": "あんたの立場が無くなったからで\nしょ",
+    "translation": "あんたの立場が無くなったからで\nしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA54S_0005",
+    "original": "なんだと、元々俺の立場なんか\nあったのか？",
+    "translation": "なんだと、元々俺の立場なんか\nあったのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA54S_0006",
+    "original": "一応、先輩でしょ？",
+    "translation": "一応、先輩でしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA54S_0007",
+    "original": "いや、入りたくて入ったわけでも\nナシ、そんな立場なんぞはいらん",
+    "translation": "いや、入りたくて入ったわけでも\nナシ、そんな立場なんぞはいらん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA54S_0008",
+    "original": "聞いてあげるから、言えば？\n見苦しい男のやっかみの言い分を",
+    "translation": "聞いてあげるから、言えば？\n見苦しい男のやっかみの言い分を",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA54S_0009",
+    "original": "あのな……パニックになった朝比奈\nさんを古泉が脅したんだよ",
+    "translation": "あのな……パニックになった朝比奈\nさんを古泉が脅したんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA54S_0010",
+    "original": "気絶するんじゃないか心配だったぜ",
+    "translation": "気絶するんじゃないか心配だったぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA54S_0011",
+    "original": "古泉くんがみくるちゃんを？",
+    "translation": "古泉くんがみくるちゃんを？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA54S_0012",
+    "original": "正確には俺と朝比奈さんを、だ",
+    "translation": "正確には俺と朝比奈さんを、だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA54S_0013",
+    "original": "ふーん、それはどんな脅しだった\nのかしら？　いつの話？",
+    "translation": "ふーん、それはどんな脅しだった\nのかしら？　いつの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA54S_0014",
+    "original": "えっ……",
+    "translation": "えっ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA54S_0015",
+    "original": "何、驚いてるのよ",
+    "translation": "何、驚いてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA54S_0016",
+    "original": "しまった。あのイタズラが俺たち\nだってバレちまうな",
+    "translation": "しまった。あのイタズラが俺たち\nだってバレちまうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA54S_0017",
+    "original": "言えないんだ。ふーーーん、何して\nたのかしらね、３人でぇ",
+    "translation": "言えないんだ。ふーーーん、何して\nたのかしらね、３人でぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA54S_0018",
+    "original": "いや、その、忘れちまって、うーん\nいつだったかな……",
+    "translation": "いや、その、忘れちまって、うーん\nいつだったかな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA54S_0019",
+    "original": "ふふん、まあ追求は後回しよ",
+    "translation": "ふふん、まあ追求は後回しよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA54S_0020",
+    "original": "そんなことで道草してる場合じゃ\nないわ。急ぐわよ、キョン",
+    "translation": "そんなことで道草してる場合じゃ\nないわ。急ぐわよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA54S_0021",
+    "original": "あの、さっき思ったんですけど",
+    "translation": "あの、さっき思ったんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA54S_0022",
+    "original": "あたしって、よくパニックを起こし\nちゃうほうなんでしょうか？",
+    "translation": "あたしって、よくパニックを起こし\nちゃうほうなんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA54S_0023",
+    "original": "なぁに、みくるちゃんったら\nそんなことを気にしてたの？",
+    "translation": "なぁに、みくるちゃんったら\nそんなことを気にしてたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA54S_0024",
+    "original": "は、はい。いつもみなさんに\n迷惑かけてるんじゃないかなって",
+    "translation": "は、はい。いつもみなさんに\n迷惑かけてるんじゃないかなって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA54S_0025",
+    "original": "いいのよ。みくるちゃんはドジっ娘\n萌えがポイントなんだから",
+    "translation": "いいのよ。みくるちゃんはドジっ娘\n萌えがポイントなんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA54S_0026",
+    "original": "パニックの十や二十でガタガタ言う\nような小心者は放っておけばいいわ",
+    "translation": "パニックの十や二十でガタガタ言う\nような小心者は放っておけばいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA54S_0027",
+    "original": "そ、そんなにたくさんパニックは\n起こしませんよぅ",
+    "translation": "そ、そんなにたくさんパニックは\n起こしませんよぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA54S_0028",
+    "original": "朝比奈みくるは、暗闇が苦手",
+    "translation": "朝比奈みくるは、暗闇が苦手",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA54S_0029",
+    "original": "うん、みくるちゃん恐がりだもんね",
+    "translation": "うん、みくるちゃん恐がりだもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA54S_0030",
+    "original": "暗闇になにかが潜んでいる可能性を\n想像し、パニック状態になる",
+    "translation": "暗闇になにかが潜んでいる可能性を\n想像し、パニック状態になる",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA54S_0031",
+    "original": "パニックなんかなる必要ないのにね",
+    "translation": "パニックなんかなる必要ないのにね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA54S_0032",
+    "original": "そのなにかが怪奇現象だったら、\nとっつかまえるのがＳＯＳ団なのに",
+    "translation": "そのなにかが怪奇現象だったら、\nとっつかまえるのがＳＯＳ団なのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA54S_0033",
+    "original": "捕獲は困難と思われる",
+    "translation": "捕獲は困難と思われる",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA54S_0034",
+    "original": "まあ、みくるちゃん一人じゃそうか\nもね",
+    "translation": "まあ、みくるちゃん一人じゃそうか\nもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA54S_0035",
+    "original": "実は、僕のせいで朝比奈さんを\nパニックにさせてしまいまして",
+    "translation": "実は、僕のせいで朝比奈さんを\nパニックにさせてしまいまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA54S_0036",
+    "original": "古泉くんのせいで？",
+    "translation": "古泉くんのせいで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA54S_0037",
+    "original": "少しだけ怖がらせるつもりだったの\nですが……",
+    "translation": "少しだけ怖がらせるつもりだったの\nですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA54S_0038",
+    "original": "少々、度が過ぎましてね",
+    "translation": "少々、度が過ぎましてね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA54S_0039",
+    "original": "状況はよくわからないけど、みくる\nちゃんに、怖い話をしたわけね",
+    "translation": "状況はよくわからないけど、みくる\nちゃんに、怖い話をしたわけね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CA54S_0040",
+    "original": "ささやかな内容の、ちょっとした\nイタズラのつもりだったのですが",
+    "translation": "ささやかな内容の、ちょっとした\nイタズラのつもりだったのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CA54S_0041",
+    "original": "みくるちゃん、本っ当にそういうの\n苦手よね",
+    "translation": "みくるちゃん、本っ当にそういうの\n苦手よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CA54S_0042",
+    "original": "そういうのも可愛いんだけど、次\nからはもっと手加減してあげなさい",
+    "translation": "そういうのも可愛いんだけど、次\nからはもっと手加減してあげなさい",
+    "speaker": "ハルヒ"
+  }
+]

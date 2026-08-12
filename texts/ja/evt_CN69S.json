@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN69S_0000",
+    "original": "ハルヒ、おまえ長門の得意そうな顔\nって見たことあるか？",
+    "translation": "ハルヒ、おまえ長門の得意そうな顔\nって見たことあるか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN69S_0001",
+    "original": "そうねえ、見たことないかも\n有希は謙虚だものね",
+    "translation": "そうねえ、見たことないかも\n有希は謙虚だものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN69S_0002",
+    "original": "いや、しかし誰でも得意気な気分に\nなることがあるだろ",
+    "translation": "いや、しかし誰でも得意気な気分に\nなることがあるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN69S_0003",
+    "original": "それは子供の反応よ、大人がする\n反応じゃないわ",
+    "translation": "それは子供の反応よ、大人がする\n反応じゃないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN69S_0004",
+    "original": "そういうおまえも、しょっちゅう\n得意気な顔をするけどな",
+    "translation": "そういうおまえも、しょっちゅう\n得意気な顔をするけどな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN69S_0005",
+    "original": "うっさい、さっさと歩く！",
+    "translation": "うっさい、さっさと歩く！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN69S_0006",
+    "original": "なんだ、自覚があるのか？",
+    "translation": "なんだ、自覚があるのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN69S_0007",
+    "original": "つべこべ言わないで急ぐのよっ！",
+    "translation": "つべこべ言わないで急ぐのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN69S_0008",
+    "original": "はいはい",
+    "translation": "はいはい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN69S_0009",
+    "original": "キョンくんが長門さんを誉めたら",
+    "translation": "キョンくんが長門さんを誉めたら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN69S_0010",
+    "original": "得意顔になったような気がしたん\nだそうですよ",
+    "translation": "得意顔になったような気がしたん\nだそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN69S_0011",
+    "original": "へえ、有希でもそんな顔するのね",
+    "translation": "へえ、有希でもそんな顔するのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN69S_0012",
+    "original": "見てみたいと思いません？　長門\nさんの得意顔。ふふっ",
+    "translation": "見てみたいと思いません？　長門\nさんの得意顔。ふふっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN69S_0013",
+    "original": "むむー。想像できないわね。うん\nそれはぜひ見てみたいわ",
+    "translation": "むむー。想像できないわね。うん\nそれはぜひ見てみたいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN69S_0014",
+    "original": "今度、長門さんを誉めてみましょう",
+    "translation": "今度、長門さんを誉めてみましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN69S_0015",
+    "original": "そうね。思い切り誉め倒して\nその顔を写真に撮るのよ！",
+    "translation": "そうね。思い切り誉め倒して\nその顔を写真に撮るのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN69S_0016",
+    "original": "古泉くんにも参加して貰いましょう\nよ。誉めるの得意そうだし",
+    "translation": "古泉くんにも参加して貰いましょう\nよ。誉めるの得意そうだし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN69S_0017",
+    "original": "……３人で囲んで誉めるの？\n得意顔より、困惑顔が見れそうだわ",
+    "translation": "……３人で囲んで誉めるの？\n得意顔より、困惑顔が見れそうだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN69S_0018",
+    "original": "部室で探した荷物もすぐに見つかっ\nたし、有希と一緒だと心強いわ",
+    "translation": "部室で探した荷物もすぐに見つかっ\nたし、有希と一緒だと心強いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN69S_0019",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN69S_0020",
+    "original": "あたしがＳＯＳ団の絶対神だと\nしたら、有希は守護神ね",
+    "translation": "あたしがＳＯＳ団の絶対神だと\nしたら、有希は守護神ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN69S_0021",
+    "original": "守護神？",
+    "translation": "守護神？",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN69S_0022",
+    "original": "神話や伝説とかで出てるようなの\nヘルメスやヴェスタや",
+    "translation": "神話や伝説とかで出てるようなの\nヘルメスやヴェスタや",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN69S_0023",
+    "original": "インドラとかランドールとかカーン\nとか藤川とか、そんな感じ",
+    "translation": "インドラとかランドールとかカーン\nとか藤川とか、そんな感じ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN69S_0024",
+    "original": "理解した",
+    "translation": "理解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN69S_0025",
+    "original": "長門さんは表情の読みにくい方だと\n思うのですが……",
+    "translation": "長門さんは表情の読みにくい方だと\n思うのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN69S_0026",
+    "original": "そうでもない、とおっしゃる方が\n一人、いらっしゃいまして",
+    "translation": "そうでもない、とおっしゃる方が\n一人、いらっしゃいまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN69S_0027",
+    "original": "もしかして、キョン？",
+    "translation": "もしかして、キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN69S_0028",
+    "original": "ご存知でしたか",
+    "translation": "ご存知でしたか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN69S_0029",
+    "original": "なんか、そんなことをチラっと前に\n言ってたような気がしたのよ",
+    "translation": "なんか、そんなことをチラっと前に\n言ってたような気がしたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN69S_0030",
+    "original": "キョンに読めて、あたしに読めない\nってことは無いと思うんだけど",
+    "translation": "キョンに読めて、あたしに読めない\nってことは無いと思うんだけど",
+    "speaker": "ハルヒ"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_034S_0000",
+    "original": "なに言ってるのよ、キョンにはまだ\n仕事が残ってるでしょ",
+    "translation": "なに言ってるのよ、キョンにはまだ\n仕事が残ってるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_034S_0001",
+    "original": "なに……",
+    "translation": "なに……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_034S_0002",
+    "original": "椅子、片付けないといけないでしょ",
+    "translation": "椅子、片付けないといけないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_034S_0003",
+    "original": "ちょっと待て！\nなんで俺一人なんだよ！",
+    "translation": "ちょっと待て！\nなんで俺一人なんだよ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_034S_0004",
+    "original": "バーベキューの後片付けは免除して\nあげたんだから",
+    "translation": "バーベキューの後片付けは免除して\nあげたんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_034S_0005",
+    "original": "これはあんたが片付けなさい",
+    "translation": "これはあんたが片付けなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_034S_0006",
+    "original": "聞いてないぞ、そんなペナルティが\nあるなんて……",
+    "translation": "聞いてないぞ、そんなペナルティが\nあるなんて……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_034S_0007",
+    "original": "じゃあ、頑張って片付けてね",
+    "translation": "じゃあ、頑張って片付けてね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_034S_0008",
+    "original": "行きましょ、みくるちゃん",
+    "translation": "行きましょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_034S_0009",
+    "original": "あの、でも……",
+    "translation": "あの、でも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_034S_0010",
+    "original": "彼一人ではさすがに大変でしょう\n僕も手伝いますよ",
+    "translation": "彼一人ではさすがに大変でしょう\n僕も手伝いますよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_034S_0011",
+    "original": "あら、そう？",
+    "translation": "あら、そう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_034S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_034S_0013",
+    "original": "じゃ、男子に任せてあたしたちは\n帰るわよ",
+    "translation": "じゃ、男子に任せてあたしたちは\n帰るわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_034S_0014",
+    "original": "あ、あの……頑張ってくださいね",
+    "translation": "あ、あの……頑張ってくださいね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_034S_0015",
+    "original": "……お先に",
+    "translation": "……お先に",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_034S_0016",
+    "original": "俺は呆然とハルヒたちを見送った",
+    "translation": "俺は呆然とハルヒたちを見送った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_034S_0017",
+    "original": "その背中は後ろめたさなど微塵も\n感じさせない",
+    "translation": "その背中は後ろめたさなど微塵も\n感じさせない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_034S_0018",
+    "original": "さて、片付けを始めましょうか",
+    "translation": "さて、片付けを始めましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_034S_0019",
+    "original": "なんでおまえは、元気なんだ",
+    "translation": "なんでおまえは、元気なんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_034S_0020",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_002S_0000",
+    "original": "というわけで、一旦部室に戻って\n来た俺たちである",
+    "translation": "というわけで、一旦部室に戻って\n来た俺たちである",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_002S_0001",
+    "original": "さあバーベキューよっ\nなかなか燃えて来たわね！",
+    "translation": "さあバーベキューよっ\nなかなか燃えて来たわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_002S_0002",
+    "original": "さっきまでの様子がウソのように\nハルヒはすっかり盛り上がっていて",
+    "translation": "さっきまでの様子がウソのように\nハルヒはすっかり盛り上がっていて",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_002S_0003",
+    "original": "今となっては、あれこれと精力的に\n指図を始めている",
+    "translation": "今となっては、あれこれと精力的に\n指図を始めている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_002S_0004",
+    "original": "バーベキューをするのであれば\nまず道具が必要ですね",
+    "translation": "バーベキューをするのであれば\nまず道具が必要ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_002S_0005",
+    "original": "そんなの、どっかのクラブか\n同好会がきっと持ってるわ",
+    "translation": "そんなの、どっかのクラブか\n同好会がきっと持ってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_002S_0006",
+    "original": "これから借りてくればいいのよ！",
+    "translation": "これから借りてくればいいのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_002S_0007",
+    "original": "今は夏休みだもの\nどうせ、誰もいないでしょうし",
+    "translation": "今は夏休みだもの\nどうせ、誰もいないでしょうし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_002S_0008",
+    "original": "それは借りるんじゃなくて、勝手に\n持ち出す、と言うんだ。世間ではな",
+    "translation": "それは借りるんじゃなくて、勝手に\n持ち出す、と言うんだ。世間ではな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_002S_0009",
+    "original": "あと食材。キョンなんかはとにかく\n肉ばっかり食べそうだけど",
+    "translation": "あと食材。キョンなんかはとにかく\n肉ばっかり食べそうだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_002S_0010",
+    "original": "ちゃんと野菜も食べないと駄目よ",
+    "translation": "ちゃんと野菜も食べないと駄目よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_002S_0011",
+    "original": "俺の食生活に気を配ってくれるとは\n実にありがたいね。大きなお世話だ",
+    "translation": "俺の食生活に気を配ってくれるとは\n実にありがたいね。大きなお世話だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_002S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_002S_0013",
+    "original": "あ、あのう……でも、学校の中で\nバーベキューなんて……",
+    "translation": "あ、あのう……でも、学校の中で\nバーベキューなんて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_002S_0014",
+    "original": "先生に見つかったら、怒られたり\nしないんでしょうか？",
+    "translation": "先生に見つかったら、怒られたり\nしないんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_002S_0015",
+    "original": "そうですね、校内での火の使用は\nまずいかもしれません",
+    "translation": "そうですね、校内での火の使用は\nまずいかもしれません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_002S_0016",
+    "original": "勝手にやるのはもちろん論外ですし\n申請しても、許可はもらえないかと",
+    "translation": "勝手にやるのはもちろん論外ですし\n申請しても、許可はもらえないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_002S_0017",
+    "original": "む、そうか……",
+    "translation": "む、そうか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_002S_0018",
+    "original": "自分で提案したアイディアだったが\nそこまで考えてなかった",
+    "translation": "自分で提案したアイディアだったが\nそこまで考えてなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_002S_0019",
+    "original": "どうする？　強行しちまうか？",
+    "translation": "どうする？　強行しちまうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_002S_0020",
+    "original": "まさか。校内ではできませんが\n校外に出れば問題ないでしょう",
+    "translation": "まさか。校内ではできませんが\n校外に出れば問題ないでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_002S_0021",
+    "original": "学校の近くにそれなりに広い\n空き地があります",
+    "translation": "学校の近くにそれなりに広い\n空き地があります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_002S_0022",
+    "original": "そこを使わせてもらいましょう",
+    "translation": "そこを使わせてもらいましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_002S_0023",
+    "original": "いいのか？　持ち主が怒鳴り込んで\nきたら大事になるぞ",
+    "translation": "いいのか？　持ち主が怒鳴り込んで\nきたら大事になるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_002S_0024",
+    "original": "実はその土地の持ち主というのは\n僕の知人でして",
+    "translation": "実はその土地の持ち主というのは\n僕の知人でして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_002S_0025",
+    "original": "空き地と言っても、近々家を建てる\nため更地にした私有地なのですが",
+    "translation": "空き地と言っても、近々家を建てる\nため更地にした私有地なのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_002S_0026",
+    "original": "ともかく、頼めば場所をお借りする\nことは難しくありませんよ",
+    "translation": "ともかく、頼めば場所をお借りする\nことは難しくありませんよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_002S_0027",
+    "original": "知人の土地ねぇ……",
+    "translation": "知人の土地ねぇ……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_002S_0028",
+    "original": "古泉がこう言うからにはおそらく\n例の『機関』の関係者なのだろう",
+    "translation": "古泉がこう言うからにはおそらく\n例の『機関』の関係者なのだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_002S_0029",
+    "original": "それは良いアイディアだわ！\nさすがは古泉くんね！",
+    "translation": "それは良いアイディアだわ！\nさすがは古泉くんね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_002S_0030",
+    "original": "キョンも古泉くんを見習って、たま\nにはこういう名案を出しなさい",
+    "translation": "キョンも古泉くんを見習って、たま\nにはこういう名案を出しなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_002S_0031",
+    "original": "何故俺に矛先を向ける",
+    "translation": "何故俺に矛先を向ける",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_002S_0032",
+    "original": "それにそもそもバーベキューを提案\nしたのは俺だぞ",
+    "translation": "それにそもそもバーベキューを提案\nしたのは俺だぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_002S_0033",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_002S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_002S_0035",
+    "original": "古泉もほめて欲しそうな小犬みたい\nな顔で、こっちを見るんじゃない",
+    "translation": "古泉もほめて欲しそうな小犬みたい\nな顔で、こっちを見るんじゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_002S_0036",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_002S_0037",
+    "original": "でも、どうせならぱーっとやりたい\nわよね",
+    "translation": "でも、どうせならぱーっとやりたい\nわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_002S_0038",
+    "original": "せっかくだし、他にも誰か呼ぶか？",
+    "translation": "せっかくだし、他にも誰か呼ぶか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_002S_0039",
+    "original": "人数が増えて賑やかになれば、それ\nだけハルヒの気もまぎれるだろうし",
+    "translation": "人数が増えて賑やかになれば、それ\nだけハルヒの気もまぎれるだろうし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_002S_0040",
+    "original": "賑やかなのは悪くないわね",
+    "translation": "賑やかなのは悪くないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_002S_0041",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_002S_0042",
+    "original": "あの、まだ鶴屋さんも校内にいると\n思いますから誘ってもいいですか？",
+    "translation": "あの、まだ鶴屋さんも校内にいると\n思いますから誘ってもいいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_002S_0043",
+    "original": "モチのロンよ！　それじゃ鶴屋さん\nの分の食材も買わないとね",
+    "translation": "モチのロンよ！　それじゃ鶴屋さん\nの分の食材も買わないとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_002S_0044",
+    "original": "鶴屋さんってどれくらい食べるの\nかしら？　まあいいわ、適当で",
+    "translation": "鶴屋さんってどれくらい食べるの\nかしら？　まあいいわ、適当で",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_002S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_002S_0046",
+    "original": "さあ、それじゃさっそく準備に\nとりかかるわよ！",
+    "translation": "さあ、それじゃさっそく準備に\nとりかかるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_002S_0047",
+    "original": "まずは食材ね。あと、コンロとか\n炭とか、とにかくいろいろ必要だわ",
+    "translation": "まずは食材ね。あと、コンロとか\n炭とか、とにかくいろいろ必要だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_002S_0048",
+    "original": "食材とかはともかく、コンロなんて\nどこから調達するんだ？",
+    "translation": "食材とかはともかく、コンロなんて\nどこから調達するんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_002S_0049",
+    "original": "まさか、ホームセンターあたりで\n買ってこいとか言うなよ",
+    "translation": "まさか、ホームセンターあたりで\n買ってこいとか言うなよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_002S_0050",
+    "original": "さっき言ったでしょ。どこかで\n借りてくればいいじゃない",
+    "translation": "さっき言ったでしょ。どこかで\n借りてくればいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_002S_0051",
+    "original": "いや、簡単に言うがな……",
+    "translation": "いや、簡単に言うがな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_002S_0052",
+    "original": "古泉くん、どっか心当たりない？",
+    "translation": "古泉くん、どっか心当たりない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_002S_0053",
+    "original": "すみません、場所は確保できますが\n道具までは……",
+    "translation": "すみません、場所は確保できますが\n道具までは……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_002S_0054",
+    "original": "そう、仕方ないわね",
+    "translation": "そう、仕方ないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_002S_0055",
+    "original": "それじゃその辺でまだ部活中の\nクラブに聞いて回りましょう",
+    "translation": "それじゃその辺でまだ部活中の\nクラブに聞いて回りましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_002S_0056",
+    "original": "ついでに、コンロ代わりになりそう\nな物も探すといいわ",
+    "translation": "ついでに、コンロ代わりになりそう\nな物も探すといいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_002S_0057",
+    "original": "あと、誰か食材の買い出し！\n商店街まで行ってきてちょうだい",
+    "translation": "あと、誰か食材の買い出し！\n商店街まで行ってきてちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_002S_0058",
+    "original": "ってことは、ハルヒは道具の調達に\n行くってことか",
+    "translation": "ってことは、ハルヒは道具の調達に\n行くってことか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_002S_0059",
+    "original": "じゃあみんな、手分けして事に\nあたりましょ",
+    "translation": "じゃあみんな、手分けして事に\nあたりましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_002S_0060",
+    "original": "とにかく、さっさと分担を決めて\n準備にとりかかるか",
+    "translation": "とにかく、さっさと分担を決めて\n準備にとりかかるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_002S_0061",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

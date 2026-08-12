@@ -1,0 +1,432 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA21S_0000",
+    "original": "そういえば、中庭の木はどうなった\nのかしら？",
+    "translation": "そういえば、中庭の木はどうなった\nのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA21S_0001",
+    "original": "先に見に行ってみようかしら",
+    "translation": "先に見に行ってみようかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA21S_0002",
+    "original": "思うんだが、そもそもなんで木が\n歩きだすんだ？",
+    "translation": "思うんだが、そもそもなんで木が\n歩きだすんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA21S_0003",
+    "original": "怪奇現象だ七不思議だって言っても\n理由の１つや２つあるもんだろ",
+    "translation": "怪奇現象だ七不思議だって言っても\n理由の１つや２つあるもんだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA21S_0004",
+    "original": "言われてみればそうかも",
+    "translation": "言われてみればそうかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA21S_0005",
+    "original": "あれか、木だけに光合成をしに\n行くとか",
+    "translation": "あれか、木だけに光合成をしに\n行くとか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA21S_0006",
+    "original": "こんな夜中に？",
+    "translation": "こんな夜中に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA21S_0007",
+    "original": "だから光のある所に行くんだろ",
+    "translation": "だから光のある所に行くんだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA21S_0008",
+    "original": "目的が光合成だとしたら、一番\n明るい場所を通るんじゃないか？",
+    "translation": "目的が光合成だとしたら、一番\n明るい場所を通るんじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA21S_0009",
+    "original": "一番明るい場所って？",
+    "translation": "一番明るい場所って？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA21S_0010",
+    "original": "たとえば……屋上とか？\n月明かりに一番近いだろ",
+    "translation": "たとえば……屋上とか？\n月明かりに一番近いだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA21S_0011",
+    "original": "なるほどね……",
+    "translation": "なるほどね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA21S_0012",
+    "original": "部室に戻る前に寄って行くか？",
+    "translation": "部室に戻る前に寄って行くか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA21S_0013",
+    "original": "……そうね、そうしましょ",
+    "translation": "……そうね、そうしましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA21S_0014",
+    "original": "よし、だいぶ時間を稼げたはずだ",
+    "translation": "よし、だいぶ時間を稼げたはずだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA21S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_MA21S_0016",
+    "original": "あの、どうして木が歩き出すんで\nしょうね",
+    "translation": "あの、どうして木が歩き出すんで\nしょうね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA21S_0017",
+    "original": "そんなの知らないし、あたしだって\n知りたいわ",
+    "translation": "そんなの知らないし、あたしだって\n知りたいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA21S_0018",
+    "original": "でもでも、理由もなくそんなこと\n起きないと思うんです",
+    "translation": "でもでも、理由もなくそんなこと\n起きないと思うんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA21S_0019",
+    "original": "言われてみれば、そうかも知れない\nわね",
+    "translation": "言われてみれば、そうかも知れない\nわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA21S_0020",
+    "original": "やっぱり、お日様を探しに行った\nんでしょうか",
+    "translation": "やっぱり、お日様を探しに行った\nんでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA21S_0021",
+    "original": "なにそれ、光合成ってこと？",
+    "translation": "なにそれ、光合成ってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA21S_0022",
+    "original": "そうね……それはあるかも",
+    "translation": "そうね……それはあるかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA21S_0023",
+    "original": "じゃあ、電気をいっぱい点けたら\n木が寄ってくるんじゃないかなぁ",
+    "translation": "じゃあ、電気をいっぱい点けたら\n木が寄ってくるんじゃないかなぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA21S_0024",
+    "original": "いいこと言うわね、それ、試して\nみましょ",
+    "translation": "いいこと言うわね、それ、試して\nみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA21S_0025",
+    "original": "ほ、ホントにやるんですか？",
+    "translation": "ほ、ホントにやるんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA21S_0026",
+    "original": "あら、言いだしたのはみくるちゃん\nじゃない",
+    "translation": "あら、言いだしたのはみくるちゃん\nじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA21S_0027",
+    "original": "で、でも……",
+    "translation": "で、でも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA21S_0028",
+    "original": "それじゃ早速、この辺りの電気を\n点けてみるわよ",
+    "translation": "それじゃ早速、この辺りの電気を\n点けてみるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA21S_0029",
+    "original": "……結局、何も起らなかったわね",
+    "translation": "……結局、何も起らなかったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA21S_0030",
+    "original": "そうですね",
+    "translation": "そうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA21S_0031",
+    "original": "やっぱり、本物の太陽じゃないと\nダメなのかしら",
+    "translation": "やっぱり、本物の太陽じゃないと\nダメなのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA21S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_MA21S_0033",
+    "original": "植物が歩行する理由が不明\nそれは必要のない行為",
+    "translation": "植物が歩行する理由が不明\nそれは必要のない行為",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA21S_0034",
+    "original": "確かにその通りだけど、それじゃ\n面白くないじゃない",
+    "translation": "確かにその通りだけど、それじゃ\n面白くないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA21S_0035",
+    "original": "でも、そもそも、植物って何が\nしたくて歩き回ってるのかしら？",
+    "translation": "でも、そもそも、植物って何が\nしたくて歩き回ってるのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA21S_0036",
+    "original": "植物の活動はそう多くない\n代表的なものは光合成",
+    "translation": "植物の活動はそう多くない\n代表的なものは光合成",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA21S_0037",
+    "original": "じゃあ、きっとそれよ",
+    "translation": "じゃあ、きっとそれよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA21S_0038",
+    "original": "中庭の木は、光合成をするために\n日当たりの良い場所を探してるのよ",
+    "translation": "中庭の木は、光合成をするために\n日当たりの良い場所を探してるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA21S_0039",
+    "original": "でも、夜中だから良い場所が見つか\nらない……",
+    "translation": "でも、夜中だから良い場所が見つか\nらない……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA21S_0040",
+    "original": "そういうことじゃないかしら",
+    "translation": "そういうことじゃないかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA21S_0041",
+    "original": "ってことは、もしかすると屋上\nあたりが怪しいわね",
+    "translation": "ってことは、もしかすると屋上\nあたりが怪しいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA21S_0042",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA21S_0043",
+    "original": "ちょっと、屋上に寄って行きましょ",
+    "translation": "ちょっと、屋上に寄って行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA21S_0044",
+    "original": "分かった",
+    "translation": "分かった",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA21S_0045",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "evt_MA21S_0046",
+    "original": "そもそも、この歩く木の話\n原因が不明ではありませんか？",
+    "translation": "そもそも、この歩く木の話\n原因が不明ではありませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA21S_0047",
+    "original": "原因って？",
+    "translation": "原因って？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA21S_0048",
+    "original": "ただ、木が歩き出すというだけでは\nさすがに説得力に欠けます",
+    "translation": "ただ、木が歩き出すというだけでは\nさすがに説得力に欠けます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA21S_0049",
+    "original": "何か理由があるのではと思いまして",
+    "translation": "何か理由があるのではと思いまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA21S_0050",
+    "original": "確かに、その方が謎が深まるわね",
+    "translation": "確かに、その方が謎が深まるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA21S_0051",
+    "original": "木が何かを求めるとすれば、それは\nやはり太陽の光ではないかと",
+    "translation": "木が何かを求めるとすれば、それは\nやはり太陽の光ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA21S_0052",
+    "original": "しかし、今は夜中",
+    "translation": "しかし、今は夜中",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA21S_0053",
+    "original": "おのずと、一番明るい場所へ向かう\nのではないでしょうか",
+    "translation": "おのずと、一番明るい場所へ向かう\nのではないでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA21S_0054",
+    "original": "さすが古泉くん、それはあり得る話\nだわ",
+    "translation": "さすが古泉くん、それはあり得る話\nだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA21S_0055",
+    "original": "問題は、一番明るい場所とはどこか\nということですが",
+    "translation": "問題は、一番明るい場所とはどこか\nということですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA21S_0056",
+    "original": "やっぱり、屋上じゃないかしら\n一番空に近いわけだし",
+    "translation": "やっぱり、屋上じゃないかしら\n一番空に近いわけだし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA21S_0057",
+    "original": "なるほど、そうかもしれませんね",
+    "translation": "なるほど、そうかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA21S_0058",
+    "original": "うん、そうと分かったら、このまま\n屋上も見てきましょう",
+    "translation": "うん、そうと分かったら、このまま\n屋上も見てきましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA21S_0059",
+    "original": "もしかしたら、光合成の真っ最中な\n木に出くわすかも",
+    "translation": "もしかしたら、光合成の真っ最中な\n木に出くわすかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA21S_0060",
+    "original": "了解しました",
+    "translation": "了解しました",
+    "speaker": "古泉"
+  }
+]

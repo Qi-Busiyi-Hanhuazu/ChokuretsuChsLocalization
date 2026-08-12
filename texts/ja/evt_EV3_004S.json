@@ -1,0 +1,1376 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_004S_0000",
+    "original": "そんなわけで、朝比奈さんと食材の\n買い出しに出かけることになった",
+    "translation": "そんなわけで、朝比奈さんと食材の\n買い出しに出かけることになった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_004S_0001",
+    "original": "ゴタゴタとしたややこしい合宿に\n一服の清涼剤といったところか",
+    "translation": "ゴタゴタとしたややこしい合宿に\n一服の清涼剤といったところか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_004S_0002",
+    "original": "えっと、バーベキューってどんな\nものを焼くのがいいんでしょう？",
+    "translation": "えっと、バーベキューってどんな\nものを焼くのがいいんでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_004S_0003",
+    "original": "そうですね、焼いて食えるものなら\nなんでもいいんじゃないですか",
+    "translation": "そうですね、焼いて食えるものなら\nなんでもいいんじゃないですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_004S_0004",
+    "original": "うーん、なにがいいのかな……",
+    "translation": "うーん、なにがいいのかな……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_004S_0005",
+    "original": "朝比奈さんは歩きながらもあれこれ\n考えておられるご様子だ",
+    "translation": "朝比奈さんは歩きながらもあれこれ\n考えておられるご様子だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_004S_0006",
+    "original": "ここはひとつアイデアを出した方が\nいいかも知れないな",
+    "translation": "ここはひとつアイデアを出した方が\nいいかも知れないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_004S_0007",
+    "original": "定番だと、トウモロコシなんて\nどうです？",
+    "translation": "定番だと、トウモロコシなんて\nどうです？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_004S_0008",
+    "original": "あっ、キョンくん\nそれはおいしそうですね",
+    "translation": "あっ、キョンくん\nそれはおいしそうですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_004S_0009",
+    "original": "そういうどっしりしたお野菜も\nいいかもしれませんね",
+    "translation": "そういうどっしりしたお野菜も\nいいかもしれませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_004S_0010",
+    "original": "他には何がいいかなぁ……",
+    "translation": "他には何がいいかなぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_004S_0011",
+    "original": "朝比奈さんはトウモロコシから\n買うものを連想していらっしゃる",
+    "translation": "朝比奈さんはトウモロコシから\n買うものを連想していらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_004S_0012",
+    "original": "[#P05]“レシピ”[#P00]をメモにしましょう",
+    "translation": "[#P05]“レシピ”[#P00]をメモにしましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_004S_0013",
+    "original": "朝比奈さんの[#P05]“レシピ”[#P01]か",
+    "translation": "朝比奈さんの[#P05]“レシピ”[#P01]か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_004S_0014",
+    "original": "そいつは役に立ちそうな気がするな",
+    "translation": "そいつは役に立ちそうな気がするな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_004S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_004S_0016",
+    "original": "ヤキモチなんてどうです？",
+    "translation": "ヤキモチなんてどうです？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_004S_0017",
+    "original": "あはは、キョンくんったら",
+    "translation": "あはは、キョンくんったら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_004S_0018",
+    "original": "それはワンちゃんも食べないですよ",
+    "translation": "それはワンちゃんも食べないですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_004S_0019",
+    "original": "朝比奈さんは俺の冗談にウケて\nおられるようだが……",
+    "translation": "朝比奈さんは俺の冗談にウケて\nおられるようだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_004S_0020",
+    "original": "朝比奈さん、犬も食わないのは\n夫婦ゲンカじゃなかったですか？",
+    "translation": "朝比奈さん、犬も食わないのは\n夫婦ゲンカじゃなかったですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_004S_0021",
+    "original": "え？　あ、あれ？　間違えちゃい\nました？　は、恥ずかしい……",
+    "translation": "え？　あ、あれ？　間違えちゃい\nました？　は、恥ずかしい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_004S_0022",
+    "original": "朝比奈さんが恥ずかしがる様子は\nどんな[#P05]“ツッコミ”[#P01]より素敵です",
+    "translation": "朝比奈さんが恥ずかしがる様子は\nどんな[#P05]“ツッコミ”[#P01]より素敵です",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_004S_0023",
+    "original": "この恥じらう様子も、ハルヒの言う\nところの萌え要素なんだろうな",
+    "translation": "この恥じらう様子も、ハルヒの言う\nところの萌え要素なんだろうな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_004S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_004S_0025",
+    "original": "ふたりで歩いているうちに\n青果店に到着した",
+    "translation": "ふたりで歩いているうちに\n青果店に到着した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_004S_0026",
+    "original": "いらっしゃい！",
+    "translation": "いらっしゃい！",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_004S_0027",
+    "original": "すみません、見せて下さいな",
+    "translation": "すみません、見せて下さいな",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_004S_0028",
+    "original": "どうぞごゆっくり！",
+    "translation": "どうぞごゆっくり！",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_004S_0029",
+    "original": "店のオヤジさんはやたらに威勢よく\n声をかけてきた",
+    "translation": "店のオヤジさんはやたらに威勢よく\n声をかけてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_004S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "八百屋",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_004S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_004S_0032",
+    "original": "朝比奈さんが引き気味なのが\nおかしいやらかわいいやら",
+    "translation": "朝比奈さんが引き気味なのが\nおかしいやらかわいいやら",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_004S_0033",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_004S_0034",
+    "original": "君ら、北高の学生さんだろ？",
+    "translation": "君ら、北高の学生さんだろ？",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_004S_0035",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_004S_0036",
+    "original": "今は夏休みじゃないのかい？",
+    "translation": "今は夏休みじゃないのかい？",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_004S_0037",
+    "original": "はい、夏休み中です",
+    "translation": "はい、夏休み中です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_004S_0038",
+    "original": "なにか学校の行事でもあるのかい？\n夏休み中に制服で買い物なんて",
+    "translation": "なにか学校の行事でもあるのかい？\n夏休み中に制服で買い物なんて",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_004S_0039",
+    "original": "えっ、ちょっと部活動の関係で……",
+    "translation": "えっ、ちょっと部活動の関係で……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_004S_0040",
+    "original": "オヤジさんは朝比奈さんばかりに\n話しかけているが、気持ちはわかる",
+    "translation": "オヤジさんは朝比奈さんばかりに\n話しかけているが、気持ちはわかる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_004S_0041",
+    "original": "日がな一日、とうの立ったご婦人を\n相手にしているのだろう",
+    "translation": "日がな一日、とうの立ったご婦人を\n相手にしているのだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_004S_0042",
+    "original": "キャベツ畑に天使降臨なわけで\nそりゃあ舞い上がらないはずもない",
+    "translation": "キャベツ畑に天使降臨なわけで\nそりゃあ舞い上がらないはずもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_004S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_004S_0044",
+    "original": "そっちの兄さんは、荷物持ちかい？",
+    "translation": "そっちの兄さんは、荷物持ちかい？",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_004S_0045",
+    "original": "……まあ、そんなところです",
+    "translation": "……まあ、そんなところです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_004S_0046",
+    "original": "いきなり俺に話を振ったと思えば\nお愛想程度の会話か",
+    "translation": "いきなり俺に話を振ったと思えば\nお愛想程度の会話か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_004S_0047",
+    "original": "",
+    "translation": "",
+    "speaker": "八百屋",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_004S_0048",
+    "original": "キョンくん、トウモロコシとか\nキャベツなんかでいいですか？",
+    "translation": "キョンくん、トウモロコシとか\nキャベツなんかでいいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_004S_0049",
+    "original": "あとはタマネギとかピーマンも\nあると見た目もいいですね",
+    "translation": "あとはタマネギとかピーマンも\nあると見た目もいいですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_004S_0050",
+    "original": "そっかあ、見た目も大事ですね",
+    "translation": "そっかあ、見た目も大事ですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_004S_0051",
+    "original": "食欲をそそる色があるといいかも\n知れないですよ。赤いものとか",
+    "translation": "食欲をそそる色があるといいかも\n知れないですよ。赤いものとか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_004S_0052",
+    "original": "トマトとかでしょうか",
+    "translation": "トマトとかでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_004S_0053",
+    "original": "トマトを焼いたらぐずぐずになり\nそうな気がしますけど……",
+    "translation": "トマトを焼いたらぐずぐずになり\nそうな気がしますけど……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_004S_0054",
+    "original": "軽く焼いたトマトはおいしいですよ",
+    "translation": "軽く焼いたトマトはおいしいですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_004S_0055",
+    "original": "朝比奈さんが言うのであればそう\nでしょう。それはぜひ試してみたい",
+    "translation": "朝比奈さんが言うのであればそう\nでしょう。それはぜひ試してみたい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_004S_0056",
+    "original": "じゃあ、これとこれと……\nあと、これも買っていきましょう",
+    "translation": "じゃあ、これとこれと……\nあと、これも買っていきましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_004S_0057",
+    "original": "そんなに買って大丈夫ですか？",
+    "translation": "そんなに買って大丈夫ですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_004S_0058",
+    "original": "はい、ちゃんと計算してますから",
+    "translation": "はい、ちゃんと計算してますから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_004S_0059",
+    "original": "どこから出したのか、朝比奈さんは\n電卓を片手に計算していた",
+    "translation": "どこから出したのか、朝比奈さんは\n電卓を片手に計算していた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_004S_0060",
+    "original": "携帯に電卓はついているはずだけど\n可愛いミニ電卓が朝比奈さんらしい",
+    "translation": "携帯に電卓はついているはずだけど\n可愛いミニ電卓が朝比奈さんらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_004S_0061",
+    "original": "あ、あれ？\nどこにいっちゃったんだろう……？",
+    "translation": "あ、あれ？\nどこにいっちゃったんだろう……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV3_004S_0062",
+    "original": "どうしたんです、朝比奈さん？",
+    "translation": "どうしたんです、朝比奈さん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV3_004S_0063",
+    "original": "あ、あの、えっと、預かってきた\nお金を入れたお財布がないんです",
+    "translation": "あ、あの、えっと、預かってきた\nお金を入れたお財布がないんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV3_004S_0064",
+    "original": "ええっ！？",
+    "translation": "ええっ！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV3_004S_0065",
+    "original": "どこかに落としたんでしょうか……",
+    "translation": "どこかに落としたんでしょうか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV3_004S_0066",
+    "original": "朝比奈さんは一気に涙目になって\nオロオロとしていらっしゃる",
+    "translation": "朝比奈さんは一気に涙目になって\nオロオロとしていらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV3_004S_0067",
+    "original": "ど、どうしましょうか？",
+    "translation": "ど、どうしましょうか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV3_004S_0068",
+    "original": "大変ですぅ",
+    "translation": "大変ですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV3_004S_0069",
+    "original": "一緒になって慌てていると、足元に\nレシートが落ちているのを見つけた",
+    "translation": "一緒になって慌てていると、足元に\nレシートが落ちているのを見つけた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV3_004S_0070",
+    "original": "……なんだこの高額なレシートは？",
+    "translation": "……なんだこの高額なレシートは？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV3_004S_0071",
+    "original": "そのレシートはよく見ると、えらく\n長い上にこの店の名前が入っていた",
+    "translation": "そのレシートはよく見ると、えらく\n長い上にこの店の名前が入っていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV3_004S_0072",
+    "original": "金額は……６桁？",
+    "translation": "金額は……６桁？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV3_004S_0073",
+    "original": "青果店で十万も買い物をするとは\nちょっとしたショックだな",
+    "translation": "青果店で十万も買い物をするとは\nちょっとしたショックだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV3_004S_0074",
+    "original": "これはハルヒに見せたら面白がる\nかもしれん",
+    "translation": "これはハルヒに見せたら面白がる\nかもしれん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV3_004S_0075",
+    "original": "俺は拾った[#P05]“高額レシート”[#P01]を\nポケットに押し込んだ",
+    "translation": "俺は拾った[#P05]“高額レシート”[#P01]を\nポケットに押し込んだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV3_004S_0076",
+    "original": "朝比奈さん、ひとまず落ち着いて\n下さい。慌てても仕方ありません",
+    "translation": "朝比奈さん、ひとまず落ち着いて\n下さい。慌てても仕方ありません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV3_004S_0077",
+    "original": "は、はい。キョンくんごめんなさい\nちょっとこれを持ってて下さい",
+    "translation": "は、はい。キョンくんごめんなさい\nちょっとこれを持ってて下さい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV3_004S_0078",
+    "original": "朝比奈さんが手渡してきたのは\nキーホルダーサイズの[#P05]“電卓”[#P01]だ",
+    "translation": "朝比奈さんが手渡してきたのは\nキーホルダーサイズの[#P05]“電卓”[#P01]だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV3_004S_0079",
+    "original": "とりあえず預かっておくとするか\n落ち着いたら返すとしよう",
+    "translation": "とりあえず預かっておくとするか\n落ち着いたら返すとしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV3_004S_0080",
+    "original": "ここにもないし、ここにもない……",
+    "translation": "ここにもないし、ここにもない……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV3_004S_0081",
+    "original": "女子の制服にはそんなにも財布を\n入れる場所があるのかと驚いたね",
+    "translation": "女子の制服にはそんなにも財布を\n入れる場所があるのかと驚いたね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV3_004S_0082",
+    "original": "どこかで落としたという可能性は？",
+    "translation": "どこかで落としたという可能性は？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV3_004S_0083",
+    "original": "そうかも知れません……",
+    "translation": "そうかも知れません……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV3_004S_0084",
+    "original": "涙目で地面を見つめる朝比奈さん",
+    "translation": "涙目で地面を見つめる朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV3_004S_0085",
+    "original": "そんな目で見られたら地面も途方に\nくれるのではないかと思う",
+    "translation": "そんな目で見られたら地面も途方に\nくれるのではないかと思う",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV3_004S_0086",
+    "original": "ふえぇ……どうしようキョンくん",
+    "translation": "ふえぇ……どうしようキョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV3_004S_0087",
+    "original": "俺の手持ちで足りればいいですが\nあいにく微妙な金額でして",
+    "translation": "俺の手持ちで足りればいいですが\nあいにく微妙な金額でして",
+    "speaker": "キョン"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV3_004S_0088",
+    "original": "涼宮さんの気持ちがバーベキューに\n向いてよかったと喜んだのに……",
+    "translation": "涼宮さんの気持ちがバーベキューに\n向いてよかったと喜んだのに……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV3_004S_0089",
+    "original": "これで少しでも危険が回避出来ると\n思ったのに……",
+    "translation": "これで少しでも危険が回避出来ると\n思ったのに……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV3_004S_0090",
+    "original": "朝比奈さんは涙目を通り越して\n今にも泣き出しそうだった",
+    "translation": "朝比奈さんは涙目を通り越して\n今にも泣き出しそうだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV3_004S_0091",
+    "original": "見ているこっちがいたたまれなく\nなるお姿だ",
+    "translation": "見ているこっちがいたたまれなく\nなるお姿だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV3_004S_0092",
+    "original": "なんとかして差し上げたいところだ\nが、持ち合わせが無いのが情けない",
+    "translation": "なんとかして差し上げたいところだ\nが、持ち合わせが無いのが情けない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV3_004S_0093",
+    "original": "今の俺の財政状況は、野菜か肉の\nどちらかしか買えない程度しかない",
+    "translation": "今の俺の財政状況は、野菜か肉の\nどちらかしか買えない程度しかない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV3_004S_0094",
+    "original": "とにかく、まだダメだと決まった\nわけじゃないですから",
+    "translation": "とにかく、まだダメだと決まった\nわけじゃないですから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV3_004S_0095",
+    "original": "で、でもぉ……",
+    "translation": "で、でもぉ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV3_004S_0096",
+    "original": "方法はあるはずです。あきらめず\n頑張りましょう、朝比奈さん",
+    "translation": "方法はあるはずです。あきらめず\n頑張りましょう、朝比奈さん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV3_004S_0097",
+    "original": "は、はい……頑張ります",
+    "translation": "は、はい……頑張ります",
+    "speaker": "みくる"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV3_004S_0098",
+    "original": "朝比奈さんから[#P05]“頑張り”[#P01]ますと\n言う言葉が聞けただけで安心だ",
+    "translation": "朝比奈さんから[#P05]“頑張り”[#P01]ますと\n言う言葉が聞けただけで安心だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV3_004S_0099",
+    "original": "もう一度再確認してみては？",
+    "translation": "もう一度再確認してみては？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV3_004S_0100",
+    "original": "は、はいぃ……",
+    "translation": "は、はいぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV3_004S_0101",
+    "original": "ポケットを探す朝比奈さんだが\n小さな鈴を見つけたらしい",
+    "translation": "ポケットを探す朝比奈さんだが\n小さな鈴を見つけたらしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV3_004S_0102",
+    "original": "それはなんです？",
+    "translation": "それはなんです？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV3_004S_0103",
+    "original": "何かの鈴みたいですね",
+    "translation": "何かの鈴みたいですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV3_004S_0104",
+    "original": "財布についていたものですかね？",
+    "translation": "財布についていたものですかね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV3_004S_0105",
+    "original": "よく分かりませんけど……あたしの\nものじゃありません",
+    "translation": "よく分かりませんけど……あたしの\nものじゃありません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV3_004S_0106",
+    "original": "朝比奈さんから[#P05]“鈴”[#P01]を受け取った",
+    "translation": "朝比奈さんから[#P05]“鈴”[#P01]を受け取った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV3_004S_0107",
+    "original": "いつ朝比奈さんのポケットに\nまぎれ込んだのだろう？",
+    "translation": "いつ朝比奈さんのポケットに\nまぎれ込んだのだろう？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV3_004S_0108",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "evt_EV3_004S_0109",
+    "original": "どうしたんだい、財布がないのかい",
+    "translation": "どうしたんだい、財布がないのかい",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV3_004S_0110",
+    "original": "ええ、ちょっと……",
+    "translation": "ええ、ちょっと……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV3_004S_0111",
+    "original": "取り込み中に声を掛けないで欲しい\nのだが、商売なのだから仕方がない",
+    "translation": "取り込み中に声を掛けないで欲しい\nのだが、商売なのだから仕方がない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV3_004S_0112",
+    "original": "",
+    "translation": "",
+    "speaker": "八百屋",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "evt_EV3_004S_0113",
+    "original": "お金がなくなってバーベキューが\n中止になったら、あたしのせいです",
+    "translation": "お金がなくなってバーベキューが\n中止になったら、あたしのせいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV3_004S_0114",
+    "original": "と、とにかく落ち着いて下さい",
+    "translation": "と、とにかく落ち着いて下さい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV3_004S_0115",
+    "original": "ここでマジ泣きをされたら大変だ",
+    "translation": "ここでマジ泣きをされたら大変だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV3_004S_0116",
+    "original": "なんとか朝比奈さんをなぐさめて\n金を工面しないとまずいな",
+    "translation": "なんとか朝比奈さんをなぐさめて\n金を工面しないとまずいな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV3_004S_0117",
+    "original": "いったん戻って古泉と相談するしか\nないかもしれませんね",
+    "translation": "いったん戻って古泉と相談するしか\nないかもしれませんね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV3_004S_0118",
+    "original": "ご、ごめんなさいキョンくん……",
+    "translation": "ご、ごめんなさいキョンくん……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV3_004S_0119",
+    "original": "戻りがてらに財布が見つかれば\nそれはそれでラッキーですから",
+    "translation": "戻りがてらに財布が見つかれば\nそれはそれでラッキーですから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV3_004S_0120",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 121,
+    "key": "evt_EV3_004S_0121",
+    "original": "だから、財布がないのかい？",
+    "translation": "だから、財布がないのかい？",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV3_004S_0122",
+    "original": "すみません、落としたらしくて",
+    "translation": "すみません、落としたらしくて",
+    "speaker": "キョン"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV3_004S_0123",
+    "original": "じゃあ、あとでいいよ",
+    "translation": "じゃあ、あとでいいよ",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV3_004S_0124",
+    "original": "はい？",
+    "translation": "はい？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV3_004S_0125",
+    "original": "そっちの可愛いお嬢ちゃんに免じて\nお金は後でいいよ",
+    "translation": "そっちの可愛いお嬢ちゃんに免じて\nお金は後でいいよ",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV3_004S_0126",
+    "original": "ふ、ふえぇ？",
+    "translation": "ふ、ふえぇ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV3_004S_0127",
+    "original": "北高の生徒さんだってわかってるし\nなにしろお嬢ちゃん、可愛いから",
+    "translation": "北高の生徒さんだってわかってるし\nなにしろお嬢ちゃん、可愛いから",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV3_004S_0128",
+    "original": "後ろ一行は激しく同意である",
+    "translation": "後ろ一行は激しく同意である",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV3_004S_0129",
+    "original": "だから後でいいよ。帰りにでも\n寄って、払ってくれりゃあいい",
+    "translation": "だから後でいいよ。帰りにでも\n寄って、払ってくれりゃあいい",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV3_004S_0130",
+    "original": "え、でも、いいんですか？",
+    "translation": "え、でも、いいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV3_004S_0131",
+    "original": "ああ、いいとも。部活に使うもの\nなんだろうから、持ってお行き",
+    "translation": "ああ、いいとも。部活に使うもの\nなんだろうから、持ってお行き",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV3_004S_0132",
+    "original": "朝比奈さんは美少女だけに、店主の\n親切心を引き出したのであろう",
+    "translation": "朝比奈さんは美少女だけに、店主の\n親切心を引き出したのであろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV3_004S_0133",
+    "original": "そんな朝比奈さんは、青果店の主\nからうやうやしく野菜を受け取った",
+    "translation": "そんな朝比奈さんは、青果店の主\nからうやうやしく野菜を受け取った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV3_004S_0134",
+    "original": "ありがとうございます、必ずあとで\n届けますから",
+    "translation": "ありがとうございます、必ずあとで\n届けますから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV3_004S_0135",
+    "original": "帰りが遅くなるようだったら\n明日でもいいよ、お嬢ちゃん",
+    "translation": "帰りが遅くなるようだったら\n明日でもいいよ、お嬢ちゃん",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV3_004S_0136",
+    "original": "ほんとうにいいんですか？",
+    "translation": "ほんとうにいいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV3_004S_0137",
+    "original": "あ～あ、いいとも。お嬢ちゃんは\n人を裏切るような子じゃないだろ",
+    "translation": "あ～あ、いいとも。お嬢ちゃんは\n人を裏切るような子じゃないだろ",
+    "speaker": "八百屋"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV3_004S_0138",
+    "original": "それにも大いに同意である",
+    "translation": "それにも大いに同意である",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV3_004S_0139",
+    "original": "朝比奈さん、後払いならなんとか\n出来ると思いますよ",
+    "translation": "朝比奈さん、後払いならなんとか\n出来ると思いますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV3_004S_0140",
+    "original": "そ、そうですか……",
+    "translation": "そ、そうですか……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV3_004S_0141",
+    "original": "だから、安心して受け取って\n行きましょう",
+    "translation": "だから、安心して受け取って\n行きましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV3_004S_0142",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV3_004S_0143",
+    "original": "ありがとうございます、あとで\n必ずお金を持ってきますね",
+    "translation": "ありがとうございます、あとで\n必ずお金を持ってきますね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV3_004S_0144",
+    "original": "ぺこぺことお辞儀をする朝比奈さん\nと共に、俺も挨拶をしておいた",
+    "translation": "ぺこぺことお辞儀をする朝比奈さん\nと共に、俺も挨拶をしておいた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV3_004S_0145",
+    "original": "",
+    "translation": "",
+    "speaker": "八百屋",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "evt_EV3_004S_0146",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "evt_EV3_004S_0147",
+    "original": "何はともあれ材料は手に入った\n後は軍資金をどうするかだ",
+    "translation": "何はともあれ材料は手に入った\n後は軍資金をどうするかだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV3_004S_0148",
+    "original": "とりあえず野菜は何とかなりました\n肉は、俺が立て替えておきます",
+    "translation": "とりあえず野菜は何とかなりました\n肉は、俺が立て替えておきます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV3_004S_0149",
+    "original": "それで学校に戻りましょう",
+    "translation": "それで学校に戻りましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV3_004S_0150",
+    "original": "はい、キョンくん",
+    "translation": "はい、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV3_004S_0151",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "evt_EV3_004S_0152",
+    "original": "来た道をじっくりと探しながら\n歩いたが、財布は見あたらなかった",
+    "translation": "来た道をじっくりと探しながら\n歩いたが、財布は見あたらなかった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV3_004S_0153",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 154,
+    "key": "evt_EV3_004S_0154",
+    "original": "朝比奈さんは財布をなくした責任を\n感じてか、道中はずっと涙目だった",
+    "translation": "朝比奈さんは財布をなくした責任を\n感じてか、道中はずっと涙目だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV3_004S_0155",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 156,
+    "key": "evt_EV3_004S_0156",
+    "original": "おそすぎるわよ、キョン！",
+    "translation": "おそすぎるわよ、キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV3_004S_0157",
+    "original": "帰りがおそいと我が団長殿は不機嫌\nきわまりない様子でいらっしゃる",
+    "translation": "帰りがおそいと我が団長殿は不機嫌\nきわまりない様子でいらっしゃる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV3_004S_0158",
+    "original": "すまん、ちょっと事情があってな",
+    "translation": "すまん、ちょっと事情があってな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV3_004S_0159",
+    "original": "なによ、事情ってこれのこと？",
+    "translation": "なによ、事情ってこれのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV3_004S_0160",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "evt_EV3_004S_0161",
+    "original": "そ、それはぁ！",
+    "translation": "そ、それはぁ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV3_004S_0162",
+    "original": "ハルヒの手に握られていたのは\nなくしたはずの財布だった",
+    "translation": "ハルヒの手に握られていたのは\nなくしたはずの財布だった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV3_004S_0163",
+    "original": "どうしてその財布をおまえが持って\nいるのか、説明してもらおうか",
+    "translation": "どうしてその財布をおまえが持って\nいるのか、説明してもらおうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV3_004S_0164",
+    "original": "どうしてお財布を忘れても買い物を\n済ませてこれたのか説明しなさいよ",
+    "translation": "どうしてお財布を忘れても買い物を\n済ませてこれたのか説明しなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV3_004S_0165",
+    "original": "団長様は今なんと仰った？",
+    "translation": "団長様は今なんと仰った？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV3_004S_0166",
+    "original": "みくるちゃんがお財布を忘れたのよ",
+    "translation": "みくるちゃんがお財布を忘れたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV3_004S_0167",
+    "original": "ふえぇぇ？",
+    "translation": "ふえぇぇ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 168,
+    "key": "evt_EV3_004S_0168",
+    "original": "キョン、あんた立て替えれるほど\nお金持ってたわけ？",
+    "translation": "キョン、あんた立て替えれるほど\nお金持ってたわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV3_004S_0169",
+    "original": "いや、じつは青果店のオヤジが\n朝比奈さんが可愛いからって",
+    "translation": "いや、じつは青果店のオヤジが\n朝比奈さんが可愛いからって",
+    "speaker": "キョン"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV3_004S_0170",
+    "original": "ツケでいいって言い出したんだ",
+    "translation": "ツケでいいって言い出したんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 171,
+    "key": "evt_EV3_004S_0171",
+    "original": "それ何の冗談？",
+    "translation": "それ何の冗談？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV3_004S_0172",
+    "original": "冗談じゃない、マジだ",
+    "translation": "冗談じゃない、マジだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV3_004S_0173",
+    "original": "マジで？",
+    "translation": "マジで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV3_004S_0174",
+    "original": "大マジだ",
+    "translation": "大マジだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV3_004S_0175",
+    "original": "そうなの、みくるちゃん？",
+    "translation": "そうなの、みくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV3_004S_0176",
+    "original": "は、はい。後で持ってきたらいいよ\nって言ってくれました",
+    "translation": "は、はい。後で持ってきたらいいよ\nって言ってくれました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV3_004S_0177",
+    "original": "えらいっ、みくるちゃん！\nあなた、すごいわ！",
+    "translation": "えらいっ、みくるちゃん！\nあなた、すごいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 178,
+    "key": "evt_EV3_004S_0178",
+    "original": "ど、どうしてですか？",
+    "translation": "ど、どうしてですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV3_004S_0179",
+    "original": "財布を忘れてほめられるのは\n俺としても納得がいかん",
+    "translation": "財布を忘れてほめられるのは\n俺としても納得がいかん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV3_004S_0180",
+    "original": "これはみくるちゃんの可愛さの\n勝利だわ！",
+    "translation": "これはみくるちゃんの可愛さの\n勝利だわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV3_004S_0181",
+    "original": "さすがはあたしがスカウトした\n団員ねっ！",
+    "translation": "さすがはあたしがスカウトした\n団員ねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 182,
+    "key": "evt_EV3_004S_0182",
+    "original": "なるほど、そこをほめたわけか",
+    "translation": "なるほど、そこをほめたわけか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV3_004S_0183",
+    "original": "青果店の主人も見る目があるわっ",
+    "translation": "青果店の主人も見る目があるわっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV3_004S_0184",
+    "original": "ハルヒはいたって上機嫌である",
+    "translation": "ハルヒはいたって上機嫌である",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV3_004S_0185",
+    "original": "いろいろ大変だったが不機嫌になる\nよりはマシなのだろう",
+    "translation": "いろいろ大変だったが不機嫌になる\nよりはマシなのだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV3_004S_0186",
+    "original": "それじゃ、あとであんたがお金を\n払いに行ってきなさいよ、キョン",
+    "translation": "それじゃ、あとであんたがお金を\n払いに行ってきなさいよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV3_004S_0187",
+    "original": "へいへい\nわかってますよ",
+    "translation": "へいへい\nわかってますよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 188,
+    "key": "evt_EV3_004S_0188",
+    "original": "トウモロコシ",
+    "translation": "トウモロコシ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 189,
+    "key": "evt_EV3_004S_0189",
+    "original": "ヤキモチ",
+    "translation": "ヤキモチ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 190,
+    "key": "evt_EV3_004S_0190",
+    "original": "一緒に慌てる",
+    "translation": "一緒に慌てる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 191,
+    "key": "evt_EV3_004S_0191",
+    "original": "落ち着かせる",
+    "translation": "落ち着かせる",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 192,
+    "key": "evt_EV3_004S_0192",
+    "original": "励ます",
+    "translation": "励ます",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 193,
+    "key": "evt_EV3_004S_0193",
+    "original": "再確認",
+    "translation": "再確認",
+    "speaker": "CHOICE"
+  }
+]

@@ -1,0 +1,633 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_032S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_032S_0001",
+    "original": "叫ぶと同時にハルヒが取り出したのは\n一枚のＣＤだった",
+    "translation": "叫ぶと同時にハルヒが取り出したのは\n一枚のＣＤだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_032S_0002",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_032S_0003",
+    "original": "それは……",
+    "translation": "それは……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_032S_0004",
+    "original": "バーベキューの準備してる時に\nもらったそうね、これ",
+    "translation": "バーベキューの準備してる時に\nもらったそうね、これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_032S_0005",
+    "original": "言いながら、ハルヒはケースを\n無造作に開いてＣＤと取り出す",
+    "translation": "言いながら、ハルヒはケースを\n無造作に開いてＣＤと取り出す",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_032S_0006",
+    "original": "ちなみに、このＣＤの中身は\n“仰げば尊し”よ",
+    "translation": "ちなみに、このＣＤの中身は\n“仰げば尊し”よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_032S_0007",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_032S_0008",
+    "original": "仰げば尊し……ですか？",
+    "translation": "仰げば尊し……ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_032S_0009",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_032S_0010",
+    "original": "卒業式の定番ですね",
+    "translation": "卒業式の定番ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_032S_0011",
+    "original": "いや、それくらいは知ってるが",
+    "translation": "いや、それくらいは知ってるが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_032S_0012",
+    "original": "ちなみに、もともとは\nスコットランド民謡です",
+    "translation": "ちなみに、もともとは\nスコットランド民謡です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_032S_0013",
+    "original": "へー、そうなんですか",
+    "translation": "へー、そうなんですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_032S_0014",
+    "original": "どうでもいい知識だな",
+    "translation": "どうでもいい知識だな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_032S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_032S_0016",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_032S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_032S_0018",
+    "original": "あと、このラジカセね",
+    "translation": "あと、このラジカセね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_032S_0019",
+    "original": "そりゃ、谷口がどっかから\n持ってきたやつだろ",
+    "translation": "そりゃ、谷口がどっかから\n持ってきたやつだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_032S_0020",
+    "original": "そうよ",
+    "translation": "そうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_032S_0021",
+    "original": "谷口のアホでも、たまには役に\n立つわね",
+    "translation": "谷口のアホでも、たまには役に\n立つわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_032S_0022",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_032S_0023",
+    "original": "それで、どうするおつもりなの\nですか？",
+    "translation": "それで、どうするおつもりなの\nですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_032S_0024",
+    "original": "決まってるじゃない、これを流して\nみんなで卒業式をするのよ",
+    "translation": "決まってるじゃない、これを流して\nみんなで卒業式をするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_032S_0025",
+    "original": "……すまん、なんだって？",
+    "translation": "……すまん、なんだって？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_032S_0026",
+    "original": "卒業式よ！",
+    "translation": "卒業式よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_032S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_032S_0028",
+    "original": "いったい、どんなプロセスを経たら\nそんな結論に至るのか説明してくれ",
+    "translation": "いったい、どんなプロセスを経たら\nそんな結論に至るのか説明してくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_032S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_032S_0030",
+    "original": "簡単よ",
+    "translation": "簡単よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_032S_0031",
+    "original": "卒業式ができなかったせいで無念が\n残って自縛霊になってるんだから",
+    "translation": "卒業式ができなかったせいで無念が\n残って自縛霊になってるんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_032S_0032",
+    "original": "ここで卒業式をやって霊たちの無念\nを取り除いてあげるの",
+    "translation": "ここで卒業式をやって霊たちの無念\nを取り除いてあげるの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_032S_0033",
+    "original": "そしたら、彼らも満足して成仏する\nでしょうし",
+    "translation": "そしたら、彼らも満足して成仏する\nでしょうし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_032S_0034",
+    "original": "もしかしたらお礼の挨拶くらいは\nしてくれるかもしれないじゃない",
+    "translation": "もしかしたらお礼の挨拶くらいは\nしてくれるかもしれないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_032S_0035",
+    "original": "いつの間に自縛霊が大量に眠って\nいることになったんだ",
+    "translation": "いつの間に自縛霊が大量に眠って\nいることになったんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_032S_0036",
+    "original": "そもそも卒業式だの自縛霊だのって\n話はハルヒの創作じゃなかったか？",
+    "translation": "そもそも卒業式だの自縛霊だのって\n話はハルヒの創作じゃなかったか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_032S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_032S_0038",
+    "original": "それでは、卒業式を執り行うことに\nしましょうか",
+    "translation": "それでは、卒業式を執り行うことに\nしましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_032S_0039",
+    "original": "おい古泉、本気か？",
+    "translation": "おい古泉、本気か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_032S_0040",
+    "original": "涼宮さんが望んでおられるのですか\nら、僕としてはご協力するまでです",
+    "translation": "涼宮さんが望んでおられるのですか\nら、僕としてはご協力するまでです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_032S_0041",
+    "original": "静かな微笑みを浮かべ、しれっと\n答える古泉",
+    "translation": "静かな微笑みを浮かべ、しれっと\n答える古泉",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_032S_0042",
+    "original": "相変わらずハルヒの機嫌をとること\nには微塵もちゅうちょしない",
+    "translation": "相変わらずハルヒの機嫌をとること\nには微塵もちゅうちょしない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_032S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_032S_0044",
+    "original": "仕方ない、俺たちも付き合おう",
+    "translation": "仕方ない、俺たちも付き合おう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV3_032S_0045",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV3_032S_0046",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV3_032S_0047",
+    "original": "長門はこくんと頷いて、並べられた\n椅子の一つに座った",
+    "translation": "長門はこくんと頷いて、並べられた\n椅子の一つに座った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV3_032S_0048",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "evt_EV3_032S_0049",
+    "original": "涼宮さん、準備はよいようです",
+    "translation": "涼宮さん、準備はよいようです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV3_032S_0050",
+    "original": "おっけー！　じゃあ、流すわよ！",
+    "translation": "おっけー！　じゃあ、流すわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV3_032S_0051",
+    "original": "体育館に、“仰げば尊し”が流れる",
+    "translation": "体育館に、“仰げば尊し”が流れる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV3_032S_0052",
+    "original": "何十もの無人の椅子、ボロいラジカ\nセから流れるノイズ混じりの音楽",
+    "translation": "何十もの無人の椅子、ボロいラジカ\nセから流れるノイズ混じりの音楽",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV3_032S_0053",
+    "original": "正直あんまり気味のいい光景じゃな\nいが、それでもハルヒは満足らしい",
+    "translation": "正直あんまり気味のいい光景じゃな\nいが、それでもハルヒは満足らしい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV3_032S_0054",
+    "original": "うんうん、これでいいわ",
+    "translation": "うんうん、これでいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV3_032S_0055",
+    "original": "あとは幽霊がお礼を言って成仏する\nのを見届けるだけね！",
+    "translation": "あとは幽霊がお礼を言って成仏する\nのを見届けるだけね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV3_032S_0056",
+    "original": "そう都合良くいくかね……",
+    "translation": "そう都合良くいくかね……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV3_032S_0057",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 58,
+    "key": "evt_EV3_032S_0058",
+    "original": "待っていればいいんですか？",
+    "translation": "待っていればいいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV3_032S_0059",
+    "original": "そうね、多分そうよ",
+    "translation": "そうね、多分そうよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV3_032S_0060",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "evt_EV3_032S_0061",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV3_032S_0062",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV3_032S_0063",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV3_032S_0064",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV3_032S_0065",
+    "original": "……なによ、出てこないじゃない",
+    "translation": "……なによ、出てこないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV3_032S_0066",
+    "original": "早くも痺れを切らしたハルヒが\n不満げにつぶやく",
+    "translation": "早くも痺れを切らしたハルヒが\n不満げにつぶやく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV3_032S_0067",
+    "original": "まだ５分と経ってないぞ",
+    "translation": "まだ５分と経ってないぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV3_032S_0068",
+    "original": "ちょっとどういうことなの、キョン",
+    "translation": "ちょっとどういうことなの、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV3_032S_0069",
+    "original": "俺に言うな、俺に",
+    "translation": "俺に言うな、俺に",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV3_032S_0070",
+    "original": "あのな、百歩譲って幽霊が存在して\nいるとしよう",
+    "translation": "あのな、百歩譲って幽霊が存在して\nいるとしよう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV3_032S_0071",
+    "original": "だが、そんな簡単に現れるわけ\nないだろう",
+    "translation": "だが、そんな簡単に現れるわけ\nないだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV3_032S_0072",
+    "original": "キョン、あんたってほんっと、夢が\n無いわねえ！",
+    "translation": "キョン、あんたってほんっと、夢が\n無いわねえ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV3_032S_0073",
+    "original": "幽霊なんて、見たことないです……",
+    "translation": "幽霊なんて、見たことないです……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV3_032S_0074",
+    "original": "そりゃ、あたしだって見たことない\nけど……あ、そうか！",
+    "translation": "そりゃ、あたしだって見たことない\nけど……あ、そうか！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV3_032S_0075",
+    "original": "今度はどんな下らないことを思いつ\nいた",
+    "translation": "今度はどんな下らないことを思いつ\nいた",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV3_032S_0076",
+    "original": "幽霊なんだから、見えなくて当たり\n前なのよね、良く考えたら",
+    "translation": "幽霊なんだから、見えなくて当たり\n前なのよね、良く考えたら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV3_032S_0077",
+    "original": "でも、見えないからって存在しない\nってわけじゃないでしょ",
+    "translation": "でも、見えないからって存在しない\nってわけじゃないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV3_032S_0078",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "evt_EV3_032S_0079",
+    "original": "気体などは見えなくても存在します\nからね",
+    "translation": "気体などは見えなくても存在します\nからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV3_032S_0080",
+    "original": "そう、だから、見えないけどその辺\nに幽霊は現れてて",
+    "translation": "そう、だから、見えないけどその辺\nに幽霊は現れてて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV3_032S_0081",
+    "original": "多分、あたしたちが卒業式を代わり\nにやってあげたことに感謝しながら",
+    "translation": "多分、あたしたちが卒業式を代わり\nにやってあげたことに感謝しながら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV3_032S_0082",
+    "original": "成仏したはずよ\nうん、きっとそうだわ！",
+    "translation": "成仏したはずよ\nうん、きっとそうだわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV3_032S_0083",
+    "original": "なんと都合のいい考えだ",
+    "translation": "なんと都合のいい考えだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV3_032S_0084",
+    "original": "本当にこいつの頭の中はどうなって\nやがるのか、はなはだ疑問に思うが",
+    "translation": "本当にこいつの頭の中はどうなって\nやがるのか、はなはだ疑問に思うが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV3_032S_0085",
+    "original": "理解したくもないし、理解できると\nも思えない",
+    "translation": "理解したくもないし、理解できると\nも思えない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV3_032S_0086",
+    "original": "そうと分かったらスッキリしたわ！\nさあ、部室に戻りましょう",
+    "translation": "そうと分かったらスッキリしたわ！\nさあ、部室に戻りましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV3_032S_0087",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

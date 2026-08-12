@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK68S_0000",
+    "original": "なあ、ハルヒ。古泉が恩返しをして\nくれるとしたら、何だと思う？",
+    "translation": "なあ、ハルヒ。古泉が恩返しをして\nくれるとしたら、何だと思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK68S_0001",
+    "original": "またいきなり、わけのわからない話\nを始めたわね。古泉くんの恩返し？",
+    "translation": "またいきなり、わけのわからない話\nを始めたわね。古泉くんの恩返し？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK68S_0002",
+    "original": "感謝の印、と言い換えてもいいが",
+    "translation": "感謝の印、と言い換えてもいいが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK68S_0003",
+    "original": "そうね。ご飯でもおごってくれるん\nじゃない？",
+    "translation": "そうね。ご飯でもおごってくれるん\nじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK68S_0004",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK68S_0005",
+    "original": "古泉と二人でメシ、なんてのは余り\n想像したくない光景なんだが……",
+    "translation": "古泉と二人でメシ、なんてのは余り\n想像したくない光景なんだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK68S_0006",
+    "original": "キョンくんが、古泉くんの感謝は\n判りにくいってぼやいてました",
+    "translation": "キョンくんが、古泉くんの感謝は\n判りにくいってぼやいてました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK68S_0007",
+    "original": "なに言ってんのかしらね、自分こそ\n人に感謝の気持ちなんかないくせに",
+    "translation": "なに言ってんのかしらね、自分こそ\n人に感謝の気持ちなんかないくせに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK68S_0008",
+    "original": "そ、そうですか？",
+    "translation": "そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK68S_0009",
+    "original": "そうよ、みくるちゃんにだって、\nお茶を入れて貰って当然って顔！",
+    "translation": "そうよ、みくるちゃんにだって、\nお茶を入れて貰って当然って顔！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK68S_0010",
+    "original": "そ、そうでしたっけ？　むしろ他の\n人の方がわかりにくいかも……",
+    "translation": "そ、そうでしたっけ？　むしろ他の\n人の方がわかりにくいかも……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK68S_0011",
+    "original": "なんか言った？",
+    "translation": "なんか言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK68S_0012",
+    "original": "い、いいえ",
+    "translation": "い、いいえ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK68S_0013",
+    "original": "人に感謝の気持ちを告げる時には\n照れくさい気持ちになるという",
+    "translation": "人に感謝の気持ちを告げる時には\n照れくさい気持ちになるという",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK68S_0014",
+    "original": "なるほどね。有希は誰かに感謝の\n気持ちを伝えたいのね",
+    "translation": "なるほどね。有希は誰かに感謝の\n気持ちを伝えたいのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK68S_0015",
+    "original": "照れくさいって言うのは、きっと\nその相手が好きだからに違いないわ",
+    "translation": "照れくさいって言うのは、きっと\nその相手が好きだからに違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK68S_0016",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK68S_0017",
+    "original": "有希が感謝の気持ちを伝えたい相手\nって、誰なのっ？",
+    "translation": "有希が感謝の気持ちを伝えたい相手\nって、誰なのっ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK68S_0018",
+    "original": "……今は誰もいない。感情の変化に\nについて聞きたかっただけ",
+    "translation": "……今は誰もいない。感情の変化に\nについて聞きたかっただけ",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK68S_0019",
+    "original": "なあんだ、そうだったの\nちょっとドキドキしちゃったわよ",
+    "translation": "なあんだ、そうだったの\nちょっとドキドキしちゃったわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK68S_0020",
+    "original": "さ、はやく先に進むわよ、有希",
+    "translation": "さ、はやく先に進むわよ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK68S_0021",
+    "original": "先程、彼に助けていただきました",
+    "translation": "先程、彼に助けていただきました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK68S_0022",
+    "original": "助けてって何かピンチだったわけ？",
+    "translation": "助けてって何かピンチだったわけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK68S_0023",
+    "original": "肝試しの時ですね。真っ暗だった\nものですから、",
+    "translation": "肝試しの時ですね。真っ暗だった\nものですから、",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK68S_0024",
+    "original": "少々危ない目に遭いそうになりまし\nてね",
+    "translation": "少々危ない目に遭いそうになりまし\nてね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK68S_0025",
+    "original": "古泉くんでもそうなの？",
+    "translation": "古泉くんでもそうなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK68S_0026",
+    "original": "それじゃ、確かにみくるちゃんには\n荷が重かったわね。まずかったわ",
+    "translation": "それじゃ、確かにみくるちゃんには\n荷が重かったわね。まずかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK68S_0027",
+    "original": "そこで感謝の意を表明したのですが\n邪険にあしらわれてしまいました",
+    "translation": "そこで感謝の意を表明したのですが\n邪険にあしらわれてしまいました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK68S_0028",
+    "original": "それって、照れてたのかもよ",
+    "translation": "それって、照れてたのかもよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK68S_0029",
+    "original": "後ほど再度お礼を言うつもりなの\nですが、よいものかどうか……",
+    "translation": "後ほど再度お礼を言うつもりなの\nですが、よいものかどうか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK68S_0030",
+    "original": "うんと丁寧に言うといいわ\nきっとすごくイヤがるから！",
+    "translation": "うんと丁寧に言うといいわ\nきっとすごくイヤがるから！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK68S_0031",
+    "original": "むろん、そうするつもりですよ",
+    "translation": "むろん、そうするつもりですよ",
+    "speaker": "古泉"
+  }
+]

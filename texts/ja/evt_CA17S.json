@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA17S_0000",
+    "original": "信頼されるというのは大切だな",
+    "translation": "信頼されるというのは大切だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA17S_0001",
+    "original": "へええ、誰に信頼されたのかしら",
+    "translation": "へええ、誰に信頼されたのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA17S_0002",
+    "original": "朝比奈さんにだが、言わない方が\n良さそうだな",
+    "translation": "朝比奈さんにだが、言わない方が\n良さそうだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA17S_0003",
+    "original": "誰というわけじゃなくて、まあ\n一般論としての話だ",
+    "translation": "誰というわけじゃなくて、まあ\n一般論としての話だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA17S_0004",
+    "original": "そうね、信頼関係は築きたいもの\nだわ。特にキョンとね",
+    "translation": "そうね、信頼関係は築きたいもの\nだわ。特にキョンとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA17S_0005",
+    "original": "お、俺とか？",
+    "translation": "お、俺とか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA17S_0006",
+    "original": "もっと、ＳＯＳ団団員として\nしっかりキッチリ、バッチリ働いて",
+    "translation": "もっと、ＳＯＳ団団員として\nしっかりキッチリ、バッチリ働いて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA17S_0007",
+    "original": "団長であるあたしの信頼を\n勝ち取って欲しいわ",
+    "translation": "団長であるあたしの信頼を\n勝ち取って欲しいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA17S_0008",
+    "original": "これ以上か？",
+    "translation": "これ以上か？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA17S_0009",
+    "original": "これ以下はないでしょ",
+    "translation": "これ以下はないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA17S_0010",
+    "original": "やれやれ、やぶへびだったか",
+    "translation": "やれやれ、やぶへびだったか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA17S_0011",
+    "original": "信頼するって大切ですよね",
+    "translation": "信頼するって大切ですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA17S_0012",
+    "original": "そうね。でも信頼する相手は\nちゃんと見極めないとダメよ",
+    "translation": "そうね。でも信頼する相手は\nちゃんと見極めないとダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA17S_0013",
+    "original": "だ、大丈夫な相手ですから",
+    "translation": "だ、大丈夫な相手ですから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA17S_0014",
+    "original": "甘い！　その思いこみが危険だわ",
+    "translation": "甘い！　その思いこみが危険だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA17S_0015",
+    "original": "危険……ですか？",
+    "translation": "危険……ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA17S_0016",
+    "original": "そうよ。うっかり連帯保証人に\nなって、借金を背負わされたり",
+    "translation": "そうよ。うっかり連帯保証人に\nなって、借金を背負わされたり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA17S_0017",
+    "original": "濡れ衣を着せられて、牢屋に\n入れられたり",
+    "translation": "濡れ衣を着せられて、牢屋に\n入れられたり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA17S_0018",
+    "original": "そ、そんな高校生なのに\nそれはあり得ませんって",
+    "translation": "そ、そんな高校生なのに\nそれはあり得ませんって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA17S_0019",
+    "original": "心構えを言ってるのよ！",
+    "translation": "心構えを言ってるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA17S_0020",
+    "original": "思いこみで信用しちゃダメよ",
+    "translation": "思いこみで信用しちゃダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA17S_0021",
+    "original": "みくるちゃんは、簡単に騙されそう\nなんだから",
+    "translation": "みくるちゃんは、簡単に騙されそう\nなんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA17S_0022",
+    "original": "ううっ、気をつけますぅ",
+    "translation": "ううっ、気をつけますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA17S_0023",
+    "original": "朝比奈みくるの信頼を勝ち得たと\n言っていた",
+    "translation": "朝比奈みくるの信頼を勝ち得たと\n言っていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA17S_0024",
+    "original": "……キョンが？",
+    "translation": "……キョンが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA17S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA17S_0026",
+    "original": "みくるちゃんの信頼ねえ。いったい\nどういう状況だったのかしら",
+    "translation": "みくるちゃんの信頼ねえ。いったい\nどういう状況だったのかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA17S_0027",
+    "original": "詳細は聞いていない",
+    "translation": "詳細は聞いていない",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA17S_0028",
+    "original": "キョンに会ったら聞いてみるわ\n変なことしたんじゃないでしょうね",
+    "translation": "キョンに会ったら聞いてみるわ\n変なことしたんじゃないでしょうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA17S_0029",
+    "original": "それでは信頼はされない",
+    "translation": "それでは信頼はされない",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA17S_0030",
+    "original": "それもそうね",
+    "translation": "それもそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA17S_0031",
+    "original": "彼は朝比奈さんにずいぶん信頼を\nされているようですね",
+    "translation": "彼は朝比奈さんにずいぶん信頼を\nされているようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA17S_0032",
+    "original": "古泉くん、それってキョンのこと？",
+    "translation": "古泉くん、それってキョンのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA17S_0033",
+    "original": "でも、みくるちゃんは古泉くんも\nすごく信頼してると思うけど？",
+    "translation": "でも、みくるちゃんは古泉くんも\nすごく信頼してると思うけど？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA17S_0034",
+    "original": "もちろん、有希のことも",
+    "translation": "もちろん、有希のことも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA17S_0035",
+    "original": "僕はあまり自信がありませんね",
+    "translation": "僕はあまり自信がありませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CA17S_0036",
+    "original": "へえ、そうなの？　誰からも信頼\nされそうな古泉くんがねえ",
+    "translation": "へえ、そうなの？　誰からも信頼\nされそうな古泉くんがねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CA17S_0037",
+    "original": "彼も朝比奈さんも、裏表のない性格\nですから信頼しやすいのでしょう",
+    "translation": "彼も朝比奈さんも、裏表のない性格\nですから信頼しやすいのでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CA17S_0038",
+    "original": "それって誉めてる？　単純だと暗に\n示唆してたりする？",
+    "translation": "それって誉めてる？　単純だと暗に\n示唆してたりする？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CA17S_0039",
+    "original": "あははは\n言葉どおりに取ってください",
+    "translation": "あははは\n言葉どおりに取ってください",
+    "speaker": "古泉"
+  }
+]

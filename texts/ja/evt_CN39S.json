@@ -1,0 +1,268 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN39S_0000",
+    "original": "長門が作ったかまどを見たか？",
+    "translation": "長門が作ったかまどを見たか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN39S_0001",
+    "original": "見たけど、それが？",
+    "translation": "見たけど、それが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN39S_0002",
+    "original": "石が完璧に組み合わされてて、\nまるでパズルみたいだったぜ",
+    "translation": "石が完璧に組み合わされてて、\nまるでパズルみたいだったぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN39S_0003",
+    "original": "有希って、細かい作業とか得意そう\nだからね",
+    "translation": "有希って、細かい作業とか得意そう\nだからね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN39S_0004",
+    "original": "ああ。普通のパズルとかも得意なん\nだろうな",
+    "translation": "ああ。普通のパズルとかも得意なん\nだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN39S_0005",
+    "original": "今度やらせてみましょうか",
+    "translation": "今度やらせてみましょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN39S_0006",
+    "original": "ストップウォッチで時間を計るの\nもちろん、キョン、あんたもね",
+    "translation": "ストップウォッチで時間を計るの\nもちろん、キョン、あんたもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN39S_0007",
+    "original": "魂胆は判ってる。はるかに遅い俺を\n見て笑うつもりなんだろう",
+    "translation": "魂胆は判ってる。はるかに遅い俺を\n見て笑うつもりなんだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN39S_0008",
+    "original": "あら、判ってるじゃない",
+    "translation": "あら、判ってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN39S_0009",
+    "original": "あ、あのっ、涼宮さんは\nパズルって得意ですか？",
+    "translation": "あ、あのっ、涼宮さんは\nパズルって得意ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN39S_0010",
+    "original": "そういうチマチマした作業って\nあまりやらないわね",
+    "translation": "そういうチマチマした作業って\nあまりやらないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN39S_0011",
+    "original": "そういうみくるちゃんは得意なの？",
+    "translation": "そういうみくるちゃんは得意なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN39S_0012",
+    "original": "あ、あたしも苦手なんですぅ\n途中でわからなくなっちゃって",
+    "translation": "あ、あたしも苦手なんですぅ\n途中でわからなくなっちゃって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN39S_0013",
+    "original": "それでこそドジっ娘だわ！\nわかってるじゃない",
+    "translation": "それでこそドジっ娘だわ！\nわかってるじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN39S_0014",
+    "original": "ふ、ふへっ？",
+    "translation": "ふ、ふへっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN39S_0015",
+    "original": "みくるちゃんはパズルが苦手なのは\n当然として……",
+    "translation": "みくるちゃんはパズルが苦手なのは\n当然として……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN39S_0016",
+    "original": "古泉くんや有希は得意っぽいわよね",
+    "translation": "古泉くんや有希は得意っぽいわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN39S_0017",
+    "original": "は、はい。長門さんとかはかなり\n得意だと思います",
+    "translation": "は、はい。長門さんとかはかなり\n得意だと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN39S_0018",
+    "original": "頭の回転良さそうだものね",
+    "translation": "頭の回転良さそうだものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN39S_0019",
+    "original": "そう言う意味だと、キョンはパズル\nとか苦手そうに見えるわ",
+    "translation": "そう言う意味だと、キョンはパズル\nとか苦手そうに見えるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN39S_0020",
+    "original": "ええっ、そ、そんなことは\nないんじゃないですかぁ",
+    "translation": "ええっ、そ、そんなことは\nないんじゃないですかぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN39S_0021",
+    "original": "パズルみたいだと言われた",
+    "translation": "パズルみたいだと言われた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN39S_0022",
+    "original": "は、なにが？",
+    "translation": "は、なにが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN39S_0023",
+    "original": "かまど",
+    "translation": "かまど",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN39S_0024",
+    "original": "ああ、広場で作ったやつね\n確かに、良くできてたわね",
+    "translation": "ああ、広場で作ったやつね\n確かに、良くできてたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN39S_0025",
+    "original": "でも、キョンにもっと文句を言わな\nいとダメよ",
+    "translation": "でも、キョンにもっと文句を言わな\nいとダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN39S_0026",
+    "original": "あいつ、自分で作らずに有希に任せ\nたんでしょう？",
+    "translation": "あいつ、自分で作らずに有希に任せ\nたんでしょう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN39S_0027",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN39S_0028",
+    "original": "適材適所",
+    "translation": "適材適所",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN39S_0029",
+    "original": "ふむ……まあ、確かにキョンに任せ\nるよりも、いいものができたわよね",
+    "translation": "ふむ……まあ、確かにキョンに任せ\nるよりも、いいものができたわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN39S_0030",
+    "original": "バーベキューのかまどを作ったのは\n長門さんだそうですね",
+    "translation": "バーベキューのかまどを作ったのは\n長門さんだそうですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN39S_0031",
+    "original": "キョンが作ったにしてはきちんと\nしてると思ったわ",
+    "translation": "キョンが作ったにしてはきちんと\nしてると思ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN39S_0032",
+    "original": "パズルのように石を組み合わせて\n作ったと聞きました",
+    "translation": "パズルのように石を組み合わせて\n作ったと聞きました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN39S_0033",
+    "original": "そうだったのね。有希は何をやって\nもソツがないわね",
+    "translation": "そうだったのね。有希は何をやって\nもソツがないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN39S_0034",
+    "original": "さすが我がＳＯＳ団の団員だけの\nことはあるわねっ！",
+    "translation": "さすが我がＳＯＳ団の団員だけの\nことはあるわねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN39S_0035",
+    "original": "はい、彼女の能力には感嘆させられ\nます",
+    "translation": "はい、彼女の能力には感嘆させられ\nます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN39S_0036",
+    "original": "それに引き替え、キョンの情けなさ\nに呆れて涙も出ないわよっ",
+    "translation": "それに引き替え、キョンの情けなさ\nに呆れて涙も出ないわよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN39S_0037",
+    "original": "戻ったらお説教のひとつやふたつ\nしないとねっ！",
+    "translation": "戻ったらお説教のひとつやふたつ\nしないとねっ！",
+    "speaker": "ハルヒ"
+  }
+]

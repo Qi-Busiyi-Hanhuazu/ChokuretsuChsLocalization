@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN81S_0000",
+    "original": "知ってたか？　長門は意外と\n男気が溢れてるんだぜ",
+    "translation": "知ってたか？　長門は意外と\n男気が溢れてるんだぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN81S_0001",
+    "original": "有希に男気ですって？",
+    "translation": "有希に男気ですって？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN81S_0002",
+    "original": "有希は大人しくてイイコなんだから\n男気なんてピンとこないわ",
+    "translation": "有希は大人しくてイイコなんだから\n男気なんてピンとこないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN81S_0003",
+    "original": "ハルヒには、そういう風に見えて\nいたのか……まあ、いいさ",
+    "translation": "ハルヒには、そういう風に見えて\nいたのか……まあ、いいさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN81S_0004",
+    "original": "なによ。あたしは真実を言った\nまでよ",
+    "translation": "なによ。あたしは真実を言った\nまでよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN81S_0005",
+    "original": "そんなくだらない妄想を言ってない\nで、先に行くわよ！",
+    "translation": "そんなくだらない妄想を言ってない\nで、先に行くわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN81S_0006",
+    "original": "長門さんって、時々男気溢れるよう\nなところがありますね",
+    "translation": "長門さんって、時々男気溢れるよう\nなところがありますね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN81S_0007",
+    "original": "あの子、サバサバした性格だからよ\nそう思うときもあるわね",
+    "translation": "あの子、サバサバした性格だからよ\nそう思うときもあるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN81S_0008",
+    "original": "男の子っぽいのとは違いますよね",
+    "translation": "男の子っぽいのとは違いますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN81S_0009",
+    "original": "そうね、女の子にしては寡黙だけど\nそれも魅力のひとつだしねっ",
+    "translation": "そうね、女の子にしては寡黙だけど\nそれも魅力のひとつだしねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN81S_0010",
+    "original": "そうですよね。あたしもあんな風に\nなれるといいなって思うことが……",
+    "translation": "そうですよね。あたしもあんな風に\nなれるといいなって思うことが……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN81S_0011",
+    "original": "みくるちゃんは今のままでいいのよ",
+    "translation": "みくるちゃんは今のままでいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN81S_0012",
+    "original": "ふぇっ、そ、そうですかぁ？",
+    "translation": "ふぇっ、そ、そうですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN81S_0013",
+    "original": "みくるちゃんはみくるちゃん\n有希は有希で、あたしはあたし",
+    "translation": "みくるちゃんはみくるちゃん\n有希は有希で、あたしはあたし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN81S_0014",
+    "original": "それぞれの個性なんだからその\nままでいいのよ",
+    "translation": "それぞれの個性なんだからその\nままでいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN81S_0015",
+    "original": "は、はい、ありがとうございます",
+    "translation": "は、はい、ありがとうございます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN81S_0016",
+    "original": "男気の解釈がわかりづらい",
+    "translation": "男気の解釈がわかりづらい",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN81S_0017",
+    "original": "そうねえ。男の子が乙女心を難解だ\nと思うのと同じじゃないかしら",
+    "translation": "そうねえ。男の子が乙女心を難解だ\nと思うのと同じじゃないかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN81S_0018",
+    "original": "……その解釈も特定が難しい",
+    "translation": "……その解釈も特定が難しい",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN81S_0019",
+    "original": "人の心なんて特定しきれるものじゃ\nないと思うわよ",
+    "translation": "人の心なんて特定しきれるものじゃ\nないと思うわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN81S_0020",
+    "original": "心理学だって最近の学問だし\n大枠で言えば一種の統計学だもの",
+    "translation": "心理学だって最近の学問だし\n大枠で言えば一種の統計学だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN81S_0021",
+    "original": "他人の心の内は判別できない",
+    "translation": "他人の心の内は判別できない",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN81S_0022",
+    "original": "それもだけど、自分でもわからない\n心の動きなんてのもあるしね",
+    "translation": "それもだけど、自分でもわからない\n心の動きなんてのもあるしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN81S_0023",
+    "original": "煩雑な印象がある",
+    "translation": "煩雑な印象がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN81S_0024",
+    "original": "煩雑とは、有希らしい表現だわ",
+    "translation": "煩雑とは、有希らしい表現だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN81S_0025",
+    "original": "そう？",
+    "translation": "そう？",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN81S_0026",
+    "original": "だから人は悩むんじゃないかって\n思うのよね",
+    "translation": "だから人は悩むんじゃないかって\n思うのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN81S_0027",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN81S_0028",
+    "original": "先ほど彼から伺ったのですが……",
+    "translation": "先ほど彼から伺ったのですが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN81S_0029",
+    "original": "何でも、長門さんは男気に溢れて\nいらっしゃるとか",
+    "translation": "何でも、長門さんは男気に溢れて\nいらっしゃるとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN81S_0030",
+    "original": "そんなことないんじゃない？\nキョンの勘違いじゃないの",
+    "translation": "そんなことないんじゃない？\nキョンの勘違いじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN81S_0031",
+    "original": "有希は女の子らしい子なんだから\n男気なんてあるわけないでしょ",
+    "translation": "有希は女の子らしい子なんだから\n男気なんてあるわけないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN81S_0032",
+    "original": "まあ……そうとも言えますね",
+    "translation": "まあ……そうとも言えますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN81S_0033",
+    "original": "古泉くん、キョンの話なんかを\n真に受けちゃだめよ",
+    "translation": "古泉くん、キョンの話なんかを\n真に受けちゃだめよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN81S_0034",
+    "original": "……そうですね",
+    "translation": "……そうですね",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,415 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK13S_0000",
+    "original": "おい、ハルヒ",
+    "translation": "おい、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK13S_0001",
+    "original": "なに？　今、急いでるんだけど",
+    "translation": "なに？　今、急いでるんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK13S_0002",
+    "original": "以前、オマエは言ってたな。宇宙人\n未来人、超能力者がいたら来い、と",
+    "translation": "以前、オマエは言ってたな。宇宙人\n未来人、超能力者がいたら来い、と",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK13S_0003",
+    "original": "言ったけど、それがなんなの？",
+    "translation": "言ったけど、それがなんなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK13S_0004",
+    "original": "もし、超能力者は身近に実在すると\n俺が主張したら、お前はどう思う？",
+    "translation": "もし、超能力者は身近に実在すると\n俺が主張したら、お前はどう思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK13S_0005",
+    "original": "簡単よ",
+    "translation": "簡単よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK13S_0006",
+    "original": "その口と鼻をホッチキスで止めて\nすまきにしてプールに投げ込むわね",
+    "translation": "その口と鼻をホッチキスで止めて\nすまきにしてプールに投げ込むわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK13S_0007",
+    "original": "あんた、前もそんな話を\nしてたでしょ",
+    "translation": "あんた、前もそんな話を\nしてたでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK13S_0008",
+    "original": "いい加減にしなさいよ",
+    "translation": "いい加減にしなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK13S_0009",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK13S_0010",
+    "original": "耳を貸そうともせず、ズカズカと先\nに行ってしまったぞ",
+    "translation": "耳を貸そうともせず、ズカズカと先\nに行ってしまったぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK13S_0011",
+    "original": "やれやれ……",
+    "translation": "やれやれ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK13S_0012",
+    "original": "あ、あたし思ったんですけど……",
+    "translation": "あ、あたし思ったんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK13S_0013",
+    "original": "これって、超能力者のせいじゃ\nないでしょうか？",
+    "translation": "これって、超能力者のせいじゃ\nないでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK13S_0014",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK13S_0015",
+    "original": "……みくるちゃん、いきなり\n熱でもあるの？",
+    "translation": "……みくるちゃん、いきなり\n熱でもあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK13S_0016",
+    "original": "あ、ありませぇん、熱なんてっ",
+    "translation": "あ、ありませぇん、熱なんてっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK13S_0017",
+    "original": "要するに、この謎のピアノ事件が",
+    "translation": "要するに、この謎のピアノ事件が",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK13S_0018",
+    "original": "超能力者の仕業だって\n言いたいのね？",
+    "translation": "超能力者の仕業だって\n言いたいのね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK13S_0019",
+    "original": "え、ええと、そんな感じです",
+    "translation": "え、ええと、そんな感じです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK13S_0020",
+    "original": "みくるちゃん……もっと頭を使って\nしっかり考えなきゃダメよ",
+    "translation": "みくるちゃん……もっと頭を使って\nしっかり考えなきゃダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK13S_0021",
+    "original": "いーい？　超能力なんてモノはね\nそんじょそこらにある力じゃないの",
+    "translation": "いーい？　超能力なんてモノはね\nそんじょそこらにある力じゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK13S_0022",
+    "original": "しかも、何のために超能力者が\n夏休みの学校で、こんな",
+    "translation": "しかも、何のために超能力者が\n夏休みの学校で、こんな",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK13S_0023",
+    "original": "イタズラみたいなマネをするのよ",
+    "translation": "イタズラみたいなマネをするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK13S_0024",
+    "original": "そ、それはぁ……そのぉ",
+    "translation": "そ、それはぁ……そのぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK13S_0025",
+    "original": "誰かが自動演奏装置のついたピアノ\nに、すり替えたって話の方がマシね",
+    "translation": "誰かが自動演奏装置のついたピアノ\nに、すり替えたって話の方がマシね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK13S_0026",
+    "original": "はぅぅぅぅ",
+    "translation": "はぅぅぅぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK13S_0027",
+    "original": "ほら、急ぐわよ、みくるちゃん",
+    "translation": "ほら、急ぐわよ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK13S_0028",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK13S_0029",
+    "original": "どうしたの、有希？　いきなり\n立ち止まったりして",
+    "translation": "どうしたの、有希？　いきなり\n立ち止まったりして",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK13S_0030",
+    "original": "可能性の提案",
+    "translation": "可能性の提案",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK13S_0031",
+    "original": "いいわよ。どうぞ",
+    "translation": "いいわよ。どうぞ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK13S_0032",
+    "original": "何者かが、空間を超越して演奏を\n行ったとすれば、ピアノは鳴る",
+    "translation": "何者かが、空間を超越して演奏を\n行ったとすれば、ピアノは鳴る",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK13S_0033",
+    "original": "空間を超越して演奏？",
+    "translation": "空間を超越して演奏？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK13S_0034",
+    "original": "俗に言う、超能力",
+    "translation": "俗に言う、超能力",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK13S_0035",
+    "original": "……有希にしてはめずらしく積極的\nな推理だけど、あまりにも安直だわ",
+    "translation": "……有希にしてはめずらしく積極的\nな推理だけど、あまりにも安直だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK13S_0036",
+    "original": "……そう？",
+    "translation": "……そう？",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK13S_0037",
+    "original": "超能力なんてモノはね、めったに\n存在しないチカラなの",
+    "translation": "超能力なんてモノはね、めったに\n存在しないチカラなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK13S_0038",
+    "original": "しかも、なんでわざわざ、そんな\nチカラを使って演奏したりするのよ",
+    "translation": "しかも、なんでわざわざ、そんな\nチカラを使って演奏したりするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK13S_0039",
+    "original": "たとえば……\n暇を持て余していた",
+    "translation": "たとえば……\n暇を持て余していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK13S_0040",
+    "original": "もう、有希までキョンみたいなこと\n言わないの",
+    "translation": "もう、有希までキョンみたいなこと\n言わないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK13S_0041",
+    "original": "そんなことが、夏休みの学校で\nあるわけないでしょ",
+    "translation": "そんなことが、夏休みの学校で\nあるわけないでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK13S_0042",
+    "original": "いったい、なんの話かと思って\nちょっと考えちゃったじゃない",
+    "translation": "いったい、なんの話かと思って\nちょっと考えちゃったじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK13S_0043",
+    "original": "先を急ぐわよ、ほらほら走って",
+    "translation": "先を急ぐわよ、ほらほら走って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK13S_0044",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK13S_0045",
+    "original": "涼宮さんは、超能力を信じますか？",
+    "translation": "涼宮さんは、超能力を信じますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK13S_0046",
+    "original": "超能力？　突然、どうしたの？",
+    "translation": "超能力？　突然、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK13S_0047",
+    "original": "いえ、我ながら突拍子もないことを\n考えてしまいまして……",
+    "translation": "いえ、我ながら突拍子もないことを\n考えてしまいまして……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK13S_0048",
+    "original": "例のピアノ事件ですが、もしや\n超能力者のイタズラではないか、と",
+    "translation": "例のピアノ事件ですが、もしや\n超能力者のイタズラではないか、と",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK13S_0049",
+    "original": "遠隔演奏や自己透明化といった手段\nで、そうしたマネも可能でしょうし",
+    "translation": "遠隔演奏や自己透明化といった手段\nで、そうしたマネも可能でしょうし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK13S_0050",
+    "original": "それって、古泉くんらしからぬ浅い\n推測ね",
+    "translation": "それって、古泉くんらしからぬ浅い\n推測ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK13S_0051",
+    "original": "超能力者なんて希少な存在が、そう\n簡単にホイホイといたりはしない",
+    "translation": "超能力者なんて希少な存在が、そう\n簡単にホイホイといたりはしない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK13S_0052",
+    "original": "ものよ",
+    "translation": "ものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK13S_0053",
+    "original": "しかも、そんなくだらないイタズラ\nを仕掛ける理由もないしね",
+    "translation": "しかも、そんなくだらないイタズラ\nを仕掛ける理由もないしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK13S_0054",
+    "original": "可能性は０じゃないけど、限りなく\nレアなケースと断言できるわ",
+    "translation": "可能性は０じゃないけど、限りなく\nレアなケースと断言できるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK13S_0055",
+    "original": "これはもっと奥深い、もっと複雑な\n怪奇現象よ。安直に考えちゃダメね",
+    "translation": "これはもっと奥深い、もっと複雑な\n怪奇現象よ。安直に考えちゃダメね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK13S_0056",
+    "original": "失礼しました。ただ、なんとなくの\n思いつきでして……",
+    "translation": "失礼しました。ただ、なんとなくの\n思いつきでして……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK13S_0057",
+    "original": "でも、そういう自由な思考は大切よ\nまた違った推理を期待してるわ",
+    "translation": "でも、そういう自由な思考は大切よ\nまた違った推理を期待してるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK13S_0058",
+    "original": "ご期待に沿えるよう、努力します",
+    "translation": "ご期待に沿えるよう、努力します",
+    "speaker": "古泉"
+  }
+]

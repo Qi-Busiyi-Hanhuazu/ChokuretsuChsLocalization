@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA07S_0000",
+    "original": "現場はすぐそこ、急ぐわよ！",
+    "translation": "現場はすぐそこ、急ぐわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA07S_0001",
+    "original": "あら、なにかしらこのポスター",
+    "translation": "あら、なにかしらこのポスター",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA07S_0002",
+    "original": "案の定、ハルヒは貼り替えておいた\nポスターに気づいて立ち止まった",
+    "translation": "案の定、ハルヒは貼り替えておいた\nポスターに気づいて立ち止まった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA07S_0003",
+    "original": "作曲コンテスト……？",
+    "translation": "作曲コンテスト……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA07S_0004",
+    "original": "こんなのが貼ってあったなんて\n今の今まで気づかなかったわ",
+    "translation": "こんなのが貼ってあったなんて\n今の今まで気づかなかったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA07S_0005",
+    "original": "そりゃそうだ\nついさっき貼り替えたんだからな",
+    "translation": "そりゃそうだ\nついさっき貼り替えたんだからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA07S_0006",
+    "original": "ねえ、キョン\n作曲コンテストですって",
+    "translation": "ねえ、キョン\n作曲コンテストですって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA07S_0007",
+    "original": "ああ、確か軽音部はそれを目指して\n練習してたらしいぞ",
+    "translation": "ああ、確か軽音部はそれを目指して\n練習してたらしいぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA07S_0008",
+    "original": "へえ、軽音部が？\nそれは興味深い情報ね……",
+    "translation": "へえ、軽音部が？\nそれは興味深い情報ね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA07S_0009",
+    "original": "少しは時間稼ぎになったか？",
+    "translation": "少しは時間稼ぎになったか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA07S_0010",
+    "original": "ねえ、みくるちゃん",
+    "translation": "ねえ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA07S_0011",
+    "original": "はい、なんでしょう",
+    "translation": "はい、なんでしょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA07S_0012",
+    "original": "こんなポスター貼ってあった？",
+    "translation": "こんなポスター貼ってあった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA07S_0013",
+    "original": "えっと、その……すみません\n覚えてないです",
+    "translation": "えっと、その……すみません\n覚えてないです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA07S_0014",
+    "original": "うーん……作曲コンテストねぇ\n軽音部もこれに応募するのよね",
+    "translation": "うーん……作曲コンテストねぇ\n軽音部もこれに応募するのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA07S_0015",
+    "original": "はい、そう言ってました",
+    "translation": "はい、そう言ってました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA07S_0016",
+    "original": "これは、もしかして……",
+    "translation": "これは、もしかして……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA07S_0017",
+    "original": "あの、涼宮さん？",
+    "translation": "あの、涼宮さん？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA07S_0018",
+    "original": "うーん……",
+    "translation": "うーん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA07S_0019",
+    "original": "涼宮さん、聞こえてますか？",
+    "translation": "涼宮さん、聞こえてますか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA07S_0020",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA07S_0021",
+    "original": "聞こえてないみたい",
+    "translation": "聞こえてないみたい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA07S_0022",
+    "original": "でも、これで涼宮さんをなんとか\n足止めできたみたい……",
+    "translation": "でも、これで涼宮さんをなんとか\n足止めできたみたい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA07S_0023",
+    "original": "あら……なにかしら、このポスター\nふーん、作曲コンテストねぇ",
+    "translation": "あら……なにかしら、このポスター\nふーん、作曲コンテストねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA07S_0024",
+    "original": "有希、こんなの貼ってあるのに\n気づいてた？",
+    "translation": "有希、こんなの貼ってあるのに\n気づいてた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA07S_0025",
+    "original": "気付かなかった",
+    "translation": "気付かなかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA07S_0026",
+    "original": "そうよね、ついさっきまで\nなかったわよね",
+    "translation": "そうよね、ついさっきまで\nなかったわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA07S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA07S_0028",
+    "original": "気になるわね、作曲コンテスト……",
+    "translation": "気になるわね、作曲コンテスト……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA07S_0029",
+    "original": "ねえ、古泉くん、こんなポスター\nここにあったかしら？",
+    "translation": "ねえ、古泉くん、こんなポスター\nここにあったかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA07S_0030",
+    "original": "ずっとそこに貼ってあったと\n記憶していますが",
+    "translation": "ずっとそこに貼ってあったと\n記憶していますが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA07S_0031",
+    "original": "そう、じゃあ見逃してたのね\nあたしとしたことが失態だわ",
+    "translation": "そう、じゃあ見逃してたのね\nあたしとしたことが失態だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA07S_0032",
+    "original": "どうかされましたか？",
+    "translation": "どうかされましたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA07S_0033",
+    "original": "これ、作曲コンテストって書いて\nあるじゃない？",
+    "translation": "これ、作曲コンテストって書いて\nあるじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA07S_0034",
+    "original": "それに確かコンピ研の前に音楽室を\n軽音部が使ってたって",
+    "translation": "それに確かコンピ研の前に音楽室を\n軽音部が使ってたって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA07S_0035",
+    "original": "そのようですね",
+    "translation": "そのようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA07S_0036",
+    "original": "なるほど、てことはもしかして……",
+    "translation": "なるほど、てことはもしかして……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA07S_0037",
+    "original": "なにかお気づきになりましたか",
+    "translation": "なにかお気づきになりましたか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA07S_0038",
+    "original": "ちょっと待ってちょうだい\nもう少しで考えがまとまりそうなの",
+    "translation": "ちょっと待ってちょうだい\nもう少しで考えがまとまりそうなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA07S_0039",
+    "original": "ええ、もちろんです、\nお待ちしますよ",
+    "translation": "ええ、もちろんです、\nお待ちしますよ",
+    "speaker": "古泉"
+  }
+]

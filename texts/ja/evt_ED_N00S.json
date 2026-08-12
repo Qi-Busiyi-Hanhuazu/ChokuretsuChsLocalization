@@ -1,0 +1,431 @@
+[
+  {
+    "index": 0,
+    "key": "evt_ED_N00S_0000",
+    "original": "それはまだ、残暑厳しい日のこと",
+    "translation": "それはまだ、残暑厳しい日のこと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_ED_N00S_0001",
+    "original": "ＨＲが終わると、誰よりも早く\nハルヒは教室からいなくなり",
+    "translation": "ＨＲが終わると、誰よりも早く\nハルヒは教室からいなくなり",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_ED_N00S_0002",
+    "original": "そして俺も、甘酸っぱい放課後の呼\nび出しや",
+    "translation": "そして俺も、甘酸っぱい放課後の呼\nび出しや",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_ED_N00S_0003",
+    "original": "白球とグラウンドに汗くさい青春を\n捧げるでもなく",
+    "translation": "白球とグラウンドに汗くさい青春を\n捧げるでもなく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_ED_N00S_0004",
+    "original": "いつものように、そそくさと部室へ\n足を運んだ",
+    "translation": "いつものように、そそくさと部室へ\n足を運んだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_ED_N00S_0005",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "evt_ED_N00S_0006",
+    "original": "ちーっす",
+    "translation": "ちーっす",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_ED_N00S_0007",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 8,
+    "key": "evt_ED_N00S_0008",
+    "original": "よう、長門",
+    "translation": "よう、長門",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_ED_N00S_0009",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 10,
+    "key": "evt_ED_N00S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_ED_N00S_0011",
+    "original": "長門は、数秒だけ俺と視線を合わせ\nたかと思うと",
+    "translation": "長門は、数秒だけ俺と視線を合わせ\nたかと思うと",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_ED_N00S_0012",
+    "original": "すぐまた手元の本に視線を落とす",
+    "translation": "すぐまた手元の本に視線を落とす",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_ED_N00S_0013",
+    "original": "今日は長門だけか",
+    "translation": "今日は長門だけか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_ED_N00S_0014",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_ED_N00S_0015",
+    "original": "返事はない。まあ、もともと期待\nしちゃいないが",
+    "translation": "返事はない。まあ、もともと期待\nしちゃいないが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_ED_N00S_0016",
+    "original": "さて、どうするか……",
+    "translation": "さて、どうするか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_ED_N00S_0017",
+    "original": "お茶を飲もうにも、朝比奈さんは\n未だやってこず",
+    "translation": "お茶を飲もうにも、朝比奈さんは\n未だやってこず",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_ED_N00S_0018",
+    "original": "もちろん、自分で淹れてしまうと\nいう方法もあるが",
+    "translation": "もちろん、自分で淹れてしまうと\nいう方法もあるが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_ED_N00S_0019",
+    "original": "なんというか、それは朝比奈さんの\nお株を奪うようで心苦しい",
+    "translation": "なんというか、それは朝比奈さんの\nお株を奪うようで心苦しい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_ED_N00S_0020",
+    "original": "となれば、どうやって時間を潰すか\nだが……",
+    "translation": "となれば、どうやって時間を潰すか\nだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_ED_N00S_0021",
+    "original": "ゲームをしようにも相手がいない",
+    "translation": "ゲームをしようにも相手がいない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_ED_N00S_0022",
+    "original": "いや、長門を誘えばいいのだが\n長門相手では正直勝負にならん",
+    "translation": "いや、長門を誘えばいいのだが\n長門相手では正直勝負にならん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 23,
+    "key": "evt_ED_N00S_0023",
+    "original": "となると、本でも読んでみるかと\n思うが……",
+    "translation": "となると、本でも読んでみるかと\n思うが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 24,
+    "key": "evt_ED_N00S_0024",
+    "original": "若い男女が同じ部屋に２人きりで\n黙々と本を読むのもいかがなものか",
+    "translation": "若い男女が同じ部屋に２人きりで\n黙々と本を読むのもいかがなものか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 25,
+    "key": "evt_ED_N00S_0025",
+    "original": "もっと健全な高校生らしく、会話に\n花を咲かせてみるべきじゃないか",
+    "translation": "もっと健全な高校生らしく、会話に\n花を咲かせてみるべきじゃないか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 26,
+    "key": "evt_ED_N00S_0026",
+    "original": "よし、そうと決まれば挑戦して\nみるか",
+    "translation": "よし、そうと決まれば挑戦して\nみるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 27,
+    "key": "evt_ED_N00S_0027",
+    "original": "なあ、長門",
+    "translation": "なあ、長門",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_ED_N00S_0028",
+    "original": "なに",
+    "translation": "なに",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_ED_N00S_0029",
+    "original": "夏休みはどうだった？",
+    "translation": "夏休みはどうだった？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_ED_N00S_0030",
+    "original": "……どう、とは？",
+    "translation": "……どう、とは？",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_ED_N00S_0031",
+    "original": "いや、いろいろあるだろう\n思い出に残ったこととか",
+    "translation": "いや、いろいろあるだろう\n思い出に残ったこととか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_ED_N00S_0032",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_ED_N00S_0033",
+    "original": "これは、考えているのだろうか",
+    "translation": "これは、考えているのだろうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 34,
+    "key": "evt_ED_N00S_0034",
+    "original": "……とくにない",
+    "translation": "……とくにない",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_ED_N00S_0035",
+    "original": "たっぷり十数秒熟考したすえの\n答えだった",
+    "translation": "たっぷり十数秒熟考したすえの\n答えだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_ED_N00S_0036",
+    "original": "ま、まあ、思い出はひとそれぞれだ",
+    "translation": "ま、まあ、思い出はひとそれぞれだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_ED_N00S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_ED_N00S_0038",
+    "original": "相変わらず打てども響かないやつだ",
+    "translation": "相変わらず打てども響かないやつだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_ED_N00S_0039",
+    "original": "合宿ではずいぶん世話になったな",
+    "translation": "合宿ではずいぶん世話になったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_ED_N00S_0040",
+    "original": "長門がいなけりゃ、今頃、世界は\n大変なことになってたな",
+    "translation": "長門がいなけりゃ、今頃、世界は\n大変なことになってたな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_ED_N00S_0041",
+    "original": "必要なことをしただけ",
+    "translation": "必要なことをしただけ",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_ED_N00S_0042",
+    "original": "そう言うが、俺たちはみんな感謝\nしてるんだ",
+    "translation": "そう言うが、俺たちはみんな感謝\nしてるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_ED_N00S_0043",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_ED_N00S_0044",
+    "original": "大変な目にもあったが、なかなか\n充実した夏休みだった",
+    "translation": "大変な目にもあったが、なかなか\n充実した夏休みだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 45,
+    "key": "evt_ED_N00S_0045",
+    "original": "正直、楽しかったと言えなくもない",
+    "translation": "正直、楽しかったと言えなくもない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_ED_N00S_0046",
+    "original": "こんな無茶苦茶な夏を過ごすのは\n生まれて初めてだったからな",
+    "translation": "こんな無茶苦茶な夏を過ごすのは\n生まれて初めてだったからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 47,
+    "key": "evt_ED_N00S_0047",
+    "original": "……長門はどうなのだろう？",
+    "translation": "……長門はどうなのだろう？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_ED_N00S_0048",
+    "original": "この世界に存在してから",
+    "translation": "この世界に存在してから",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_ED_N00S_0049",
+    "original": "そのほとんどをマンションの一室で\n過ごしてきたこの宇宙人は",
+    "translation": "そのほとんどをマンションの一室で\n過ごしてきたこの宇宙人は",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_ED_N00S_0050",
+    "original": "人間の、高校１年の夏休みという\nものをどう感じたのか……",
+    "translation": "人間の、高校１年の夏休みという\nものをどう感じたのか……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_ED_N00S_0051",
+    "original": "なあ、長門",
+    "translation": "なあ、長門",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_ED_N00S_0052",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_ED_N00S_0053",
+    "original": "相変わらず長門の視線は本に向け\nられたまま",
+    "translation": "相変わらず長門の視線は本に向け\nられたまま",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_ED_N00S_0054",
+    "original": "夏休み、楽しかったか？",
+    "translation": "夏休み、楽しかったか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_ED_N00S_0055",
+    "original": "俺の質問に、初めて長門はこちらを\n振り返った",
+    "translation": "俺の質問に、初めて長門はこちらを\n振り返った",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 56,
+    "key": "evt_ED_N00S_0056",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 57,
+    "key": "evt_ED_N00S_0057",
+    "original": "そうしてしばらく俺の顔をジーッと\n見つめた後――",
+    "translation": "そうしてしばらく俺の顔をジーッと\n見つめた後――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_ED_N00S_0058",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 59,
+    "key": "evt_ED_N00S_0059",
+    "original": "小さくうなずいてみせた",
+    "translation": "小さくうなずいてみせた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 60,
+    "key": "evt_ED_N00S_0060",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

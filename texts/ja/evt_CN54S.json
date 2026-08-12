@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN54S_0000",
+    "original": "おい、ハルヒ。さっきセミの抜け殻\nを見つけたんだ",
+    "translation": "おい、ハルヒ。さっきセミの抜け殻\nを見つけたんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN54S_0001",
+    "original": "……驚いたわ",
+    "translation": "……驚いたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN54S_0002",
+    "original": "おまえ、セミの抜け殻を見たことが\nないのか？",
+    "translation": "おまえ、セミの抜け殻を見たことが\nないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN54S_0003",
+    "original": "抜け殻なんてあちこちに落っこちて\nいるから、珍しくもないわよ",
+    "translation": "抜け殻なんてあちこちに落っこちて\nいるから、珍しくもないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN54S_0004",
+    "original": "じゃあ、なにに驚いたんだ？",
+    "translation": "じゃあ、なにに驚いたんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN54S_0005",
+    "original": "キョンがそんなものを大事そうに\n持っていることに驚いたのよっ",
+    "translation": "キョンがそんなものを大事そうに\n持っていることに驚いたのよっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN54S_0006",
+    "original": "まさか、そこまで子供じみている\nとはね",
+    "translation": "まさか、そこまで子供じみている\nとはね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN54S_0007",
+    "original": "子供で悪うございましたねぇ",
+    "translation": "子供で悪うございましたねぇ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN54S_0008",
+    "original": "買い出しの道で長門さんが\nセミの抜け殻を見つけたそうです",
+    "translation": "買い出しの道で長門さんが\nセミの抜け殻を見つけたそうです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN54S_0009",
+    "original": "夏だものね。山に行ったらもっと\nゴロゴロしてるわよ",
+    "translation": "夏だものね。山に行ったらもっと\nゴロゴロしてるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN54S_0010",
+    "original": "季節の風物詩ですか？",
+    "translation": "季節の風物詩ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN54S_0011",
+    "original": "そうよ。俳句にでもなりそうじゃ\nない？　で、それがどうしたの？",
+    "translation": "そうよ。俳句にでもなりそうじゃ\nない？　で、それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN54S_0012",
+    "original": "珍しい種類のセミでキョンくんが\n貰ったんだそうですよ",
+    "translation": "珍しい種類のセミでキョンくんが\n貰ったんだそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN54S_0013",
+    "original": "セミの抜け殻貰ってどうするんだか",
+    "translation": "セミの抜け殻貰ってどうするんだか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN54S_0014",
+    "original": "どうするんでしょうね？　お墓を\n作ってあげるんでしょうか？",
+    "translation": "どうするんでしょうね？　お墓を\n作ってあげるんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN54S_0015",
+    "original": "みくるちゃん、抜け殻は死骸じゃ\nないから、お墓はいらないわ",
+    "translation": "みくるちゃん、抜け殻は死骸じゃ\nないから、お墓はいらないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN54S_0016",
+    "original": "あっ、そ、そうですね、すみません",
+    "translation": "あっ、そ、そうですね、すみません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN54S_0017",
+    "original": "そういえば、子供の頃に抜け殻集め\nて見せびらかしてる男の子がいたわ",
+    "translation": "そういえば、子供の頃に抜け殻集め\nて見せびらかしてる男の子がいたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN54S_0018",
+    "original": "……どこがいいんでしょうね？",
+    "translation": "……どこがいいんでしょうね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN54S_0019",
+    "original": "男って謎の生きものなのよ",
+    "translation": "男って謎の生きものなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN54S_0020",
+    "original": "うーん、そうかもしれませんね",
+    "translation": "うーん、そうかもしれませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN54S_0021",
+    "original": "さっき校門前で、セミの抜け殻を\n見かけた",
+    "translation": "さっき校門前で、セミの抜け殻を\n見かけた",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN54S_0022",
+    "original": "ふうん、夏だものねえ。でも、それ\nくらいどこでも見つかるでしょ",
+    "translation": "ふうん、夏だものねえ。でも、それ\nくらいどこでも見つかるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN54S_0023",
+    "original": "本州ではあまり見かけない品種",
+    "translation": "本州ではあまり見かけない品種",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN54S_0024",
+    "original": "へぇ、そうなの？　じゃあ、抜け殻\nじゃなくて本体のセミを",
+    "translation": "へぇ、そうなの？　じゃあ、抜け殻\nじゃなくて本体のセミを",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN54S_0025",
+    "original": "どうにかして捕まえたいわね",
+    "translation": "どうにかして捕まえたいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN54S_0026",
+    "original": "採集には道具が必要",
+    "translation": "採集には道具が必要",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN54S_0027",
+    "original": "決めたわっ、夏休みの間に昆虫採集\nをしましょう",
+    "translation": "決めたわっ、夏休みの間に昆虫採集\nをしましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN54S_0028",
+    "original": "その珍しいセミを見つけるわよ！",
+    "translation": "その珍しいセミを見つけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN54S_0029",
+    "original": "長門さんが、セミの抜け殻を拾って\nお持ちだったこと、ご存知ですか？",
+    "translation": "長門さんが、セミの抜け殻を拾って\nお持ちだったこと、ご存知ですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN54S_0030",
+    "original": "また懐かしいアイテムを拾ったわね",
+    "translation": "また懐かしいアイテムを拾ったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN54S_0031",
+    "original": "懐かしいですか？",
+    "translation": "懐かしいですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN54S_0032",
+    "original": "子供の頃は、あたしも拾ったわ",
+    "translation": "子供の頃は、あたしも拾ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN54S_0033",
+    "original": "飴色で軽くて、不思議とそんなに\n気持ち悪くないのよね、アレって",
+    "translation": "飴色で軽くて、不思議とそんなに\n気持ち悪くないのよね、アレって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN54S_0034",
+    "original": "童心に帰る、というやつですね",
+    "translation": "童心に帰る、というやつですね",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,1170 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV4_004S_0000",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "evt_EV4_004S_0001",
+    "original": "プールを見張るため、ハルヒと\n朝比奈さんとでやってきたわけだが",
+    "translation": "プールを見張るため、ハルヒと\n朝比奈さんとでやってきたわけだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV4_004S_0002",
+    "original": "ハルヒは食いつかんばかりにプール\nサイドから水面を注視している",
+    "translation": "ハルヒは食いつかんばかりにプール\nサイドから水面を注視している",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV4_004S_0003",
+    "original": "あんまり乗り出すと、水ん中に\n落ちるぞ",
+    "translation": "あんまり乗り出すと、水ん中に\n落ちるぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV4_004S_0004",
+    "original": "今のところ、変化はなさそうね",
+    "translation": "今のところ、変化はなさそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV4_004S_0005",
+    "original": "な、何も起きてませんね\nふう、良かった～",
+    "translation": "な、何も起きてませんね\nふう、良かった～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV4_004S_0006",
+    "original": "良くないでしょ、みくるちゃん",
+    "translation": "良くないでしょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV4_004S_0007",
+    "original": "それじゃあたしたちの崇高な目的が\nクリアできないじゃない",
+    "translation": "それじゃあたしたちの崇高な目的が\nクリアできないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV4_004S_0008",
+    "original": "何か起きて貰わなくちゃ。プールが\n光る程度のチャチな事じゃなくて！",
+    "translation": "何か起きて貰わなくちゃ。プールが\n光る程度のチャチな事じゃなくて！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV4_004S_0009",
+    "original": "はぅう～、光るだけでもちょっと\n怖いなぁって思うんですけど……",
+    "translation": "はぅう～、光るだけでもちょっと\n怖いなぁって思うんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV4_004S_0010",
+    "original": "苦衷は察するにあまりあります\n朝比奈さん",
+    "translation": "苦衷は察するにあまりあります\n朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV4_004S_0011",
+    "original": "そんな弱腰じゃだめよ！　光る\nプールは、何かの信号、前兆なのよ",
+    "translation": "そんな弱腰じゃだめよ！　光る\nプールは、何かの信号、前兆なのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV4_004S_0012",
+    "original": "はあ……",
+    "translation": "はあ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV4_004S_0013",
+    "original": "きっとエイリアンが同胞に向かって\n送っている信号なんだわ",
+    "translation": "きっとエイリアンが同胞に向かって\n送っている信号なんだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV4_004S_0014",
+    "original": "ハルヒの妄想がまた始まった",
+    "translation": "ハルヒの妄想がまた始まった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV4_004S_0015",
+    "original": "これを止めないと、実際に現れて\nしまう確率が高すぎる",
+    "translation": "これを止めないと、実際に現れて\nしまう確率が高すぎる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV4_004S_0016",
+    "original": "もしもハルヒがそれを目の当たりに\nしてしまったなら世界はどうなるか",
+    "translation": "もしもハルヒがそれを目の当たりに\nしてしまったなら世界はどうなるか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV4_004S_0017",
+    "original": "恐ろしすぎて、誰も試す気には\nなれないだろうよ、そりゃな",
+    "translation": "恐ろしすぎて、誰も試す気には\nなれないだろうよ、そりゃな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV4_004S_0018",
+    "original": "本当にただ見張るだけなんだろうな",
+    "translation": "本当にただ見張るだけなんだろうな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV4_004S_0019",
+    "original": "何よ、見張りは退屈だとでもいうの",
+    "translation": "何よ、見張りは退屈だとでもいうの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV4_004S_0020",
+    "original": "退屈……そんな贅沢は、ハルヒと\n出会ってから味わった覚えがない",
+    "translation": "退屈……そんな贅沢は、ハルヒと\n出会ってから味わった覚えがない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV4_004S_0021",
+    "original": "ところで、おまえの横にある荷物は\nなんだ？",
+    "translation": "ところで、おまえの横にある荷物は\nなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV4_004S_0022",
+    "original": "見張りに必要な荷物なのか？",
+    "translation": "見張りに必要な荷物なのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV4_004S_0023",
+    "original": "ふふん、当然よ！　このあたしの\n深淵なる思慮に恐れ入るがいいわ",
+    "translation": "ふふん、当然よ！　このあたしの\n深淵なる思慮に恐れ入るがいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV4_004S_0024",
+    "original": "見なさい、これはみくるちゃんの\nコスプレ衣装よ",
+    "translation": "見なさい、これはみくるちゃんの\nコスプレ衣装よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV4_004S_0025",
+    "original": "えぇっ、あたしの、ですか？",
+    "translation": "えぇっ、あたしの、ですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV4_004S_0026",
+    "original": "エイリアン対策、実行隊長として\n重大任務をみくるちゃんに与えるわ",
+    "translation": "エイリアン対策、実行隊長として\n重大任務をみくるちゃんに与えるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV4_004S_0027",
+    "original": "え、えいりあん……実行隊長って\nな、なにをするんですかぁ？",
+    "translation": "え、えいりあん……実行隊長って\nな、なにをするんですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV4_004S_0028",
+    "original": "また怪しいことを思いついたらしい\n朝比奈さんに迷惑かける気満々だ",
+    "translation": "また怪しいことを思いついたらしい\n朝比奈さんに迷惑かける気満々だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV4_004S_0029",
+    "original": "エイリアンは、地球人類に対して\n敵対的だとはかぎらないわよね？",
+    "translation": "エイリアンは、地球人類に対して\n敵対的だとはかぎらないわよね？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV4_004S_0030",
+    "original": "まあ、そうだな",
+    "translation": "まあ、そうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV4_004S_0031",
+    "original": "少なくとも身近にいる宇宙人である\nところの長門は敵対してないし",
+    "translation": "少なくとも身近にいる宇宙人である\nところの長門は敵対してないし",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV4_004S_0032",
+    "original": "だから、まずはこちらに歓迎の意が\nあるってことを",
+    "translation": "だから、まずはこちらに歓迎の意が\nあるってことを",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV4_004S_0033",
+    "original": "相手に伝えるべきだと思うのよ",
+    "translation": "相手に伝えるべきだと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV4_004S_0034",
+    "original": "なるほど、それで？",
+    "translation": "なるほど、それで？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV4_004S_0035",
+    "original": "だからこそ、人類代表として、\nみくるちゃんに頑張ってもらうのよ",
+    "translation": "だからこそ、人類代表として、\nみくるちゃんに頑張ってもらうのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV4_004S_0036",
+    "original": "で。それがそのコスプレ衣装と\nどういう関係があるんだ？",
+    "translation": "で。それがそのコスプレ衣装と\nどういう関係があるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV4_004S_0037",
+    "original": "さあ、どっちがいいと思う、\nみくるちゃん？",
+    "translation": "さあ、どっちがいいと思う、\nみくるちゃん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV4_004S_0038",
+    "original": "無視かよっ！",
+    "translation": "無視かよっ！",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV4_004S_0039",
+    "original": "あ、あたしが選ぶんですか？",
+    "translation": "あ、あたしが選ぶんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV4_004S_0040",
+    "original": "あなたが着るんですもの、意見を\n聞かせてちょうだい",
+    "translation": "あなたが着るんですもの、意見を\n聞かせてちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV4_004S_0041",
+    "original": "大体、その二種類に絞った意味は\nあるのか？",
+    "translation": "大体、その二種類に絞った意味は\nあるのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV4_004S_0042",
+    "original": "キョンはどう思う？\nアンタにも一応意見を聞いておくわ",
+    "translation": "キョンはどう思う？\nアンタにも一応意見を聞いておくわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV4_004S_0043",
+    "original": "バニースーツかな？",
+    "translation": "バニースーツかな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV4_004S_0044",
+    "original": "ば、バニーですかぁ……",
+    "translation": "ば、バニーですかぁ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV4_004S_0045",
+    "original": "いや、けしてやましい心で選んだ\nわけではありませんよ",
+    "translation": "いや、けしてやましい心で選んだ\nわけではありませんよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV4_004S_0046",
+    "original": "確かに今晩は満月だけど、月に\nウサギって発想は安直よね",
+    "translation": "確かに今晩は満月だけど、月に\nウサギって発想は安直よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV4_004S_0047",
+    "original": "そうか、今日は満月か。気づか\nなかったがこれで押し通そう",
+    "translation": "そうか、今日は満月か。気づか\nなかったがこれで押し通そう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV4_004S_0048",
+    "original": "安直のどこが悪い。言ってみれば\n大多数の人間がそう思うってことだ",
+    "translation": "安直のどこが悪い。言ってみれば\n大多数の人間がそう思うってことだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV4_004S_0049",
+    "original": "だからあんたは平凡なのよね",
+    "translation": "だからあんたは平凡なのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV4_004S_0050",
+    "original": "だったら俺に聞くなよ。平凡で結構\nハルヒほど非凡にはなりたくないね",
+    "translation": "だったら俺に聞くなよ。平凡で結構\nハルヒほど非凡にはなりたくないね",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV4_004S_0051",
+    "original": "メイド服だろ",
+    "translation": "メイド服だろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV4_004S_0052",
+    "original": "……メイド服ですか",
+    "translation": "……メイド服ですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV4_004S_0053",
+    "original": "朝比奈さんがメイド服でお茶を\n入れてくれるとまったりします",
+    "translation": "朝比奈さんがメイド服でお茶を\n入れてくれるとまったりします",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV4_004S_0054",
+    "original": "奉仕の精神は、迎え入れるには\n大切なことよね",
+    "translation": "奉仕の精神は、迎え入れるには\n大切なことよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV4_004S_0055",
+    "original": "それじゃ、みくるちゃん。これに\n着替えてちょうだい",
+    "translation": "それじゃ、みくるちゃん。これに\n着替えてちょうだい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV4_004S_0056",
+    "original": "ハルヒはメイド服を朝比奈さんに\n手渡した",
+    "translation": "ハルヒはメイド服を朝比奈さんに\n手渡した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV4_004S_0057",
+    "original": "宇宙からわざわざ日本にやってきた\nエイリアンだもの",
+    "translation": "宇宙からわざわざ日本にやってきた\nエイリアンだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV4_004S_0058",
+    "original": "日本の文化で出迎えるべきよね",
+    "translation": "日本の文化で出迎えるべきよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV4_004S_0059",
+    "original": "初めからメイド服に決めてたのかよ",
+    "translation": "初めからメイド服に決めてたのかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV4_004S_0060",
+    "original": "だったら人に意見を聞くな、と\nこいつに言ってもムダだな",
+    "translation": "だったら人に意見を聞くな、と\nこいつに言ってもムダだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV4_004S_0061",
+    "original": "あのー、メイド服って日本の文化\nなんですか？",
+    "translation": "あのー、メイド服って日本の文化\nなんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV4_004S_0062",
+    "original": "そうよ、当然じゃない",
+    "translation": "そうよ、当然じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV4_004S_0063",
+    "original": "言い切りやがった",
+    "translation": "言い切りやがった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV4_004S_0064",
+    "original": "メイド服は日本文化の最先端と\n言っても過言ではないわ！",
+    "translation": "メイド服は日本文化の最先端と\n言っても過言ではないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV4_004S_0065",
+    "original": "メイドが日本の文化なわけないだろ",
+    "translation": "メイドが日本の文化なわけないだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV4_004S_0066",
+    "original": "何よ、文句でもあるの？",
+    "translation": "何よ、文句でもあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV4_004S_0067",
+    "original": "そもそも日本にメイドはいない\n故にメイドは日本文化ではない",
+    "translation": "そもそも日本にメイドはいない\n故にメイドは日本文化ではない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV4_004S_0068",
+    "original": "ええと、たしかイギリスとか\nヨーロッパの文化なんですよね？",
+    "translation": "ええと、たしかイギリスとか\nヨーロッパの文化なんですよね？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV4_004S_0069",
+    "original": "ほら、朝比奈さんも俺に賛同して\n下さっているぞ",
+    "translation": "ほら、朝比奈さんも俺に賛同して\n下さっているぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV4_004S_0070",
+    "original": "完璧な理論だが、それで納得する\nハルヒとは思えない",
+    "translation": "完璧な理論だが、それで納得する\nハルヒとは思えない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV4_004S_0071",
+    "original": "浅い、浅いわ、あなた達の考えは！",
+    "translation": "浅い、浅いわ、あなた達の考えは！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV4_004S_0072",
+    "original": "ええっ、そ、そうですか？",
+    "translation": "ええっ、そ、そうですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV4_004S_0073",
+    "original": "メイドは本来日本にはいないわ",
+    "translation": "メイドは本来日本にはいないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV4_004S_0074",
+    "original": "でもあたしはメイドを日本文化と\n言ったわけじゃないのよ",
+    "translation": "でもあたしはメイドを日本文化と\n言ったわけじゃないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV4_004S_0075",
+    "original": "メイドさんのコスプレ、その萌え\nそのものこそが",
+    "translation": "メイドさんのコスプレ、その萌え\nそのものこそが",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV4_004S_0076",
+    "original": "日本文化の最先端だと言うこと\nなのよ！",
+    "translation": "日本文化の最先端だと言うこと\nなのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV4_004S_0077",
+    "original": "はうっ、そう言われると、そうかも\nしれません～",
+    "translation": "はうっ、そう言われると、そうかも\nしれません～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV4_004S_0078",
+    "original": "みくるちゃんは最先端文化を体現\nしているのよ！",
+    "translation": "みくるちゃんは最先端文化を体現\nしているのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV4_004S_0079",
+    "original": "が、かんばりますぅ",
+    "translation": "が、かんばりますぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV4_004S_0080",
+    "original": "なんて強引な理屈だ",
+    "translation": "なんて強引な理屈だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV4_004S_0081",
+    "original": "そうだな。現代日本の文化として\nメイドさんはありだろう",
+    "translation": "そうだな。現代日本の文化として\nメイドさんはありだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV4_004S_0082",
+    "original": "日本各地にメイド喫茶が増えてる\nらしいしな",
+    "translation": "日本各地にメイド喫茶が増えてる\nらしいしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV4_004S_0083",
+    "original": "そうよね。日本には古来なかった\nメイドにコスプレしてなりきる",
+    "translation": "そうよね。日本には古来なかった\nメイドにコスプレしてなりきる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV4_004S_0084",
+    "original": "そして、作られたメイドさんに\n奉仕されることを望む",
+    "translation": "そして、作られたメイドさんに\n奉仕されることを望む",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV4_004S_0085",
+    "original": "これこそが日本の最先端文化\n萌えというものよ",
+    "translation": "これこそが日本の最先端文化\n萌えというものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV4_004S_0086",
+    "original": "はぅ～、そうかもしれません",
+    "translation": "はぅ～、そうかもしれません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV4_004S_0087",
+    "original": "あたしは日本の代表として、文化の\n最先端を伝える義務があるのよ",
+    "translation": "あたしは日本の代表として、文化の\n最先端を伝える義務があるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV4_004S_0088",
+    "original": "しかし、いつおまえは日本代表に\nなったんだよ",
+    "translation": "しかし、いつおまえは日本代表に\nなったんだよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV4_004S_0089",
+    "original": "さあ、最先端文化を伝えるために\n着替えてらっしゃい、みくるちゃん",
+    "translation": "さあ、最先端文化を伝えるために\n着替えてらっしゃい、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV4_004S_0090",
+    "original": "あ……はい",
+    "translation": "あ……はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV4_004S_0091",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 92,
+    "key": "evt_EV4_004S_0092",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "evt_EV4_004S_0093",
+    "original": "朝比奈さんはメイド服を抱えて\n困ったような顔をなさっている",
+    "translation": "朝比奈さんはメイド服を抱えて\n困ったような顔をなさっている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV4_004S_0094",
+    "original": "どうかしましたか、朝比奈さん？",
+    "translation": "どうかしましたか、朝比奈さん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV4_004S_0095",
+    "original": "キョンくん……あの……その",
+    "translation": "キョンくん……あの……その",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV4_004S_0096",
+    "original": "朝比奈さんはプール脇の暗い更衣室\nを見て怯えているようだ",
+    "translation": "朝比奈さんはプール脇の暗い更衣室\nを見て怯えているようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV4_004S_0097",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 98,
+    "key": "evt_EV4_004S_0098",
+    "original": "みくるちゃん、どうして着替えに\nいかないの？",
+    "translation": "みくるちゃん、どうして着替えに\nいかないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV4_004S_0099",
+    "original": "そりゃそうだろ",
+    "translation": "そりゃそうだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV4_004S_0100",
+    "original": "何よ？　今になって辞退はなしよ\n補欠はいないんだから",
+    "translation": "何よ？　今になって辞退はなしよ\n補欠はいないんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV4_004S_0101",
+    "original": "朝比奈さんは、更衣室にひとりで\n着替えに行くのが怖いんですね？",
+    "translation": "朝比奈さんは、更衣室にひとりで\n着替えに行くのが怖いんですね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV4_004S_0102",
+    "original": "え、ええ……はい",
+    "translation": "え、ええ……はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV4_004S_0103",
+    "original": "俺がついて行っても、外で待つ\nことになるしな",
+    "translation": "俺がついて行っても、外で待つ\nことになるしな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV4_004S_0104",
+    "original": "それに、ハルヒが目の届かない距離\nに離れると困る。どうすべきだ？",
+    "translation": "それに、ハルヒが目の届かない距離\nに離れると困る。どうすべきだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV4_004S_0105",
+    "original": "ここはハルヒに朝比奈さんについて\n行ってくれと頼むしかないかな……",
+    "translation": "ここはハルヒに朝比奈さんについて\n行ってくれと頼むしかないかな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV4_004S_0106",
+    "original": "ハルヒ、朝比奈さんの着替えに\nついて行ってやれ",
+    "translation": "ハルヒ、朝比奈さんの着替えに\nついて行ってやれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV4_004S_0107",
+    "original": "プールは俺が見張ってるからさ",
+    "translation": "プールは俺が見張ってるからさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV4_004S_0108",
+    "original": "キョンにしちゃあ気が利くじゃない\nみくるちゃん、着替えに行きましょ",
+    "translation": "キョンにしちゃあ気が利くじゃない\nみくるちゃん、着替えに行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV4_004S_0109",
+    "original": "すみません、涼宮さん",
+    "translation": "すみません、涼宮さん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV4_004S_0110",
+    "original": "いいわ。みくるちゃんが恐がり\nなのは知ってるもの",
+    "translation": "いいわ。みくるちゃんが恐がり\nなのは知ってるもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV4_004S_0111",
+    "original": "ひとりで夜の更衣室になんて\n行けないわよね",
+    "translation": "ひとりで夜の更衣室になんて\n行けないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV4_004S_0112",
+    "original": "あのっ、キョンくん、ありがとう\nあたしすごく助かりました",
+    "translation": "あのっ、キョンくん、ありがとう\nあたしすごく助かりました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV4_004S_0113",
+    "original": "朝比奈さんの謝意はその笑顔だけで\n十分伝わりますよ",
+    "translation": "朝比奈さんの謝意はその笑顔だけで\n十分伝わりますよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV4_004S_0114",
+    "original": "それじゃキョン、しっかり見張って\nるのよ！",
+    "translation": "それじゃキョン、しっかり見張って\nるのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV4_004S_0115",
+    "original": "だが、ハルヒに朝比奈さんについて\n行ってくれと頼むのもどうか",
+    "translation": "だが、ハルヒに朝比奈さんについて\n行ってくれと頼むのもどうか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV4_004S_0116",
+    "original": "へそ曲げてしまいかねないぞ",
+    "translation": "へそ曲げてしまいかねないぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 117,
+    "key": "evt_EV4_004S_0117",
+    "original": "ううぅ……キョンくぅん……\n涼宮さぁん……",
+    "translation": "ううぅ……キョンくぅん……\n涼宮さぁん……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 118,
+    "key": "evt_EV4_004S_0118",
+    "original": "朝比奈さんは涙目で、俺とハルヒを\n交互に眺める",
+    "translation": "朝比奈さんは涙目で、俺とハルヒを\n交互に眺める",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV4_004S_0119",
+    "original": "捨てられた子犬のようなその目に\n俺の正義感が限界を超える直前に",
+    "translation": "捨てられた子犬のようなその目に\n俺の正義感が限界を超える直前に",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV4_004S_0120",
+    "original": "はぁ……もう、しょうがないわねぇ",
+    "translation": "はぁ……もう、しょうがないわねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV4_004S_0121",
+    "original": "ハルヒが大きく溜息をついた",
+    "translation": "ハルヒが大きく溜息をついた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV4_004S_0122",
+    "original": "ねえ、みくるちゃん。そんなに\n着替えに行くのが怖いの？",
+    "translation": "ねえ、みくるちゃん。そんなに\n着替えに行くのが怖いの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV4_004S_0123",
+    "original": "は、はいぃ……怖いですぅ",
+    "translation": "は、はいぃ……怖いですぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV4_004S_0124",
+    "original": "わかったわ。あたしがついて行って\nあげる",
+    "translation": "わかったわ。あたしがついて行って\nあげる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV4_004S_0125",
+    "original": "涼宮さん",
+    "translation": "涼宮さん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV4_004S_0126",
+    "original": "言い出したのはあたしだしね",
+    "translation": "言い出したのはあたしだしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV4_004S_0127",
+    "original": "キョン、ちゃんとプール見張って\nいなさいよ！",
+    "translation": "キョン、ちゃんとプール見張って\nいなさいよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV4_004S_0128",
+    "original": "ああ",
+    "translation": "ああ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV4_004S_0129",
+    "original": "行きましょ、みくるちゃん",
+    "translation": "行きましょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV4_004S_0130",
+    "original": "ハルヒ",
+    "translation": "ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV4_004S_0131",
+    "original": "何よ、キョン？",
+    "translation": "何よ、キョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV4_004S_0132",
+    "original": "おまえ案外良いヤツだな",
+    "translation": "おまえ案外良いヤツだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV4_004S_0133",
+    "original": "……普段あんたがあたしをどんな目\nで見てるのか、知りたくなる発言ね",
+    "translation": "……普段あんたがあたしをどんな目\nで見てるのか、知りたくなる発言ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV4_004S_0134",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 135,
+    "key": "evt_EV4_004S_0135",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 136,
+    "key": "evt_EV4_004S_0136",
+    "original": "メイド服に着替えた朝比奈さんは\nハルヒと戻って来たのだが",
+    "translation": "メイド服に着替えた朝比奈さんは\nハルヒと戻って来たのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV4_004S_0137",
+    "original": "お帰りなさいませ、ご主人様～",
+    "translation": "お帰りなさいませ、ご主人様～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV4_004S_0138",
+    "original": "みくるちゃん、それじゃ歓迎の\n気持ちが伝わらないわよ",
+    "translation": "みくるちゃん、それじゃ歓迎の\n気持ちが伝わらないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV4_004S_0139",
+    "original": "ハルヒは変化のないプールをのぞき\nこんでは、朝比奈さんに注文をする",
+    "translation": "ハルヒは変化のないプールをのぞき\nこんでは、朝比奈さんに注文をする",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV4_004S_0140",
+    "original": "ど、どうすればいいんでしょう？",
+    "translation": "ど、どうすればいいんでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV4_004S_0141",
+    "original": "『お帰りなさいませ、ご主人様』\nじゃわかってもらえないみたいね",
+    "translation": "『お帰りなさいませ、ご主人様』\nじゃわかってもらえないみたいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV4_004S_0142",
+    "original": "もしかして、今のでエイリアンを\n呼び出すつもりだったのか？",
+    "translation": "もしかして、今のでエイリアンを\n呼び出すつもりだったのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 143,
+    "key": "evt_EV4_004S_0143",
+    "original": "仕方ないわね、基本に戻りましょ",
+    "translation": "仕方ないわね、基本に戻りましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV4_004S_0144",
+    "original": "……基本って、どんなのでしょう？",
+    "translation": "……基本って、どんなのでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV4_004S_0145",
+    "original": "もちろん踊るのよ！",
+    "translation": "もちろん踊るのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV4_004S_0146",
+    "original": "はぁ？　踊る？",
+    "translation": "はぁ？　踊る？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV4_004S_0147",
+    "original": "ベントラー、ベントラー、スペース\nピープルって唱えながら踊るの",
+    "translation": "ベントラー、ベントラー、スペース\nピープルって唱えながら踊るの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV4_004S_0148",
+    "original": "これがエイリアン召喚の基本の基本\nなのよ",
+    "translation": "これがエイリアン召喚の基本の基本\nなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV4_004S_0149",
+    "original": "いつの時代のどこの話だ？　どう\nやって仕入れてきたんだそんなネタ",
+    "translation": "いつの時代のどこの話だ？　どう\nやって仕入れてきたんだそんなネタ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 150,
+    "key": "evt_EV4_004S_0150",
+    "original": "べ、べんとら？",
+    "translation": "べ、べんとら？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV4_004S_0151",
+    "original": "ベントラー、ベントラー、スペース\nピープル！",
+    "translation": "ベントラー、ベントラー、スペース\nピープル！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV4_004S_0152",
+    "original": "べ、ベントラー、ベントラー……\nスペースピープル？",
+    "translation": "べ、ベントラー、ベントラー……\nスペースピープル？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV4_004S_0153",
+    "original": "そうよ。さあ、唱えながら踊って！",
+    "translation": "そうよ。さあ、唱えながら踊って！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV4_004S_0154",
+    "original": "ベントラ～、ベントラ～、スペース\nピープル～……ベントラ～……",
+    "translation": "ベントラ～、ベントラ～、スペース\nピープル～……ベントラ～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV4_004S_0155",
+    "original": "そう！　もっと喜びを表現して！",
+    "translation": "そう！　もっと喜びを表現して！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV4_004S_0156",
+    "original": "ベントラ～、ベントラ～……",
+    "translation": "ベントラ～、ベントラ～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV4_004S_0157",
+    "original": "ハルヒ指導の怪しげな召喚の踊りの\n結果は、",
+    "translation": "ハルヒ指導の怪しげな召喚の踊りの\n結果は、",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV4_004S_0158",
+    "original": "結局のところ何の役にも立たなかっ\nたと言っておこう",
+    "translation": "結局のところ何の役にも立たなかっ\nたと言っておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV4_004S_0159",
+    "original": "なんてお気の毒な朝比奈さん……\nいや、役に立っても困るけどな",
+    "translation": "なんてお気の毒な朝比奈さん……\nいや、役に立っても困るけどな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV4_004S_0160",
+    "original": "バニースーツ",
+    "translation": "バニースーツ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 161,
+    "key": "evt_EV4_004S_0161",
+    "original": "メイド服",
+    "translation": "メイド服",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV4_004S_0162",
+    "original": "違うだろ",
+    "translation": "違うだろ",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV4_004S_0163",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV4_004S_0164",
+    "original": "ハルヒに頼む",
+    "translation": "ハルヒに頼む",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV4_004S_0165",
+    "original": "頼まない",
+    "translation": "頼まない",
+    "speaker": "CHOICE"
+  }
+]

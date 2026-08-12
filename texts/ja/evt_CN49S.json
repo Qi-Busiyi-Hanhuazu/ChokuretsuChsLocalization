@@ -1,0 +1,466 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN49S_0000",
+    "original": "ん？",
+    "translation": "ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN49S_0001",
+    "original": "ポケットの中になにか入っている",
+    "translation": "ポケットの中になにか入っている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN49S_0002",
+    "original": "なんだ？　……ああ、長門に渡され\nた差し込み広告か",
+    "translation": "なんだ？　……ああ、長門に渡され\nた差し込み広告か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN49S_0003",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN49S_0004",
+    "original": "いや、ポケットにチラシが入ってた\nだけだ。見るか？",
+    "translation": "いや、ポケットにチラシが入ってた\nだけだ。見るか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN49S_0005",
+    "original": "今はそれどころじゃないでしょ\nそれに",
+    "translation": "今はそれどころじゃないでしょ\nそれに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN49S_0006",
+    "original": "小学生じゃないんだから、なんでも\nかんでもポケットに詰め込まないの",
+    "translation": "小学生じゃないんだから、なんでも\nかんでもポケットに詰め込まないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN49S_0007",
+    "original": "……悪かったよ",
+    "translation": "……悪かったよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN49S_0008",
+    "original": "あの、涼宮さんこんなのが\nあるんですけど",
+    "translation": "あの、涼宮さんこんなのが\nあるんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN49S_0009",
+    "original": "何？　これって本の広告？",
+    "translation": "何？　これって本の広告？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN49S_0010",
+    "original": "あ、そうです。長門さんが\n読んでた本に挟まってて",
+    "translation": "あ、そうです。長門さんが\n読んでた本に挟まってて",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN49S_0011",
+    "original": "なになに……怖い話の投稿を\n大募集中ですって！？",
+    "translation": "なになに……怖い話の投稿を\n大募集中ですって！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN49S_0012",
+    "original": "いいわね、この新七不思議を\n解明したら投稿してみましょ",
+    "translation": "いいわね、この新七不思議を\n解明したら投稿してみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN49S_0013",
+    "original": "で、でも、これって実際の体験のみ\nって書いてありますよ",
+    "translation": "で、でも、これって実際の体験のみ\nって書いてありますよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN49S_0014",
+    "original": "えぇっ、それじゃ解明したら\nダメじゃないの",
+    "translation": "えぇっ、それじゃ解明したら\nダメじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN49S_0015",
+    "original": "そうみたいですねぇ",
+    "translation": "そうみたいですねぇ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN49S_0016",
+    "original": "どうせなら、制限なんて付けない\nで、ドーンと募集しなさいっての",
+    "translation": "どうせなら、制限なんて付けない\nで、ドーンと募集しなさいっての",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN49S_0017",
+    "original": "急ぐわよ、有希！",
+    "translation": "急ぐわよ、有希！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN49S_0018",
+    "original": "\n……きゃ！",
+    "translation": "\n……きゃ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN49S_0019",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN49S_0020",
+    "original": "いたたた……な、なんか踏んづけて\n転んじゃったけど……",
+    "translation": "いたたた……な、なんか踏んづけて\n転んじゃったけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN49S_0021",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN49S_0022",
+    "original": "なにこれ……本に挟まってるような\n綴じ込みチラシじゃない",
+    "translation": "なにこれ……本に挟まってるような\n綴じ込みチラシじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN49S_0023",
+    "original": "こんなの廊下に捨てるなんて、この\n学校のモラルも地に落ちたわね！",
+    "translation": "こんなの廊下に捨てるなんて、この\n学校のモラルも地に落ちたわね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN49S_0024",
+    "original": "怪我は",
+    "translation": "怪我は",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN49S_0025",
+    "original": "え、う、うん……お尻が痛いけどね",
+    "translation": "え、う、うん……お尻が痛いけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN49S_0026",
+    "original": "\n……って、あら？",
+    "translation": "\n……って、あら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN49S_0027",
+    "original": "ねえ有希、ＣＤを見なかった？\n転んだひょうしに、落としたみたい",
+    "translation": "ねえ有希、ＣＤを見なかった？\n転んだひょうしに、落としたみたい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN49S_0028",
+    "original": "滑っていった",
+    "translation": "滑っていった",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN49S_0029",
+    "original": "なんですって……大変\nあれがないと困るの、有希、探して",
+    "translation": "なんですって……大変\nあれがないと困るの、有希、探して",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN49S_0030",
+    "original": "了解",
+    "translation": "了解",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN49S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN49S_0032",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN49S_0033",
+    "original": "……",
+    "translation": "……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN49S_0034",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN49S_0035",
+    "original": "どう？　あった？",
+    "translation": "どう？　あった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN49S_0036",
+    "original": "……不明",
+    "translation": "……不明",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN49S_0037",
+    "original": "こっちも見つからないわ……暗くて\nよく見えない……",
+    "translation": "こっちも見つからないわ……暗くて\nよく見えない……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN49S_0038",
+    "original": "そうだわ！　廊下の明かりを点けれ\nばいいじゃない",
+    "translation": "そうだわ！　廊下の明かりを点けれ\nばいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN49S_0039",
+    "original": "宿直の教師に発見されると、面倒",
+    "translation": "宿直の教師に発見されると、面倒",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN49S_0040",
+    "original": "その前にＣＤを見付けて脱出すれば\nいいのよ",
+    "translation": "その前にＣＤを見付けて脱出すれば\nいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN49S_0041",
+    "original": "有希、スイッチ点けてきて",
+    "translation": "有希、スイッチ点けてきて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN49S_0042",
+    "original": "……了解",
+    "translation": "……了解",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN49S_0043",
+    "original": "あっちの壁よ！　気を付けて\nあたしの言うとおり動くのよ",
+    "translation": "あっちの壁よ！　気を付けて\nあたしの言うとおり動くのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN49S_0044",
+    "original": "そうだ、ナビしたげるわ",
+    "translation": "そうだ、ナビしたげるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN49S_0045",
+    "original": "……了解した",
+    "translation": "……了解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN49S_0046",
+    "original": "はい、んじゃ、そのまま進んで……",
+    "translation": "はい、んじゃ、そのまま進んで……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN49S_0047",
+    "original": "そこでストップ！　少し右を向いて\n……ああ、向きすぎ！　戻って！",
+    "translation": "そこでストップ！　少し右を向いて\n……ああ、向きすぎ！　戻って！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN49S_0048",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN49S_0049",
+    "original": "そう、その向きよ。それでもう一度\nゆっくり歩いて……ストップ！",
+    "translation": "そう、その向きよ。それでもう一度\nゆっくり歩いて……ストップ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN49S_0050",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 51,
+    "key": "evt_CN49S_0051",
+    "original": "そっと手を前に出して、壁があるで\nしょ",
+    "translation": "そっと手を前に出して、壁があるで\nしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_CN49S_0052",
+    "original": "ある",
+    "translation": "ある",
+    "speaker": "長門"
+  },
+  {
+    "index": 53,
+    "key": "evt_CN49S_0053",
+    "original": "そしたら大体目の高さのところに、\nスイッチがあるはずよ。探してみて",
+    "translation": "そしたら大体目の高さのところに、\nスイッチがあるはずよ。探してみて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_CN49S_0054",
+    "original": "……\n確認した、点灯する",
+    "translation": "……\n確認した、点灯する",
+    "speaker": "長門"
+  },
+  {
+    "index": 55,
+    "key": "evt_CN49S_0055",
+    "original": "まぶし！",
+    "translation": "まぶし！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CN49S_0056",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 57,
+    "key": "evt_CN49S_0057",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 58,
+    "key": "evt_CN49S_0058",
+    "original": "よし、回収完了！\n道草食っちゃったわね、急ぎましょ",
+    "translation": "よし、回収完了！\n道草食っちゃったわね、急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_CN49S_0059",
+    "original": "涼宮さん、ちょっとこれを見て\n下さい",
+    "translation": "涼宮さん、ちょっとこれを見て\n下さい",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CN49S_0060",
+    "original": "これは何かの広告かしら",
+    "translation": "これは何かの広告かしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CN49S_0061",
+    "original": "はい、本に挟まっていた綴じ込み\n広告です",
+    "translation": "はい、本に挟まっていた綴じ込み\n広告です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_CN49S_0062",
+    "original": "怖い話の投稿大募集ですって！？",
+    "translation": "怖い話の投稿大募集ですって！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_CN49S_0063",
+    "original": "ちょうど良かったわ、新七不思議を\n解明して投稿するわよっ！",
+    "translation": "ちょうど良かったわ、新七不思議を\n解明して投稿するわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CN49S_0064",
+    "original": "待って下さい、涼宮さん。これは\n怪奇体験のお話募集ですよ",
+    "translation": "待って下さい、涼宮さん。これは\n怪奇体験のお話募集ですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 65,
+    "key": "evt_CN49S_0065",
+    "original": "解明しちゃったらダメなのね……\nなんて懐の小さい出版社かしらっ！",
+    "translation": "解明しちゃったらダメなのね……\nなんて懐の小さい出版社かしらっ！",
+    "speaker": "ハルヒ"
+  }
+]

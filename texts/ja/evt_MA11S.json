@@ -1,0 +1,445 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA11S_0000",
+    "original": "今思い出したんだけど",
+    "translation": "今思い出したんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA11S_0001",
+    "original": "昼間調べた資料の中に無人の体育館\nに人の気配がって話があったのよね",
+    "translation": "昼間調べた資料の中に無人の体育館\nに人の気配がって話があったのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA11S_0002",
+    "original": "あれって、何か関係があるんじゃな\nいかと思うのよ",
+    "translation": "あれって、何か関係があるんじゃな\nいかと思うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA11S_0003",
+    "original": "何かって、なんだよ",
+    "translation": "何かって、なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA11S_0004",
+    "original": "そんなの分からないわ\nだから調べるんじゃないの",
+    "translation": "そんなの分からないわ\nだから調べるんじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA11S_0005",
+    "original": "うん、そうよ、きっと関係があるに\n違いないわ！",
+    "translation": "うん、そうよ、きっと関係があるに\n違いないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA11S_0006",
+    "original": "急ぎましょう、今度こそ本当に\n怪奇現象と遭遇できるかも！",
+    "translation": "急ぎましょう、今度こそ本当に\n怪奇現象と遭遇できるかも！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA11S_0007",
+    "original": "そうだ、ちょうどいい物があるぞ\nほら、これだ……",
+    "translation": "そうだ、ちょうどいい物があるぞ\nほら、これだ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA11S_0008",
+    "original": "なに？　この本",
+    "translation": "なに？　この本",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA11S_0009",
+    "original": "そこに音の反響の話が載ってるんだ\n発生源と聞こえる場所の違いとか",
+    "translation": "そこに音の反響の話が載ってるんだ\n発生源と聞こえる場所の違いとか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA11S_0010",
+    "original": "それっぽい話が満載だ",
+    "translation": "それっぽい話が満載だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA11S_0011",
+    "original": "へえ……ふんふん",
+    "translation": "へえ……ふんふん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA11S_0012",
+    "original": "さっそく走り読みをはじめた",
+    "translation": "さっそく走り読みをはじめた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA11S_0013",
+    "original": "……ふぅん、結構面白いわね",
+    "translation": "……ふぅん、結構面白いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA11S_0014",
+    "original": "どうやら、少しは時間を稼げた\nようだ",
+    "translation": "どうやら、少しは時間を稼げた\nようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA11S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_MA11S_0016",
+    "original": "えと、なんのことですか？",
+    "translation": "えと、なんのことですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA11S_0017",
+    "original": "谷口でもたまには役にたつって\n話よ",
+    "translation": "谷口でもたまには役にたつって\n話よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA11S_0018",
+    "original": "急ぎましょ、調べたいことができ\nちゃったわ",
+    "translation": "急ぎましょ、調べたいことができ\nちゃったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA11S_0019",
+    "original": "あの、これ",
+    "translation": "あの、これ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA11S_0020",
+    "original": "なにこれ",
+    "translation": "なにこれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA11S_0021",
+    "original": "鶴屋さんが薦めてくれたんです\n音の不思議な現象が載ってるって",
+    "translation": "鶴屋さんが薦めてくれたんです\n音の不思議な現象が載ってるって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA11S_0022",
+    "original": "ほら、昼間のピアノのこととか\n何か分かるんじゃないかって",
+    "translation": "ほら、昼間のピアノのこととか\n何か分かるんじゃないかって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA11S_0023",
+    "original": "ふぅん……ふむふむ",
+    "translation": "ふぅん……ふむふむ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA11S_0024",
+    "original": "あ、あの",
+    "translation": "あ、あの",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA11S_0025",
+    "original": "ちょっと黙ってて",
+    "translation": "ちょっと黙ってて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA11S_0026",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA11S_0027",
+    "original": "ふんふん……",
+    "translation": "ふんふん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA11S_0028",
+    "original": "あの、涼宮さん……？",
+    "translation": "あの、涼宮さん……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA11S_0029",
+    "original": "んー……なかなか面白いわ",
+    "translation": "んー……なかなか面白いわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA11S_0030",
+    "original": "調べてみる価値はありそうね",
+    "translation": "調べてみる価値はありそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA11S_0031",
+    "original": "有希、急ぎましょ\nやることが増えちゃったわ",
+    "translation": "有希、急ぎましょ\nやることが増えちゃったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA11S_0032",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA11S_0033",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA11S_0034",
+    "original": "なにこれ？",
+    "translation": "なにこれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA11S_0035",
+    "original": "読んで",
+    "translation": "読んで",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA11S_0036",
+    "original": "読むって、この付せんのとこ？",
+    "translation": "読むって、この付せんのとこ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA11S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA11S_0038",
+    "original": "音の反響と発生源……？\n昼間のピアノのことで調べてたのね",
+    "translation": "音の反響と発生源……？\n昼間のピアノのことで調べてたのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA11S_0039",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA11S_0040",
+    "original": "へえ、結構詳しく書かれてるわね",
+    "translation": "へえ、結構詳しく書かれてるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA11S_0041",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA11S_0042",
+    "original": "ふんふん……",
+    "translation": "ふんふん……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA11S_0043",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA11S_0044",
+    "original": "なかなか面白いわ、これ",
+    "translation": "なかなか面白いわ、これ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA11S_0045",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA11S_0046",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "evt_MA11S_0047",
+    "original": "人の気配……ですか",
+    "translation": "人の気配……ですか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA11S_0048",
+    "original": "そ、足音とか、話し声とか\n微かに音楽も聞こえてたっていうわ",
+    "translation": "そ、足音とか、話し声とか\n微かに音楽も聞こえてたっていうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA11S_0049",
+    "original": "確かにそれは気になりますね",
+    "translation": "確かにそれは気になりますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA11S_0050",
+    "original": "でしょ？　だから、そっちについて\nも調べてみないと",
+    "translation": "でしょ？　だから、そっちについて\nも調べてみないと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA11S_0051",
+    "original": "やることが増えちゃったわ\nとにかく急ぎましょ",
+    "translation": "やることが増えちゃったわ\nとにかく急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA11S_0052",
+    "original": "でしたら、その前にこの本などに\n目を通されるとよいでしょう",
+    "translation": "でしたら、その前にこの本などに\n目を通されるとよいでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA11S_0053",
+    "original": "科学読本？　どうしたのこれ",
+    "translation": "科学読本？　どうしたのこれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA11S_0054",
+    "original": "昼間のピアノの一件について\n個人的に調べていました",
+    "translation": "昼間のピアノの一件について\n個人的に調べていました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA11S_0055",
+    "original": "この中に、音の反響と発生源に\n関する興味深い話がありまして",
+    "translation": "この中に、音の反響と発生源に\n関する興味深い話がありまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA11S_0056",
+    "original": "へえ……ふんふん",
+    "translation": "へえ……ふんふん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA11S_0057",
+    "original": "いかがでしょう",
+    "translation": "いかがでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA11S_0058",
+    "original": "なるほど、面白いわね",
+    "translation": "なるほど、面白いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA11S_0059",
+    "original": "反響を繰り返していくうちに人間の\n耳では発生源が分からなくなると",
+    "translation": "反響を繰り返していくうちに人間の\n耳では発生源が分からなくなると",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA11S_0060",
+    "original": "確かに、今回の件に関係ありそうね",
+    "translation": "確かに、今回の件に関係ありそうね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_MA11S_0061",
+    "original": "ちょっとジックリ読んで見るわ",
+    "translation": "ちょっとジックリ読んで見るわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA11S_0062",
+    "original": "どうぞ、お待ちしますよ",
+    "translation": "どうぞ、お待ちしますよ",
+    "speaker": "古泉"
+  }
+]

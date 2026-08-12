@@ -1,0 +1,382 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA15S_0000",
+    "original": "ここまで来れば、見回りの教師とも\n鉢合わせたりしないでしょう",
+    "translation": "ここまで来れば、見回りの教師とも\n鉢合わせたりしないでしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA15S_0001",
+    "original": "さあ、プールへ急ぐわよ",
+    "translation": "さあ、プールへ急ぐわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA15S_0002",
+    "original": "おい、あんまり急ぐな……",
+    "translation": "おい、あんまり急ぐな……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA15S_0003",
+    "original": "[#SK0]どわああああっ！？",
+    "translation": "[#SK0]どわああああっ！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA15S_0004",
+    "original": "ちょと、キョン！　大声出したら\n見つかっちゃうでしょ！",
+    "translation": "ちょと、キョン！　大声出したら\n見つかっちゃうでしょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA15S_0005",
+    "original": "いや、そこ、そこ！",
+    "translation": "いや、そこ、そこ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA15S_0006",
+    "original": "なにこれ、人体模型じゃない\n誰がこんなとこに置いたのよ",
+    "translation": "なにこれ、人体模型じゃない\n誰がこんなとこに置いたのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA15S_0007",
+    "original": "そ、そうか、古泉だ\nまさか俺が驚かされるとは……",
+    "translation": "そ、そうか、古泉だ\nまさか俺が驚かされるとは……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA15S_0008",
+    "original": "こんなのにビビっちゃうなんて\nアンタ、情けないわねぇ",
+    "translation": "こんなのにビビっちゃうなんて\nアンタ、情けないわねぇ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA15S_0009",
+    "original": "なんとでも言ってくれ……",
+    "translation": "なんとでも言ってくれ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA15S_0010",
+    "original": "くそ、本気で腰が抜けそうだったぞ\nまあ、おかげで時間は稼げたが……",
+    "translation": "くそ、本気で腰が抜けそうだったぞ\nまあ、おかげで時間は稼げたが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA15S_0011",
+    "original": "まさか、古泉のやつ、ここまで計算\nに入れてたんじゃないだろうな……",
+    "translation": "まさか、古泉のやつ、ここまで計算\nに入れてたんじゃないだろうな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA15S_0012",
+    "original": "プールへ急ぎましょ、みくるちゃん",
+    "translation": "プールへ急ぎましょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA15S_0013",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "evt_MA15S_0014",
+    "original": "ま、待ってくだ――",
+    "translation": "ま、待ってくだ――",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA15S_0015",
+    "original": "[#SK0]きゃあああああっ！",
+    "translation": "[#SK0]きゃあああああっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA15S_0016",
+    "original": "ちょっとみくるちゃん！？",
+    "translation": "ちょっとみくるちゃん！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA15S_0017",
+    "original": "[#SK0]す、すすす涼宮さぁん！\nあああ、あそ、あそこに……",
+    "translation": "[#SK0]す、すすす涼宮さぁん！\nあああ、あそ、あそこに……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA15S_0018",
+    "original": "あれ……人体模型じゃない",
+    "translation": "あれ……人体模型じゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA15S_0019",
+    "original": "はうう……へ？",
+    "translation": "はうう……へ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA15S_0020",
+    "original": "誰が置いたか知らないけど",
+    "translation": "誰が置いたか知らないけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA15S_0021",
+    "original": "これじゃみくるちゃんじゃなくても\nビックリするわよね",
+    "translation": "これじゃみくるちゃんじゃなくても\nビックリするわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA15S_0022",
+    "original": "はうう……",
+    "translation": "はうう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA15S_0023",
+    "original": "大丈夫？　ほら、立てる？",
+    "translation": "大丈夫？　ほら、立てる？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA15S_0024",
+    "original": "ダメですぅ、腰が抜けて……",
+    "translation": "ダメですぅ、腰が抜けて……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA15S_0025",
+    "original": "仕方ないわね、落ち着くまで待って\nあげるから",
+    "translation": "仕方ないわね、落ち着くまで待って\nあげるから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA15S_0026",
+    "original": "すみませぇん……",
+    "translation": "すみませぇん……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA15S_0027",
+    "original": "プールへ急ぐわよ、有希",
+    "translation": "プールへ急ぐわよ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA15S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_MA15S_0029",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA15S_0030",
+    "original": "ん？　どうしたの？",
+    "translation": "ん？　どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA15S_0031",
+    "original": "そこに、何かある",
+    "translation": "そこに、何かある",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA15S_0032",
+    "original": "なにかって……",
+    "translation": "なにかって……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA15S_0033",
+    "original": "わっ！",
+    "translation": "わっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA15S_0034",
+    "original": "ビックリしたぁ……",
+    "translation": "ビックリしたぁ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA15S_0035",
+    "original": "誰よ、こんなとこに人体模型なんて\n置いたのは",
+    "translation": "誰よ、こんなとこに人体模型なんて\n置いたのは",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA15S_0036",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA15S_0037",
+    "original": "有希、アンタ、よく平然としてられ\nるわね",
+    "translation": "有希、アンタ、よく平然としてられ\nるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA15S_0038",
+    "original": "これは人体模型。驚く必要はない",
+    "translation": "これは人体模型。驚く必要はない",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA15S_0039",
+    "original": "……この暗がりでいきなり出くわし\nたら、さすがに驚くわよ、普通",
+    "translation": "……この暗がりでいきなり出くわし\nたら、さすがに驚くわよ、普通",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA15S_0040",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA15S_0041",
+    "original": "むぅ……なんか、あたしだけ驚いた\nのが悔しくなってきたわ",
+    "translation": "むぅ……なんか、あたしだけ驚いた\nのが悔しくなってきたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA15S_0042",
+    "original": "プールまで一気に駆け抜けるわよ",
+    "translation": "プールまで一気に駆け抜けるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA15S_0043",
+    "original": "わっ！？",
+    "translation": "わっ！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA15S_0044",
+    "original": "ビックリしたじゃない\n……なにこれ、人体模型ね",
+    "translation": "ビックリしたじゃない\n……なにこれ、人体模型ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA15S_0045",
+    "original": "ええ、そのようですね",
+    "translation": "ええ、そのようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA15S_0046",
+    "original": "誰がこんなとこに……\nあ、分かったわ。古泉くんの仕業ね",
+    "translation": "誰がこんなとこに……\nあ、分かったわ。古泉くんの仕業ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA15S_0047",
+    "original": "やはり、バレましたか",
+    "translation": "やはり、バレましたか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA15S_0048",
+    "original": "古典的だけど、なかなか効果的だわ",
+    "translation": "古典的だけど、なかなか効果的だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA15S_0049",
+    "original": "さすがのあたしも、少しビックリ\nしたわ",
+    "translation": "さすがのあたしも、少しビックリ\nしたわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA15S_0050",
+    "original": "古泉くんに一本取られたわね",
+    "translation": "古泉くんに一本取られたわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_MA15S_0051",
+    "original": "そう言っていただけると頑張った\nかいがあります",
+    "translation": "そう言っていただけると頑張った\nかいがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA15S_0052",
+    "original": "でも二回目はないわよ。同じネタ\nじゃ面白くないもの",
+    "translation": "でも二回目はないわよ。同じネタ\nじゃ面白くないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA15S_0053",
+    "original": "はい、肝に銘じておきます",
+    "translation": "はい、肝に銘じておきます",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA16S_0000",
+    "original": "さっき朝比奈さんからおやつを\nいただいたんだが",
+    "translation": "さっき朝比奈さんからおやつを\nいただいたんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA16S_0001",
+    "original": "それは良かったわね。何を？",
+    "translation": "それは良かったわね。何を？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA16S_0002",
+    "original": "マシュマロだ",
+    "translation": "マシュマロだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA16S_0003",
+    "original": "白くてふわふわで甘いマシュマロは\n思えば朝比奈さんに似ている",
+    "translation": "白くてふわふわで甘いマシュマロは\n思えば朝比奈さんに似ている",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA16S_0004",
+    "original": "マシュマロねえ。焼いて食べると\n美味しいのよ。知ってた？",
+    "translation": "マシュマロねえ。焼いて食べると\n美味しいのよ。知ってた？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA16S_0005",
+    "original": "焼いたらとけるんじゃないか？",
+    "translation": "焼いたらとけるんじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA16S_0006",
+    "original": "とけて焦げ目がついて美味しいのよ\nココアに入れるのもいいわね",
+    "translation": "とけて焦げ目がついて美味しいのよ\nココアに入れるのもいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA16S_0007",
+    "original": "よく知ってるな",
+    "translation": "よく知ってるな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA16S_0008",
+    "original": "これぐらい当然の知識よ",
+    "translation": "これぐらい当然の知識よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA16S_0009",
+    "original": "そうか？　それより食い物の話を\nしてると腹が空かないか？",
+    "translation": "そうか？　それより食い物の話を\nしてると腹が空かないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA16S_0010",
+    "original": "腹が減ったら怪談捜しをやめては\nくれないだろうか？",
+    "translation": "腹が減ったら怪談捜しをやめては\nくれないだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA16S_0011",
+    "original": "さっきマシュマロ食べたんでしょう",
+    "translation": "さっきマシュマロ食べたんでしょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA16S_0012",
+    "original": "おやつは食事じゃないだろ",
+    "translation": "おやつは食事じゃないだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA16S_0013",
+    "original": "キョンは即物的でしょうがないわね",
+    "translation": "キョンは即物的でしょうがないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA16S_0014",
+    "original": "やはりダメだったか",
+    "translation": "やはりダメだったか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA16S_0015",
+    "original": "あの～、涼宮さんもマシュマロ\n食べませんか？",
+    "translation": "あの～、涼宮さんもマシュマロ\n食べませんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA16S_0016",
+    "original": "マシュマロなんて持ってきてたの？",
+    "translation": "マシュマロなんて持ってきてたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA16S_0017",
+    "original": "はい。甘いものを食べるとちょっと\nホッとするじゃないですか",
+    "translation": "はい。甘いものを食べるとちょっと\nホッとするじゃないですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA16S_0018",
+    "original": "さっきキョンくんにも上げたら\n喜んでもらえました",
+    "translation": "さっきキョンくんにも上げたら\n喜んでもらえました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA16S_0019",
+    "original": "キョンは、みくるちゃんからなら\nなんでも喜ぶと思うわ",
+    "translation": "キョンは、みくるちゃんからなら\nなんでも喜ぶと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA16S_0020",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA16S_0021",
+    "original": "なんでもないわ\nひとついただくわね",
+    "translation": "なんでもないわ\nひとついただくわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA16S_0022",
+    "original": "はい、どうぞ",
+    "translation": "はい、どうぞ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA16S_0023",
+    "original": "朝比奈みくるからマシュマロを\nもらったとの事",
+    "translation": "朝比奈みくるからマシュマロを\nもらったとの事",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA16S_0024",
+    "original": "ええと、もらったのはキョン？",
+    "translation": "ええと、もらったのはキョン？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA16S_0025",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA16S_0026",
+    "original": "みくるちゃん、マシュマロなんて\n持ってきてたのね",
+    "translation": "みくるちゃん、マシュマロなんて\n持ってきてたのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA16S_0027",
+    "original": "おやつ、らしい",
+    "translation": "おやつ、らしい",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA16S_0028",
+    "original": "ふうん、じゃ、みくるちゃんに\n会ったらあたし達ももらいましょ",
+    "translation": "ふうん、じゃ、みくるちゃんに\n会ったらあたし達ももらいましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA16S_0029",
+    "original": "糖分は脳の活性化に効くから\nいい考えも浮かぶかもね",
+    "translation": "糖分は脳の活性化に効くから\nいい考えも浮かぶかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA16S_0030",
+    "original": "賛成",
+    "translation": "賛成",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA16S_0031",
+    "original": "朝比奈さんはおやつにマシュマロを\n持っていらしたそうです",
+    "translation": "朝比奈さんはおやつにマシュマロを\n持っていらしたそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA16S_0032",
+    "original": "おやつにマシュマロって\nちょっと風変わりね",
+    "translation": "おやつにマシュマロって\nちょっと風変わりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA16S_0033",
+    "original": "朝比奈さんのことですから、お茶に\nでも入れるためかもしれませんね",
+    "translation": "朝比奈さんのことですから、お茶に\nでも入れるためかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_CA16S_0034",
+    "original": "そうね、ココアに入れたりするわね\n紅茶もミルクティっぽくなるのよ",
+    "translation": "そうね、ココアに入れたりするわね\n紅茶もミルクティっぽくなるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CA16S_0035",
+    "original": "甘いものは緊張を和らげますし\n僕も何か持ってくるべきでした",
+    "translation": "甘いものは緊張を和らげますし\n僕も何か持ってくるべきでした",
+    "speaker": "古泉"
+  }
+]

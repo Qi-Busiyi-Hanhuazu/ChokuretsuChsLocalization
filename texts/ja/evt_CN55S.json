@@ -1,0 +1,296 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN55S_0000",
+    "original": "ハルヒ、ちょっと待て",
+    "translation": "ハルヒ、ちょっと待て",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN55S_0001",
+    "original": "急いでるのになによっ",
+    "translation": "急いでるのになによっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN55S_0002",
+    "original": "まあ待て、急ぐのはわかっているが\nちょっと糖分補給だ",
+    "translation": "まあ待て、急ぐのはわかっているが\nちょっと糖分補給だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN55S_0003",
+    "original": "あんたチョコ持ち歩いてるの？",
+    "translation": "あんたチョコ持ち歩いてるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN55S_0004",
+    "original": "たまたまだ。おやつに持ってきて\nたんだよ",
+    "translation": "たまたまだ。おやつに持ってきて\nたんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN55S_0005",
+    "original": "おやつって、合宿は遠足じゃないの\nよ！",
+    "translation": "おやつって、合宿は遠足じゃないの\nよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN55S_0006",
+    "original": "じゃあお前にはやらん",
+    "translation": "じゃあお前にはやらん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN55S_0007",
+    "original": "いいから寄こしなさいっ",
+    "translation": "いいから寄こしなさいっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN55S_0008",
+    "original": "おい、勝手に奪うな……まったく",
+    "translation": "おい、勝手に奪うな……まったく",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN55S_0009",
+    "original": "何も全部もらおうなんて思ってない\nちゃんとあんたの分も残すわよ",
+    "translation": "何も全部もらおうなんて思ってない\nちゃんとあんたの分も残すわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN55S_0010",
+    "original": "あんたの頭の血の巡りに必要な分\nぐらいはね",
+    "translation": "あんたの頭の血の巡りに必要な分\nぐらいはね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN55S_0011",
+    "original": "頭の血の巡りとチョコと、どういう\n関係があるんだよ",
+    "translation": "頭の血の巡りとチョコと、どういう\n関係があるんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN55S_0012",
+    "original": "糖分が脳の栄養になるのよ。アンタ\nの脳みそは栄養失調みたいだしね",
+    "translation": "糖分が脳の栄養になるのよ。アンタ\nの脳みそは栄養失調みたいだしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN55S_0013",
+    "original": "さんざんな言いようだな、おい……",
+    "translation": "さんざんな言いようだな、おい……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN55S_0014",
+    "original": "長門さんが買い出しでチョコを\n欲しがったんだそうですよ",
+    "translation": "長門さんが買い出しでチョコを\n欲しがったんだそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN55S_0015",
+    "original": "有希ってチョコ好きだったの？",
+    "translation": "有希ってチョコ好きだったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN55S_0016",
+    "original": "好きというか、チョコは栄養価に\nすぐれた食品だからだそうですよ",
+    "translation": "好きというか、チョコは栄養価に\nすぐれた食品だからだそうですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN55S_0017",
+    "original": "みくるちゃんはチョコは好き？",
+    "translation": "みくるちゃんはチョコは好き？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN55S_0018",
+    "original": "はい、チョコレートは好きです",
+    "translation": "はい、チョコレートは好きです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN55S_0019",
+    "original": "そうよね、チョコが嫌いって女の子\nってあんまし聞かないわよね",
+    "translation": "そうよね、チョコが嫌いって女の子\nってあんまし聞かないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN55S_0020",
+    "original": "でも、夏はとけるのでちょっと……",
+    "translation": "でも、夏はとけるのでちょっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN55S_0021",
+    "original": "うんうん、あれ困るわよー",
+    "translation": "うんうん、あれ困るわよー",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN55S_0022",
+    "original": "非常食で用意してても、ドロドロに\nなっちゃっててね",
+    "translation": "非常食で用意してても、ドロドロに\nなっちゃっててね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN55S_0023",
+    "original": "涼宮さん、あの、どうして\n非常食が必要なんでしょう？",
+    "translation": "涼宮さん、あの、どうして\n非常食が必要なんでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN55S_0024",
+    "original": "だって備えあれば憂いなしでしょ",
+    "translation": "だって備えあれば憂いなしでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN55S_0025",
+    "original": "いつ遭難したり、ＵＦＯにさらわれ\nたりしてもいいようによ！",
+    "translation": "いつ遭難したり、ＵＦＯにさらわれ\nたりしてもいいようによ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN55S_0026",
+    "original": "そんな前提、考えないでください～",
+    "translation": "そんな前提、考えないでください～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN55S_0027",
+    "original": "チョコ",
+    "translation": "チョコ",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN55S_0028",
+    "original": "ん？　くれるの？",
+    "translation": "ん？　くれるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN55S_0029",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN55S_0030",
+    "original": "ありがと、うん、おいしいわ",
+    "translation": "ありがと、うん、おいしいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN55S_0031",
+    "original": "チョコレートの糖分は短期間にエネ\nルギーを摂取するのに適している",
+    "translation": "チョコレートの糖分は短期間にエネ\nルギーを摂取するのに適している",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN55S_0032",
+    "original": "そういえば、山登りに持っていくっ\nていうものね",
+    "translation": "そういえば、山登りに持っていくっ\nていうものね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN55S_0033",
+    "original": "うん、今みたいな状況には最適だわ",
+    "translation": "うん、今みたいな状況には最適だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN55S_0034",
+    "original": "暑いから、どろどろにならないよう\nに注意しないといけないけどね",
+    "translation": "暑いから、どろどろにならないよう\nに注意しないといけないけどね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN55S_0035",
+    "original": "長門さんの希望で、買出しの際に\nチョコレートを購入したそうです",
+    "translation": "長門さんの希望で、買出しの際に\nチョコレートを購入したそうです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN55S_0036",
+    "original": "いいんじゃない？　夜はまだ長いし\nお菓子はいくつあっても足りないわ",
+    "translation": "いいんじゃない？　夜はまだ長いし\nお菓子はいくつあっても足りないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN55S_0037",
+    "original": "糖分は頭脳労働に不可欠ですからね",
+    "translation": "糖分は頭脳労働に不可欠ですからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN55S_0038",
+    "original": "甘いものばかりあっても困るけど",
+    "translation": "甘いものばかりあっても困るけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN55S_0039",
+    "original": "スナックとか、ちゃんとバランスを\n考えて買ったのかしら……？",
+    "translation": "スナックとか、ちゃんとバランスを\n考えて買ったのかしら……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN55S_0040",
+    "original": "その辺のことは、心配ないようです\n僕も中身を確認しましたから",
+    "translation": "その辺のことは、心配ないようです\n僕も中身を確認しましたから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN55S_0041",
+    "original": "なら安心ね。でもあんまり食べると\n太るから気をつけないとダメね",
+    "translation": "なら安心ね。でもあんまり食べると\n太るから気をつけないとダメね",
+    "speaker": "ハルヒ"
+  }
+]

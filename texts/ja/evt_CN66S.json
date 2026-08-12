@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN66S_0000",
+    "original": "ハルヒ、おまえは人から太鼓判を\n捺されるのってどう思う？",
+    "translation": "ハルヒ、おまえは人から太鼓判を\n捺されるのってどう思う？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN66S_0001",
+    "original": "あたしはあたしだもの、人がどう思\nおうとなにも変わらないわよ",
+    "translation": "あたしはあたしだもの、人がどう思\nおうとなにも変わらないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN66S_0002",
+    "original": "だとしても、人から認められること\nってのはうれしくないか？",
+    "translation": "だとしても、人から認められること\nってのはうれしくないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN66S_0003",
+    "original": "普通はうれしいものかもね",
+    "translation": "普通はうれしいものかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN66S_0004",
+    "original": "えらくクールな回答だな、おい",
+    "translation": "えらくクールな回答だな、おい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN66S_0005",
+    "original": "だって人から認められるだけのこと\nをしたってことでしょ",
+    "translation": "だって人から認められるだけのこと\nをしたってことでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN66S_0006",
+    "original": "テストで良い点取ってもうれしくは\nないのか？",
+    "translation": "テストで良い点取ってもうれしくは\nないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN66S_0007",
+    "original": "勉強して良い点を取れても当然の\n結果だもの",
+    "translation": "勉強して良い点を取れても当然の\n結果だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN66S_0008",
+    "original": "遊んでいて良い点が取れたら、それ\nはうれしいでしょうけど",
+    "translation": "遊んでいて良い点が取れたら、それ\nはうれしいでしょうけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN66S_0009",
+    "original": "俺のコトみたいに見つめて言うな",
+    "translation": "俺のコトみたいに見つめて言うな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN66S_0010",
+    "original": "長門さんって頼もしいですよね",
+    "translation": "長門さんって頼もしいですよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN66S_0011",
+    "original": "あら、みくるちゃんもそう思う？",
+    "translation": "あら、みくるちゃんもそう思う？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN66S_0012",
+    "original": "あたしと違って、何ごとにも動揺\nしないじゃないですか",
+    "translation": "あたしと違って、何ごとにも動揺\nしないじゃないですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN66S_0013",
+    "original": "気休めも言わない人だから",
+    "translation": "気休めも言わない人だから",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN66S_0014",
+    "original": "長門さんに大丈夫って太鼓判貰う\nと、大丈夫なんだって安心します",
+    "translation": "長門さんに大丈夫って太鼓判貰う\nと、大丈夫なんだって安心します",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN66S_0015",
+    "original": "そうね。でもみくるちゃんは動揺\nするからいいのよ？",
+    "translation": "そうね。でもみくるちゃんは動揺\nするからいいのよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN66S_0016",
+    "original": "有希みたいにみんなが静観してたら\n驚かせがいがないんだもの",
+    "translation": "有希みたいにみんなが静観してたら\n驚かせがいがないんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN66S_0017",
+    "original": "あたし、びっくり班ですかぁ？",
+    "translation": "あたし、びっくり班ですかぁ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN66S_0018",
+    "original": "あははっ、いいわね、びっくり班！",
+    "translation": "あははっ、いいわね、びっくり班！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN66S_0019",
+    "original": "長門さんみたいに落ち着いてたい\nんですよ、あたしだって……",
+    "translation": "長門さんみたいに落ち着いてたい\nんですよ、あたしだって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN66S_0020",
+    "original": "だめよ、そんな無理したって\nあなたのキャラに合わないわ",
+    "translation": "だめよ、そんな無理したって\nあなたのキャラに合わないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN66S_0021",
+    "original": "無理、ですか……くすん",
+    "translation": "無理、ですか……くすん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN66S_0022",
+    "original": "こっち",
+    "translation": "こっち",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN66S_0023",
+    "original": "……あれ、そっちだっけ？\nあっちのような気がするんだけど",
+    "translation": "……あれ、そっちだっけ？\nあっちのような気がするんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN66S_0024",
+    "original": "大丈夫、こっち",
+    "translation": "大丈夫、こっち",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN66S_0025",
+    "original": "そう、有希が言うならそうよね\n有希が間違うわけがないもの",
+    "translation": "そう、有希が言うならそうよね\n有希が間違うわけがないもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN66S_0026",
+    "original": "人徳、というものでしょうか――",
+    "translation": "人徳、というものでしょうか――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN66S_0027",
+    "original": "長門さんに“大丈夫だ”と太鼓判を\n押されると、安心できますね",
+    "translation": "長門さんに“大丈夫だ”と太鼓判を\n押されると、安心できますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN66S_0028",
+    "original": "うん、それはあるわね。あの子は\nめったにそんなこと言わないし",
+    "translation": "うん、それはあるわね。あの子は\nめったにそんなこと言わないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN66S_0029",
+    "original": "僕などが“大丈夫です”と言ったと\nころで、信用はイマイチですから",
+    "translation": "僕などが“大丈夫です”と言ったと\nころで、信用はイマイチですから",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN66S_0030",
+    "original": "そうでもないわよ。古泉くんの的確\nな進言は、貴重な団の財産よ",
+    "translation": "そうでもないわよ。古泉くんの的確\nな進言は、貴重な団の財産よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN66S_0031",
+    "original": "ありがとうございます\nそう言って頂けると、光栄ですね",
+    "translation": "ありがとうございます\nそう言って頂けると、光栄ですね",
+    "speaker": "古泉"
+  }
+]

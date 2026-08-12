@@ -1,0 +1,494 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA28S_0000",
+    "original": "それにしても……\n日が落ちても蒸し暑いわねえ",
+    "translation": "それにしても……\n日が落ちても蒸し暑いわねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA28S_0001",
+    "original": "夏なんだからしょうがないだろう",
+    "translation": "夏なんだからしょうがないだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA28S_0002",
+    "original": "いくら休みだからって、校舎の中を\n閉めきってるのが悪いのよ",
+    "translation": "いくら休みだからって、校舎の中を\n閉めきってるのが悪いのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA28S_0003",
+    "original": "それこそ、仕方がないと思うが",
+    "translation": "それこそ、仕方がないと思うが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA28S_0004",
+    "original": "ああ、もうっ！",
+    "translation": "ああ、もうっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA28S_0005",
+    "original": "早いところ玄関に行って涼しい風に\n当たりたいわ……",
+    "translation": "早いところ玄関に行って涼しい風に\n当たりたいわ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA28S_0006",
+    "original": "……ん？",
+    "translation": "……ん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA28S_0007",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA28S_0008",
+    "original": "今、そこで白いものがひらひらって\n動いた気がするのよ",
+    "translation": "今、そこで白いものがひらひらって\n動いた気がするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA28S_0009",
+    "original": "なに……？",
+    "translation": "なに……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA28S_0010",
+    "original": "行ってみましょ！",
+    "translation": "行ってみましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA28S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA28S_0012",
+    "original": "これは……",
+    "translation": "これは……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA28S_0013",
+    "original": "カーテン……だな",
+    "translation": "カーテン……だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA28S_0014",
+    "original": "もうっ、誰よこんなとこにカーテン\n出したやつは！",
+    "translation": "もうっ、誰よこんなとこにカーテン\n出したやつは！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA28S_0015",
+    "original": "一瞬、幽霊かと思ったじゃない",
+    "translation": "一瞬、幽霊かと思ったじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA28S_0016",
+    "original": "どうやら、教室から持ってきた\nカーテンが役に立ったみたいだな",
+    "translation": "どうやら、教室から持ってきた\nカーテンが役に立ったみたいだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA28S_0017",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "evt_MA28S_0018",
+    "original": "夏だからしょうがないんじゃ……",
+    "translation": "夏だからしょうがないんじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA28S_0019",
+    "original": "いいえ、みくるちゃん",
+    "translation": "いいえ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA28S_0020",
+    "original": "いくら休みだからって、校舎の中を\n閉めきってるのが悪いのよ",
+    "translation": "いくら休みだからって、校舎の中を\n閉めきってるのが悪いのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA28S_0021",
+    "original": "で、でも、カギを閉めておかないと\nドロボウが……",
+    "translation": "で、でも、カギを閉めておかないと\nドロボウが……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA28S_0022",
+    "original": "ああ、もうっ！",
+    "translation": "ああ、もうっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA28S_0023",
+    "original": "早いところ玄関に行って涼しい風に\n当たりたいわ……",
+    "translation": "早いところ玄関に行って涼しい風に\n当たりたいわ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA28S_0024",
+    "original": "あっ！",
+    "translation": "あっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA28S_0025",
+    "original": "ど、どうしたんですかっ",
+    "translation": "ど、どうしたんですかっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA28S_0026",
+    "original": "いま、そこをなにかが通った\n気がするのよ",
+    "translation": "いま、そこをなにかが通った\n気がするのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA28S_0027",
+    "original": "ええっ！？",
+    "translation": "ええっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA28S_0028",
+    "original": "追いかけるわよ！　みくるちゃん",
+    "translation": "追いかけるわよ！　みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA28S_0029",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "evt_MA28S_0030",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "evt_MA28S_0031",
+    "original": "ちょっと、なによこれ",
+    "translation": "ちょっと、なによこれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA28S_0032",
+    "original": "カーテン……みたいですね",
+    "translation": "カーテン……みたいですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA28S_0033",
+    "original": "もうっ、誰よこんなとこに\nカーテン出したのは！",
+    "translation": "もうっ、誰よこんなとこに\nカーテン出したのは！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA28S_0034",
+    "original": "ほっ……",
+    "translation": "ほっ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA28S_0035",
+    "original": "どうして夏とか冬とかあるの\nかしらっ",
+    "translation": "どうして夏とか冬とかあるの\nかしらっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA28S_0036",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA28S_0037",
+    "original": "いつでも春なら衣替えもしなくて\nすむのにっ",
+    "translation": "いつでも春なら衣替えもしなくて\nすむのにっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA28S_0038",
+    "original": "まあいいわ\n早く玄関に行って涼みましょ、有希",
+    "translation": "まあいいわ\n早く玄関に行って涼みましょ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA28S_0039",
+    "original": "……ん？　有希、今の見た？",
+    "translation": "……ん？　有希、今の見た？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA28S_0040",
+    "original": "見ていない",
+    "translation": "見ていない",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA28S_0041",
+    "original": "そこを、なにか白くてひらひらした\nものが通ったのよ！",
+    "translation": "そこを、なにか白くてひらひらした\nものが通ったのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA28S_0042",
+    "original": "追いかけるわよ！",
+    "translation": "追いかけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA28S_0043",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "evt_MA28S_0044",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "evt_MA28S_0045",
+    "original": "なによこれ……",
+    "translation": "なによこれ……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA28S_0046",
+    "original": "カーテン",
+    "translation": "カーテン",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA28S_0047",
+    "original": "そんなの見れば分かるわよ",
+    "translation": "そんなの見れば分かるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA28S_0048",
+    "original": "あたしが言いたいのは誰がこんなと\nこにカーテンを出したかってこと！",
+    "translation": "あたしが言いたいのは誰がこんなと\nこにカーテンを出したかってこと！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA28S_0049",
+    "original": "まったく、余計な時間を食ったわ！",
+    "translation": "まったく、余計な時間を食ったわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA28S_0050",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 51,
+    "key": "evt_MA28S_0051",
+    "original": "昼間閉めきっていたせいで熱が\nこもっているのでしょうね",
+    "translation": "昼間閉めきっていたせいで熱が\nこもっているのでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_MA28S_0052",
+    "original": "だったら窓を全開にしちゃえばいい\nのに",
+    "translation": "だったら窓を全開にしちゃえばいい\nのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_MA28S_0053",
+    "original": "それは防犯上問題があるのでしょう",
+    "translation": "それは防犯上問題があるのでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_MA28S_0054",
+    "original": "ああっ、もう！",
+    "translation": "ああっ、もう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_MA28S_0055",
+    "original": "とにかく玄関へ急ぎましょ",
+    "translation": "とにかく玄関へ急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_MA28S_0056",
+    "original": "あそこならちょっとは涼しいはずよ",
+    "translation": "あそこならちょっとは涼しいはずよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 57,
+    "key": "evt_MA28S_0057",
+    "original": "……あれ？",
+    "translation": "……あれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_MA28S_0058",
+    "original": "古泉君、今の見た？",
+    "translation": "古泉君、今の見た？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 59,
+    "key": "evt_MA28S_0059",
+    "original": "いえ、僕はなにも",
+    "translation": "いえ、僕はなにも",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_MA28S_0060",
+    "original": "そこを白いひらひらしたのが通った\nのよ！",
+    "translation": "そこを白いひらひらしたのが通った\nのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_MA28S_0061",
+    "original": "白い、ひらひらしたもの……\nですか？",
+    "translation": "白い、ひらひらしたもの……\nですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_MA28S_0062",
+    "original": "とにかく追いかけましょ！",
+    "translation": "とにかく追いかけましょ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 63,
+    "key": "evt_MA28S_0063",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 64,
+    "key": "evt_MA28S_0064",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "evt_MA28S_0065",
+    "original": "なによこれ……カーテンじゃない",
+    "translation": "なによこれ……カーテンじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_MA28S_0066",
+    "original": "本当ですね\n誰がこんなところに……",
+    "translation": "本当ですね\n誰がこんなところに……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 67,
+    "key": "evt_MA28S_0067",
+    "original": "まったく、まぎらわしいわね！\n走ったら余計に暑くなったし",
+    "translation": "まったく、まぎらわしいわね！\n走ったら余計に暑くなったし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_MA28S_0068",
+    "original": "誰がやったか知らないけど\n人騒がせなヤツね、まったく！",
+    "translation": "誰がやったか知らないけど\n人騒がせなヤツね、まったく！",
+    "speaker": "ハルヒ"
+  }
+]

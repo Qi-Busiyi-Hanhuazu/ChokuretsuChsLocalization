@@ -1,0 +1,240 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA50S_0000",
+    "original": "朝比奈さんに、信頼されてる……\nなんて話を、ハルヒに語ってもな",
+    "translation": "朝比奈さんに、信頼されてる……\nなんて話を、ハルヒに語ってもな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA50S_0001",
+    "original": "からかわれるのがオチだろう",
+    "translation": "からかわれるのがオチだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA50S_0002",
+    "original": "なによ、あたしの顔に何かついて\nるの？",
+    "translation": "なによ、あたしの顔に何かついて\nるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA50S_0003",
+    "original": "いいや、なにも",
+    "translation": "いいや、なにも",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA50S_0004",
+    "original": "じゃあ、何か言いたいことでも\nあるの？",
+    "translation": "じゃあ、何か言いたいことでも\nあるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA50S_0005",
+    "original": "不平不満なら、いつでも山のように\nあるが、今は黙っておこう",
+    "translation": "不平不満なら、いつでも山のように\nあるが、今は黙っておこう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA50S_0006",
+    "original": "なんなら中庭に穴でも掘って、叫ん\nできたら？",
+    "translation": "なんなら中庭に穴でも掘って、叫ん\nできたら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA50S_0007",
+    "original": "……王様の耳はロバの耳ってか？",
+    "translation": "……王様の耳はロバの耳ってか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA50S_0008",
+    "original": "キョンくんって、頼れる感じがしま\nせんか？",
+    "translation": "キョンくんって、頼れる感じがしま\nせんか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA50S_0009",
+    "original": "はぁ！？　みくるちゃん、大丈夫？",
+    "translation": "はぁ！？　みくるちゃん、大丈夫？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA50S_0010",
+    "original": "むしろ逆だわ\n全っ然、頼りない感じじゃない",
+    "translation": "むしろ逆だわ\n全っ然、頼りない感じじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA50S_0011",
+    "original": "そ、そうでしょうか……？",
+    "translation": "そ、そうでしょうか……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA50S_0012",
+    "original": "すぐ面倒なことはサボろうとするし\n団長命令にも反抗的だし",
+    "translation": "すぐ面倒なことはサボろうとするし\n団長命令にも反抗的だし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA50S_0013",
+    "original": "疲れた顔して“やれやれ”って感じ\nで仕方なく働いてる……",
+    "translation": "疲れた顔して“やれやれ”って感じ\nで仕方なく働いてる……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA50S_0014",
+    "original": "みたいな、そんなイメージね",
+    "translation": "みたいな、そんなイメージね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA50S_0015",
+    "original": "……たまに、本当にごくたまに\nちょっとマシな時もあるけど",
+    "translation": "……たまに、本当にごくたまに\nちょっとマシな時もあるけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA50S_0016",
+    "original": "で、ですよねっ？",
+    "translation": "で、ですよねっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA50S_0017",
+    "original": "ごくごくごく、たまーにね",
+    "translation": "ごくごくごく、たまーにね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA50S_0018",
+    "original": "彼は、朝比奈みくるに信頼されてる",
+    "translation": "彼は、朝比奈みくるに信頼されてる",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA50S_0019",
+    "original": "キョンのこと？",
+    "translation": "キョンのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA50S_0020",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA50S_0021",
+    "original": "みくるちゃんは、まだまだ人を見る\n目が無いわね",
+    "translation": "みくるちゃんは、まだまだ人を見る\n目が無いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA50S_0022",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA50S_0023",
+    "original": "キョンはすぐサボろうとするし、\n不平不満ばかりこぼすし",
+    "translation": "キョンはすぐサボろうとするし、\n不平不満ばかりこぼすし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA50S_0024",
+    "original": "信頼する相手を間違ってるわ",
+    "translation": "信頼する相手を間違ってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA50S_0025",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA50S_0026",
+    "original": "[#P06]……この話題を振るのは、止めて\nおきましょう",
+    "translation": "[#P06]……この話題を振るのは、止めて\nおきましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA50S_0027",
+    "original": "[#P06]涼宮さんの機嫌を損ねる恐れも否定\nできませんし",
+    "translation": "[#P06]涼宮さんの機嫌を損ねる恐れも否定\nできませんし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA50S_0028",
+    "original": "どうしたの？　急に立ち止まって",
+    "translation": "どうしたの？　急に立ち止まって",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA50S_0029",
+    "original": "いえ、少し思うところがありまして",
+    "translation": "いえ、少し思うところがありまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA50S_0030",
+    "original": "人の気持ちを考えながら、話題を\n振るというのは、難しいものですね",
+    "translation": "人の気持ちを考えながら、話題を\n振るというのは、難しいものですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA50S_0031",
+    "original": "なんの話？",
+    "translation": "なんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA50S_0032",
+    "original": "ただの一般論です",
+    "translation": "ただの一般論です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CA50S_0033",
+    "original": "ふーん……？",
+    "translation": "ふーん……？",
+    "speaker": "ハルヒ"
+  }
+]

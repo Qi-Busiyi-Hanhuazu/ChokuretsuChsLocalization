@@ -1,0 +1,548 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_030S_0000",
+    "original": "なあ、長門",
+    "translation": "なあ、長門",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_030S_0001",
+    "original": "異空間が発生した原因は\n情報生命体とやらなんだよな？",
+    "translation": "異空間が発生した原因は\n情報生命体とやらなんだよな？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_030S_0002",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_030S_0003",
+    "original": "前の時は、部長氏のメモリーカード\nの中に潜んでたが……",
+    "translation": "前の時は、部長氏のメモリーカード\nの中に潜んでたが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_030S_0004",
+    "original": "だが、今回はそんなのどこにも\nいなかったんじゃないのか？",
+    "translation": "だが、今回はそんなのどこにも\nいなかったんじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_030S_0005",
+    "original": "情報生命体は存在していた",
+    "translation": "情報生命体は存在していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_030S_0006",
+    "original": "いた？　どこに？",
+    "translation": "いた？　どこに？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_030S_0007",
+    "original": "もしかしてまたどこかに隠れて\nいるとかか？",
+    "translation": "もしかしてまたどこかに隠れて\nいるとかか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_030S_0008",
+    "original": "この情報生命体は常に\nわたしたちの前にいた",
+    "translation": "この情報生命体は常に\nわたしたちの前にいた",
+    "speaker": "長門"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_030S_0009",
+    "original": "俺たちの前にいた……？",
+    "translation": "俺たちの前にいた……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_030S_0010",
+    "original": "そもそも、情報生命体とは特定の\nカタチを持つとは限らない",
+    "translation": "そもそも、情報生命体とは特定の\nカタチを持つとは限らない",
+    "speaker": "長門"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_030S_0011",
+    "original": "必要なのは、本体の構成情報を\n保存できるだけの記憶領域",
+    "translation": "必要なのは、本体の構成情報を\n保存できるだけの記憶領域",
+    "speaker": "長門"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_030S_0012",
+    "original": "例えばそれが、人間の脳だったり\nメモリカードなわけですね",
+    "translation": "例えばそれが、人間の脳だったり\nメモリカードなわけですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_030S_0013",
+    "original": "自己情報を保存しうる記憶領域を\n確保できなかった場合",
+    "translation": "自己情報を保存しうる記憶領域を\n確保できなかった場合",
+    "speaker": "長門"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_030S_0014",
+    "original": "例えば、保存可能な容量にまで\n自らの情報を圧縮したり",
+    "translation": "例えば、保存可能な容量にまで\n自らの情報を圧縮したり",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_030S_0015",
+    "original": "情報を分割して各所に保存し\n消滅を回避する行為が必要",
+    "translation": "情報を分割して各所に保存し\n消滅を回避する行為が必要",
+    "speaker": "長門"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_030S_0016",
+    "original": "今回の場合は後者のケース",
+    "translation": "今回の場合は後者のケース",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_030S_0017",
+    "original": "つまり、バラバラになっていろんな\nとこにいたってわけか？",
+    "translation": "つまり、バラバラになっていろんな\nとこにいたってわけか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_030S_0018",
+    "original": "正確には、分割し少しずつこちら側\nに侵入しようとしていた",
+    "translation": "正確には、分割し少しずつこちら側\nに侵入しようとしていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_030S_0019",
+    "original": "こちら側に侵入……？",
+    "translation": "こちら側に侵入……？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_030S_0020",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_030S_0021",
+    "original": "長門が取り出したのは\nどこかで見たオルゴールだった",
+    "translation": "長門が取り出したのは\nどこかで見たオルゴールだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_030S_0022",
+    "original": "それが？",
+    "translation": "それが？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_030S_0023",
+    "original": "このオルゴールには情報生命体の\n断片情報が刻まれていた",
+    "translation": "このオルゴールには情報生命体の\n断片情報が刻まれていた",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_030S_0024",
+    "original": "つまり、このオルゴールの音こそが\n情報生命体なのですね",
+    "translation": "つまり、このオルゴールの音こそが\n情報生命体なのですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_030S_0025",
+    "original": "音が……生き物だと？",
+    "translation": "音が……生き物だと？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_030S_0026",
+    "original": "確かに驚くべきことですが\n決して荒唐無稽ではありませんよ",
+    "translation": "確かに驚くべきことですが\n決して荒唐無稽ではありませんよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_030S_0027",
+    "original": "俺からすれば、おまえたちの存在\n自体が荒唐無稽なんだがな",
+    "translation": "俺からすれば、おまえたちの存在\n自体が荒唐無稽なんだがな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_030S_0028",
+    "original": "情報生命体は音を聞いた者の脳に\n特定の行動を書き込み増殖する",
+    "translation": "情報生命体は音を聞いた者の脳に\n特定の行動を書き込み増殖する",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_030S_0029",
+    "original": "その行動ってのは……",
+    "translation": "その行動ってのは……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_030S_0030",
+    "original": "情報生命体をこの世界に顕在化\nさせるための記憶領域の確保",
+    "translation": "情報生命体をこの世界に顕在化\nさせるための記憶領域の確保",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_030S_0031",
+    "original": "具体的に、何をさせられるんだ？",
+    "translation": "具体的に、何をさせられるんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_030S_0032",
+    "original": "楽譜を書く",
+    "translation": "楽譜を書く",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_030S_0033",
+    "original": "楽譜だ……？",
+    "translation": "楽譜だ……？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_030S_0034",
+    "original": "また、えらく地味でアナクロな\n作業だな",
+    "translation": "また、えらく地味でアナクロな\n作業だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_030S_0035",
+    "original": "情報生命体とやらは、とんでもなく\nデータが大きいんだろ？",
+    "translation": "情報生命体とやらは、とんでもなく\nデータが大きいんだろ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_030S_0036",
+    "original": "こちらの世界ではまともに動けない\nから圧縮して小さくなったりしてる",
+    "translation": "こちらの世界ではまともに動けない\nから圧縮して小さくなったりしてる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_030S_0037",
+    "original": "そう言ったのは長門だ",
+    "translation": "そう言ったのは長門だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_030S_0038",
+    "original": "楽譜は手段でしかない\n本当の目的はピアノ",
+    "translation": "楽譜は手段でしかない\n本当の目的はピアノ",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_030S_0039",
+    "original": "ピアノ？",
+    "translation": "ピアノ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_030S_0040",
+    "original": "この世界に来た情報生命体は\n自己保存の手段を探していた",
+    "translation": "この世界に来た情報生命体は\n自己保存の手段を探していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_030S_0041",
+    "original": "その時、見つけたのが音楽であり\n中でもピアノのメロディだった",
+    "translation": "その時、見つけたのが音楽であり\n中でもピアノのメロディだった",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_030S_0042",
+    "original": "８８の鍵盤をインターフェースと\nして音情報を出力するピアノは",
+    "translation": "８８の鍵盤をインターフェースと\nして音情報を出力するピアノは",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_030S_0043",
+    "original": "情報生命体の性質に適合していた",
+    "translation": "情報生命体の性質に適合していた",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_030S_0044",
+    "original": "よくわからんが、ピアノを演奏して\n情報生命体を呼び出すために",
+    "translation": "よくわからんが、ピアノを演奏して\n情報生命体を呼び出すために",
+    "speaker": "キョン"
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_030S_0045",
+    "original": "コンピ研の部員は楽譜を書かされ\nてたってわけか",
+    "translation": "コンピ研の部員は楽譜を書かされ\nてたってわけか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_030S_0046",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_030S_0047",
+    "original": "じゃあ、楽譜が完成してたら……",
+    "translation": "じゃあ、楽譜が完成してたら……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_030S_0048",
+    "original": "後は演奏するだけで情報生命体は\nこの世界に顕在化するはず",
+    "translation": "後は演奏するだけで情報生命体は\nこの世界に顕在化するはず",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_030S_0049",
+    "original": "なんてこった……",
+    "translation": "なんてこった……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_030S_0050",
+    "original": "今になって、とんでもないことに\nなっていたことが分かった",
+    "translation": "今になって、とんでもないことに\nなっていたことが分かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_030S_0051",
+    "original": "ただ、ひとつ気になったのですが",
+    "translation": "ただ、ひとつ気になったのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_030S_0052",
+    "original": "もしかして、演奏する際、一音たり\nとも間違えてはいけないのでは？",
+    "translation": "もしかして、演奏する際、一音たり\nとも間違えてはいけないのでは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_030S_0053",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_030S_0054",
+    "original": "あの分厚い楽譜を、一音も間違えず\n演奏し続ける？",
+    "translation": "あの分厚い楽譜を、一音も間違えず\n演奏し続ける？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_030S_0055",
+    "original": "そんなの無理に決まってるだろ",
+    "translation": "そんなの無理に決まってるだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_030S_0056",
+    "original": "人間には……ですね",
+    "translation": "人間には……ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_030S_0057",
+    "original": "人間には無理ってどういうことだ？",
+    "translation": "人間には無理ってどういうことだ？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_030S_0058",
+    "original": "そこで涼宮さんです",
+    "translation": "そこで涼宮さんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_030S_0059",
+    "original": "涼宮さんは、ピアノがひとりでに\n鳴り出すことを望んでいた",
+    "translation": "涼宮さんは、ピアノがひとりでに\n鳴り出すことを望んでいた",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_030S_0060",
+    "original": "その願望が、ピアノを擬似的な\n生物にしてしまったのでしょう",
+    "translation": "その願望が、ピアノを擬似的な\n生物にしてしまったのでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_030S_0061",
+    "original": "自ら演奏するピアノ",
+    "translation": "自ら演奏するピアノ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_030S_0062",
+    "original": "演奏されることで顕在化できる\n音の情報生命体",
+    "translation": "演奏されることで顕在化できる\n音の情報生命体",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_030S_0063",
+    "original": "こう条件が揃えば、起ることは\nひとつしかありませんよ",
+    "translation": "こう条件が揃えば、起ることは\nひとつしかありませんよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_030S_0064",
+    "original": "なるほど……な",
+    "translation": "なるほど……な",
+    "speaker": "キョン"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_030S_0065",
+    "original": "真相は分かったが、音だけに\nなんともつかみ所のない話だ",
+    "translation": "真相は分かったが、音だけに\nなんともつかみ所のない話だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_030S_0066",
+    "original": "って、ちょっと待った",
+    "translation": "って、ちょっと待った",
+    "speaker": "キョン"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_030S_0067",
+    "original": "メロディを聴いた人間は\n他にもいるんじゃないか？",
+    "translation": "メロディを聴いた人間は\n他にもいるんじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_030S_0068",
+    "original": "いる",
+    "translation": "いる",
+    "speaker": "長門"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_030S_0069",
+    "original": "何人くらいだ？",
+    "translation": "何人くらいだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_030S_0070",
+    "original": "現時点では６名",
+    "translation": "現時点では６名",
+    "speaker": "長門"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_030S_0071",
+    "original": "そのうち何人かは軽音部の方々\nでしょうね",
+    "translation": "そのうち何人かは軽音部の方々\nでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_030S_0072",
+    "original": "もしかして、そいつらのとこへも\n行かないといけないのか？",
+    "translation": "もしかして、そいつらのとこへも\n行かないといけないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_030S_0073",
+    "original": "大丈夫",
+    "translation": "大丈夫",
+    "speaker": "長門"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_030S_0074",
+    "original": "情報生命体の行動プログラムは\n数日で効力を失う",
+    "translation": "情報生命体の行動プログラムは\n数日で効力を失う",
+    "speaker": "長門"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_030S_0075",
+    "original": "放っておいても平気ってことか",
+    "translation": "放っておいても平気ってことか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_030S_0076",
+    "original": "それを聞いて少し安心したよ",
+    "translation": "それを聞いて少し安心したよ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_030S_0077",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "CHOICE"
+  }
+]

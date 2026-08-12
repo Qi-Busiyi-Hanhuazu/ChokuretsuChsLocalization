@@ -1,0 +1,269 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA33S_0000",
+    "original": "うーん、キョンはこっちかしら？",
+    "translation": "うーん、キョンはこっちかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA33S_0001",
+    "original": "涼宮さん、無意識にキョンくん\nのいる方へ向かっちゃう……",
+    "translation": "涼宮さん、無意識にキョンくん\nのいる方へ向かっちゃう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA33S_0002",
+    "original": "みくるちゃん、行くわよー\nはやくこっちきなさーい",
+    "translation": "みくるちゃん、行くわよー\nはやくこっちきなさーい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA33S_0003",
+    "original": "あ、あの、涼宮さん……えいっ",
+    "translation": "あ、あの、涼宮さん……えいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA33S_0004",
+    "original": "わっ、なに！？",
+    "translation": "わっ、なに！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA33S_0005",
+    "original": "あ、む、虫ですっ",
+    "translation": "あ、む、虫ですっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA33S_0006",
+    "original": "ちょっともう、みくるちゃん\nビックリさせないでよ",
+    "translation": "ちょっともう、みくるちゃん\nビックリさせないでよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA33S_0007",
+    "original": "あれ？　どっちだったっけ？",
+    "translation": "あれ？　どっちだったっけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA33S_0008",
+    "original": "ま、いいわ。こっちね、こっち！",
+    "translation": "ま、いいわ。こっちね、こっち！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA33S_0009",
+    "original": "ほ……涼宮さん反対へ行っちゃった\nなんだか上手くいったみたい",
+    "translation": "ほ……涼宮さん反対へ行っちゃった\nなんだか上手くいったみたい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA33S_0010",
+    "original": "状況が流動的\nこのままでは危険",
+    "translation": "状況が流動的\nこのままでは危険",
+    "speaker": "長門"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA33S_0011",
+    "original": "ねえ、有希ー、なにしてんのー\nはやくこっちきなさい",
+    "translation": "ねえ、有希ー、なにしてんのー\nはやくこっちきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA33S_0012",
+    "original": "これ",
+    "translation": "これ",
+    "speaker": "長門"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA33S_0013",
+    "original": "わっ、なに！？",
+    "translation": "わっ、なに！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA33S_0014",
+    "original": "夏の虫",
+    "translation": "夏の虫",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA33S_0015",
+    "original": "虫は分かるけど……",
+    "translation": "虫は分かるけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA33S_0016",
+    "original": "音をよく聞いて",
+    "translation": "音をよく聞いて",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA33S_0017",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA33S_0018",
+    "original": "あっ、こんなことしてる場合じゃ\nなかった……って、あれ？",
+    "translation": "あっ、こんなことしてる場合じゃ\nなかった……って、あれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA33S_0019",
+    "original": "あれ？　どっちだったっけ？",
+    "translation": "あれ？　どっちだったっけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA33S_0020",
+    "original": "うーん……ま、いいわ適当で\nこっちにしましょ",
+    "translation": "うーん……ま、いいわ適当で\nこっちにしましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA33S_0021",
+    "original": "有希も虫なんかと遊んでないで\nちゃんとついて来なさいよ",
+    "translation": "有希も虫なんかと遊んでないで\nちゃんとついて来なさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA33S_0022",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA33S_0023",
+    "original": "これは……涼宮さんは無意識に彼の\n居場所へ向かっているようですね",
+    "translation": "これは……涼宮さんは無意識に彼の\n居場所へ向かっているようですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA33S_0024",
+    "original": "ねえ、古泉くん、何してるのー\nはやくこっちきなさい",
+    "translation": "ねえ、古泉くん、何してるのー\nはやくこっちきなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA33S_0025",
+    "original": "仕方ありません、多少強引では\nありますが……涼宮さんっ",
+    "translation": "仕方ありません、多少強引では\nありますが……涼宮さんっ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA33S_0026",
+    "original": "ん？",
+    "translation": "ん？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA33S_0027",
+    "original": "わっ！？\nな、なんなの古泉くん",
+    "translation": "わっ！？\nな、なんなの古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA33S_0028",
+    "original": "すみません、虫がとまっていたよう\nなのでひと言声をかけたのですが",
+    "translation": "すみません、虫がとまっていたよう\nなのでひと言声をかけたのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA33S_0029",
+    "original": "タイミング悪く飛び立ったようなの\nで",
+    "translation": "タイミング悪く飛び立ったようなの\nで",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA33S_0030",
+    "original": "もう、驚かさないでよね……あれ？",
+    "translation": "もう、驚かさないでよね……あれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA33S_0031",
+    "original": "どうしました？",
+    "translation": "どうしました？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA33S_0032",
+    "original": "どっちに行こうとしてたんだっけ",
+    "translation": "どっちに行こうとしてたんだっけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA33S_0033",
+    "original": "確か、あちら側ではなかったかと",
+    "translation": "確か、あちら側ではなかったかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA33S_0034",
+    "original": "そ、じゃあそっちへ行きましょ",
+    "translation": "そ、じゃあそっちへ行きましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA33S_0035",
+    "original": "はい。了解しました",
+    "translation": "はい。了解しました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA33S_0036",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "evt_MA33S_0037",
+    "original": "運良く誤魔化せたようですね……",
+    "translation": "運良く誤魔化せたようですね……",
+    "speaker": "古泉"
+  }
+]

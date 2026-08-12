@@ -1,0 +1,436 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK26S_0000",
+    "original": "そういえば、古泉が言っていたな",
+    "translation": "そういえば、古泉が言っていたな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK26S_0001",
+    "original": "ハルヒには、小さなことにこだわっ\nて欲しくないとさ",
+    "translation": "ハルヒには、小さなことにこだわっ\nて欲しくないとさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK26S_0002",
+    "original": "小さなこと？　どういう意味？",
+    "translation": "小さなこと？　どういう意味？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK26S_0003",
+    "original": "古泉のハルヒ論をまんま伝えるわけ\nにはいかないが……",
+    "translation": "古泉のハルヒ論をまんま伝えるわけ\nにはいかないが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK26S_0004",
+    "original": "つまり、だ",
+    "translation": "つまり、だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK26S_0005",
+    "original": "団長として、俺たちのリーダーと\nして、常に大局を見ていて欲しい",
+    "translation": "団長として、俺たちのリーダーと\nして、常に大局を見ていて欲しい",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK26S_0006",
+    "original": "つまり、そういうことじゃないか？",
+    "translation": "つまり、そういうことじゃないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK26S_0007",
+    "original": "……あたし、小さなことにこだわっ\nたりした覚え、あんまり無いけど",
+    "translation": "……あたし、小さなことにこだわっ\nたりした覚え、あんまり無いけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK26S_0008",
+    "original": "例えばの話だ、例えばの",
+    "translation": "例えばの話だ、例えばの",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK26S_0009",
+    "original": "些細なことで、その何でも実現する\n反則な力を使うなって話なんだが",
+    "translation": "些細なことで、その何でも実現する\n反則な力を使うなって話なんだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK26S_0010",
+    "original": "物は言い様だ。そうだろう古泉？",
+    "translation": "物は言い様だ。そうだろう古泉？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK26S_0011",
+    "original": "わかるような、わからないような話\nね",
+    "translation": "わかるような、わからないような話\nね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK26S_0012",
+    "original": "それって、でっかく構えてろって\nコト？",
+    "translation": "それって、でっかく構えてろって\nコト？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK26S_0013",
+    "original": "いやそこまで抽象的なことでも\nないんだが……",
+    "translation": "いやそこまで抽象的なことでも\nないんだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK26S_0014",
+    "original": "ま、まあ、似たようなモンだ",
+    "translation": "ま、まあ、似たようなモンだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK26S_0015",
+    "original": "ふうん……ま、元々あたしは\n細かいことにこだわらない性格だし",
+    "translation": "ふうん……ま、元々あたしは\n細かいことにこだわらない性格だし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK26S_0016",
+    "original": "今後も、そのように心がけるとする\nわ。団員を率いるリーダーとして",
+    "translation": "今後も、そのように心がけるとする\nわ。団員を率いるリーダーとして",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK26S_0017",
+    "original": "……いまいち伝わってないような\n気もするが、まあいいだろう",
+    "translation": "……いまいち伝わってないような\n気もするが、まあいいだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK26S_0018",
+    "original": "古泉くんが言ってました。涼宮さん\nは、大きな考え方の持ち主だって",
+    "translation": "古泉くんが言ってました。涼宮さん\nは、大きな考え方の持ち主だって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK26S_0019",
+    "original": "あたしが、大きな考え方の持ち主？",
+    "translation": "あたしが、大きな考え方の持ち主？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK26S_0020",
+    "original": "些細なことにはこだわらない、組織\nのリーダーにふさわしい性格だって",
+    "translation": "些細なことにはこだわらない、組織\nのリーダーにふさわしい性格だって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK26S_0021",
+    "original": "まあ、そうね。確かに細かい\nことには、こだわらないけど……",
+    "translation": "まあ、そうね。確かに細かい\nことには、こだわらないけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK26S_0022",
+    "original": "それって、すごく大切なことらしい\nです。団員がついていくために",
+    "translation": "それって、すごく大切なことらしい\nです。団員がついていくために",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK26S_0023",
+    "original": "なんか、よく意味がわからない\nけど……",
+    "translation": "なんか、よく意味がわからない\nけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK26S_0024",
+    "original": "トップに立つ者は夢を語れ、とか\nそういう話なのかしら？",
+    "translation": "トップに立つ者は夢を語れ、とか\nそういう話なのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK26S_0025",
+    "original": "あ、あたしにも、その辺のことは\n分かりません",
+    "translation": "あ、あたしにも、その辺のことは\n分かりません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK26S_0026",
+    "original": "ふぅん……まあいいわ。まんざら\n的外れな意見でもないしね",
+    "translation": "ふぅん……まあいいわ。まんざら\n的外れな意見でもないしね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK26S_0027",
+    "original": "とにかくＳＯＳ団団長として\nどっしり構えてろってことね",
+    "translation": "とにかくＳＯＳ団団長として\nどっしり構えてろってことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK26S_0028",
+    "original": "たぶん、そうだと思います",
+    "translation": "たぶん、そうだと思います",
+    "speaker": "みくる"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK26S_0029",
+    "original": "[#P06]……小さなことにまで、その力を\n発揮したりしないためにも",
+    "translation": "[#P06]……小さなことにまで、その力を\n発揮したりしないためにも",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK26S_0030",
+    "original": "みくるちゃん、今、何か言った？",
+    "translation": "みくるちゃん、今、何か言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK26S_0031",
+    "original": "い、いえっ、なにもっ",
+    "translation": "い、いえっ、なにもっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK26S_0032",
+    "original": "組織のリーダーは些末にこだわる\nべきではない",
+    "translation": "組織のリーダーは些末にこだわる\nべきではない",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK26S_0033",
+    "original": "な、なに？　どうしたの急に？",
+    "translation": "な、なに？　どうしたの急に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK26S_0034",
+    "original": "古泉一樹が言ってた",
+    "translation": "古泉一樹が言ってた",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK26S_0035",
+    "original": "古泉くんが？",
+    "translation": "古泉くんが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK26S_0036",
+    "original": "でも、あたし些末にこだわった\nりしてないわよ？",
+    "translation": "でも、あたし些末にこだわった\nりしてないわよ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK26S_0037",
+    "original": "してない",
+    "translation": "してない",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK26S_0038",
+    "original": "だからリーダーにふさわしい",
+    "translation": "だからリーダーにふさわしい",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK26S_0039",
+    "original": "つまり、古泉くんが、あたしを\n褒めてたってこと？",
+    "translation": "つまり、古泉くんが、あたしを\n褒めてたってこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK26S_0040",
+    "original": "そう解釈できる",
+    "translation": "そう解釈できる",
+    "speaker": "長門"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK26S_0041",
+    "original": "なんだ、だったらそう素直に\n言ってくれればいいのに",
+    "translation": "なんだ、だったらそう素直に\n言ってくれればいいのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK26S_0042",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK26S_0043",
+    "original": "[#P06]些末な実現化までもが連鎖発生する\nと、あらゆる事象は崩壊する",
+    "translation": "[#P06]些末な実現化までもが連鎖発生する\nと、あらゆる事象は崩壊する",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK26S_0044",
+    "original": "え、なに？　何が崩壊する？",
+    "translation": "え、なに？　何が崩壊する？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK26S_0045",
+    "original": "独り言",
+    "translation": "独り言",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK26S_0046",
+    "original": "あ、こら有希！　あたしを置いて\n先に行こうとしないの！",
+    "translation": "あ、こら有希！　あたしを置いて\n先に行こうとしないの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK26S_0047",
+    "original": "常々、思っていたことがあります",
+    "translation": "常々、思っていたことがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK26S_0048",
+    "original": "涼宮さんは、些細なことにはこだわ\nらない、大局観の持ち主ですね",
+    "translation": "涼宮さんは、些細なことにはこだわ\nらない、大局観の持ち主ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 49,
+    "key": "evt_CK26S_0049",
+    "original": "……どうしたの、唐突に？",
+    "translation": "……どうしたの、唐突に？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CK26S_0050",
+    "original": "いえ、ＳＯＳ団も今や一つの組織\nですから、色々考えてしまうのです",
+    "translation": "いえ、ＳＯＳ団も今や一つの組織\nですから、色々考えてしまうのです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 51,
+    "key": "evt_CK26S_0051",
+    "original": "もし涼宮さんが、些細なことにこだ\nわる方なら、息苦しくなるでしょう",
+    "translation": "もし涼宮さんが、些細なことにこだ\nわる方なら、息苦しくなるでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 52,
+    "key": "evt_CK26S_0052",
+    "original": "しかし、そうではなく、涼宮さんの\n大らかな性格が、ＳＯＳ団全体を",
+    "translation": "しかし、そうではなく、涼宮さんの\n大らかな性格が、ＳＯＳ団全体を",
+    "speaker": "古泉"
+  },
+  {
+    "index": 53,
+    "key": "evt_CK26S_0053",
+    "original": "うまくまとめているのではないかと",
+    "translation": "うまくまとめているのではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_CK26S_0054",
+    "original": "まあ、確かに細かいことには目くじ\nらを立てたりしない方だけど……",
+    "translation": "まあ、確かに細かいことには目くじ\nらを立てたりしない方だけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CK26S_0055",
+    "original": "それが大事なんです、組織の頂点に\n立つ者にとって必須のスキルですよ",
+    "translation": "それが大事なんです、組織の頂点に\n立つ者にとって必須のスキルですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 56,
+    "key": "evt_CK26S_0056",
+    "original": "ぜひ、これからも大きく、大胆な\n発想で僕たちを率いて下さいね",
+    "translation": "ぜひ、これからも大きく、大胆な\n発想で僕たちを率いて下さいね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CK26S_0057",
+    "original": "なんだかよくわからないけど\nどっしり構えてろってことでしょ",
+    "translation": "なんだかよくわからないけど\nどっしり構えてろってことでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CK26S_0058",
+    "original": "ええ、そういうことです",
+    "translation": "ええ、そういうことです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CK26S_0059",
+    "original": "[#P06]……どうか、小さなことにまで\nその力を発揮なさることの無い様に",
+    "translation": "[#P06]……どうか、小さなことにまで\nその力を発揮なさることの無い様に",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CK26S_0060",
+    "original": "何か言った？",
+    "translation": "何か言った？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CK26S_0061",
+    "original": "いえ、なにも",
+    "translation": "いえ、なにも",
+    "speaker": "古泉"
+  }
+]

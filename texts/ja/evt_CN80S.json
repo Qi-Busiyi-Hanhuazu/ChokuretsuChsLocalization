@@ -1,0 +1,450 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN80S_0000",
+    "original": "長門１人分……か",
+    "translation": "長門１人分……か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN80S_0001",
+    "original": "なによ。有希がどうしたって？",
+    "translation": "なによ。有希がどうしたって？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN80S_0002",
+    "original": "ゲッ、聞いてたのかよ",
+    "translation": "ゲッ、聞いてたのかよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN80S_0003",
+    "original": "聞こえてるわよ。気になるから\nほら、言いなさいよ",
+    "translation": "聞こえてるわよ。気になるから\nほら、言いなさいよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN80S_0004",
+    "original": "いや、特に深い意味はないんだが",
+    "translation": "いや、特に深い意味はないんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN80S_0005",
+    "original": "もし長門が２人以上いたら\n読書量が凄いだろうなと思ってさ",
+    "translation": "もし長門が２人以上いたら\n読書量が凄いだろうなと思ってさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN80S_0006",
+    "original": "そうね、有希１人だけであれだけの\n本を読むから",
+    "translation": "そうね、有希１人だけであれだけの\n本を読むから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN80S_0007",
+    "original": "それが２倍以上になったら、部室が\n本で溢れそうよね",
+    "translation": "それが２倍以上になったら、部室が\n本で溢れそうよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN80S_0008",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN80S_0009",
+    "original": "あの、分身の話をしていて、長門\nさんが２人になったら",
+    "translation": "あの、分身の話をしていて、長門\nさんが２人になったら",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN80S_0010",
+    "original": "どうなるんだろうなぁって",
+    "translation": "どうなるんだろうなぁって",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN80S_0011",
+    "original": "有希は静かだから、増えても特に\n困らないんじゃない？",
+    "translation": "有希は静かだから、増えても特に\n困らないんじゃない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN80S_0012",
+    "original": "キョンくんは、部室の蔵書が倍に\nなるから大変だって……",
+    "translation": "キョンくんは、部室の蔵書が倍に\nなるから大変だって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN80S_0013",
+    "original": "だったらもうひとつ部室を確保する\nまでのことよっ！",
+    "translation": "だったらもうひとつ部室を確保する\nまでのことよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN80S_0014",
+    "original": "みくるちゃんの分身が出来たら\n衣装も倍に増やせばいいし",
+    "translation": "みくるちゃんの分身が出来たら\n衣装も倍に増やせばいいし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN80S_0015",
+    "original": "そ、それはちょっと……",
+    "translation": "そ、それはちょっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN80S_0016",
+    "original": "違う衣装もいいけど、色違いで\n揃えても面白いわよね",
+    "translation": "違う衣装もいいけど、色違いで\n揃えても面白いわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN80S_0017",
+    "original": "あうぅ……長門さんの話なんです\nけど、どうしてあたしの話に……",
+    "translation": "あうぅ……長門さんの話なんです\nけど、どうしてあたしの話に……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN80S_0018",
+    "original": "そしたら更衣室も用意しなくちゃ\nやっぱり部室はもうひとつ確保ね",
+    "translation": "そしたら更衣室も用意しなくちゃ\nやっぱり部室はもうひとつ確保ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN80S_0019",
+    "original": "仮定としての話。私の分身が発生\nすると問題が発生するかどうか",
+    "translation": "仮定としての話。私の分身が発生\nすると問題が発生するかどうか",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN80S_0020",
+    "original": "別に、特に困らないわよ\nむしろ嬉しいぐらいね",
+    "translation": "別に、特に困らないわよ\nむしろ嬉しいぐらいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN80S_0021",
+    "original": "なぜ？",
+    "translation": "なぜ？",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN80S_0022",
+    "original": "２人になったら情報が倍になるわ\nそしたらブレインが２人だもの",
+    "translation": "２人になったら情報が倍になるわ\nそしたらブレインが２人だもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN80S_0023",
+    "original": "情報を集めるのも楽になるわね",
+    "translation": "情報を集めるのも楽になるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN80S_0024",
+    "original": "並列化すれば処理速度も上がる",
+    "translation": "並列化すれば処理速度も上がる",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN80S_0025",
+    "original": "それなら、なおのことありがたいわ\nなんにも考えないヤツが１人いるし",
+    "translation": "それなら、なおのことありがたいわ\nなんにも考えないヤツが１人いるし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN80S_0026",
+    "original": "でも、蔵書が倍になるから困ると\nいわれた",
+    "translation": "でも、蔵書が倍になるから困ると\nいわれた",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN80S_0027",
+    "original": "キョンが言ったんでしょ、気にする\nことはないわよっ！",
+    "translation": "キョンが言ったんでしょ、気にする\nことはないわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN80S_0028",
+    "original": "あたしは大歓迎だからねっ！\n誰が２人になっても歓迎よ",
+    "translation": "あたしは大歓迎だからねっ！\n誰が２人になっても歓迎よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN80S_0029",
+    "original": "誰でも？",
+    "translation": "誰でも？",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN80S_0030",
+    "original": "もちろんよっ！",
+    "translation": "もちろんよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN80S_0031",
+    "original": "みくるちゃんが２人になったら\nマスコットガールが２人よ！",
+    "translation": "みくるちゃんが２人になったら\nマスコットガールが２人よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN80S_0032",
+    "original": "可愛いし、お茶はおいしいし\nコスプレも２倍よ！",
+    "translation": "可愛いし、お茶はおいしいし\nコスプレも２倍よ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN80S_0033",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN80S_0034",
+    "original": "古泉くんが２人になれば、ムード\nメーカーが増えて活気も出るわ",
+    "translation": "古泉くんが２人になれば、ムード\nメーカーが増えて活気も出るわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN80S_0035",
+    "original": "でも、２人してずっとボードゲーム\nをやってるかもね",
+    "translation": "でも、２人してずっとボードゲーム\nをやってるかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN80S_0036",
+    "original": "あたしが２人になったら、活動の\n範囲も倍増するわよっ！",
+    "translation": "あたしが２人になったら、活動の\n範囲も倍増するわよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN80S_0037",
+    "original": "彼が２人になった場合は？",
+    "translation": "彼が２人になった場合は？",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN80S_0038",
+    "original": "キョンのこと？",
+    "translation": "キョンのこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN80S_0039",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 40,
+    "key": "evt_CN80S_0040",
+    "original": "それはちょっと難問ね",
+    "translation": "それはちょっと難問ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CN80S_0041",
+    "original": "困る？",
+    "translation": "困る？",
+    "speaker": "長門"
+  },
+  {
+    "index": 42,
+    "key": "evt_CN80S_0042",
+    "original": "困るってことはないけど、キョンが\n２人になったら、色々と面倒よ",
+    "translation": "困るってことはないけど、キョンが\n２人になったら、色々と面倒よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CN80S_0043",
+    "original": "例えば？",
+    "translation": "例えば？",
+    "speaker": "長門"
+  },
+  {
+    "index": 44,
+    "key": "evt_CN80S_0044",
+    "original": "遅刻者がいつも２人とか\nバカやるのが倍になるもの",
+    "translation": "遅刻者がいつも２人とか\nバカやるのが倍になるもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CN80S_0045",
+    "original": "遅刻者が増えることは利点になる",
+    "translation": "遅刻者が増えることは利点になる",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CN80S_0046",
+    "original": "遅れてくるのになにが利点なの？",
+    "translation": "遅れてくるのになにが利点なの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CN80S_0047",
+    "original": "２倍奢ってもらえる",
+    "translation": "２倍奢ってもらえる",
+    "speaker": "長門"
+  },
+  {
+    "index": 48,
+    "key": "evt_CN80S_0048",
+    "original": "有希、あんたって天才ねっ！",
+    "translation": "有希、あんたって天才ねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CN80S_0049",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 50,
+    "key": "evt_CN80S_0050",
+    "original": "それはそれで大きな利点になるわ！\n気兼ねなくパフェとか頼めるわね",
+    "translation": "それはそれで大きな利点になるわ！\n気兼ねなくパフェとか頼めるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CN80S_0051",
+    "original": "全員が２人になった場合は現状と\n変化はない",
+    "translation": "全員が２人になった場合は現状と\n変化はない",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_CN80S_0052",
+    "original": "キョンだけ増やせばいいのよっ！",
+    "translation": "キョンだけ増やせばいいのよっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CN80S_0053",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 54,
+    "key": "evt_CN80S_0054",
+    "original": "鏡の怪奇現象は、キョンを実験台に\nするのがいいかも知れないわねっ！",
+    "translation": "鏡の怪奇現象は、キョンを実験台に\nするのがいいかも知れないわねっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 55,
+    "key": "evt_CN80S_0055",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 56,
+    "key": "evt_CN80S_0056",
+    "original": "そういえば、彼から面白い\n事を聞きまして",
+    "translation": "そういえば、彼から面白い\n事を聞きまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CN80S_0057",
+    "original": "キョンが何かバカな事でも\n言ってたんでしょ",
+    "translation": "キョンが何かバカな事でも\n言ってたんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CN80S_0058",
+    "original": "いえいえ、実に興味深い話でしたよ",
+    "translation": "いえいえ、実に興味深い話でしたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CN80S_0059",
+    "original": "もし長門さんが２人以上居たら……\nという話です",
+    "translation": "もし長門さんが２人以上居たら……\nという話です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_CN80S_0060",
+    "original": "キョンのバカな妄想話は後でいいわ",
+    "translation": "キョンのバカな妄想話は後でいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 61,
+    "key": "evt_CN80S_0061",
+    "original": "それよりも、昇降口の方が気に\nなるんだもの。こっちが先よ",
+    "translation": "それよりも、昇降口の方が気に\nなるんだもの。こっちが先よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CN80S_0062",
+    "original": "そうでしたか、申し訳ありません",
+    "translation": "そうでしたか、申し訳ありません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CN80S_0063",
+    "original": "古泉くんが気にすることはないわよ\nキョンが悪いだけだから",
+    "translation": "古泉くんが気にすることはないわよ\nキョンが悪いだけだから",
+    "speaker": "ハルヒ"
+  }
+]

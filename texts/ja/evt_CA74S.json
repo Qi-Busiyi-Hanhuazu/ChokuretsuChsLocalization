@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CA74S_0000",
+    "original": "しかし、朝比奈さんは優しい人\nだとこの合宿でしみじみ思ったね",
+    "translation": "しかし、朝比奈さんは優しい人\nだとこの合宿でしみじみ思ったね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CA74S_0001",
+    "original": "ふーん、どんなことで？",
+    "translation": "ふーん、どんなことで？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CA74S_0002",
+    "original": "谷口を捕まえるのに、モップで殴る\nことさえ嫌がったなんて言えないな",
+    "translation": "谷口を捕まえるのに、モップで殴る\nことさえ嫌がったなんて言えないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CA74S_0003",
+    "original": "こーんな怖い目に遭わされても、\nちっともハルヒを恨んでないからさ",
+    "translation": "こーんな怖い目に遭わされても、\nちっともハルヒを恨んでないからさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CA74S_0004",
+    "original": "みくるちゃんがあたしを恨むわけ\nないじゃない！",
+    "translation": "みくるちゃんがあたしを恨むわけ\nないじゃない！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CA74S_0005",
+    "original": "なぜそこで断言できるのかが謎だ\nハルヒ。自分の行状を考えてみろ",
+    "translation": "なぜそこで断言できるのかが謎だ\nハルヒ。自分の行状を考えてみろ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CA74S_0006",
+    "original": "確かに、恨んでない。だから朝比奈\nさんは優しい人なんだよ",
+    "translation": "確かに、恨んでない。だから朝比奈\nさんは優しい人なんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CA74S_0007",
+    "original": "なにそれ、理屈になってないわよ",
+    "translation": "なにそれ、理屈になってないわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CA74S_0008",
+    "original": "えぇと、あのあの……",
+    "translation": "えぇと、あのあの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CA74S_0009",
+    "original": "もう、今度は何があったの？\nなかなか先に進まないじゃないの",
+    "translation": "もう、今度は何があったの？\nなかなか先に進まないじゃないの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CA74S_0010",
+    "original": "す、すみませんっ\nえっと、えっと……",
+    "translation": "す、すみませんっ\nえっと、えっと……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CA74S_0011",
+    "original": "言わないのなら、先に行くわよ",
+    "translation": "言わないのなら、先に行くわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CA74S_0012",
+    "original": "い、いえっ！　あの、あたしって\n優しいんでしょうか？",
+    "translation": "い、いえっ！　あの、あたしって\n優しいんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CA74S_0013",
+    "original": "もちろん、みくるちゃんは優しいわ\nそれはあたしが保証してあげる",
+    "translation": "もちろん、みくるちゃんは優しいわ\nそれはあたしが保証してあげる",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CA74S_0014",
+    "original": "でも、優しくするとつけあがる\nバカがいるかもしれないから",
+    "translation": "でも、優しくするとつけあがる\nバカがいるかもしれないから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CA74S_0015",
+    "original": "くれぐれも、甘い顔はしちゃダメよ",
+    "translation": "くれぐれも、甘い顔はしちゃダメよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CA74S_0016",
+    "original": "わ、わかりましたぁ",
+    "translation": "わ、わかりましたぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_CA74S_0017",
+    "original": "朝比奈みくるが人々に好かれる理由\nは、その優しさにある",
+    "translation": "朝比奈みくるが人々に好かれる理由\nは、その優しさにある",
+    "speaker": "長門"
+  },
+  {
+    "index": 18,
+    "key": "evt_CA74S_0018",
+    "original": "そうね、あの子って底抜けに優しい\nもんね",
+    "translation": "そうね、あの子って底抜けに優しい\nもんね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CA74S_0019",
+    "original": "万人に好かれるには、朝比奈みくる\nのように行動する必要がある",
+    "translation": "万人に好かれるには、朝比奈みくる\nのように行動する必要がある",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CA74S_0020",
+    "original": "うーん、あいにくだけど、",
+    "translation": "うーん、あいにくだけど、",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CA74S_0021",
+    "original": "別にあたしは関係ない人に好かれ\nようとか思ったことないのよね",
+    "translation": "別にあたしは関係ない人に好かれ\nようとか思ったことないのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CA74S_0022",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CA74S_0023",
+    "original": "有希こそ、やってみたら？",
+    "translation": "有希こそ、やってみたら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CA74S_0024",
+    "original": "……難易度的に不可能に近い",
+    "translation": "……難易度的に不可能に近い",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_CA74S_0025",
+    "original": "でしょ",
+    "translation": "でしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CA74S_0026",
+    "original": "朝比奈さんは、どんなときでも他者\nへの気配りを忘れない方ですね",
+    "translation": "朝比奈さんは、どんなときでも他者\nへの気配りを忘れない方ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_CA74S_0027",
+    "original": "そうね。って何かあったの？",
+    "translation": "そうね。って何かあったの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CA74S_0028",
+    "original": "いえ、特に何か……というわけでは\nないのですが",
+    "translation": "いえ、特に何か……というわけでは\nないのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_CA74S_0029",
+    "original": "今回の合宿でも、そんな性格が顕著\nに表れていて、感心しましてね",
+    "translation": "今回の合宿でも、そんな性格が顕著\nに表れていて、感心しましてね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CA74S_0030",
+    "original": "逆にキョンは、自分のことばかり\n考えてるような気がするわ",
+    "translation": "逆にキョンは、自分のことばかり\n考えてるような気がするわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CA74S_0031",
+    "original": "……どうでしょう？",
+    "translation": "……どうでしょう？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CA74S_0032",
+    "original": "僕が思うに、もしかすると彼が一番\n気配りの達人かもしれません",
+    "translation": "僕が思うに、もしかすると彼が一番\n気配りの達人かもしれません",
+    "speaker": "古泉"
+  }
+]

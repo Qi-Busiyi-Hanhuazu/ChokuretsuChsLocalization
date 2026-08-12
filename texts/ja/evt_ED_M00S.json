@@ -1,0 +1,345 @@
+[
+  {
+    "index": 0,
+    "key": "evt_ED_M00S_0000",
+    "original": "それはとある日の放課後――",
+    "translation": "それはとある日の放課後――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_ED_M00S_0001",
+    "original": "少しばかり早めにＨＲを終えて立ち\n上がると、すでにハルヒの姿はなく",
+    "translation": "少しばかり早めにＨＲを終えて立ち\n上がると、すでにハルヒの姿はなく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_ED_M00S_0002",
+    "original": "律儀にも俺は、まっすぐ部室へと\n向かった",
+    "translation": "律儀にも俺は、まっすぐ部室へと\n向かった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_ED_M00S_0003",
+    "original": "ちーっす",
+    "translation": "ちーっす",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_ED_M00S_0004",
+    "original": "あ、キョンくん",
+    "translation": "あ、キョンくん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 5,
+    "key": "evt_ED_M00S_0005",
+    "original": "部室には珍しく朝比奈さん１人だけ\nなんという幸運だろう",
+    "translation": "部室には珍しく朝比奈さん１人だけ\nなんという幸運だろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_ED_M00S_0006",
+    "original": "しかも朝比奈さんは、未だ残暑厳し\nいにも関わらずメイド服スタイルで",
+    "translation": "しかも朝比奈さんは、未だ残暑厳し\nいにも関わらずメイド服スタイルで",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_ED_M00S_0007",
+    "original": "ロングスカートが暑苦しいなんて\nカケラも思わせることなく",
+    "translation": "ロングスカートが暑苦しいなんて\nカケラも思わせることなく",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 8,
+    "key": "evt_ED_M00S_0008",
+    "original": "俺は愛くるしい彼女の姿を眺めて\nハルヒを待つことにした",
+    "translation": "俺は愛くるしい彼女の姿を眺めて\nハルヒを待つことにした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_ED_M00S_0009",
+    "original": "はい、キョンくん、お茶です",
+    "translation": "はい、キョンくん、お茶です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_ED_M00S_0010",
+    "original": "ありがとうございます",
+    "translation": "ありがとうございます",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_ED_M00S_0011",
+    "original": "これまた熱い緑茶を受け取る",
+    "translation": "これまた熱い緑茶を受け取る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_ED_M00S_0012",
+    "original": "もちろん、冷たい麦茶が良かった\nなどとはおくびにも出さない",
+    "translation": "もちろん、冷たい麦茶が良かった\nなどとはおくびにも出さない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 13,
+    "key": "evt_ED_M00S_0013",
+    "original": "今日は朝比奈さんだけですか？",
+    "translation": "今日は朝比奈さんだけですか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_ED_M00S_0014",
+    "original": "ええ、長門さんもまだ来てない\nみたいです",
+    "translation": "ええ、長門さんもまだ来てない\nみたいです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_ED_M00S_0015",
+    "original": "涼宮さんは？",
+    "translation": "涼宮さんは？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_ED_M00S_0016",
+    "original": "ＨＲが終わった瞬間には、すでに席\nはもぬけの殻でした",
+    "translation": "ＨＲが終わった瞬間には、すでに席\nはもぬけの殻でした",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_ED_M00S_0017",
+    "original": "ちなみに古泉は知りません",
+    "translation": "ちなみに古泉は知りません",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_ED_M00S_0018",
+    "original": "知りたくもないですが",
+    "translation": "知りたくもないですが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_ED_M00S_0019",
+    "original": "じゃあ、今日はあたしとキョンくん\nだけですね……あっ",
+    "translation": "じゃあ、今日はあたしとキョンくん\nだけですね……あっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_ED_M00S_0020",
+    "original": "ん？",
+    "translation": "ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 21,
+    "key": "evt_ED_M00S_0021",
+    "original": "朝比奈さんは、なぜか、赤くなって\n顔を背けてしまう",
+    "translation": "朝比奈さんは、なぜか、赤くなって\n顔を背けてしまう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 22,
+    "key": "evt_ED_M00S_0022",
+    "original": "あ、あの……",
+    "translation": "あ、あの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_ED_M00S_0023",
+    "original": "はい？",
+    "translation": "はい？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 24,
+    "key": "evt_ED_M00S_0024",
+    "original": "なかなか涼しくなりませんね",
+    "translation": "なかなか涼しくなりませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_ED_M00S_0025",
+    "original": "そうですね",
+    "translation": "そうですね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_ED_M00S_0026",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_ED_M00S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_ED_M00S_0028",
+    "original": "なんだこの沈黙は",
+    "translation": "なんだこの沈黙は",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 29,
+    "key": "evt_ED_M00S_0029",
+    "original": "あ、そ、そういえば、夏休み楽し\nかったですね",
+    "translation": "あ、そ、そういえば、夏休み楽し\nかったですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 30,
+    "key": "evt_ED_M00S_0030",
+    "original": "色んなところへ行って、泳いだり\n花火をしたり、ゲームをしたり",
+    "translation": "色んなところへ行って、泳いだり\n花火をしたり、ゲームをしたり",
+    "speaker": "みくる"
+  },
+  {
+    "index": 31,
+    "key": "evt_ED_M00S_0031",
+    "original": "すごくいい思い出になりました",
+    "translation": "すごくいい思い出になりました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_ED_M00S_0032",
+    "original": "ええ。中にはただひたすら疲れる\nだけのイベントもありましたが",
+    "translation": "ええ。中にはただひたすら疲れる\nだけのイベントもありましたが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_ED_M00S_0033",
+    "original": "あ、合宿のことですね",
+    "translation": "あ、合宿のことですね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_ED_M00S_0034",
+    "original": "あれは本当に大変でしたねえ",
+    "translation": "あれは本当に大変でしたねえ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_ED_M00S_0035",
+    "original": "なんせ、丸一日世界の危機の\nまっただ中にいましたから",
+    "translation": "なんせ、丸一日世界の危機の\nまっただ中にいましたから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 36,
+    "key": "evt_ED_M00S_0036",
+    "original": "ほんとに、一時はどうなることかと\n思いました",
+    "translation": "ほんとに、一時はどうなることかと\n思いました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 37,
+    "key": "evt_ED_M00S_0037",
+    "original": "幽霊だの怪奇現象だのは、もう勘弁\nしてもらいたいです",
+    "translation": "幽霊だの怪奇現象だのは、もう勘弁\nしてもらいたいです",
+    "speaker": "キョン"
+  },
+  {
+    "index": 38,
+    "key": "evt_ED_M00S_0038",
+    "original": "ふふふ……ほんとに",
+    "translation": "ふふふ……ほんとに",
+    "speaker": "みくる"
+  },
+  {
+    "index": 39,
+    "key": "evt_ED_M00S_0039",
+    "original": "一生とは言わないまでも、せめて\n来年の夏辺りまで関わりたくない",
+    "translation": "一生とは言わないまでも、せめて\n来年の夏辺りまで関わりたくない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 40,
+    "key": "evt_ED_M00S_0040",
+    "original": "……ふと思ったんですが",
+    "translation": "……ふと思ったんですが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 41,
+    "key": "evt_ED_M00S_0041",
+    "original": "はい？",
+    "translation": "はい？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_ED_M00S_0042",
+    "original": "未来の世界では、幽霊の存在なんて\nいうのは解明されてるんですかね",
+    "translation": "未来の世界では、幽霊の存在なんて\nいうのは解明されてるんですかね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 43,
+    "key": "evt_ED_M00S_0043",
+    "original": "朝比奈さん、ずいぶんと怖がってま\nしたけど……",
+    "translation": "朝比奈さん、ずいぶんと怖がってま\nしたけど……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 44,
+    "key": "evt_ED_M00S_0044",
+    "original": "んー……",
+    "translation": "んー……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 45,
+    "key": "evt_ED_M00S_0045",
+    "original": "俺の質問に、朝比奈さんは少しだけ\n考えるそぶりを見せて――",
+    "translation": "俺の質問に、朝比奈さんは少しだけ\n考えるそぶりを見せて――",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 46,
+    "key": "evt_ED_M00S_0046",
+    "original": "禁則事項です",
+    "translation": "禁則事項です",
+    "speaker": "みくる"
+  },
+  {
+    "index": 47,
+    "key": "evt_ED_M00S_0047",
+    "original": "とびっきりの笑顔でいつものあの\nセリフを返してくるのだった",
+    "translation": "とびっきりの笑顔でいつものあの\nセリフを返してくるのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 48,
+    "key": "evt_ED_M00S_0048",
+    "original": "テスト選択肢",
+    "translation": "テスト選択肢",
+    "speaker": "CHOICE"
+  }
+]

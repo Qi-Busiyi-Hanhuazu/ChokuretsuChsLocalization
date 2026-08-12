@@ -1,0 +1,233 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN35S_0000",
+    "original": "なあ、長門がため息をつくこと\nなんてあると思うか？",
+    "translation": "なあ、長門がため息をつくこと\nなんてあると思うか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN35S_0001",
+    "original": "なによそれ？",
+    "translation": "なによそれ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN35S_0002",
+    "original": "まあ、沈着冷静な有希のことだから\nそんなことないように思えるわね",
+    "translation": "まあ、沈着冷静な有希のことだから\nそんなことないように思えるわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN35S_0003",
+    "original": "だろう？　だけど、さっき長門が\nため息をついたところを見たんだ",
+    "translation": "だろう？　だけど、さっき長門が\nため息をついたところを見たんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN35S_0004",
+    "original": "どうせあんたが間抜けなことをして\n有希が呆れたんでしょう？",
+    "translation": "どうせあんたが間抜けなことをして\n有希が呆れたんでしょう？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN35S_0005",
+    "original": "う、否定できん",
+    "translation": "う、否定できん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN35S_0006",
+    "original": "そんなことだろうと思ったわ",
+    "translation": "そんなことだろうと思ったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN35S_0007",
+    "original": "あ、あのそういえばキョンくんから\n聞いたんですけど",
+    "translation": "あ、あのそういえばキョンくんから\n聞いたんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN35S_0008",
+    "original": "長門さんが、珍しくため息をついて\nいたみたいだって言ってました",
+    "translation": "長門さんが、珍しくため息をついて\nいたみたいだって言ってました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN35S_0009",
+    "original": "有希がため息をつくだなんて\nよっぽどのことだわね",
+    "translation": "有希がため息をつくだなんて\nよっぽどのことだわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN35S_0010",
+    "original": "きっと、キョンのやつがバカばっか\nやってたんでしょ",
+    "translation": "きっと、キョンのやつがバカばっか\nやってたんでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN35S_0011",
+    "original": "い、いえ、そういうわけじゃ\nないと思うんですけど",
+    "translation": "い、いえ、そういうわけじゃ\nないと思うんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN35S_0012",
+    "original": "絶対そうよ！　さすがの有希も\nいよいよ呆れ果てたに違いないわ",
+    "translation": "絶対そうよ！　さすがの有希も\nいよいよ呆れ果てたに違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN35S_0013",
+    "original": "後で詳しく聞かなくっちゃ",
+    "translation": "後で詳しく聞かなくっちゃ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN35S_0014",
+    "original": "ふう",
+    "translation": "ふう",
+    "speaker": "長門"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN35S_0015",
+    "original": "へ？　なにそれ",
+    "translation": "へ？　なにそれ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN35S_0016",
+    "original": "溜息",
+    "translation": "溜息",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN35S_0017",
+    "original": "それが溜息？",
+    "translation": "それが溜息？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN35S_0018",
+    "original": "有希、あなた女の子なんだから\nもうちょっと可愛くできないの？",
+    "translation": "有希、あなた女の子なんだから\nもうちょっと可愛くできないの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN35S_0019",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN35S_0020",
+    "original": "ほら、もう一回やってみて",
+    "translation": "ほら、もう一回やってみて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN35S_0021",
+    "original": "今度は、もっと気持ちを込めて",
+    "translation": "今度は、もっと気持ちを込めて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN35S_0022",
+    "original": "……ふう",
+    "translation": "……ふう",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN35S_0023",
+    "original": "ぜんぜんダメね",
+    "translation": "ぜんぜんダメね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN35S_0024",
+    "original": "もっと練習しときなさい",
+    "translation": "もっと練習しときなさい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN35S_0025",
+    "original": "溜息ひとつで男子がソワソワする\nようになれば一人前よ",
+    "translation": "溜息ひとつで男子がソワソワする\nようになれば一人前よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN35S_0026",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN35S_0027",
+    "original": "ちょっと小耳に挟んだのですが\n長門さんがため息をついたとか",
+    "translation": "ちょっと小耳に挟んだのですが\n長門さんがため息をついたとか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN35S_0028",
+    "original": "有希だってため息ぐらいつくわよ",
+    "translation": "有希だってため息ぐらいつくわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN35S_0029",
+    "original": "もちろんそうでしょう。ですが今ま\nでに見たことがないので驚きました",
+    "translation": "もちろんそうでしょう。ですが今ま\nでに見たことがないので驚きました",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN35S_0030",
+    "original": "なにかよほど呆れるようなことでも\nあったのかしらね",
+    "translation": "なにかよほど呆れるようなことでも\nあったのかしらね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN35S_0031",
+    "original": "さあ、そこまでは聞いていません",
+    "translation": "さあ、そこまでは聞いていません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN35S_0032",
+    "original": "きっとキョンがバカなことをやって\n有希を呆れさせたに違いないわ",
+    "translation": "きっとキョンがバカなことをやって\n有希を呆れさせたに違いないわ",
+    "speaker": "ハルヒ"
+  }
+]

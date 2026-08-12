@@ -1,0 +1,345 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CK40S_0000",
+    "original": "なあ、ハルヒ。古泉は実は臆病\nだって知ってたか？",
+    "translation": "なあ、ハルヒ。古泉は実は臆病\nだって知ってたか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CK40S_0001",
+    "original": "そうなの？　そういうふうには見え\nないけど？",
+    "translation": "そうなの？　そういうふうには見え\nないけど？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CK40S_0002",
+    "original": "ポーカーフェイスなんだよ、あいつ\nはいつも笑ってやがるからな",
+    "translation": "ポーカーフェイスなんだよ、あいつ\nはいつも笑ってやがるからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CK40S_0003",
+    "original": "それはわかってるけど、臆病に\n信憑性は感じないわね",
+    "translation": "それはわかってるけど、臆病に\n信憑性は感じないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CK40S_0004",
+    "original": "表面に出さないだけで、夜の学校で\n怪談探しなんざ、心底怯えてるんだ",
+    "translation": "表面に出さないだけで、夜の学校で\n怪談探しなんざ、心底怯えてるんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CK40S_0005",
+    "original": "うーーん、やっぱりそうは見えない\nし思えないんだけど",
+    "translation": "うーーん、やっぱりそうは見えない\nし思えないんだけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CK40S_0006",
+    "original": "ヤツのためにも、ここら辺で止めて\n帰って寝ようって思わないか？",
+    "translation": "ヤツのためにも、ここら辺で止めて\n帰って寝ようって思わないか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CK40S_0007",
+    "original": "……あんたがめんどくさくなった\nだけに聞こえるわ。却下！",
+    "translation": "……あんたがめんどくさくなった\nだけに聞こえるわ。却下！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CK40S_0008",
+    "original": "ダメだったか……やれやれ",
+    "translation": "ダメだったか……やれやれ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CK40S_0009",
+    "original": "古泉くんが臆病で、怪談嫌いなのは\nちょっと嬉しいんです",
+    "translation": "古泉くんが臆病で、怪談嫌いなのは\nちょっと嬉しいんです",
+    "speaker": "みくる"
+  },
+  {
+    "index": 10,
+    "key": "evt_CK40S_0010",
+    "original": "あたしひとりじゃなくて良かった\nって思いました",
+    "translation": "あたしひとりじゃなくて良かった\nって思いました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 11,
+    "key": "evt_CK40S_0011",
+    "original": "でも、びっくりしちゃいましたよ\n全然そんな風に見えませんもんね",
+    "translation": "でも、びっくりしちゃいましたよ\n全然そんな風に見えませんもんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CK40S_0012",
+    "original": "そうね、全然そうは見えないわよね",
+    "translation": "そうね、全然そうは見えないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CK40S_0013",
+    "original": "でも、あたしひとりじゃなくて\n良かったですよぉ",
+    "translation": "でも、あたしひとりじゃなくて\n良かったですよぉ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_CK40S_0014",
+    "original": "なんだか、あたしだけがきゃー\nきゃー怯えてて恥ずかしかったので",
+    "translation": "なんだか、あたしだけがきゃー\nきゃー怯えてて恥ずかしかったので",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CK40S_0015",
+    "original": "同士がいて心強いです！",
+    "translation": "同士がいて心強いです！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CK40S_0016",
+    "original": "みくるちゃん、ガッカリさせて\n悪いケド、あれ絶対、嘘よ",
+    "translation": "みくるちゃん、ガッカリさせて\n悪いケド、あれ絶対、嘘よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CK40S_0017",
+    "original": "ええっ？",
+    "translation": "ええっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CK40S_0018",
+    "original": "多分、みくるちゃんを見かねて庇う\nための嘘なんだと思うわ",
+    "translation": "多分、みくるちゃんを見かねて庇う\nための嘘なんだと思うわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CK40S_0019",
+    "original": "そんなぁ～～",
+    "translation": "そんなぁ～～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CK40S_0020",
+    "original": "それにそういうキャラはあなた以上\nに適任者はいないわ！",
+    "translation": "それにそういうキャラはあなた以上\nに適任者はいないわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CK40S_0021",
+    "original": "そんなぁ、ふぇぇ～ん",
+    "translation": "そんなぁ、ふぇぇ～ん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_CK40S_0022",
+    "original": "古泉一樹は臆病だと聞いた",
+    "translation": "古泉一樹は臆病だと聞いた",
+    "speaker": "長門"
+  },
+  {
+    "index": 23,
+    "key": "evt_CK40S_0023",
+    "original": "ええ、言ってたわね、そんなこと",
+    "translation": "ええ、言ってたわね、そんなこと",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_CK40S_0024",
+    "original": "でも、古泉くんと臆病って、どう\n考えたってマッチングミスだわ",
+    "translation": "でも、古泉くんと臆病って、どう\n考えたってマッチングミスだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CK40S_0025",
+    "original": "信じない？",
+    "translation": "信じない？",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CK40S_0026",
+    "original": "ええ、状況からしてもあれはね\n多分みくるちゃんを庇う嘘だわ",
+    "translation": "ええ、状況からしてもあれはね\n多分みくるちゃんを庇う嘘だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CK40S_0027",
+    "original": "朝比奈みくるも臆病と自認して\nいる",
+    "translation": "朝比奈みくるも臆病と自認して\nいる",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CK40S_0028",
+    "original": "ええ、そうね。でもあの娘の恐がり\nは本物よ",
+    "translation": "ええ、そうね。でもあの娘の恐がり\nは本物よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CK40S_0029",
+    "original": "それに、怖がってくれる人がいない\n怪談探しなんてつまらないわ",
+    "translation": "それに、怖がってくれる人がいない\n怪談探しなんてつまらないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CK40S_0030",
+    "original": "だからみくるちゃんは、今回の件\nでは貴重な人材なのよ",
+    "translation": "だからみくるちゃんは、今回の件\nでは貴重な人材なのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CK40S_0031",
+    "original": "臆病な古泉一樹も貴重",
+    "translation": "臆病な古泉一樹も貴重",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CK40S_0032",
+    "original": "臆病なのがホントだったらちょっと\n面白いかもしれないけどさ",
+    "translation": "臆病なのがホントだったらちょっと\n面白いかもしれないけどさ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CK40S_0033",
+    "original": "うん、古泉くんの笑顔以外の表情も\nじっくり見てみたいわね",
+    "translation": "うん、古泉くんの笑顔以外の表情も\nじっくり見てみたいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CK40S_0034",
+    "original": "……そう",
+    "translation": "……そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 35,
+    "key": "evt_CK40S_0035",
+    "original": "涼宮さん、ずっと隠していましたが\n実は僕は臆病なんです",
+    "translation": "涼宮さん、ずっと隠していましたが\n実は僕は臆病なんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CK40S_0036",
+    "original": "さっきも聞いたけど、それがどう\nしたの？",
+    "translation": "さっきも聞いたけど、それがどう\nしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CK40S_0037",
+    "original": "夜の学校という、肝試しにぴったり\nな場所は怖くてしょうがないんです",
+    "translation": "夜の学校という、肝試しにぴったり\nな場所は怖くてしょうがないんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_CK40S_0038",
+    "original": "できれば今すぐ家に帰って、こんな\n記憶は抹消したいのですが",
+    "translation": "できれば今すぐ家に帰って、こんな\n記憶は抹消したいのですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_CK40S_0039",
+    "original": "ううーん、古泉くん。ハッキリ\n言わせてもらうけど",
+    "translation": "ううーん、古泉くん。ハッキリ\n言わせてもらうけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CK40S_0040",
+    "original": "はい。どんな批難でも拝聴します",
+    "translation": "はい。どんな批難でも拝聴します",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_CK40S_0041",
+    "original": "軟弱で情けない姿をお見せして\nしまいましたしね",
+    "translation": "軟弱で情けない姿をお見せして\nしまいましたしね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_CK40S_0042",
+    "original": "怖がりだと本気で思わせたいなら\nせめて怯える演技は必要よ",
+    "translation": "怖がりだと本気で思わせたいなら\nせめて怯える演技は必要よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CK40S_0043",
+    "original": "みくるちゃん見ててわかるでしょ？\n怯えてるってああいうものよ",
+    "translation": "みくるちゃん見ててわかるでしょ？\n怯えてるってああいうものよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CK40S_0044",
+    "original": "僕の場合、顔に出ないだけなんです",
+    "translation": "僕の場合、顔に出ないだけなんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_CK40S_0045",
+    "original": "呼吸も普通、言動も普通、脈拍\nだって乱れてなさそうだし",
+    "translation": "呼吸も普通、言動も普通、脈拍\nだって乱れてなさそうだし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_CK40S_0046",
+    "original": "そんな怯えかたをする人なんていな\nいわ！",
+    "translation": "そんな怯えかたをする人なんていな\nいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CK40S_0047",
+    "original": "故に古泉くんは臆病ではないのよ\nはい、証明おわり",
+    "translation": "故に古泉くんは臆病ではないのよ\nはい、証明おわり",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CK40S_0048",
+    "original": "論破されてしまいました",
+    "translation": "論破されてしまいました",
+    "speaker": "古泉"
+  }
+]

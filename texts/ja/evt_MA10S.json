@@ -1,0 +1,320 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA10S_0000",
+    "original": "そうだわ、体育館の音響って使える\nのかしら？",
+    "translation": "そうだわ、体育館の音響って使える\nのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA10S_0001",
+    "original": "カギがかかってたりしなきゃ、\nそっちを使うんだけど……",
+    "translation": "カギがかかってたりしなきゃ、\nそっちを使うんだけど……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA10S_0002",
+    "original": "さっきから、いったい何をする\nつもりなんだ？",
+    "translation": "さっきから、いったい何をする\nつもりなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA10S_0003",
+    "original": "うーん……これは、さっさと行って\n調べた方がいいわね",
+    "translation": "うーん……これは、さっさと行って\n調べた方がいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA10S_0004",
+    "original": "体育館へ急ぎましょ",
+    "translation": "体育館へ急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA10S_0005",
+    "original": "何をする気か知らないが\nＣＤラジカセならあるぞ",
+    "translation": "何をする気か知らないが\nＣＤラジカセならあるぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA10S_0006",
+    "original": "ほら、バーベキューの時に谷口が\n持ってきたやつ",
+    "translation": "ほら、バーベキューの時に谷口が\n持ってきたやつ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA10S_0007",
+    "original": "返そうと思って、持ってきたんだ\n今は体育館に置いてある",
+    "translation": "返そうと思って、持ってきたんだ\n今は体育館に置いてある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA10S_0008",
+    "original": "でかしたわキョン！\nたまには役に立つじゃない",
+    "translation": "でかしたわキョン！\nたまには役に立つじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA10S_0009",
+    "original": "だから、たまには余計だ",
+    "translation": "だから、たまには余計だ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA10S_0010",
+    "original": "これで大方の問題は解決したわ",
+    "translation": "これで大方の問題は解決したわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA10S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA10S_0012",
+    "original": "あのう、涼宮さん……音響とかって\n何をするんでしょうか？",
+    "translation": "あのう、涼宮さん……音響とかって\n何をするんでしょうか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA10S_0013",
+    "original": "うーん……これは、さっさと行って\n調べた方がいいわね",
+    "translation": "うーん……これは、さっさと行って\n調べた方がいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA10S_0014",
+    "original": "説明は後よ。体育館へ急ぎましょ",
+    "translation": "説明は後よ。体育館へ急ぎましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA10S_0015",
+    "original": "あの、音響ってＣＤラジカセとかで\nもいいんですか？",
+    "translation": "あの、音響ってＣＤラジカセとかで\nもいいんですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA10S_0016",
+    "original": "だったら、体育館にありましたよ",
+    "translation": "だったら、体育館にありましたよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA10S_0017",
+    "original": "ほんと？　みくるちゃん",
+    "translation": "ほんと？　みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA10S_0018",
+    "original": "はい。谷口くんが持って来たのを\n返そうと思って",
+    "translation": "はい。谷口くんが持って来たのを\n返そうと思って",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA10S_0019",
+    "original": "ナイスよみくるちゃん！",
+    "translation": "ナイスよみくるちゃん！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA10S_0020",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA10S_0021",
+    "original": "これで一番の問題は解決したわ",
+    "translation": "これで一番の問題は解決したわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA10S_0022",
+    "original": "これは、さっさと行って調べた方が\nいいみたいね",
+    "translation": "これは、さっさと行って調べた方が\nいいみたいね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA10S_0023",
+    "original": "こんなことなら、谷口が持ってきた\nラジカセを持ってくるんだったわ",
+    "translation": "こんなことなら、谷口が持ってきた\nラジカセを持ってくるんだったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA10S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_MA10S_0025",
+    "original": "ある",
+    "translation": "ある",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA10S_0026",
+    "original": "え？",
+    "translation": "え？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA10S_0027",
+    "original": "ＣＤラジカセならある",
+    "translation": "ＣＤラジカセならある",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA10S_0028",
+    "original": "そうなの？",
+    "translation": "そうなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA10S_0029",
+    "original": "返すため、持ってきた",
+    "translation": "返すため、持ってきた",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA10S_0030",
+    "original": "でかしたわ、有希！",
+    "translation": "でかしたわ、有希！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA10S_0031",
+    "original": "これで一番の問題が解決したわ！",
+    "translation": "これで一番の問題が解決したわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA10S_0032",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "evt_MA10S_0033",
+    "original": "これまでのお話からすると、何か\n音楽をかけたいのでしょうか？",
+    "translation": "これまでのお話からすると、何か\n音楽をかけたいのでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA10S_0034",
+    "original": "そうなんだけど……うーん",
+    "translation": "そうなんだけど……うーん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA10S_0035",
+    "original": "急いで行って、カギがかかってるか\n調べた方がいいわね",
+    "translation": "急いで行って、カギがかかってるか\n調べた方がいいわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA10S_0036",
+    "original": "その、音楽ですがＣＤラジカセなど\nでは問題ないでしょうか？",
+    "translation": "その、音楽ですがＣＤラジカセなど\nでは問題ないでしょうか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA10S_0037",
+    "original": "別にそれでもいいけど",
+    "translation": "別にそれでもいいけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA10S_0038",
+    "original": "でしたら、心当たりがあります",
+    "translation": "でしたら、心当たりがあります",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA10S_0039",
+    "original": "ほんと？",
+    "translation": "ほんと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA10S_0040",
+    "original": "バーベキューの時に、谷口さんが\n持ち込んだものがあったかと",
+    "translation": "バーベキューの時に、谷口さんが\n持ち込んだものがあったかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA10S_0041",
+    "original": "あれを返却するために学校まで\n持ってきています",
+    "translation": "あれを返却するために学校まで\n持ってきています",
+    "speaker": "古泉"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA10S_0042",
+    "original": "それよっ！　丁度いいわ！",
+    "translation": "それよっ！　丁度いいわ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA10S_0043",
+    "original": "よーっし、これで一番の問題が解決\nしたわ。お手柄よ古泉くん",
+    "translation": "よーっし、これで一番の問題が解決\nしたわ。お手柄よ古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA10S_0044",
+    "original": "それは良かったです",
+    "translation": "それは良かったです",
+    "speaker": "古泉"
+  }
+]

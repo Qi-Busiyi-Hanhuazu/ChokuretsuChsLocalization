@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA22S_0000",
+    "original": "さっきから気になってたんだけど\n廊下に石ころが落ちてるのよ",
+    "translation": "さっきから気になってたんだけど\n廊下に石ころが落ちてるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA22S_0001",
+    "original": "そうか？　気のせいじゃないか",
+    "translation": "そうか？　気のせいじゃないか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA22S_0002",
+    "original": "いいえ、間違いないわ",
+    "translation": "いいえ、間違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA22S_0003",
+    "original": "この先になにかあるのかしら！？\n急ぐわよ！　キョン！",
+    "translation": "この先になにかあるのかしら！？\n急ぐわよ！　キョン！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA22S_0004",
+    "original": "ハルヒ、これを見ろ",
+    "translation": "ハルヒ、これを見ろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA22S_0005",
+    "original": "これなに……？",
+    "translation": "これなに……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA22S_0006",
+    "original": "たぶん何かを引きずった痕だ",
+    "translation": "たぶん何かを引きずった痕だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA22S_0007",
+    "original": "これ、どこに向かってるのかしら？",
+    "translation": "これ、どこに向かってるのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA22S_0008",
+    "original": "どうやら、俺たちが来た方向のよう\nだが……",
+    "translation": "どうやら、俺たちが来た方向のよう\nだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA22S_0009",
+    "original": "気になるわね……\n一度戻ってみましょうか",
+    "translation": "気になるわね……\n一度戻ってみましょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA22S_0010",
+    "original": "よし、案の定時間を稼げたぞ",
+    "translation": "よし、案の定時間を稼げたぞ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA22S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_MA22S_0012",
+    "original": "き、気のせいじゃないですか",
+    "translation": "き、気のせいじゃないですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA22S_0013",
+    "original": "いいえ、間違いないわ",
+    "translation": "いいえ、間違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA22S_0014",
+    "original": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "translation": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA22S_0015",
+    "original": "涼宮さん、これ見てください",
+    "translation": "涼宮さん、これ見てください",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA22S_0016",
+    "original": "これは……！？",
+    "translation": "これは……！？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA22S_0017",
+    "original": "なんだか土と砂利で汚れてますね",
+    "translation": "なんだか土と砂利で汚れてますね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA22S_0018",
+    "original": "ていうかこれ、何かを引きずった\nように見えない？",
+    "translation": "ていうかこれ、何かを引きずった\nように見えない？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA22S_0019",
+    "original": "え……？",
+    "translation": "え……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA22S_0020",
+    "original": "しかも、あたしたちが来た方向\nへ向かってるわ",
+    "translation": "しかも、あたしたちが来た方向\nへ向かってるわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA22S_0021",
+    "original": "そ、それって……",
+    "translation": "そ、それって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA22S_0022",
+    "original": "どこかですれ違っていたか\nもしくは別の場所へ行ったか……",
+    "translation": "どこかですれ違っていたか\nもしくは別の場所へ行ったか……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA22S_0023",
+    "original": "なんにせよ、戻って確認した方が\nいいかも",
+    "translation": "なんにせよ、戻って確認した方が\nいいかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA22S_0024",
+    "original": "え、ええぇ！　で、でも、なにか\n出ちゃったりしたら……",
+    "translation": "え、ええぇ！　で、でも、なにか\n出ちゃったりしたら……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA22S_0025",
+    "original": "幽霊や妖怪だったら、願ったり\n叶ったりだわ",
+    "translation": "幽霊や妖怪だったら、願ったり\n叶ったりだわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA22S_0026",
+    "original": "ひいぃぃ……",
+    "translation": "ひいぃぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA22S_0027",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "evt_MA22S_0028",
+    "original": "気のせい……",
+    "translation": "気のせい……",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA22S_0029",
+    "original": "いいえ、間違いないわ",
+    "translation": "いいえ、間違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA22S_0030",
+    "original": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "translation": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA22S_0031",
+    "original": "見て",
+    "translation": "見て",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA22S_0032",
+    "original": "なにこれ……土、よね",
+    "translation": "なにこれ……土、よね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA22S_0033",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA22S_0034",
+    "original": "何か引きずった痕みたい",
+    "translation": "何か引きずった痕みたい",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA22S_0035",
+    "original": "進行方向は、わたしたちが来た方向",
+    "translation": "進行方向は、わたしたちが来た方向",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA22S_0036",
+    "original": "ってことは、本館の方ね",
+    "translation": "ってことは、本館の方ね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA22S_0037",
+    "original": "気になるわね。戻って調べて\n来ましょう",
+    "translation": "気になるわね。戻って調べて\n来ましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA22S_0038",
+    "original": "わかった",
+    "translation": "わかった",
+    "speaker": "長門"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA22S_0039",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "evt_MA22S_0040",
+    "original": "気のせいでは？",
+    "translation": "気のせいでは？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA22S_0041",
+    "original": "いいえ、間違いないわ",
+    "translation": "いいえ、間違いないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA22S_0042",
+    "original": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "translation": "この先になにかあるのかしら！？\n急ぎましょう！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA22S_0043",
+    "original": "涼宮さん、これを見てください",
+    "translation": "涼宮さん、これを見てください",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA22S_0044",
+    "original": "なに……これ？",
+    "translation": "なに……これ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA22S_0045",
+    "original": "土や砂利……おそらく、何かを\n引きずった痕ではないかと",
+    "translation": "土や砂利……おそらく、何かを\n引きずった痕ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA22S_0046",
+    "original": "じゃあ、ここを何かが通ったって\nこと？",
+    "translation": "じゃあ、ここを何かが通ったって\nこと？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_MA22S_0047",
+    "original": "しかも、土や砂利を残すような\n何かです",
+    "translation": "しかも、土や砂利を残すような\n何かです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 48,
+    "key": "evt_MA22S_0048",
+    "original": "まさか……",
+    "translation": "まさか……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_MA22S_0049",
+    "original": "どうします？　戻って調べますか？",
+    "translation": "どうします？　戻って調べますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 50,
+    "key": "evt_MA22S_0050",
+    "original": "そうね、少し痕を辿ってみましょ",
+    "translation": "そうね、少し痕を辿ってみましょ",
+    "speaker": "ハルヒ"
+  }
+]

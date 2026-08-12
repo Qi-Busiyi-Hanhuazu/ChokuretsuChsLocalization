@@ -1,0 +1,329 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV3_000S_0000",
+    "original": "[$8]涼宮さんを[#W50]この危険な場所から\n遠ざける[#W20]―[#W10]―",
+    "translation": "[$8]涼宮さんを[#W50]この危険な場所から\n遠ざける[#W20]―[#W10]―",
+    "speaker": "古泉"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV3_000S_0001",
+    "original": "[$8]それが、[#W50][$7]今もっとも優先すべき\nことでしょう",
+    "translation": "[$8]それが、[#W50][$7]今もっとも優先すべき\nことでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV3_000S_0002",
+    "original": "[$10]何か食って腹一杯になれば、[#W30][$8]ハルヒ\nも多少は満足するんじゃないか[#W20]…[#W10]…",
+    "translation": "[$10]何か食って腹一杯になれば、[#W30][$8]ハルヒ\nも多少は満足するんじゃないか[#W20]…[#W10]…",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV3_000S_0003",
+    "original": "[$9]そんな安直な考えが、[#W30][$7]なかった\nわけじゃない",
+    "translation": "[$9]そんな安直な考えが、[#W30][$7]なかった\nわけじゃない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV3_000S_0004",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "evt_EV3_000S_0005",
+    "original": "[$10]バーベキュー？[#W30]\nへえ、[#W30][$8]キョンにしてはいい考えね",
+    "translation": "[$10]バーベキュー？[#W30]\nへえ、[#W30][$8]キョンにしてはいい考えね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV3_000S_0006",
+    "original": "[$10]などと、[#W30][$8]意外にもあっさりハルヒは\n食いついてきた",
+    "translation": "[$10]などと、[#W30][$8]意外にもあっさりハルヒは\n食いついてきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV3_000S_0007",
+    "original": "[$7]バーベキューをするのであれば[#W30]\n道具が必要ですね",
+    "translation": "[$7]バーベキューをするのであれば[#W30]\n道具が必要ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV3_000S_0008",
+    "original": "[$10]もちろん、[#W40]場所の確保もですが",
+    "translation": "[$10]もちろん、[#W40]場所の確保もですが",
+    "speaker": "古泉"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV3_000S_0009",
+    "original": "[$9]そんなの、[#W20][$8]どっかのクラブか\n同好会から借りてくればいいのよ",
+    "translation": "[$9]そんなの、[#W20][$8]どっかのクラブか\n同好会から借りてくればいいのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV3_000S_0010",
+    "original": "[$9]ハルヒ、[#W30][$8]それは借りるんじゃなくて[#W10]\n勝手に持ち出す、と言うんだ",
+    "translation": "[$9]ハルヒ、[#W30][$8]それは借りるんじゃなくて[#W10]\n勝手に持ち出す、と言うんだ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_EV3_000S_0011",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "evt_EV3_000S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_EV3_000S_0013",
+    "original": "[$12]お、[#W20]おサイフを学校に忘れて\n来ちゃいましたぁ",
+    "translation": "[$12]お、[#W20]おサイフを学校に忘れて\n来ちゃいましたぁ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV3_000S_0014",
+    "original": "[$10]あ、[#W40]朝比奈さん[#W20]…[#W10]…",
+    "translation": "[$10]あ、[#W40]朝比奈さん[#W20]…[#W10]…",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV3_000S_0015",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "evt_EV3_000S_0016",
+    "original": "[$10]これ……",
+    "translation": "[$10]これ……",
+    "speaker": "長門"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV3_000S_0017",
+    "original": "[$10]長門、[#W30][$7]それはバーベキューには\n向かないと思うぞ？",
+    "translation": "[$10]長門、[#W30][$7]それはバーベキューには\n向かないと思うぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV3_000S_0018",
+    "original": "[$10]でも、[#W20]栄養価は高い",
+    "translation": "[$10]でも、[#W20]栄養価は高い",
+    "speaker": "長門"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV3_000S_0019",
+    "original": "[$10]……わかった。[#W20][$8]おまえがいいなら\n俺は何も言わん",
+    "translation": "[$10]……わかった。[#W20][$8]おまえがいいなら\n俺は何も言わん",
+    "speaker": "キョン"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV3_000S_0020",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "evt_EV3_000S_0021",
+    "original": "[$8]ホントいいのかい、[#W20]あたしらまで\nご相伴にあずかっちゃって",
+    "translation": "[$8]ホントいいのかい、[#W20]あたしらまで\nご相伴にあずかっちゃって",
+    "speaker": "鶴屋"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV3_000S_0022",
+    "original": "[$15]うおお！　[#W20][$9]朝比奈さんの手料理か！",
+    "translation": "[$15]うおお！　[#W20][$9]朝比奈さんの手料理か！",
+    "speaker": "谷口"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV3_000S_0023",
+    "original": "[$10]悪いねキョン、[#W20][$8]僕らまでまぜて\nもらっちゃってさ",
+    "translation": "[$10]悪いねキョン、[#W20][$8]僕らまでまぜて\nもらっちゃってさ",
+    "speaker": "国木田"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV3_000S_0024",
+    "original": "",
+    "translation": "",
+    "speaker": "谷口",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "evt_EV3_000S_0025",
+    "original": "",
+    "translation": "",
+    "speaker": "国木田",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "evt_EV3_000S_0026",
+    "original": "[$12]キョンく～ん、[#W10][$10]火がつきませぇん",
+    "translation": "[$12]キョンく～ん、[#W10][$10]火がつきませぇん",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV3_000S_0027",
+    "original": "[$10]は、[#W20][$9]はいはい！　[#W20]俺がやりますっ",
+    "translation": "[$10]は、[#W20][$9]はいはい！　[#W20]俺がやりますっ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV3_000S_0028",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "evt_EV3_000S_0029",
+    "original": "[$10]…………",
+    "translation": "[$10]…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV3_000S_0030",
+    "original": "[$10]待てっ、長門！　[#W20][$8]それを焼くのは\n思いとどまれ！",
+    "translation": "[$10]待てっ、長門！　[#W20][$8]それを焼くのは\n思いとどまれ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV3_000S_0031",
+    "original": "",
+    "translation": "",
+    "speaker": "長門",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "evt_EV3_000S_0032",
+    "original": "[$7]ちょっと、キョン！[#W20]\nこっち手伝って",
+    "translation": "[$7]ちょっと、キョン！[#W20]\nこっち手伝って",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV3_000S_0033",
+    "original": "[$9]だぁっ！[#W30]\nなんて人使いが荒いんだ！",
+    "translation": "[$9]だぁっ！[#W30]\nなんて人使いが荒いんだ！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV3_000S_0034",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "evt_EV3_000S_0035",
+    "original": "[$8]ほんとに見たんだよ！　[#W10]キョン！[#W20]\n[$7]女の子が消えちまうところをよ！",
+    "translation": "[$8]ほんとに見たんだよ！　[#W10]キョン！[#W20]\n[$7]女の子が消えちまうところをよ！",
+    "speaker": "谷口"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV3_000S_0036",
+    "original": "[$10]女の子[#W30]…[#W20]…[#W20][$5]まさか、[#W20][$8]あの時の？",
+    "translation": "[$10]女の子[#W30]…[#W20]…[#W20][$5]まさか、[#W20][$8]あの時の？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV3_000S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "谷口",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV3_000S_0038",
+    "original": "[$9]谷口が言うことだから[#W20]\n[$8]あんまり信用できないけど[#W20]…[#W10]…",
+    "translation": "[$9]谷口が言うことだから[#W20]\n[$8]あんまり信用できないけど[#W20]…[#W10]…",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_EV3_000S_0039",
+    "original": "[$10]まあ、[#W20][$9]一応調べてみましょ",
+    "translation": "[$10]まあ、[#W20][$9]一応調べてみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV3_000S_0040",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 41,
+    "key": "evt_EV3_000S_0041",
+    "original": "[$9]谷口の言ってたのと[#W10][$7]ずいぶん\n違うじゃないか！",
+    "translation": "[$9]谷口の言ってたのと[#W10][$7]ずいぶん\n違うじゃないか！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV3_000S_0042",
+    "original": "[$10]これは[#W20]…[#W10]…[#W40][$9]涼宮さんの意思とは[#W20]\n関係ない？",
+    "translation": "[$10]これは[#W20]…[#W10]…[#W40][$9]涼宮さんの意思とは[#W20]\n関係ない？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV3_000S_0043",
+    "original": "[$8]だとしたら、[#W40]長門さんが気づかない\nはずが[#W20]…[#W10]…",
+    "translation": "[$8]だとしたら、[#W40]長門さんが気づかない\nはずが[#W20]…[#W10]…",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV3_000S_0044",
+    "original": "ハルヒについて",
+    "translation": "ハルヒについて",
+    "speaker": "CHOICE"
+  }
+]

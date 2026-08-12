@@ -1,0 +1,1559 @@
+[
+  {
+    "index": 0,
+    "key": "evt_EV2_022S_0000",
+    "original": "はあ……鍵を借りてこい、か",
+    "translation": "はあ……鍵を借りてこい、か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 1,
+    "key": "evt_EV2_022S_0001",
+    "original": "こうしている間にも特異点は成長し\nいつ異空間になってもおかしくない",
+    "translation": "こうしている間にも特異点は成長し\nいつ異空間になってもおかしくない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 2,
+    "key": "evt_EV2_022S_0002",
+    "original": "だから、できればハルヒを\n音楽室の中に入れたくはないのだが",
+    "translation": "だから、できればハルヒを\n音楽室の中に入れたくはないのだが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 3,
+    "key": "evt_EV2_022S_0003",
+    "original": "浮かない顔ですね",
+    "translation": "浮かない顔ですね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 4,
+    "key": "evt_EV2_022S_0004",
+    "original": "浮かれていられる要素がどこにある",
+    "translation": "浮かれていられる要素がどこにある",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_EV2_022S_0005",
+    "original": "お前がそんなに楽しそうにしている\n方が異常だと、俺は思うんだが",
+    "translation": "お前がそんなに楽しそうにしている\n方が異常だと、俺は思うんだが",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_EV2_022S_0006",
+    "original": "事態がここまで進展してしまえば\nあとはなるようにしかなりません",
+    "translation": "事態がここまで進展してしまえば\nあとはなるようにしかなりません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 7,
+    "key": "evt_EV2_022S_0007",
+    "original": "ならば、楽しめるなら楽しんだ方が\n精神衛生上もよろしいかと",
+    "translation": "ならば、楽しめるなら楽しんだ方が\n精神衛生上もよろしいかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 8,
+    "key": "evt_EV2_022S_0008",
+    "original": "なるようにしかならない、か",
+    "translation": "なるようにしかならない、か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_EV2_022S_0009",
+    "original": "朝比奈さんがたまに口にする\n“禁則事項”のようなもんか？",
+    "translation": "朝比奈さんがたまに口にする\n“禁則事項”のようなもんか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_EV2_022S_0010",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "evt_EV2_022S_0011",
+    "original": "は、はい？　ええと……\nそれはちょっと違う概念で……",
+    "translation": "は、はい？　ええと……\nそれはちょっと違う概念で……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_EV2_022S_0012",
+    "original": "いや朝比奈さん、すみませんでした\n説明しろって言ってる訳じゃ",
+    "translation": "いや朝比奈さん、すみませんでした\n説明しろって言ってる訳じゃ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 13,
+    "key": "evt_EV2_022S_0013",
+    "original": "そうですか……ふぅ",
+    "translation": "そうですか……ふぅ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_EV2_022S_0014",
+    "original": "そうだ、古泉",
+    "translation": "そうだ、古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 15,
+    "key": "evt_EV2_022S_0015",
+    "original": "なんですか？",
+    "translation": "なんですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 16,
+    "key": "evt_EV2_022S_0016",
+    "original": "ハルヒに、音楽室の鍵は貸し出し\n不可だったと言ったら……",
+    "translation": "ハルヒに、音楽室の鍵は貸し出し\n不可だったと言ったら……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 17,
+    "key": "evt_EV2_022S_0017",
+    "original": "あいつは諦めたりしない……か\n自分で言ってて有り得ない気分だ",
+    "translation": "あいつは諦めたりしない……か\n自分で言ってて有り得ない気分だ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 18,
+    "key": "evt_EV2_022S_0018",
+    "original": "そうですね、もしも我々がそんな\nことを言ったら、涼宮さんは自分で",
+    "translation": "そうですね、もしも我々がそんな\nことを言ったら、涼宮さんは自分で",
+    "speaker": "古泉"
+  },
+  {
+    "index": 19,
+    "key": "evt_EV2_022S_0019",
+    "original": "職員室に乗り込んで鍵を借りると\n言い出しかねません",
+    "translation": "職員室に乗り込んで鍵を借りると\n言い出しかねません",
+    "speaker": "古泉"
+  },
+  {
+    "index": 20,
+    "key": "evt_EV2_022S_0020",
+    "original": "下手な嘘はつかない方がいいかと",
+    "translation": "下手な嘘はつかない方がいいかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 21,
+    "key": "evt_EV2_022S_0021",
+    "original": "あ、あの、それじゃあ……",
+    "translation": "あ、あの、それじゃあ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 22,
+    "key": "evt_EV2_022S_0022",
+    "original": "なんですか朝比奈さん？",
+    "translation": "なんですか朝比奈さん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_EV2_022S_0023",
+    "original": "考えたんですけど、持ってくる途中\nで、鍵をなくしてしまったと",
+    "translation": "考えたんですけど、持ってくる途中\nで、鍵をなくしてしまったと",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_EV2_022S_0024",
+    "original": "涼宮さんに言うのはどうでしょう？",
+    "translation": "涼宮さんに言うのはどうでしょう？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 25,
+    "key": "evt_EV2_022S_0025",
+    "original": "ふむ、なるほど……それならハルヒ\nも諦めがつくかもしれない",
+    "translation": "ふむ、なるほど……それならハルヒ\nも諦めがつくかもしれない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 26,
+    "key": "evt_EV2_022S_0026",
+    "original": "……いや、あまり良い考えではあり\nませんね",
+    "translation": "……いや、あまり良い考えではあり\nませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 27,
+    "key": "evt_EV2_022S_0027",
+    "original": "音楽室に入れないのなら、外で\n張り込みをしようと涼宮さんなら",
+    "translation": "音楽室に入れないのなら、外で\n張り込みをしようと涼宮さんなら",
+    "speaker": "古泉"
+  },
+  {
+    "index": 28,
+    "key": "evt_EV2_022S_0028",
+    "original": "言い出すでしょう",
+    "translation": "言い出すでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 29,
+    "key": "evt_EV2_022S_0029",
+    "original": "相手はなにしろピアノの音ですから\n部屋の外にいても、音は聞こえます",
+    "translation": "相手はなにしろピアノの音ですから\n部屋の外にいても、音は聞こえます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 30,
+    "key": "evt_EV2_022S_0030",
+    "original": "そうなった場合、力ずくでも扉を\n開けると言い出した涼宮さんに",
+    "translation": "そうなった場合、力ずくでも扉を\n開けると言い出した涼宮さんに",
+    "speaker": "古泉"
+  },
+  {
+    "index": 31,
+    "key": "evt_EV2_022S_0031",
+    "original": "どう対処すればいいか……",
+    "translation": "どう対処すればいいか……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 32,
+    "key": "evt_EV2_022S_0032",
+    "original": "くそ、これも駄目か",
+    "translation": "くそ、これも駄目か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 33,
+    "key": "evt_EV2_022S_0033",
+    "original": "はうう……じゃあ、どうしましょう",
+    "translation": "はうう……じゃあ、どうしましょう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 34,
+    "key": "evt_EV2_022S_0034",
+    "original": "どんなプランも駄目、ということか",
+    "translation": "どんなプランも駄目、ということか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 35,
+    "key": "evt_EV2_022S_0035",
+    "original": "……とりあえず鍵を借りに行こう\n少なくとも職員室にハルヒが怒鳴り",
+    "translation": "……とりあえず鍵を借りに行こう\n少なくとも職員室にハルヒが怒鳴り",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 36,
+    "key": "evt_EV2_022S_0036",
+    "original": "込んで、今以上に印象を悪くする\n必要はないからな",
+    "translation": "込んで、今以上に印象を悪くする\n必要はないからな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 37,
+    "key": "evt_EV2_022S_0037",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "evt_EV2_022S_0038",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "evt_EV2_022S_0039",
+    "original": "思ったより簡単に貸してくれました",
+    "translation": "思ったより簡単に貸してくれました",
+    "speaker": "みくる"
+  },
+  {
+    "index": 40,
+    "key": "evt_EV2_022S_0040",
+    "original": "記入した貸し出し申し込み書類を\n見た先生が、微妙な顔をして",
+    "translation": "記入した貸し出し申し込み書類を\n見た先生が、微妙な顔をして",
+    "speaker": "みくる"
+  },
+  {
+    "index": 41,
+    "key": "evt_EV2_022S_0041",
+    "original": "おかしなことはするなよ、って\n言われましたけど、それだけでした",
+    "translation": "おかしなことはするなよ、って\n言われましたけど、それだけでした",
+    "speaker": "みくる"
+  },
+  {
+    "index": 42,
+    "key": "evt_EV2_022S_0042",
+    "original": "おかしなことはするな、か",
+    "translation": "おかしなことはするな、か",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 43,
+    "key": "evt_EV2_022S_0043",
+    "original": "正確に、俺たちのことを把握した\n忠告だが……それは多分、守れない",
+    "translation": "正確に、俺たちのことを把握した\n忠告だが……それは多分、守れない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 44,
+    "key": "evt_EV2_022S_0044",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "evt_EV2_022S_0045",
+    "original": "少し時間のロスが多いですね\n急いで集合場所へ戻りましょうか",
+    "translation": "少し時間のロスが多いですね\n急いで集合場所へ戻りましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 46,
+    "key": "evt_EV2_022S_0046",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "evt_EV2_022S_0047",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "evt_EV2_022S_0048",
+    "original": "三人で渡り廊下を渡り、集合場所へ\n戻ろうとしているときのことだった",
+    "translation": "三人で渡り廊下を渡り、集合場所へ\n戻ろうとしているときのことだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 49,
+    "key": "evt_EV2_022S_0049",
+    "original": "渡り廊下に吹く一陣の風",
+    "translation": "渡り廊下に吹く一陣の風",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 50,
+    "key": "evt_EV2_022S_0050",
+    "original": "廊下の隅に落ちていたポスターが\nふわりと舞い上がり……",
+    "translation": "廊下の隅に落ちていたポスターが\nふわりと舞い上がり……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 51,
+    "key": "evt_EV2_022S_0051",
+    "original": "きゃっ！？",
+    "translation": "きゃっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 52,
+    "key": "evt_EV2_022S_0052",
+    "original": "朝比奈さんが、舞ってきたポスター\nを踏んづけ、盛大に転んでしまった",
+    "translation": "朝比奈さんが、舞ってきたポスター\nを踏んづけ、盛大に転んでしまった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 53,
+    "key": "evt_EV2_022S_0053",
+    "original": "ふえええ……い、痛いです～……",
+    "translation": "ふえええ……い、痛いです～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 54,
+    "key": "evt_EV2_022S_0054",
+    "original": "大丈夫ですか",
+    "translation": "大丈夫ですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 55,
+    "key": "evt_EV2_022S_0055",
+    "original": "お尻が痛いです……",
+    "translation": "お尻が痛いです……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 56,
+    "key": "evt_EV2_022S_0056",
+    "original": "涙目になりながら立ち上がった\n朝比奈さんが、首を傾げて……",
+    "translation": "涙目になりながら立ち上がった\n朝比奈さんが、首を傾げて……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 57,
+    "key": "evt_EV2_022S_0057",
+    "original": "それから、何故か顔を青くする",
+    "translation": "それから、何故か顔を青くする",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 58,
+    "key": "evt_EV2_022S_0058",
+    "original": "あれ……あれ、あれ、あれっ？",
+    "translation": "あれ……あれ、あれ、あれっ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 59,
+    "key": "evt_EV2_022S_0059",
+    "original": "何かありましたか",
+    "translation": "何かありましたか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 60,
+    "key": "evt_EV2_022S_0060",
+    "original": "い、いえ、あ、はい、あの……",
+    "translation": "い、いえ、あ、はい、あの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 61,
+    "key": "evt_EV2_022S_0061",
+    "original": "さっきまで持ってたはずの鍵が……\nあの、ないんですけど……",
+    "translation": "さっきまで持ってたはずの鍵が……\nあの、ないんですけど……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 62,
+    "key": "evt_EV2_022S_0062",
+    "original": "鍵が、って……音楽室の？",
+    "translation": "鍵が、って……音楽室の？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 63,
+    "key": "evt_EV2_022S_0063",
+    "original": "は、はい……ごめんなさいい……",
+    "translation": "は、はい……ごめんなさいい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 64,
+    "key": "evt_EV2_022S_0064",
+    "original": "転んだ拍子にどこかに落としたのか\nそれとも、もっと前に落としたのか",
+    "translation": "転んだ拍子にどこかに落としたのか\nそれとも、もっと前に落としたのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 65,
+    "key": "evt_EV2_022S_0065",
+    "original": "わ、判りません……職員室を出た時\nには、確かに持ってたんですけど",
+    "translation": "わ、判りません……職員室を出た時\nには、確かに持ってたんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 66,
+    "key": "evt_EV2_022S_0066",
+    "original": "そりゃそうでしょう、受け取り忘れ\nでもしてない限り",
+    "translation": "そりゃそうでしょう、受け取り忘れ\nでもしてない限り",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 67,
+    "key": "evt_EV2_022S_0067",
+    "original": "仕方ないですね、探してみるしか\nないでしょう",
+    "translation": "仕方ないですね、探してみるしか\nないでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 68,
+    "key": "evt_EV2_022S_0068",
+    "original": "そうだな、手分けして探すか",
+    "translation": "そうだな、手分けして探すか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 69,
+    "key": "evt_EV2_022S_0069",
+    "original": "うううっ、すみません～……",
+    "translation": "うううっ、すみません～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 70,
+    "key": "evt_EV2_022S_0070",
+    "original": "なくしてしまったものは仕方ない\nすぐに見つかればいいのだが……",
+    "translation": "なくしてしまったものは仕方ない\nすぐに見つかればいいのだが……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 71,
+    "key": "evt_EV2_022S_0071",
+    "original": "転んだ拍子に蹴っ飛ばしてるのかも\n知れませんから、渡り廊下の手前を",
+    "translation": "転んだ拍子に蹴っ飛ばしてるのかも\n知れませんから、渡り廊下の手前を",
+    "speaker": "キョン"
+  },
+  {
+    "index": 72,
+    "key": "evt_EV2_022S_0072",
+    "original": "探してみましょうか",
+    "translation": "探してみましょうか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 73,
+    "key": "evt_EV2_022S_0073",
+    "original": "は、はい",
+    "translation": "は、はい",
+    "speaker": "みくる"
+  },
+  {
+    "index": 74,
+    "key": "evt_EV2_022S_0074",
+    "original": "では僕はとりあえず職員室までの\n廊下を見てきます",
+    "translation": "では僕はとりあえず職員室までの\n廊下を見てきます",
+    "speaker": "古泉"
+  },
+  {
+    "index": 75,
+    "key": "evt_EV2_022S_0075",
+    "original": "ああ、頼むぜ",
+    "translation": "ああ、頼むぜ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 76,
+    "key": "evt_EV2_022S_0076",
+    "original": "古泉が歩み去り、俺と朝比奈さんは\n二人きりでこの場の探索を始めた",
+    "translation": "古泉が歩み去り、俺と朝比奈さんは\n二人きりでこの場の探索を始めた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 77,
+    "key": "evt_EV2_022S_0077",
+    "original": "ふえ……いたた……",
+    "translation": "ふえ……いたた……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 78,
+    "key": "evt_EV2_022S_0078",
+    "original": "大丈夫ですか、すごい音がしてまし\nたけど",
+    "translation": "大丈夫ですか、すごい音がしてまし\nたけど",
+    "speaker": "キョン"
+  },
+  {
+    "index": 79,
+    "key": "evt_EV2_022S_0079",
+    "original": "は、はい……お尻が痛いです……",
+    "translation": "は、はい……お尻が痛いです……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 80,
+    "key": "evt_EV2_022S_0080",
+    "original": "片手でお尻をさすりながら、本当に\n痛そうな表情の朝比奈さん",
+    "translation": "片手でお尻をさすりながら、本当に\n痛そうな表情の朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 81,
+    "key": "evt_EV2_022S_0081",
+    "original": "お気の毒だが、さすってあげるわけ\nにもいかないだろう",
+    "translation": "お気の毒だが、さすってあげるわけ\nにもいかないだろう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 82,
+    "key": "evt_EV2_022S_0082",
+    "original": "……あの",
+    "translation": "……あの",
+    "speaker": "みくる"
+  },
+  {
+    "index": 83,
+    "key": "evt_EV2_022S_0083",
+    "original": "……キョンくん？",
+    "translation": "……キョンくん？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 84,
+    "key": "evt_EV2_022S_0084",
+    "original": "ああいや、なんでもありません\nさ、鍵を探しましょう",
+    "translation": "ああいや、なんでもありません\nさ、鍵を探しましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 85,
+    "key": "evt_EV2_022S_0085",
+    "original": "はい、そうですね\nでも、やっぱり痛い……ふええ",
+    "translation": "はい、そうですね\nでも、やっぱり痛い……ふええ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 86,
+    "key": "evt_EV2_022S_0086",
+    "original": "……あれ？",
+    "translation": "……あれ？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 87,
+    "key": "evt_EV2_022S_0087",
+    "original": "今、鍵の音がしませんでしたか？",
+    "translation": "今、鍵の音がしませんでしたか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 88,
+    "key": "evt_EV2_022S_0088",
+    "original": "あれ……？",
+    "translation": "あれ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 89,
+    "key": "evt_EV2_022S_0089",
+    "original": "……やっぱり、する",
+    "translation": "……やっぱり、する",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 90,
+    "key": "evt_EV2_022S_0090",
+    "original": "朝比奈さんがスカートに触れると\nどこかから鍵の音が聞こえるのだ",
+    "translation": "朝比奈さんがスカートに触れると\nどこかから鍵の音が聞こえるのだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 91,
+    "key": "evt_EV2_022S_0091",
+    "original": "あ、あれ……？",
+    "translation": "あ、あれ……？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 92,
+    "key": "evt_EV2_022S_0092",
+    "original": "朝比奈さんはスカートを軽く揺らし\nたり、お尻を触ったりしていたが",
+    "translation": "朝比奈さんはスカートを軽く揺らし\nたり、お尻を触ったりしていたが",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 93,
+    "key": "evt_EV2_022S_0093",
+    "original": "とうとう、スカートのポケットに\n手を入れて、恐る恐るその中の物を",
+    "translation": "とうとう、スカートのポケットに\n手を入れて、恐る恐るその中の物を",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 94,
+    "key": "evt_EV2_022S_0094",
+    "original": "引っ張り出してきた",
+    "translation": "引っ張り出してきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 95,
+    "key": "evt_EV2_022S_0095",
+    "original": "あ……鍵\nあ、ありました……",
+    "translation": "あ……鍵\nあ、ありました……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 96,
+    "key": "evt_EV2_022S_0096",
+    "original": "……なんと",
+    "translation": "……なんと",
+    "speaker": "キョン"
+  },
+  {
+    "index": 97,
+    "key": "evt_EV2_022S_0097",
+    "original": "もしかして、なくしたというのが\n早とちりだったのか",
+    "translation": "もしかして、なくしたというのが\n早とちりだったのか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 98,
+    "key": "evt_EV2_022S_0098",
+    "original": "幸せの青い鳥は最初から一番近くに\nいたのだ的展開に、ため息が出る",
+    "translation": "幸せの青い鳥は最初から一番近くに\nいたのだ的展開に、ため息が出る",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 99,
+    "key": "evt_EV2_022S_0099",
+    "original": "ご、ご、ごめんなさいい～……",
+    "translation": "ご、ご、ごめんなさいい～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 100,
+    "key": "evt_EV2_022S_0100",
+    "original": "いや……見つかったのだから、いい\nですよ……ほんとに",
+    "translation": "いや……見つかったのだから、いい\nですよ……ほんとに",
+    "speaker": "キョン"
+  },
+  {
+    "index": 101,
+    "key": "evt_EV2_022S_0101",
+    "original": "ううううう～……",
+    "translation": "ううううう～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 102,
+    "key": "evt_EV2_022S_0102",
+    "original": "ものすごく恐縮する朝比奈さん",
+    "translation": "ものすごく恐縮する朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 103,
+    "key": "evt_EV2_022S_0103",
+    "original": "朝比奈さん、何も気にしないで\n下さい",
+    "translation": "朝比奈さん、何も気にしないで\n下さい",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 104,
+    "key": "evt_EV2_022S_0104",
+    "original": "とりあえず、古泉が戻ってきたら\nその辺に落ちてたことにして",
+    "translation": "とりあえず、古泉が戻ってきたら\nその辺に落ちてたことにして",
+    "speaker": "キョン"
+  },
+  {
+    "index": 105,
+    "key": "evt_EV2_022S_0105",
+    "original": "集合場所に急ぎましょう",
+    "translation": "集合場所に急ぎましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 106,
+    "key": "evt_EV2_022S_0106",
+    "original": "は、はいぃ……",
+    "translation": "は、はいぃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 107,
+    "key": "evt_EV2_022S_0107",
+    "original": "朝比奈さんがあまりにも小さくなる\nので、逆にこちらが申し訳ない気分",
+    "translation": "朝比奈さんがあまりにも小さくなる\nので、逆にこちらが申し訳ない気分",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 108,
+    "key": "evt_EV2_022S_0108",
+    "original": "になってしまいそうだ\n早く元気を出してください",
+    "translation": "になってしまいそうだ\n早く元気を出してください",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 109,
+    "key": "evt_EV2_022S_0109",
+    "original": "いまだ痛そうにお尻をさする朝比奈\nさんを見て、俺はそう思うのだった",
+    "translation": "いまだ痛そうにお尻をさする朝比奈\nさんを見て、俺はそう思うのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 110,
+    "key": "evt_EV2_022S_0110",
+    "original": "僕は職員室までさかのぼりながら\n鍵がないか探してみましょう",
+    "translation": "僕は職員室までさかのぼりながら\n鍵がないか探してみましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 111,
+    "key": "evt_EV2_022S_0111",
+    "original": "俺もそうしよう。一人だと見落とし\nがあるかもしれないからな",
+    "translation": "俺もそうしよう。一人だと見落とし\nがあるかもしれないからな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 112,
+    "key": "evt_EV2_022S_0112",
+    "original": "それは心強いですね、お願いします",
+    "translation": "それは心強いですね、お願いします",
+    "speaker": "古泉"
+  },
+  {
+    "index": 113,
+    "key": "evt_EV2_022S_0113",
+    "original": "じゃ、じゃあ、あたしはこのあたり\nを探してみます",
+    "translation": "じゃ、じゃあ、あたしはこのあたり\nを探してみます",
+    "speaker": "みくる"
+  },
+  {
+    "index": 114,
+    "key": "evt_EV2_022S_0114",
+    "original": "転んだ時に落としたのかもしれませ\nんから……",
+    "translation": "転んだ時に落としたのかもしれませ\nんから……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 115,
+    "key": "evt_EV2_022S_0115",
+    "original": "お願いします。じゃあ、行くか古泉",
+    "translation": "お願いします。じゃあ、行くか古泉",
+    "speaker": "キョン"
+  },
+  {
+    "index": 116,
+    "key": "evt_EV2_022S_0116",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 117,
+    "key": "evt_EV2_022S_0117",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 118,
+    "key": "evt_EV2_022S_0118",
+    "original": "古泉と二人で職員室まで戻りつつ\n廊下のすみに鍵が落ちていないか",
+    "translation": "古泉と二人で職員室まで戻りつつ\n廊下のすみに鍵が落ちていないか",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 119,
+    "key": "evt_EV2_022S_0119",
+    "original": "探してみたが……ないな",
+    "translation": "探してみたが……ないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 120,
+    "key": "evt_EV2_022S_0120",
+    "original": "見つかりませんね……",
+    "translation": "見つかりませんね……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 121,
+    "key": "evt_EV2_022S_0121",
+    "original": "なあ、ハルヒに鍵を無くしたことを\n正直に言って、一緒に探すことで",
+    "translation": "なあ、ハルヒに鍵を無くしたことを\n正直に言って、一緒に探すことで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 122,
+    "key": "evt_EV2_022S_0122",
+    "original": "時間稼ぎはできないかね？",
+    "translation": "時間稼ぎはできないかね？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 123,
+    "key": "evt_EV2_022S_0123",
+    "original": "悪くはないアイデアのように思え\nますが……",
+    "translation": "悪くはないアイデアのように思え\nますが……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 124,
+    "key": "evt_EV2_022S_0124",
+    "original": "やはり、やめるべきでしょうね",
+    "translation": "やはり、やめるべきでしょうね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 125,
+    "key": "evt_EV2_022S_0125",
+    "original": "なんでだよ？",
+    "translation": "なんでだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 126,
+    "key": "evt_EV2_022S_0126",
+    "original": "涼宮さんが鍵を見付けようと心から\n思えば、時間稼ぎなどできない",
+    "translation": "涼宮さんが鍵を見付けようと心から\n思えば、時間稼ぎなどできない",
+    "speaker": "古泉"
+  },
+  {
+    "index": 127,
+    "key": "evt_EV2_022S_0127",
+    "original": "そうではありませんか？",
+    "translation": "そうではありませんか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 128,
+    "key": "evt_EV2_022S_0128",
+    "original": "……またお前たちの理屈か",
+    "translation": "……またお前たちの理屈か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 129,
+    "key": "evt_EV2_022S_0129",
+    "original": "ハルヒが自分の都合のいいように\n世界を変えちまうだって？",
+    "translation": "ハルヒが自分の都合のいいように\n世界を変えちまうだって？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 130,
+    "key": "evt_EV2_022S_0130",
+    "original": "あなたも、涼宮さんのちからの影響\nは、何度も目の当たりにしたはず",
+    "translation": "あなたも、涼宮さんのちからの影響\nは、何度も目の当たりにしたはず",
+    "speaker": "古泉"
+  },
+  {
+    "index": 131,
+    "key": "evt_EV2_022S_0131",
+    "original": "……ですが？",
+    "translation": "……ですが？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 132,
+    "key": "evt_EV2_022S_0132",
+    "original": "ああ、それはそうだが……",
+    "translation": "ああ、それはそうだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 133,
+    "key": "evt_EV2_022S_0133",
+    "original": "しかし、いくらなんでもこんな些細\nなことでまで",
+    "translation": "しかし、いくらなんでもこんな些細\nなことでまで",
+    "speaker": "キョン"
+  },
+  {
+    "index": 134,
+    "key": "evt_EV2_022S_0134",
+    "original": "些細なことだからこそ、ですよ",
+    "translation": "些細なことだからこそ、ですよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 135,
+    "key": "evt_EV2_022S_0135",
+    "original": "大きな偶然なら不自然に思えますが\n小さな偶然なら見過ごせますからね",
+    "translation": "大きな偶然なら不自然に思えますが\n小さな偶然なら見過ごせますからね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 136,
+    "key": "evt_EV2_022S_0136",
+    "original": "……そんなもんかね",
+    "translation": "……そんなもんかね",
+    "speaker": "キョン"
+  },
+  {
+    "index": 137,
+    "key": "evt_EV2_022S_0137",
+    "original": "ええ、そんなものです",
+    "translation": "ええ、そんなものです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 138,
+    "key": "evt_EV2_022S_0138",
+    "original": "でもまあ、職員室の前まで来たが\n鍵が落ちてなかったことは事実だな",
+    "translation": "でもまあ、職員室の前まで来たが\n鍵が落ちてなかったことは事実だな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 139,
+    "key": "evt_EV2_022S_0139",
+    "original": "どうしても見つからなかったら\nハルヒにも声を掛けて探して貰うさ",
+    "translation": "どうしても見つからなかったら\nハルヒにも声を掛けて探して貰うさ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 140,
+    "key": "evt_EV2_022S_0140",
+    "original": "朝比奈さんが見付けているかも知れ\nませんから、一旦戻りましょうか",
+    "translation": "朝比奈さんが見付けているかも知れ\nませんから、一旦戻りましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 141,
+    "key": "evt_EV2_022S_0141",
+    "original": "ああ、そうだな",
+    "translation": "ああ、そうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 142,
+    "key": "evt_EV2_022S_0142",
+    "original": "",
+    "translation": "",
+    "speaker": "古泉",
+    "trash": true
+  },
+  {
+    "index": 143,
+    "key": "evt_EV2_022S_0143",
+    "original": "朝比奈さん、こっちはありませんで\nしたけど、そちらはどうでした？",
+    "translation": "朝比奈さん、こっちはありませんで\nしたけど、そちらはどうでした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 144,
+    "key": "evt_EV2_022S_0144",
+    "original": "あ、あの……",
+    "translation": "あ、あの……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 145,
+    "key": "evt_EV2_022S_0145",
+    "original": "あの？",
+    "translation": "あの？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 146,
+    "key": "evt_EV2_022S_0146",
+    "original": "ご……ごめんなさいっ！",
+    "translation": "ご……ごめんなさいっ！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 147,
+    "key": "evt_EV2_022S_0147",
+    "original": "俺たちを見て、いきなり朝比奈さん\nが頭を深々と下げる",
+    "translation": "俺たちを見て、いきなり朝比奈さん\nが頭を深々と下げる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 148,
+    "key": "evt_EV2_022S_0148",
+    "original": "な、なんですか一体\nほら、頭を上げてください",
+    "translation": "な、なんですか一体\nほら、頭を上げてください",
+    "speaker": "キョン"
+  },
+  {
+    "index": 149,
+    "key": "evt_EV2_022S_0149",
+    "original": "",
+    "translation": "",
+    "speaker": "みくる",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "evt_EV2_022S_0150",
+    "original": "どうかしたんですか？",
+    "translation": "どうかしたんですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 151,
+    "key": "evt_EV2_022S_0151",
+    "original": "ううう……鍵、あったんです……",
+    "translation": "ううう……鍵、あったんです……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 152,
+    "key": "evt_EV2_022S_0152",
+    "original": "おお、それは",
+    "translation": "おお、それは",
+    "speaker": "キョン"
+  },
+  {
+    "index": 153,
+    "key": "evt_EV2_022S_0153",
+    "original": "ち、違うんです……あ、あの、あた\nしの勘違いで……本当は最初から",
+    "translation": "ち、違うんです……あ、あの、あた\nしの勘違いで……本当は最初から",
+    "speaker": "みくる"
+  },
+  {
+    "index": 154,
+    "key": "evt_EV2_022S_0154",
+    "original": "なくしてなくて……ううう",
+    "translation": "なくしてなくて……ううう",
+    "speaker": "みくる"
+  },
+  {
+    "index": 155,
+    "key": "evt_EV2_022S_0155",
+    "original": "良く判りませんけど、見つかった\nならそれでいいじゃないですか",
+    "translation": "良く判りませんけど、見つかった\nならそれでいいじゃないですか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 156,
+    "key": "evt_EV2_022S_0156",
+    "original": "足止めを食ってしまいましたが、鍵\nが見つかったなら急いで集合場所に",
+    "translation": "足止めを食ってしまいましたが、鍵\nが見つかったなら急いで集合場所に",
+    "speaker": "古泉"
+  },
+  {
+    "index": 157,
+    "key": "evt_EV2_022S_0157",
+    "original": "行きましょう。我等が団長殿の怒り\nを買っては面倒です",
+    "translation": "行きましょう。我等が団長殿の怒り\nを買っては面倒です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 158,
+    "key": "evt_EV2_022S_0158",
+    "original": "違いない\n朝比奈さん、行きましょう",
+    "translation": "違いない\n朝比奈さん、行きましょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 159,
+    "key": "evt_EV2_022S_0159",
+    "original": "は、はい……",
+    "translation": "は、はい……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 160,
+    "key": "evt_EV2_022S_0160",
+    "original": "よほどショックだったのだろう\n朝比奈さんは気落ちしたまま",
+    "translation": "よほどショックだったのだろう\n朝比奈さんは気落ちしたまま",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 161,
+    "key": "evt_EV2_022S_0161",
+    "original": "とぼとぼと歩く",
+    "translation": "とぼとぼと歩く",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 162,
+    "key": "evt_EV2_022S_0162",
+    "original": "俺はと言えば、先ほどの古泉の台詞\nをもう一度考えていた",
+    "translation": "俺はと言えば、先ほどの古泉の台詞\nをもう一度考えていた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 163,
+    "key": "evt_EV2_022S_0163",
+    "original": "もしも鍵が見つからなくて、ハルヒ\nに相談したら、偶然とご都合主義が",
+    "translation": "もしも鍵が見つからなくて、ハルヒ\nに相談したら、偶然とご都合主義が",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 164,
+    "key": "evt_EV2_022S_0164",
+    "original": "重なって、あっという間に見つかっ\nていたのだろうか？",
+    "translation": "重なって、あっという間に見つかっ\nていたのだろうか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 165,
+    "key": "evt_EV2_022S_0165",
+    "original": "……実際にその場になってみないと\n答がでるわけがないな",
+    "translation": "……実際にその場になってみないと\n答がでるわけがないな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 166,
+    "key": "evt_EV2_022S_0166",
+    "original": "俺はこの辺を探してみますから",
+    "translation": "俺はこの辺を探してみますから",
+    "speaker": "キョン"
+  },
+  {
+    "index": 167,
+    "key": "evt_EV2_022S_0167",
+    "original": "二人で職員室までの廊下を見てきて\nくれますか？",
+    "translation": "二人で職員室までの廊下を見てきて\nくれますか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 168,
+    "key": "evt_EV2_022S_0168",
+    "original": "そうですね、判りました\n早速行きましょうか",
+    "translation": "そうですね、判りました\n早速行きましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 169,
+    "key": "evt_EV2_022S_0169",
+    "original": "あ、はいっ",
+    "translation": "あ、はいっ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 170,
+    "key": "evt_EV2_022S_0170",
+    "original": "二人が廊下に視線を走らせながら\n職員室の方へ向かう",
+    "translation": "二人が廊下に視線を走らせながら\n職員室の方へ向かう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 171,
+    "key": "evt_EV2_022S_0171",
+    "original": "さて……その辺に落ちてれば楽なん\nだが……",
+    "translation": "さて……その辺に落ちてれば楽なん\nだが……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 172,
+    "key": "evt_EV2_022S_0172",
+    "original": "……そう簡単に行くわけがないよな",
+    "translation": "……そう簡単に行くわけがないよな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 173,
+    "key": "evt_EV2_022S_0173",
+    "original": "この渡り廊下に落ちているものと\nいえば、朝比奈さんが踏んづけた",
+    "translation": "この渡り廊下に落ちているものと\nいえば、朝比奈さんが踏んづけた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 174,
+    "key": "evt_EV2_022S_0174",
+    "original": "ポスターだけだ",
+    "translation": "ポスターだけだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 175,
+    "key": "evt_EV2_022S_0175",
+    "original": "あ～あ、足跡が付いてるよ\n……ん？",
+    "translation": "あ～あ、足跡が付いてるよ\n……ん？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 176,
+    "key": "evt_EV2_022S_0176",
+    "original": "朝比奈さんの足跡が気になったわけ\nではない",
+    "translation": "朝比奈さんの足跡が気になったわけ\nではない",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 177,
+    "key": "evt_EV2_022S_0177",
+    "original": "そのポスターの内容が気になったの\nである",
+    "translation": "そのポスターの内容が気になったの\nである",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 178,
+    "key": "evt_EV2_022S_0178",
+    "original": "全国高校生作曲コンテスト……か",
+    "translation": "全国高校生作曲コンテスト……か",
+    "speaker": "キョン"
+  },
+  {
+    "index": 179,
+    "key": "evt_EV2_022S_0179",
+    "original": "高校生を対象とした、オリジナル曲\nのコンテストのようだ",
+    "translation": "高校生を対象とした、オリジナル曲\nのコンテストのようだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 180,
+    "key": "evt_EV2_022S_0180",
+    "original": "……これ、使えないか？",
+    "translation": "……これ、使えないか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 181,
+    "key": "evt_EV2_022S_0181",
+    "original": "ストーリーはこうだ",
+    "translation": "ストーリーはこうだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 182,
+    "key": "evt_EV2_022S_0182",
+    "original": "このコンテストを目指して作曲に\n勤しんでいた生徒がいて",
+    "translation": "このコンテストを目指して作曲に\n勤しんでいた生徒がいて",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 183,
+    "key": "evt_EV2_022S_0183",
+    "original": "そのピアノをコンピ研の部員が偶然\n耳にした",
+    "translation": "そのピアノをコンピ研の部員が偶然\n耳にした",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 184,
+    "key": "evt_EV2_022S_0184",
+    "original": "ポスターを添えれば、信憑性も上が\nりそうだな",
+    "translation": "ポスターを添えれば、信憑性も上が\nりそうだな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 185,
+    "key": "evt_EV2_022S_0185",
+    "original": "よし、二人が戻ってきたら提案して\nみるとしよう",
+    "translation": "よし、二人が戻ってきたら提案して\nみるとしよう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 186,
+    "key": "evt_EV2_022S_0186",
+    "original": "ただいま戻りました\n鍵、見つかりましたよ",
+    "translation": "ただいま戻りました\n鍵、見つかりましたよ",
+    "speaker": "古泉"
+  },
+  {
+    "index": 187,
+    "key": "evt_EV2_022S_0187",
+    "original": "おお、そりゃ良かった\nやっぱりどこかに落ちてたのか？",
+    "translation": "おお、そりゃ良かった\nやっぱりどこかに落ちてたのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 188,
+    "key": "evt_EV2_022S_0188",
+    "original": "そ、それが……うう……",
+    "translation": "そ、それが……うう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 189,
+    "key": "evt_EV2_022S_0189",
+    "original": "朝比奈さんが何故か大弱りの表情で\n俺に鍵を見せる",
+    "translation": "朝比奈さんが何故か大弱りの表情で\n俺に鍵を見せる",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 190,
+    "key": "evt_EV2_022S_0190",
+    "original": "実は、朝比奈さんのポケットにまだ\n入ったままだったんです",
+    "translation": "実は、朝比奈さんのポケットにまだ\n入ったままだったんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 191,
+    "key": "evt_EV2_022S_0191",
+    "original": "転んで動転していたせいで、気がつ\nかなかったみたいで",
+    "translation": "転んで動転していたせいで、気がつ\nかなかったみたいで",
+    "speaker": "古泉"
+  },
+  {
+    "index": 192,
+    "key": "evt_EV2_022S_0192",
+    "original": "なぬ？　……つまり、落としていな\nかった、ということか？",
+    "translation": "なぬ？　……つまり、落としていな\nかった、ということか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 193,
+    "key": "evt_EV2_022S_0193",
+    "original": "はううう～……ごめんなさいいい～",
+    "translation": "はううう～……ごめんなさいいい～",
+    "speaker": "みくる"
+  },
+  {
+    "index": 194,
+    "key": "evt_EV2_022S_0194",
+    "original": "い、いや、朝比奈さんが悪いわけ\nじゃ……",
+    "translation": "い、いや、朝比奈さんが悪いわけ\nじゃ……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 195,
+    "key": "evt_EV2_022S_0195",
+    "original": "わたしのせいですう～……",
+    "translation": "わたしのせいですう～……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 196,
+    "key": "evt_EV2_022S_0196",
+    "original": "自分のせいで無駄足を踏ませたこと\nを気にして、小さくなる朝比奈さん",
+    "translation": "自分のせいで無駄足を踏ませたこと\nを気にして、小さくなる朝比奈さん",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 197,
+    "key": "evt_EV2_022S_0197",
+    "original": "とりあえず話題を変えて気分転換\nしてもらおう",
+    "translation": "とりあえず話題を変えて気分転換\nしてもらおう",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 198,
+    "key": "evt_EV2_022S_0198",
+    "original": "二人とも、このポスターを見てくれ",
+    "translation": "二人とも、このポスターを見てくれ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 199,
+    "key": "evt_EV2_022S_0199",
+    "original": "……ふえ",
+    "translation": "……ふえ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 200,
+    "key": "evt_EV2_022S_0200",
+    "original": "作曲コンテスト、ですか\n確か職員室の前にもありましたね",
+    "translation": "作曲コンテスト、ですか\n確か職員室の前にもありましたね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 201,
+    "key": "evt_EV2_022S_0201",
+    "original": "これがなにか？",
+    "translation": "これがなにか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 202,
+    "key": "evt_EV2_022S_0202",
+    "original": "俺は二人に向けて、さっき思いつい\nたアイデアを披露した",
+    "translation": "俺は二人に向けて、さっき思いつい\nたアイデアを披露した",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 203,
+    "key": "evt_EV2_022S_0203",
+    "original": "ふむ、成る程\nつじつまは合っていますね",
+    "translation": "ふむ、成る程\nつじつまは合っていますね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 204,
+    "key": "evt_EV2_022S_0204",
+    "original": "あの……いいですか？",
+    "translation": "あの……いいですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 205,
+    "key": "evt_EV2_022S_0205",
+    "original": "はい、なんでしょう",
+    "translation": "はい、なんでしょう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 206,
+    "key": "evt_EV2_022S_0206",
+    "original": "このコンテスト、応募期限が先月末\nまでと書いてあるようなんですけど",
+    "translation": "このコンテスト、応募期限が先月末\nまでと書いてあるようなんですけど",
+    "speaker": "みくる"
+  },
+  {
+    "index": 207,
+    "key": "evt_EV2_022S_0207",
+    "original": "むむ、それじゃあここ数日のうちに\n聞こえたピアノの種明かしとしては",
+    "translation": "むむ、それじゃあここ数日のうちに\n聞こえたピアノの種明かしとしては",
+    "speaker": "キョン"
+  },
+  {
+    "index": 208,
+    "key": "evt_EV2_022S_0208",
+    "original": "矛盾があるか……",
+    "translation": "矛盾があるか……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 209,
+    "key": "evt_EV2_022S_0209",
+    "original": "涼宮さんが期限切れに気付かなけれ\nば、使えるかもしれませんね",
+    "translation": "涼宮さんが期限切れに気付かなけれ\nば、使えるかもしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 210,
+    "key": "evt_EV2_022S_0210",
+    "original": "選択肢は多い方が助かります\n一応、準備しておきましょう",
+    "translation": "選択肢は多い方が助かります\n一応、準備しておきましょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 211,
+    "key": "evt_EV2_022S_0211",
+    "original": "それもそうだな",
+    "translation": "それもそうだな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 212,
+    "key": "evt_EV2_022S_0212",
+    "original": "俺は募集ポスターをしまい込んだ",
+    "translation": "俺は募集ポスターをしまい込んだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 213,
+    "key": "evt_EV2_022S_0213",
+    "original": "さて、集合場所に戻ろう",
+    "translation": "さて、集合場所に戻ろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 214,
+    "key": "evt_EV2_022S_0214",
+    "original": "道草をしたから、ハルヒがきっと\n怒ってるに違いない",
+    "translation": "道草をしたから、ハルヒがきっと\n怒ってるに違いない",
+    "speaker": "キョン"
+  },
+  {
+    "index": 215,
+    "key": "evt_EV2_022S_0215",
+    "original": "はうう……",
+    "translation": "はうう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 216,
+    "key": "evt_EV2_022S_0216",
+    "original": "あまり機嫌を損ねるとなにがあるか\n判りませんからね、急ぎましょうか",
+    "translation": "あまり機嫌を損ねるとなにがあるか\n判りませんからね、急ぎましょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 217,
+    "key": "evt_EV2_022S_0217",
+    "original": "そんなわけで、俺達は音楽室の鍵を\n手に、集合場所へと戻るのだった",
+    "translation": "そんなわけで、俺達は音楽室の鍵を\n手に、集合場所へと戻るのだった",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 218,
+    "key": "evt_EV2_022S_0218",
+    "original": "朝比奈さんと一緒に探す",
+    "translation": "朝比奈さんと一緒に探す",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 219,
+    "key": "evt_EV2_022S_0219",
+    "original": "古泉と一緒に探す",
+    "translation": "古泉と一緒に探す",
+    "speaker": "CHOICE"
+  },
+  {
+    "index": 220,
+    "key": "evt_EV2_022S_0220",
+    "original": "一人で探してみる",
+    "translation": "一人で探してみる",
+    "speaker": "CHOICE"
+  }
+]

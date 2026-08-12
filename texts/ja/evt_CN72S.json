@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CN72S_0000",
+    "original": "ちょっと待った！",
+    "translation": "ちょっと待った！",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CN72S_0001",
+    "original": "なによ、この忙しい時に。財布を\n落としたとか言い出さないでよねっ",
+    "translation": "なによ、この忙しい時に。財布を\n落としたとか言い出さないでよねっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_CN72S_0002",
+    "original": "なぜ真っ先に俺の財布の心配をする",
+    "translation": "なぜ真っ先に俺の財布の心配をする",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_CN72S_0003",
+    "original": "財布がないといろいろと困るでしょ",
+    "translation": "財布がないといろいろと困るでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CN72S_0004",
+    "original": "俺が？　それともハルヒが？",
+    "translation": "俺が？　それともハルヒが？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_CN72S_0005",
+    "original": "どっちでもいいじゃない",
+    "translation": "どっちでもいいじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CN72S_0006",
+    "original": "それはどっちでも困るという意味と\n受け取るぞ？",
+    "translation": "それはどっちでも困るという意味と\n受け取るぞ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CN72S_0007",
+    "original": "あたしの足を止めておいて、つまら\nない話だったら朝食はおごりよ！",
+    "translation": "あたしの足を止めておいて、つまら\nない話だったら朝食はおごりよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CN72S_0008",
+    "original": "……やっぱり財布を心配してたのか",
+    "translation": "……やっぱり財布を心配してたのか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_CN72S_0009",
+    "original": "ブツブツ言わないっ！",
+    "translation": "ブツブツ言わないっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CN72S_0010",
+    "original": "いいよ、もう",
+    "translation": "いいよ、もう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CN72S_0011",
+    "original": "肝試しの時、怪しい気配があって\n見に行こうとしたキョンくんを",
+    "translation": "肝試しの時、怪しい気配があって\n見に行こうとしたキョンくんを",
+    "speaker": "みくる"
+  },
+  {
+    "index": 12,
+    "key": "evt_CN72S_0012",
+    "original": "長門さんが止めたそうなんですよ",
+    "translation": "長門さんが止めたそうなんですよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 13,
+    "key": "evt_CN72S_0013",
+    "original": "そうなの？\nそこに何かあったのかしら？",
+    "translation": "そうなの？\nそこに何かあったのかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_CN72S_0014",
+    "original": "どうなんでしょう？　",
+    "translation": "どうなんでしょう？　",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_CN72S_0015",
+    "original": "長門さんが止めたのなら\nあったのかもしれませんね",
+    "translation": "長門さんが止めたのなら\nあったのかもしれませんね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_CN72S_0016",
+    "original": "確認しなかったの？　ダメじゃない\nわざわざ調査してるってのに",
+    "translation": "確認しなかったの？　ダメじゃない\nわざわざ調査してるってのに",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CN72S_0017",
+    "original": "でも、涼宮さん。あたしも長門さん\nに止められたら、絶対に行きません",
+    "translation": "でも、涼宮さん。あたしも長門さん\nに止められたら、絶対に行きません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 18,
+    "key": "evt_CN72S_0018",
+    "original": "……何かありそうだものね。恐がり\nのみくるちゃんは行けないわよね",
+    "translation": "……何かありそうだものね。恐がり\nのみくるちゃんは行けないわよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CN72S_0019",
+    "original": "ええ、絶対、行きません",
+    "translation": "ええ、絶対、行きません",
+    "speaker": "みくる"
+  },
+  {
+    "index": 20,
+    "key": "evt_CN72S_0020",
+    "original": "うーん、あとで有希にその場所を\n聞いておかないとね",
+    "translation": "うーん、あとで有希にその場所を\n聞いておかないとね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CN72S_0021",
+    "original": "……待って",
+    "translation": "……待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 22,
+    "key": "evt_CN72S_0022",
+    "original": "なに？",
+    "translation": "なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_CN72S_0023",
+    "original": "こちらの道は、良くない",
+    "translation": "こちらの道は、良くない",
+    "speaker": "長門"
+  },
+  {
+    "index": 24,
+    "key": "evt_CN72S_0024",
+    "original": "なにが？",
+    "translation": "なにが？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CN72S_0025",
+    "original": "……不安定",
+    "translation": "……不安定",
+    "speaker": "長門"
+  },
+  {
+    "index": 26,
+    "key": "evt_CN72S_0026",
+    "original": "へ、なに？",
+    "translation": "へ、なに？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_CN72S_0027",
+    "original": "迂回を提案する",
+    "translation": "迂回を提案する",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_CN72S_0028",
+    "original": "別にいいけど、なんなの？",
+    "translation": "別にいいけど、なんなの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CN72S_0029",
+    "original": "……わかったわっ、見回りの教師が\nいるのね！",
+    "translation": "……わかったわっ、見回りの教師が\nいるのね！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CN72S_0030",
+    "original": "仕方ないわね、迂回よ",
+    "translation": "仕方ないわね、迂回よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CN72S_0031",
+    "original": "……",
+    "translation": "……",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_CN72S_0032",
+    "original": "もし、涼宮さんが、長門さんに何か\nを制止されたら……どうしますか？",
+    "translation": "もし、涼宮さんが、長門さんに何か\nを制止されたら……どうしますか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 33,
+    "key": "evt_CN72S_0033",
+    "original": "いきなり、なんの話？",
+    "translation": "いきなり、なんの話？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CN72S_0034",
+    "original": "他愛もない例え話です",
+    "translation": "他愛もない例え話です",
+    "speaker": "古泉"
+  },
+  {
+    "index": 35,
+    "key": "evt_CN72S_0035",
+    "original": "めったに、他人に口出しをしない\n長門さんが――",
+    "translation": "めったに、他人に口出しをしない\n長門さんが――",
+    "speaker": "古泉"
+  },
+  {
+    "index": 36,
+    "key": "evt_CN72S_0036",
+    "original": "珍しく、そんな行動を取ったとした\nら、どうなさいます？",
+    "translation": "珍しく、そんな行動を取ったとした\nら、どうなさいます？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_CN72S_0037",
+    "original": "どうもしないわ",
+    "translation": "どうもしないわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_CN72S_0038",
+    "original": "理由くらいは聞くけど、あたしは\nあたしの信じる道を行くもの",
+    "translation": "理由くらいは聞くけど、あたしは\nあたしの信じる道を行くもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CN72S_0039",
+    "original": "……非常に涼宮さんらしい回答で\nすね。なるほど、そうですか",
+    "translation": "……非常に涼宮さんらしい回答で\nすね。なるほど、そうですか",
+    "speaker": "古泉"
+  }
+]

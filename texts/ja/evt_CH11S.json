@@ -1,0 +1,499 @@
+[
+  {
+    "index": 0,
+    "key": "evt_CH11S_0000",
+    "original": "なあ、ハルヒ",
+    "translation": "なあ、ハルヒ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 1,
+    "key": "evt_CH11S_0001",
+    "original": "気になってたんだが、ＳＯＳ団にお\nける俺の立場はどの辺りなんだ？",
+    "translation": "気になってたんだが、ＳＯＳ団にお\nける俺の立場はどの辺りなんだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_CH11S_0002",
+    "original": "なによ、そんな事を気にしてたの？",
+    "translation": "なによ、そんな事を気にしてたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_CH11S_0003",
+    "original": "そりゃ、集団の中でのヒエラルキー\nってのは多少は気になるもんだろ",
+    "translation": "そりゃ、集団の中でのヒエラルキー\nってのは多少は気になるもんだろ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 4,
+    "key": "evt_CH11S_0004",
+    "original": "そうね、簡単に言うと……",
+    "translation": "そうね、簡単に言うと……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 5,
+    "key": "evt_CH11S_0005",
+    "original": "ただひたすらに低いわね",
+    "translation": "ただひたすらに低いわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_CH11S_0006",
+    "original": "おい、ちょっと待て\n何故なんだよ？",
+    "translation": "おい、ちょっと待て\n何故なんだよ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_CH11S_0007",
+    "original": "古泉くんみたいに優秀でもないし\nみくるちゃんみたいに可愛くない",
+    "translation": "古泉くんみたいに優秀でもないし\nみくるちゃんみたいに可愛くない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_CH11S_0008",
+    "original": "有希みたいなキャラクター性も\n限りなくゼロに近い",
+    "translation": "有希みたいなキャラクター性も\n限りなくゼロに近い",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_CH11S_0009",
+    "original": "取り立てて面白いポイントが足りな\nいのよね",
+    "translation": "取り立てて面白いポイントが足りな\nいのよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 10,
+    "key": "evt_CH11S_0010",
+    "original": "おまえ、それは本人を目の前にして\n言うようなことじゃないだろ",
+    "translation": "おまえ、それは本人を目の前にして\n言うようなことじゃないだろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 11,
+    "key": "evt_CH11S_0011",
+    "original": "ちょっと悲しくなってきた",
+    "translation": "ちょっと悲しくなってきた",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 12,
+    "key": "evt_CH11S_0012",
+    "original": "なに、ちょっとは落ち込んだの？",
+    "translation": "なに、ちょっとは落ち込んだの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_CH11S_0013",
+    "original": "んなことで落ち込むか",
+    "translation": "んなことで落ち込むか",
+    "speaker": "キョン"
+  },
+  {
+    "index": 14,
+    "key": "evt_CH11S_0014",
+    "original": "その態度が落ち込んでるって\n言うのよ",
+    "translation": "その態度が落ち込んでるって\n言うのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 15,
+    "key": "evt_CH11S_0015",
+    "original": "もう、しょうがないわね",
+    "translation": "もう、しょうがないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_CH11S_0016",
+    "original": "アンタはアンタで、ちょっとは\n役に立ってるわよ",
+    "translation": "アンタはアンタで、ちょっとは\n役に立ってるわよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_CH11S_0017",
+    "original": "このＳＯＳ団を作ったのも、アンタ\nのひと言がキッカケだし",
+    "translation": "このＳＯＳ団を作ったのも、アンタ\nのひと言がキッカケだし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_CH11S_0018",
+    "original": "そういや、そんなこともあったな",
+    "translation": "そういや、そんなこともあったな",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 19,
+    "key": "evt_CH11S_0019",
+    "original": "今思えば、俺はなんて迂闊な発言を\nしてしまったんだ",
+    "translation": "今思えば、俺はなんて迂闊な発言を\nしてしまったんだ",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 20,
+    "key": "evt_CH11S_0020",
+    "original": "まあ、今は低い立場でも今後の働き\nいかんでは昇進を考えてもいいわ",
+    "translation": "まあ、今は低い立場でも今後の働き\nいかんでは昇進を考えてもいいわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 21,
+    "key": "evt_CH11S_0021",
+    "original": "期待してるわよ、キョン",
+    "translation": "期待してるわよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_CH11S_0022",
+    "original": "……ああ、せいぜい頑張るよ",
+    "translation": "……ああ、せいぜい頑張るよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 23,
+    "key": "evt_CH11S_0023",
+    "original": "涼宮さん、キョンくんには特別\n厳しい時がありますよね",
+    "translation": "涼宮さん、キョンくんには特別\n厳しい時がありますよね",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_CH11S_0024",
+    "original": "みくるちゃん、それは間違いね",
+    "translation": "みくるちゃん、それは間違いね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_CH11S_0025",
+    "original": "それは、あたしが厳しいんじゃなく\nて、厳しくせざるを得ないのよ",
+    "translation": "それは、あたしが厳しいんじゃなく\nて、厳しくせざるを得ないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_CH11S_0026",
+    "original": "えと、どういうことですか？",
+    "translation": "えと、どういうことですか？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 27,
+    "key": "evt_CH11S_0027",
+    "original": "アイツはＳＯＳ団の一員でありなが\nらやる気はないし",
+    "translation": "アイツはＳＯＳ団の一員でありなが\nらやる気はないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_CH11S_0028",
+    "original": "態度もよくないし",
+    "translation": "態度もよくないし",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_CH11S_0029",
+    "original": "非常に問題だらけなの",
+    "translation": "非常に問題だらけなの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_CH11S_0030",
+    "original": "そんなだから、アイツはＳＯＳ団の\n最底辺にいるワケね",
+    "translation": "そんなだから、アイツはＳＯＳ団の\n最底辺にいるワケね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_CH11S_0031",
+    "original": "そ、そうなんですか",
+    "translation": "そ、そうなんですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 32,
+    "key": "evt_CH11S_0032",
+    "original": "むぅ、考えてたらなんかムカついて\nきたわっ",
+    "translation": "むぅ、考えてたらなんかムカついて\nきたわっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_CH11S_0033",
+    "original": "ちょっと今からキョンに面倒な雑用\nとか押しつけようかしら",
+    "translation": "ちょっと今からキョンに面倒な雑用\nとか押しつけようかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_CH11S_0034",
+    "original": "そ、それはあんまりじゃ……",
+    "translation": "そ、それはあんまりじゃ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 35,
+    "key": "evt_CH11S_0035",
+    "original": "彼に対して特定な作業を指示する\nケースが多い",
+    "translation": "彼に対して特定な作業を指示する\nケースが多い",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_CH11S_0036",
+    "original": "有希は、あたしがキョンのことを\nコキ使っていると言いたいの？",
+    "translation": "有希は、あたしがキョンのことを\nコキ使っていると言いたいの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_CH11S_0037",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 38,
+    "key": "evt_CH11S_0038",
+    "original": "それは、ある意味しょうがないのよ",
+    "translation": "それは、ある意味しょうがないのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_CH11S_0039",
+    "original": "なんせ、アイツはＳＯＳ団において\n最も立場の低い団員なんだから",
+    "translation": "なんせ、アイツはＳＯＳ団において\n最も立場の低い団員なんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_CH11S_0040",
+    "original": "でも、あたしがキョンに雑用を押し\nつけるのには大きな意味があるのよ",
+    "translation": "でも、あたしがキョンに雑用を押し\nつけるのには大きな意味があるのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 41,
+    "key": "evt_CH11S_0041",
+    "original": "雑用を与えることで、キョンには\nチャンスを与えてあげているのよ",
+    "translation": "雑用を与えることで、キョンには\nチャンスを与えてあげているのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_CH11S_0042",
+    "original": "単純な雑用でも上手くこなせば、団\n員としての評価の対象になるでしょ",
+    "translation": "単純な雑用でも上手くこなせば、団\n員としての評価の対象になるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 43,
+    "key": "evt_CH11S_0043",
+    "original": "あたしは、キョンの働きぶりを\n審査してるわけ",
+    "translation": "あたしは、キョンの働きぶりを\n審査してるわけ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 44,
+    "key": "evt_CH11S_0044",
+    "original": "有希なら分かるでしょ",
+    "translation": "有希なら分かるでしょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 45,
+    "key": "evt_CH11S_0045",
+    "original": "理解した",
+    "translation": "理解した",
+    "speaker": "長門"
+  },
+  {
+    "index": 46,
+    "key": "evt_CH11S_0046",
+    "original": "なら良かったわ",
+    "translation": "なら良かったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 47,
+    "key": "evt_CH11S_0047",
+    "original": "あ、そうだ",
+    "translation": "あ、そうだ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 48,
+    "key": "evt_CH11S_0048",
+    "original": "ちょうどいいから、また何か\nキョンに重要な雑用を与えましょう",
+    "translation": "ちょうどいいから、また何か\nキョンに重要な雑用を与えましょう",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 49,
+    "key": "evt_CH11S_0049",
+    "original": "みんなの分の飲み物を買ってくる\nとかどうかしら？",
+    "translation": "みんなの分の飲み物を買ってくる\nとかどうかしら？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 50,
+    "key": "evt_CH11S_0050",
+    "original": "有希も、ノド乾いてるでしょ？",
+    "translation": "有希も、ノド乾いてるでしょ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 51,
+    "key": "evt_CH11S_0051",
+    "original": "少し",
+    "translation": "少し",
+    "speaker": "長門"
+  },
+  {
+    "index": 52,
+    "key": "evt_CH11S_0052",
+    "original": "じゃ、決まりね",
+    "translation": "じゃ、決まりね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 53,
+    "key": "evt_CH11S_0053",
+    "original": "我々ＳＯＳ団においての\nそれぞれのポジションというのは",
+    "translation": "我々ＳＯＳ団においての\nそれぞれのポジションというのは",
+    "speaker": "古泉"
+  },
+  {
+    "index": 54,
+    "key": "evt_CH11S_0054",
+    "original": "あるのでしょうか",
+    "translation": "あるのでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 55,
+    "key": "evt_CH11S_0055",
+    "original": "ポジションねえ",
+    "translation": "ポジションねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 56,
+    "key": "evt_CH11S_0056",
+    "original": "例えば、朝比奈さんはどうでしょう",
+    "translation": "例えば、朝比奈さんはどうでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 57,
+    "key": "evt_CH11S_0057",
+    "original": "みくるちゃんは、マスコットよね",
+    "translation": "みくるちゃんは、マスコットよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 58,
+    "key": "evt_CH11S_0058",
+    "original": "なるほど",
+    "translation": "なるほど",
+    "speaker": "古泉"
+  },
+  {
+    "index": 59,
+    "key": "evt_CH11S_0059",
+    "original": "有希は……秘密兵器ってとこかしら",
+    "translation": "有希は……秘密兵器ってとこかしら",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 60,
+    "key": "evt_CH11S_0060",
+    "original": "では、彼は？",
+    "translation": "では、彼は？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 61,
+    "key": "evt_CH11S_0061",
+    "original": "キョンは下っ端、足軽\n兼雑用係",
+    "translation": "キョンは下っ端、足軽\n兼雑用係",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 62,
+    "key": "evt_CH11S_0062",
+    "original": "それはつまり限りなく低いという\nことでしょうか",
+    "translation": "それはつまり限りなく低いという\nことでしょうか",
+    "speaker": "古泉"
+  },
+  {
+    "index": 63,
+    "key": "evt_CH11S_0063",
+    "original": "ま、そういうことね",
+    "translation": "ま、そういうことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 64,
+    "key": "evt_CH11S_0064",
+    "original": "でも、これはある意味キョンのため\nなのよ",
+    "translation": "でも、これはある意味キョンのため\nなのよ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 65,
+    "key": "evt_CH11S_0065",
+    "original": "常日頃からやる気と真剣さに欠ける\nアイツを教育してあげてるんだから",
+    "translation": "常日頃からやる気と真剣さに欠ける\nアイツを教育してあげてるんだから",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 66,
+    "key": "evt_CH11S_0066",
+    "original": "なるほど、そこまでお考えでしたか\nさすがは涼宮さんです",
+    "translation": "なるほど、そこまでお考えでしたか\nさすがは涼宮さんです",
+    "speaker": "古泉"
+  },
+  {
+    "index": 67,
+    "key": "evt_CH11S_0067",
+    "original": "そういうことね",
+    "translation": "そういうことね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 68,
+    "key": "evt_CH11S_0068",
+    "original": "あー、なんだかキョンに教育的な\n雑用でも指示したい気分だわ",
+    "translation": "あー、なんだかキョンに教育的な\n雑用でも指示したい気分だわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 69,
+    "key": "evt_CH11S_0069",
+    "original": "ねえ、古泉くんだったら、何がいい\nと思う？",
+    "translation": "ねえ、古泉くんだったら、何がいい\nと思う？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 70,
+    "key": "evt_CH11S_0070",
+    "original": "流石に僕としては、意見は控えさせ\nていただきたく思いますが……",
+    "translation": "流石に僕としては、意見は控えさせ\nていただきたく思いますが……",
+    "speaker": "古泉"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA34S_0000",
+    "original": "あっ！",
+    "translation": "あっ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA34S_0001",
+    "original": "ど、どうした？",
+    "translation": "ど、どうした？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA34S_0002",
+    "original": "いま、そこをあたしそっくりな\nやつが通ったのよ！",
+    "translation": "いま、そこをあたしそっくりな\nやつが通ったのよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA34S_0003",
+    "original": "なんだと……！？",
+    "translation": "なんだと……！？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA34S_0004",
+    "original": "それはまさか、ハルヒのコピーじゃ\nないのか？",
+    "translation": "それはまさか、ハルヒのコピーじゃ\nないのか？",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA34S_0005",
+    "original": "追いかけるわよ！",
+    "translation": "追いかけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA34S_0006",
+    "original": "そりゃ、お前の姿が映り込んだだけ\nじゃないのか？",
+    "translation": "そりゃ、お前の姿が映り込んだだけ\nじゃないのか？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA34S_0007",
+    "original": "そんなことないわよ、確かに見た\nんだもの",
+    "translation": "そんなことないわよ、確かに見た\nんだもの",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA34S_0008",
+    "original": "いいや、よく見ろ",
+    "translation": "いいや、よく見ろ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA34S_0009",
+    "original": "外が暗いせいで、窓が鏡みたいに\nなったんだよ",
+    "translation": "外が暗いせいで、窓が鏡みたいに\nなったんだよ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA34S_0010",
+    "original": "む……",
+    "translation": "む……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA34S_0011",
+    "original": "よくあるトリックだろう",
+    "translation": "よくあるトリックだろう",
+    "speaker": "キョン"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA34S_0012",
+    "original": "何言ってんのキョン",
+    "translation": "何言ってんのキョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 13,
+    "key": "evt_MA34S_0013",
+    "original": "そんなことぐらい、このあたしが\n気付かないとでも思ってるの？",
+    "translation": "そんなことぐらい、このあたしが\n気付かないとでも思ってるの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA34S_0014",
+    "original": "なんとか誤魔化せたな……",
+    "translation": "なんとか誤魔化せたな……",
+    "speaker": "モノロ"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA34S_0015",
+    "original": "今、そこにあたしそっくりな\n人影が……！",
+    "translation": "今、そこにあたしそっくりな\n人影が……！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA34S_0016",
+    "original": "ええっ！？",
+    "translation": "ええっ！？",
+    "speaker": "みくる"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA34S_0017",
+    "original": "追いかけるわよ！",
+    "translation": "追いかけるわよ！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA34S_0018",
+    "original": "そ、それって！",
+    "translation": "そ、それって！",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA34S_0019",
+    "original": "急に大きな声だして、どうしたの？",
+    "translation": "急に大きな声だして、どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA34S_0020",
+    "original": "ま、窓ガラスに涼宮さんの姿が\n映っただけじゃないでしょうか",
+    "translation": "ま、窓ガラスに涼宮さんの姿が\n映っただけじゃないでしょうか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA34S_0021",
+    "original": "窓ガラスに……？",
+    "translation": "窓ガラスに……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA34S_0022",
+    "original": "ほ、ほら、外暗いですし",
+    "translation": "ほ、ほら、外暗いですし",
+    "speaker": "みくる"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA34S_0023",
+    "original": "見間違えってこともあるかと",
+    "translation": "見間違えってこともあるかと",
+    "speaker": "みくる"
+  },
+  {
+    "index": 24,
+    "key": "evt_MA34S_0024",
+    "original": "んー……言われてみればそうかも\n知れないわね",
+    "translation": "んー……言われてみればそうかも\n知れないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA34S_0025",
+    "original": "[#P06]ほっ……",
+    "translation": "[#P06]ほっ……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA34S_0026",
+    "original": "今、そこをあたしそっくりな人影が\n通らなかった？",
+    "translation": "今、そこをあたしそっくりな人影が\n通らなかった？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA34S_0027",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA34S_0028",
+    "original": "……まあ、いいわ。とにかく追いか\nけてみましょ",
+    "translation": "……まあ、いいわ。とにかく追いか\nけてみましょ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA34S_0029",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA34S_0030",
+    "original": "なによ、有希？",
+    "translation": "なによ、有希？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA34S_0031",
+    "original": "それは鏡像……あれを",
+    "translation": "それは鏡像……あれを",
+    "speaker": "長門"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA34S_0032",
+    "original": "外が真っ暗だから、窓ガラスに\n廊下の光景が映り込んでるのね",
+    "translation": "外が真っ暗だから、窓ガラスに\n廊下の光景が映り込んでるのね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA34S_0033",
+    "original": "つまり気のせい",
+    "translation": "つまり気のせい",
+    "speaker": "長門"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA34S_0034",
+    "original": "まあ、有希が言うならそうかもね",
+    "translation": "まあ、有希が言うならそうかもね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA34S_0035",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 36,
+    "key": "evt_MA34S_0036",
+    "original": "見た！？　古泉くんっ",
+    "translation": "見た！？　古泉くんっ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA34S_0037",
+    "original": "見た、と言いますと？",
+    "translation": "見た、と言いますと？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA34S_0038",
+    "original": "そこにあたしそっくりな人が\n立ってたの！",
+    "translation": "そこにあたしそっくりな人が\n立ってたの！",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA34S_0039",
+    "original": "それは……",
+    "translation": "それは……",
+    "speaker": "古泉"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA34S_0040",
+    "original": "おそらく窓ガラスに映り込んだ\n鏡像ではないかと",
+    "translation": "おそらく窓ガラスに映り込んだ\n鏡像ではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA34S_0041",
+    "original": "鏡像……？",
+    "translation": "鏡像……？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA34S_0042",
+    "original": "ガラスを隔てた内と外で明るさが\n極端に違う場合",
+    "translation": "ガラスを隔てた内と外で明るさが\n極端に違う場合",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA34S_0043",
+    "original": "鏡のような効果を及ぼすのはご存じ\nかと思います",
+    "translation": "鏡のような効果を及ぼすのはご存じ\nかと思います",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA34S_0044",
+    "original": "おそらくそのせいではないかと",
+    "translation": "おそらくそのせいではないかと",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA34S_0045",
+    "original": "んー……古泉君がそう言うなら\nそうかもしれないわね",
+    "translation": "んー……古泉君がそう言うなら\nそうかもしれないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 46,
+    "key": "evt_MA34S_0046",
+    "original": "ご理解いただけて光栄です",
+    "translation": "ご理解いただけて光栄です",
+    "speaker": "古泉"
+  }
+]

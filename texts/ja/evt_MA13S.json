@@ -1,0 +1,327 @@
+[
+  {
+    "index": 0,
+    "key": "evt_MA13S_0000",
+    "original": "だいぶ時間をくっちゃったわね",
+    "translation": "だいぶ時間をくっちゃったわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 1,
+    "key": "evt_MA13S_0001",
+    "original": "早く戻らないと、宇宙船が着陸する\nとこを見逃しちゃうわ",
+    "translation": "早く戻らないと、宇宙船が着陸する\nとこを見逃しちゃうわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 2,
+    "key": "evt_MA13S_0002",
+    "original": "幽霊に怪奇現象の次は宇宙人か……",
+    "translation": "幽霊に怪奇現象の次は宇宙人か……",
+    "speaker": "キョン"
+  },
+  {
+    "index": 3,
+    "key": "evt_MA13S_0003",
+    "original": "ほら、急ぐわよ、キョン",
+    "translation": "ほら、急ぐわよ、キョン",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 4,
+    "key": "evt_MA13S_0004",
+    "original": "それより、さっき見たんだが\n今日はいい満月だったぞ",
+    "translation": "それより、さっき見たんだが\n今日はいい満月だったぞ",
+    "speaker": "キョン"
+  },
+  {
+    "index": 5,
+    "key": "evt_MA13S_0005",
+    "original": "しかも、いつもより色が濃いって\nいうか……むしろ赤かったな",
+    "translation": "しかも、いつもより色が濃いって\nいうか……むしろ赤かったな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 6,
+    "key": "evt_MA13S_0006",
+    "original": "へぇ、それは何かあるかも",
+    "translation": "へぇ、それは何かあるかも",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 7,
+    "key": "evt_MA13S_0007",
+    "original": "そこから覗いてみたらどうだ？",
+    "translation": "そこから覗いてみたらどうだ？",
+    "speaker": "キョン"
+  },
+  {
+    "index": 8,
+    "key": "evt_MA13S_0008",
+    "original": "……なによ、確かに満月だけど\nぜんぜん赤くないじゃない",
+    "translation": "……なによ、確かに満月だけど\nぜんぜん赤くないじゃない",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 9,
+    "key": "evt_MA13S_0009",
+    "original": "そうか？　俺の見間違いかな",
+    "translation": "そうか？　俺の見間違いかな",
+    "speaker": "キョン"
+  },
+  {
+    "index": 10,
+    "key": "evt_MA13S_0010",
+    "original": "まったく、キョンはアテにならない\nわねえ",
+    "translation": "まったく、キョンはアテにならない\nわねえ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 11,
+    "key": "evt_MA13S_0011",
+    "original": "急ぎましょ、みくるちゃん",
+    "translation": "急ぎましょ、みくるちゃん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 12,
+    "key": "evt_MA13S_0012",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "evt_MA13S_0013",
+    "original": "あの、それよりも今日はキレイな\n満月でしたよ",
+    "translation": "あの、それよりも今日はキレイな\n満月でしたよ",
+    "speaker": "みくる"
+  },
+  {
+    "index": 14,
+    "key": "evt_MA13S_0014",
+    "original": "宇宙人もいいですけど、お月見も\nいいんじゃないかなって……",
+    "translation": "宇宙人もいいですけど、お月見も\nいいんじゃないかなって……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 15,
+    "key": "evt_MA13S_0015",
+    "original": "ほら、満月の日って何か起るって\n言うじゃないですか",
+    "translation": "ほら、満月の日って何か起るって\n言うじゃないですか",
+    "speaker": "みくる"
+  },
+  {
+    "index": 16,
+    "key": "evt_MA13S_0016",
+    "original": "まあ、そこまで言うならちょっと\n覗いてみましょうか",
+    "translation": "まあ、そこまで言うならちょっと\n覗いてみましょうか",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 17,
+    "key": "evt_MA13S_0017",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 18,
+    "key": "evt_MA13S_0018",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "みくる"
+  },
+  {
+    "index": 19,
+    "key": "evt_MA13S_0019",
+    "original": "確かに満月だけど、大して何も\n変わらないわね",
+    "translation": "確かに満月だけど、大して何も\n変わらないわね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 20,
+    "key": "evt_MA13S_0020",
+    "original": "あう……",
+    "translation": "あう……",
+    "speaker": "みくる"
+  },
+  {
+    "index": 21,
+    "key": "evt_MA13S_0021",
+    "original": "ま、多少は神秘的な気分になった\nような気もするけど",
+    "translation": "ま、多少は神秘的な気分になった\nような気もするけど",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 22,
+    "key": "evt_MA13S_0022",
+    "original": "急ぎましょ、有希",
+    "translation": "急ぎましょ、有希",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 23,
+    "key": "evt_MA13S_0023",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "evt_MA13S_0024",
+    "original": "待って",
+    "translation": "待って",
+    "speaker": "長門"
+  },
+  {
+    "index": 25,
+    "key": "evt_MA13S_0025",
+    "original": "どうしたの？　空なんか見上げて",
+    "translation": "どうしたの？　空なんか見上げて",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 26,
+    "key": "evt_MA13S_0026",
+    "original": "満月",
+    "translation": "満月",
+    "speaker": "長門"
+  },
+  {
+    "index": 27,
+    "key": "evt_MA13S_0027",
+    "original": "あ、ほんとね……",
+    "translation": "あ、ほんとね……",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 28,
+    "key": "evt_MA13S_0028",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 29,
+    "key": "evt_MA13S_0029",
+    "original": "って、それだけ？",
+    "translation": "って、それだけ？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 30,
+    "key": "evt_MA13S_0030",
+    "original": "そう",
+    "translation": "そう",
+    "speaker": "長門"
+  },
+  {
+    "index": 31,
+    "key": "evt_MA13S_0031",
+    "original": "確かに、有希らしいって気はする\nけど、タイミングを考えてよね",
+    "translation": "確かに、有希らしいって気はする\nけど、タイミングを考えてよね",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 32,
+    "key": "evt_MA13S_0032",
+    "original": "…………",
+    "translation": "…………",
+    "speaker": "長門"
+  },
+  {
+    "index": 33,
+    "key": "evt_MA13S_0033",
+    "original": "はぁ……なんか気合いが抜け\nちゃったわ",
+    "translation": "はぁ……なんか気合いが抜け\nちゃったわ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 34,
+    "key": "evt_MA13S_0034",
+    "original": "急ぎましょ、古泉くん",
+    "translation": "急ぎましょ、古泉くん",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 35,
+    "key": "evt_MA13S_0035",
+    "original": "",
+    "translation": "",
+    "speaker": "ハルヒ",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "evt_MA13S_0036",
+    "original": "少しよろしいですか？",
+    "translation": "少しよろしいですか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 37,
+    "key": "evt_MA13S_0037",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 38,
+    "key": "evt_MA13S_0038",
+    "original": "いえ、今日は満月でしたか？",
+    "translation": "いえ、今日は満月でしたか？",
+    "speaker": "古泉"
+  },
+  {
+    "index": 39,
+    "key": "evt_MA13S_0039",
+    "original": "それがどうしたの？",
+    "translation": "それがどうしたの？",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 40,
+    "key": "evt_MA13S_0040",
+    "original": "記憶が定かではないのですが月齢で\n今日は満月ではない気がしまして",
+    "translation": "記憶が定かではないのですが月齢で\n今日は満月ではない気がしまして",
+    "speaker": "古泉"
+  },
+  {
+    "index": 41,
+    "key": "evt_MA13S_0041",
+    "original": "そうなの？　でも、どこか欠けてる\n感じもしないし、確かにあれ満月よ",
+    "translation": "そうなの？　でも、どこか欠けてる\n感じもしないし、確かにあれ満月よ",
+    "speaker": "ハルヒ"
+  },
+  {
+    "index": 42,
+    "key": "evt_MA13S_0042",
+    "original": "では、僕の勘違いだったのでしょう",
+    "translation": "では、僕の勘違いだったのでしょう",
+    "speaker": "古泉"
+  },
+  {
+    "index": 43,
+    "key": "evt_MA13S_0043",
+    "original": "少し神経質になっていたのかも\nしれませんね",
+    "translation": "少し神経質になっていたのかも\nしれませんね",
+    "speaker": "古泉"
+  },
+  {
+    "index": 44,
+    "key": "evt_MA13S_0044",
+    "original": "満月と言えば、昔から不可思議な\n現象が起りやすいという話ですし",
+    "translation": "満月と言えば、昔から不可思議な\n現象が起りやすいという話ですし",
+    "speaker": "古泉"
+  },
+  {
+    "index": 45,
+    "key": "evt_MA13S_0045",
+    "original": "確かにそうね。狼男も満月に出て\nくるものね",
+    "translation": "確かにそうね。狼男も満月に出て\nくるものね",
+    "speaker": "ハルヒ"
+  }
+]
